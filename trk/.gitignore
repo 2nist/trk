@@ -79,6 +79,7 @@ config/private.*
 *.db
 *.sqlite
 *.sqlite3
+/database/
 
 # Node modules (if any)
 node_modules/
