@@ -4,7 +4,16 @@
 -- Based on REAPER v7.0+ and ReaImGui v0.9.3+ API Documentation
 -- Provides realistic mock implementations for testing REAPER scripts
 
+-- Exit early if real REAPER is present (compatibility check)
+if reaper and reaper.GetAppVersion then
+    print("ℹ️ Real REAPER detected, skipping virtual environment setup")
+    return
+end
+
 local EnhancedVirtualReaper = {}
+
+-- Forward declare LiveThemeManager for API integration
+local LiveThemeManager = {}
 
 -- Initialize the virtual environment
 function EnhancedVirtualReaper.init()
@@ -1032,8 +1041,6 @@ local mock_reaper = {
     print(string.format("📍 [ImGui] Next window position set: (%0.f,%0.f) (Cond: %s) in context %s", x, y, tostring(cond or "nil"), ctx.name))
   end,
 
-  -- ...existing code...
-  
   -- Docking (Simplified)
   ImGui_DockSpace = function(ctx, id_str, width, height, flags)
     log_api_call("ImGui_DockSpace", ctx, id_str, width, height, flags)
@@ -1343,13 +1350,22 @@ local mock_reaper = {
         [5] = 0x292929FF  -- FrameBg
       }
     end
-  end,
-  
-  ImGui_PushStyleColor = function(ctx, idx, col)
+  end,  ImGui_PushStyleColor = function(ctx, idx, col)
     log_api_call("ImGui_PushStyleColor", ctx, idx, col)
     if ctx then
+      -- Check if live theme has override for this color (if LiveThemeManager is available)
+      local theme_color = nil
+      if LiveThemeManager and LiveThemeManager.get_theme_color then
+        theme_color = LiveThemeManager.get_theme_color(idx)
+      end
+      local final_color = theme_color or col
+      
       table.insert(ctx.color_stack, {idx = idx, old_col = ctx.style_colors[idx]})
-      ctx.style_colors[idx] = col
+      ctx.style_colors[idx] = final_color
+      
+      if theme_color then
+        print("🎨 Applied theme color for " .. (idx or "unknown") .. ": " .. tostring(final_color))
+      end
     end
   end,
   
@@ -1557,6 +1573,181 @@ local mock_reaper = {
   ImGui_TabItemFlags_Leading = function() return 64 end,
   ImGui_TabItemFlags_Trailing = function() return 128 end
 }
+
+-- ==================== LIVE THEME INTEGRATION ====================
+
+local LiveThemeManager = {
+  current_theme = nil,
+  theme_inspector = nil,
+  live_preview = false,
+  auto_apply = true,
+  theme_stack = {},
+  modified_colors = {}
+}
+
+-- Initialize live theme manager
+function LiveThemeManager.init()
+  print("🎨 Live Theme Manager initialized")
+  
+  -- Try to load theme inspector
+  local success, theme_inspector = pcall(require, "tools.theme_inspector_enhanced")
+  if success then
+    LiveThemeManager.theme_inspector = theme_inspector
+    theme_inspector.init()
+    LiveThemeManager.current_theme = theme_inspector.get_current_theme()
+    print("✅ Theme inspector connected to live environment")
+  else
+    print("⚠️ Theme inspector not available, using default colors")
+    LiveThemeManager.current_theme = {}
+  end
+  
+  return true
+end
+
+-- Get theme color by ImGui color index
+function LiveThemeManager.get_theme_color(color_idx)
+  if not LiveThemeManager.live_preview or not LiveThemeManager.current_theme then
+    return nil
+  end
+  
+  -- Map ImGui color indices to theme color names
+  local color_map = {
+    [0] = "Text",
+    [1] = "TextDisabled", 
+    [2] = "WindowBg",
+    [3] = "ChildBg",
+    [4] = "PopupBg",
+    [5] = "Border",
+    [6] = "BorderShadow",
+    [7] = "FrameBg",
+    [8] = "FrameBgHovered",
+    [9] = "FrameBgActive",
+    [10] = "TitleBg",
+    [11] = "TitleBgActive",
+    [12] = "TitleBgCollapsed",
+    [13] = "MenuBarBg",
+    [14] = "ScrollbarBg",
+    [15] = "ScrollbarGrab",
+    [16] = "ScrollbarGrabHovered", 
+    [17] = "ScrollbarGrabActive",
+    [18] = "CheckMark",
+    [19] = "SliderGrab",
+    [20] = "SliderGrabActive",
+    [21] = "Button",
+    [22] = "ButtonHovered",
+    [23] = "ButtonActive",
+    [24] = "Header",
+    [25] = "HeaderHovered",
+    [26] = "HeaderActive",
+    [27] = "Separator",
+    [28] = "SeparatorHovered",
+    [29] = "SeparatorActive",
+    [43] = "Tab",
+    [44] = "TabHovered", 
+    [45] = "TabActive",
+    [46] = "TabUnfocused",
+    [47] = "TabUnfocusedActive"
+  }
+  
+  local color_name = color_map[color_idx]
+  if color_name and LiveThemeManager.current_theme[color_name] then
+    return LiveThemeManager.current_theme[color_name]
+  end
+  
+  return nil
+end
+
+-- Apply theme to ImGui context
+function LiveThemeManager.apply_theme_to_context(ctx)
+  if not ctx or not LiveThemeManager.current_theme then
+    return false
+  end
+  
+  print("🎨 Applying theme to ImGui context...")
+  local applied_count = 0
+  
+  for color_name, color_values in pairs(LiveThemeManager.current_theme) do
+    if type(color_values) == "table" and #color_values >= 4 then
+      -- In real ImGui, this would be: ImGui.PushStyleColor(ctx, ImGui.Col_[color_name], color_values)
+      -- For virtual environment, we'll track the changes
+      LiveThemeManager.modified_colors[color_name] = color_values
+      applied_count = applied_count + 1
+    end
+  end
+  
+  print("   Applied " .. applied_count .. " color overrides")
+  return true
+end
+
+-- Live theme update callback
+function LiveThemeManager.on_theme_changed(color_name, new_color)
+  if not LiveThemeManager.live_preview then
+    return
+  end
+  
+  print("🔄 Live theme update: " .. color_name)
+  
+  if LiveThemeManager.current_theme then
+    LiveThemeManager.current_theme[color_name] = new_color
+  end
+  
+  -- In real environment, this would immediately update all ImGui contexts
+  -- For virtual environment, we'll simulate the update
+  LiveThemeManager.modified_colors[color_name] = new_color
+  
+  if LiveThemeManager.auto_apply then
+    LiveThemeManager.refresh_all_contexts()
+  end
+end
+
+-- Refresh all ImGui contexts with current theme
+function LiveThemeManager.refresh_all_contexts()
+  print("🔄 Refreshing all ImGui contexts with current theme")
+  
+  -- In real environment, this would iterate through all active contexts
+  for ctx_id, ctx in pairs(VirtualState.contexts) do
+    LiveThemeManager.apply_theme_to_context(ctx)
+  end
+  
+  return true
+end
+
+-- Enable/disable live preview
+function LiveThemeManager.set_live_preview(enabled)
+  LiveThemeManager.live_preview = enabled
+  print("🎨 Live preview " .. (enabled and "enabled" or "disabled"))
+  
+  if enabled and LiveThemeManager.current_theme then
+    LiveThemeManager.refresh_all_contexts()
+  end
+  
+  return enabled
+end
+
+-- Get current theme data for inspection
+function LiveThemeManager.get_current_theme_data()
+  return {
+    theme = LiveThemeManager.current_theme,
+    modified = LiveThemeManager.modified_colors,
+    live_preview = LiveThemeManager.live_preview,
+    auto_apply = LiveThemeManager.auto_apply
+  }
+end
+
+-- Reset theme to defaults
+function LiveThemeManager.reset_to_default()
+  print("🔄 Resetting theme to defaults")
+  
+  if LiveThemeManager.theme_inspector then
+    LiveThemeManager.theme_inspector.reset_theme()
+    LiveThemeManager.current_theme = LiveThemeManager.theme_inspector.get_current_theme()
+  end
+  
+  LiveThemeManager.modified_colors = {}
+  LiveThemeManager.refresh_all_contexts()
+  
+  return true
+end
 
 -- ==================== VIRTUAL TESTING FRAMEWORK ====================
 

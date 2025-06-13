@@ -1,6 +1,6 @@
--- dev_control_center.lua
--- EnviREAment Development Control Center
--- Central panel for all EnviREAment development and testing tools
+-- dev_panel.lua
+-- EnviREAment Development Control Center Panel
+-- Central UI panel for all EnviREAment development and testing tools
 
 -- Check for virtual environment setup
 if not _G.reaper or not _G.reaper.ImGui_CreateContext then
@@ -565,7 +565,9 @@ end
 -- Main UI function
 local function render_main_ui()
     -- Apply theme
-    theme_helper.apply_theme(ctx)
+    if theme_helper then
+        theme_helper.apply_theme(ctx)
+    end
     
     -- Main window
     local window_flags = reaper.ImGui_WindowFlags_NoCollapse()
@@ -605,7 +607,9 @@ local function render_main_ui()
     end
     
     -- Clear theme
-    theme_helper.clear_styles(ctx)
+    if theme_helper then
+        theme_helper.clear_styles(ctx)
+    end
 end
 
 -- Initialize function
@@ -615,7 +619,7 @@ local function init()
     -- Init fonts
     -- Ensure ctx is defined and passed as the first argument to ImGui_CreateFont
     if not ctx then
-        reaper.ShowConsoleMsg("Error: ctx is nil in dev_control_center.lua init()\n")
+        reaper.ShowConsoleMsg("Error: ctx is nil in dev_panel.lua init()\n")
         return
     end
     font_normal = reaper.ImGui_CreateFont(ctx, 'sans-serif', 14)
