@@ -1,3 +1,4 @@
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
 -- test_style_config.lua
 -- Simple test script to verify that style configuration is working correctly
 

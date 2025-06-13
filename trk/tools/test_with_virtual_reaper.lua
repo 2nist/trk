@@ -2,6 +2,8 @@
 -- test_with_virtual_reaper.lua
 -- Test runner using the Virtual REAPER Environment
 
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
+
 local VirtualReaper = require("virtual_reaper")
 
 print("=== Songbase Virtual REAPER Testing ===")

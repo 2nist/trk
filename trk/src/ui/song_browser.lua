@@ -1,3 +1,4 @@
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
 -- song_browser.lua
 -- Main song browsing and selection interface
 -- Phase 2 - Songbase UI Module

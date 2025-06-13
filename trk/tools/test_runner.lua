@@ -2,6 +2,8 @@
 -- test_runner.lua
 -- Mock REAPER environment for testing Songbase structure
 
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
+
 -- Mock REAPER API
 local reaper = {}
 

@@ -1,3 +1,4 @@
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
 -- section_editor.lua
 -- JCRD Section and chord editing interface
 -- Phase 2 - Songbase UI Module

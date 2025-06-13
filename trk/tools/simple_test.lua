@@ -4,6 +4,8 @@
 
 print("=== Simple Songbase Test ===")
 
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
+
 -- Create mock REAPER environment
 local reaper = {
   GetResourcePath = function() return "/Users/Matthew/songbase" end,

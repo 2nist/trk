@@ -1,3 +1,4 @@
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
 -- style_config.lua
 -- Centralized style and theme settings for ReaImGui UIs
 

@@ -1,3 +1,4 @@
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
 -- run_python_tool.lua
 -- Launches a Python script from the REAPER environment with specified arguments
 

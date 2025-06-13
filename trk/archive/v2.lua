@@ -1,0 +1,9 @@
+-- DEPRECATED: This file contained non-Lua code and is archived for reference only.
+-- See tools/v2.lua for the original content if needed.
+--
+-- [2025-06-13] Archived as part of repository cleanup and migration.
+-- This file is not functional in the current Lua/REAPER environment.
+-- For details, see /archive/ARCHIVE.md and /envireament/MIGRATION_LOG.md.
+--
+-- Redistribution: All active or relevant code has been moved to appropriate domain directories.
+-- This file is retained for historical reference only.

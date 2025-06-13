@@ -75,3 +75,10 @@ This document records all migration activities performed to modernize, clean, an
 - The Development Control Center provides a central UI for accessing all EnviREAment functionality
 - Future UI components should be added to the widgets directory
 - Any new panels should follow the established pattern and use the proper requires
+
+## 2025-06-13
+- Created `archive/ARCHIVE.md` to document all deprecated, legacy, and non-Lua scripts in `/archive/` and subfolders, with reasons for deprecation and retention policy.
+- Added `SOP_LUA_SCRIPT_MAINTENANCE.md` to `/envireament/` with procedures for testing, patching, static analysis, migration, and documentation.
+- Updated `/envireament/README.md` to reflect new directory structure and reference `ARCHIVE.md` and SOP.
+- Confirmed all files in `/archive/` are properly marked as deprecated, legacy, or non-functional for the current Lua/REAPER environment.
+- All migration actions logged here and in `ARCHIVE.md` for traceability.

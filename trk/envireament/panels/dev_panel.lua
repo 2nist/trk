@@ -617,13 +617,9 @@ local function init()
     ctx = reaper.ImGui_CreateContext('EnviREAment Dev Control Center') -- Removed width and height arguments
     
     -- Init fonts
-    -- Ensure ctx is defined and passed as the first argument to ImGui_CreateFont
-    if not ctx then
-        reaper.ShowConsoleMsg("Error: ctx is nil in dev_panel.lua init()\n")
-        return
-    end
-    font_normal = reaper.ImGui_CreateFont(ctx, 'sans-serif', 14)
-    font_large  = reaper.ImGui_CreateFont(ctx, 'sans-serif', 20)
+    -- ImGui_CreateFont expects (font_name, size), not (ctx, font_name, size)
+    font_normal = reaper.ImGui_CreateFont('sans-serif', 14)
+    font_large  = reaper.ImGui_CreateFont('sans-serif', 20)
     reaper.ImGui_AttachFont(ctx, font_normal)
     reaper.ImGui_AttachFont(ctx, font_large)
     
@@ -680,10 +676,12 @@ local function loop()
     
     render_main_ui()
     
-    if is_open then
+    -- Only call reaper.defer(loop) if not running under frame-limited launcher
+    -- The global _G.__FRAME_LIMITED_LAUNCH__ is set by launch_dev_panel.lua
+    if is_open and not _G.__FRAME_LIMITED_LAUNCH__ then
         reaper.defer(loop)
-    else
-        reaper.ImGui_DestroyContext(ctx)
+    elseif not is_open then
+        reaper.ImGui_DestroyContext() -- No argument
     end
 end
 

@@ -613,13 +613,13 @@ local function init()
     ctx = reaper.ImGui_CreateContext('EnviREAment Dev Control Center') -- Removed width and height arguments
     
     -- Init fonts
-    -- Ensure ctx is defined and passed as the first argument to ImGui_CreateFont
+    -- ImGui_CreateFont expects (font_name, size), not (ctx, font_name, size)
     if not ctx then
         reaper.ShowConsoleMsg("Error: ctx is nil in dev_control_center.lua init()\n")
         return
     end
-    font_normal = reaper.ImGui_CreateFont(ctx, 'sans-serif', 14)
-    font_large  = reaper.ImGui_CreateFont(ctx, 'sans-serif', 20)
+    font_normal = reaper.ImGui_CreateFont('sans-serif', 14)
+    font_large  = reaper.ImGui_CreateFont('sans-serif', 20)
     reaper.ImGui_AttachFont(ctx, font_normal)
     reaper.ImGui_AttachFont(ctx, font_large)
     

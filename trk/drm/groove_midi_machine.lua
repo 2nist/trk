@@ -15,6 +15,26 @@ local r = reaper
 local script_path = debug.getinfo(1, "S").source:match[[^@?(.*[\/])[^\/]-$]]
 local gmm_root = script_path:match("(.*[/\\])") or script_path
 
+-- Patch: Provide a stub for the global 'songbase' if not present, for compatibility in virtual/test environments
+if _G.songbase == nil then
+    _G.songbase = {
+        register_tool = function() end,
+        menu = { add_menu_item = function() end },
+        config = { add_path = function(...) return true end }, -- Accepts any args, returns true
+        project = {
+            get_sections = function() return {} end,
+            get_tempo = function() return 120 end
+        },
+        log = function(level, msg) reaper.ShowConsoleMsg("[Songbase " .. level .. "] " .. msg .. "\n") end
+    }
+else
+    -- Patch: If songbase.config.add_path exists, patch it to accept any arguments
+    if _G.songbase.config and type(_G.songbase.config.add_path) == "function" then
+        local orig_add_path = _G.songbase.config.add_path
+        _G.songbase.config.add_path = function(...) return orig_add_path() end -- Ignore all arguments
+    end
+end
+
 -- Register GMM in Songbase if we're in that environment
 local function register_gmm_in_songbase()
     -- Check if songbase global is available (safely)

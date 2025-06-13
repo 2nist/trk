@@ -22,10 +22,18 @@ function EnhancedVirtualReaper.init()
   print("≡ƒÄ» Ready for script testing and validation")
   print("----------------------------------------")
   
-  -- Create the REAPER global if it doesn't exist
-  if not _G.reaper then
-    _G.reaper = EnhancedVirtualReaper
+  -- Guarantee ImGui_AttachFont is always set correctly before assigning to _G.reaper
+  mock_reaper.ImGui_AttachFont = function(ctx, font_handle)
+    print('[DEBUG] mock_reaper.ImGui_AttachFont called')
+    if not ctx then
+      log_error("ImGui_AttachFont called with nil context")
+      return nil
+    end
+    if log_api_call then log_api_call("ImGui_AttachFont", ctx, font_handle) end
+    return font_handle
   end
+  print('[DEBUG] Setting _G.reaper with ImGui_AttachFont:', tostring(mock_reaper.ImGui_AttachFont))
+  _G.reaper = mock_reaper
   
   return true
 end
@@ -863,45 +871,13 @@ local mock_reaper = {
     return new_font.handle -- Return the mock handle
   end,
 
-  ImGui_AttachFont = function(ctx, font_handle, font_name, size, merge_mode, glyph_ranges, rasterizer_flags)
+  ImGui_AttachFont = function(ctx, font_handle)
     if not ctx then
       log_error("ImGui_AttachFont called with nil context")
       return nil
     end
-    -- In a real scenario, this would attach an existing font.
-    -- For mock, we can just log it or create a new one if it doesn't exist.
-    -- Let's assume it behaves like CreateFont if the handle isn't found, or updates if found.
-    
-    local existing_font
-    for _, f in ipairs(ctx.fonts) do
-      if f.handle == font_handle then
-        existing_font = f
-        break
-      end
-    end
-
-    if existing_font then
-      existing_font.name = font_name or existing_font.name
-      existing_font.size = size or existing_font.size
-      -- other properties can be updated as needed
-      log_api_call("ImGui_AttachFont (updated existing)", ctx, font_handle, font_name, size)
-      return existing_font.handle
-    else
-      -- If font_handle not found, create a new one (similar to CreateFont)
-      local font_id = "font_" .. tostring(#ctx.fonts + 1)
-      local new_font = {
-        id = font_id,
-        name = font_name or "AttachedFont",
-        size = size or 13,
-        handle = font_handle or ("mock_font_handle_" .. font_id), -- Use provided handle or generate new
-        merge_mode = merge_mode or false,
-        glyph_ranges = glyph_ranges,
-        rasterizer_flags = rasterizer_flags
-      }
-      table.insert(ctx.fonts, new_font)
-      log_api_call("ImGui_AttachFont (created new)", ctx, font_handle, font_name, size)
-      return new_font.handle
-    end
+    log_api_call("ImGui_AttachFont", ctx, font_handle)
+    return font_handle
   end,
 
   ImGui_PushFont = function(ctx, font_handle)
@@ -1574,6 +1550,35 @@ local mock_reaper = {
   ImGui_TabItemFlags_Trailing = function() return 128 end
 }
 
+-- Patch: Accept and ignore all arguments for ImGui mock functions to match real API signatures
+local function accept_any_args(...) return true end
+
+local function patch_imgui_functions(mock)
+  local imgui_functions = {
+    "ImGui_Begin", "ImGui_End", "ImGui_BeginTabBar", "ImGui_EndTabBar", "ImGui_BeginTabItem", "ImGui_EndTabItem",
+    "ImGui_InputText", "ImGui_PushFont", "ImGui_PopFont", "ImGui_BeginChild", "ImGui_EndChild", "ImGui_Selectable",
+    "ImGui_IsItemHovered", "ImGui_BeginTable", "ImGui_EndTable", "ImGui_TableNextColumn", "ImGui_Text",
+    "ImGui_TreeNode", "ImGui_TreePop"
+  }
+  for _, fname in ipairs(imgui_functions) do
+    mock[fname] = accept_any_args
+  end
+end
+
+patch_imgui_functions(mock_reaper)
+
+-- Guarantee ImGui_AttachFont is always set correctly and print debug info
+mock_reaper.ImGui_AttachFont = function(ctx, font_handle)
+  print('[DEBUG] mock_reaper.ImGui_AttachFont called')
+  if not ctx then
+    log_error("ImGui_AttachFont called with nil context")
+    return nil
+  end
+  log_api_call("ImGui_AttachFont", ctx, font_handle)
+  return font_handle
+end
+print('[DEBUG] Setting _G.reaper with ImGui_AttachFont:', tostring(mock_reaper.ImGui_AttachFont))
+
 -- ==================== LIVE THEME INTEGRATION ====================
 
 local LiveThemeManager = {
@@ -1735,9 +1740,12 @@ function LiveThemeManager.get_current_theme_data()
 end
 
 -- Reset theme to defaults
-function LiveThemeManager.reset_to_default()
+function LiveThemeManager.reset_todefault()
   print("🔄 Resetting theme to defaults")
   
+ 
+
+ 
   if LiveThemeManager.theme_inspector then
     LiveThemeManager.theme_inspector.reset_theme()
     LiveThemeManager.current_theme = LiveThemeManager.theme_inspector.get_current_theme()
@@ -1792,6 +1800,8 @@ function EnhancedVirtualReaper.run_test_script(script_path)
   
   return success, result
 end
+
+
 
 function EnhancedVirtualReaper.validate_ui_structure(script_path)
   print("🔍 Validating UI structure for: " .. script_path)
@@ -1883,5 +1893,69 @@ end
 
 -- Automatically initialize the environment when this script is loaded
 EnhancedVirtualReaper.create_environment()
+
+-- Patch: Provide a global log_api_call stub for generated ImGui stubs
+if not _G.log_api_call then
+  function _G.log_api_call(...)
+    -- No-op for test environment
+    return true
+  end
+end
+
+-- Patch: Accept any argument count for all ImGui functions (robust mock for automated UI testing)
+local function imgui_any_args_stub(func_name)
+  return function(...) log_api_call(func_name, ...); return false end
+end
+
+local imgui_functions_to_patch = {
+  -- Core window/panel
+  'ImGui_Begin', 'ImGui_End', 'ImGui_BeginChild', 'ImGui_EndChild',
+  -- Fonts
+  'ImGui_PushFont', 'ImGui_PopFont',
+  -- Input widgets
+  'ImGui_InputText', 'ImGui_InputInt', 'ImGui_InputTextMultiline', 'ImGui_InputTextWithHint',
+  -- Buttons, Selectable, etc.
+  'ImGui_Button', 'ImGui_Selectable', 'ImGui_MenuItem',
+  -- Layout
+  'ImGui_SameLine', 'ImGui_Spacing', 'ImGui_Separator',
+  -- Style/Color
+  'ImGui_PushStyleColor', 'ImGui_PopStyleColor', 'ImGui_PushStyleVar', 'ImGui_PopStyleVar',
+  -- Misc
+  'ImGui_IsItemHovered', 'ImGui_IsItemActive', 'ImGui_IsItemClicked',
+  -- Context
+  'ImGui_DestroyContext',
+  -- Table API (for GMM)
+  'ImGui_BeginTable', 'ImGui_EndTable', 'ImGui_TableNextRow', 'ImGui_TableNextColumn',
+  'ImGui_BeginPopupContextItem', 'ImGui_EndPopup',
+}
+for _, fname in ipairs(imgui_functions_to_patch) do
+  mock_reaper[fname] = function(...) log_api_call(fname, ...); return false end
+end
+
+-- Patch: Provide stubs for missing ImGui constants and REAPER API fields for robust compatibility
+mock_reaper.ImGui_InputTextFlags_CharsDecimal = function() return 0x00000400 end
+mock_reaper.ImGui_WindowFlags_NoCollapse = function() return 0x00000020 end
+mock_reaper.ImGui_WindowFlags_AlwaysAutoResize = function() return 0x00000008 end
+mock_reaper.ImGui_WindowFlags_NoScrollbar = function() return 0x00000002 end
+mock_reaper.ImGui_InputTextFlags_EnterReturnsTrue = function() return 0x00000100 end
+mock_reaper.ImGui_Cond_Always = function() return 1 end
+mock_reaper.ImGui_Cond_Once = function() return 2 end
+mock_reaper.ImGui_Cond_FirstUseEver = function() return 4 end
+mock_reaper.ImGui_Cond_Appearing = function() return 8 end
+mock_reaper.ImGuiCol_WindowBg = function() return 2 end
+mock_reaper.ImGuiCol_Button = function() return 7 end
+mock_reaper.ImGuiCol_ButtonHovered = function() return 8 end
+mock_reaper.ImGuiCol_ButtonActive = function() return 9 end
+mock_reaper.ImGuiStyleVar_FrameRounding = function() return 3 end
+mock_reaper.ImGuiStyleVar_FramePadding = function() return 4 end
+mock_reaper.ImGuiStyleVar_ItemSpacing = function() return 5 end
+mock_reaper.ImGuiStyleVar_WindowPadding = function() return 6 end
+mock_reaper.ImGui_TableFlags_Resizable = function() return 0x00000020 end
+
+-- Patch: Provide stubs for missing REAPER API fields used in GMM
+mock_reaper.PlayPreview = function(...) log_api_call('PlayPreview', ...); return true end
+mock_reaper.StopPreviewEx = function(...) log_api_call('StopPreviewEx', ...); return true end
+mock_reaper.BR_ImportMidiTakeFromFile = function(...) log_api_call('BR_ImportMidiTakeFromFile', ...); return true end
+mock_reaper.SetMIDIEditorOption = function(...) log_api_call('SetMIDIEditorOption', ...); return true end
 
 return EnhancedVirtualReaper

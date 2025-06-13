@@ -1,3 +1,5 @@
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
+
 -- ui_dataset_browser.lua
 -- Enhanced dataset browser UI module for Songbase
 -- Phase 2

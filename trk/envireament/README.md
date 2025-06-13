@@ -1,32 +1,28 @@
 # EnviREAment - Virtual REAPER/ImGui Testing Environment
 
-A lightweight, portable testing environment for REAPER and ReaImGui Lua scripts, enabling you to develop and test your scripts without launching REAPER.
+ lightweight, portable testing environment for REAPER and ReaImGui Lua scripts, enabling you to develop and test your scripts without launching REAPER.
+A
+## Directory Structure (2025-06-13)
 
-## Directory Structure
-
-The EnviREAment environment is organized into the following structure:
+The EnviREAment environment is organized as follows:
 
 ```
 /envireament/
 ├── panels/                 # UI panels for various modules
-│   ├── dev_control_center.lua         # Main development control center
-│   ├── ui_dataset_browser_v2.lua      # Current dataset browser implementation
-│   └── ...
 ├── widgets/                # Reusable UI components
-│   ├── widgets.lua                    # Basic UI widget library
-│   ├── theme_helper.lua               # Theme and styling utilities
-│   └── ...
-├── tools/                  # Test and development utilities
-│   ├── enhanced_virtual_reaper.lua    # Virtual REAPER environment
-│   ├── enhanced_test_runner.lua       # Test execution framework
-│   └── ...
-├── archive/                # Legacy or deprecated code (for reference)
-├── config/                 # Configuration files for EnviREAment
-├── examples/               # Example scripts demonstrating usage
-├── pkg/                    # Package management files
-├── README.md               # This documentation file
-└── Lokasenna_Radial_Menu_Integrated.lua  # Integrated radial menu component
+├── tools/                  # Test and development utilities (including mocks)
+├── archive/                # Legacy or deprecated code (see ARCHIVE.md)
+├── config/                 # Configuration files
+├── examples/               # Example scripts
+├── logs/                   # Test and migration logs
+├── MIGRATION_LOG.md        # Migration actions and rationale
+├── SOP_LUA_SCRIPT_MAINTENANCE.md # Standard operating procedure for Lua scripts
+└── README.md               # This documentation file
 ```
+
+- See `ARCHIVE.md` for details on deprecated/legacy scripts.
+- See `MIGRATION_LOG.md` for migration history.
+- See `SOP_LUA_SCRIPT_MAINTENANCE.md` for maintenance procedures.
 
 ## Overview
 

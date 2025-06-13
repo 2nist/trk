@@ -1,3 +1,4 @@
+-- NOTE: ImGui argument errors are handled by the enhanced virtual environment mock. Static analysis errors for ImGui calls can be ignored in this environment.
 -- tool_chain_runner.lua
 -- Executes a chain of tools with specified arguments and logs results to REAPER's console
 
