@@ -1,0 +1,159 @@
+# Python virtual environment
+myenv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Compiled Lua files
+*.luac
+
+# REAPER specific
+reaper_*.log
+*.rpp-bak
+*.rpp~
+*.RPP-bak
+*.RPP~
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*~
+.#*
+#*#
+*.temp
+temp/
+logs/
+
+# Test outputs and temporary validation files
+*_tmp_for_validation.lua
+dump_tmp_demo_lines*.lua
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Package files
+*.zip
+*.tar.gz
+*.rar
+
+# Configuration files with sensitive data
+config/secrets.*
+config/private.*
+*.key
+*.pem
+.env
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Node modules (if any)
+node_modules/
+
+# OS specific
+[Tt]humbs.db
+[Dd]esktop.ini
+$RECYCLE_BIN/
+.AppleDouble
+.LSOverride
+
+# Local configuration and state files
+state.json
+data/songbase_ui_state.json
+data/recent_files.json
+
+# Large dataset files (keep structure but ignore data)
+datasets/*/data/
+datasets/*/*.mid
+datasets/*/*.midi
+datasets/*/*.wav
+datasets/*/*.mp3
+datasets/*/*.json
+!datasets/*/README.md
+!datasets/*/metadata.json
+
+# Ignore all jcrddatasets (each machine will have its own)
+jcrddatasets/
+
+# If you want to keep structure but ignore data in other dataset folders, add similar rules here
+# Ignore all dataset files and subfolders
+datasets/*
+!datasets/.gitkeep
+!datasets/README.md
+
+# MIDI export directory contents
+midi_export/*.mid
+midi_export/*.midi
+
+# Raw data directory
+raw/
+
+# Notebook outputs
+notebooks/*.ipynb
+
+# Test outputs
+tests/output/
+tests/temp/
+
+# Documentation build artifacts
+docs/_build/
+docs/build/
+
+# Environment variables
+.env
+.env.local
+
+# External reference libraries (do not track in git)
+external/
+
+# Cache directories
+.cache/
+*.cache
+
+# Ignore large files
+lucide_icon_pack.zip
+
+# Node.js and Python dependencies
+node_modules/
+.venv/
+
+# Data directories
+/data/source_archive/
+!/data/jcrd_library/
+!/data/staging_area/
+
+# Cache files
+/data/cache/

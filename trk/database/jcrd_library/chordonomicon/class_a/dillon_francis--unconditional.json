@@ -1,0 +1,269 @@
+{
+  "songID": "entry_100238",
+  "title": "Unconditional",
+  "artist": "Dillon Francis",
+  "spotifyID": "6Cl1kdfootiPp0zABgLOWL",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-iv-?-v-?-i-?-v-?-?-iv-?-v-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Happy Machine",
+  "release_date": "2021-10-05",
+  "duration_ms": 135507
+}

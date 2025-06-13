@@ -1,0 +1,225 @@
+{
+  "songID": "entry_101170",
+  "title": "Do Me No Wrong (Demo)",
+  "artist": "Pat Cupp",
+  "spotifyID": "61vCg9VRY7AXw3rFRd39g9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Chorus",
+    "Solo",
+    "Chorus",
+    "Solo",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Presenting Pat Cupp",
+  "release_date": "1956-02-04",
+  "duration_ms": 144013
+}

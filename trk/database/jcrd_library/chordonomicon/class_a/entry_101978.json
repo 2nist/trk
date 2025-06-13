@@ -1,0 +1,331 @@
+{
+  "songID": "entry_101978",
+  "title": "Zieh mich",
+  "artist": "Joy&Markus",
+  "spotifyID": "0PNTSFdbEn0JR2e09VeM6e",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-v-?-i-?-?-v-?-i-?-ii-?-?-v-?-i-?-ii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-ii-?-i-?-v-?-ii-?-i-?-v-?-ii-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-v-?-i-?-?-v-?-i-?-ii-?-?-v-?-i-?-ii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Nah zu sein",
+  "release_date": "2021-05-20",
+  "duration_ms": 335733
+}

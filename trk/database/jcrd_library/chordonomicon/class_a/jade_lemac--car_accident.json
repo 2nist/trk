@@ -1,0 +1,289 @@
+{
+  "songID": "entry_0312",
+  "title": "Car Accident",
+  "artist": "Jade LeMac",
+  "spotifyID": "0fOwJiPxWs5Wp8IggTSYAE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Bb",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-iv-?-?-v-?-i-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Bb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Constellations",
+  "release_date": "2023-02-10",
+  "duration_ms": 213423
+}

@@ -1,0 +1,255 @@
+{
+  "songID": "entry_100395",
+  "title": "Cadillac Tears",
+  "artist": "Kevin Denney",
+  "spotifyID": "6EjsSezlbdMtdY35FfEfqR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-v-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-?-v-i-v-iv-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-?-v-i-v-iv-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-iv-v-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-?-v-i-v-iv-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-?-v-i-v-iv-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-v-i-iv-v-iv-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Kevin Denney",
+  "release_date": "2002-04-23",
+  "duration_ms": 178160
+}

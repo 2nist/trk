@@ -1,0 +1,395 @@
+{
+  "songID": "entry_10256",
+  "title": "Wearing Blue",
+  "artist": "Wild Child",
+  "spotifyID": "7maVymj4XLWXMiDGzBV1t6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "Emin",
+        "C",
+        "Bmin",
+        "Emin",
+        "C",
+        "B7",
+        "Bmin",
+        "Emin",
+        "C",
+        "Bmin",
+        "Emin",
+        "C",
+        "D",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Emin",
+        "C",
+        "Bmin",
+        "Emin",
+        "C",
+        "B7",
+        "Bmin",
+        "Emin",
+        "C",
+        "Bmin",
+        "Emin",
+        "C",
+        "D",
+        "Bmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-biii-?-?-?-biii-?-ii-?-?-?-biii-?-?-?-biii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "Amin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "End of the World",
+  "release_date": "2023-03-31",
+  "duration_ms": 247886
+}

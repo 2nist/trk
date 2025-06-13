@@ -1,0 +1,275 @@
+{
+  "songID": "entry_100775",
+  "title": "Dear Mum",
+  "artist": "Cassa Jackson",
+  "spotifyID": "3RoNIoAd2ijHWDK7CRfZj1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-i-?-?-?-ii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-i-?-ii-i-v-i-?-ii-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin7",
+        "Emin7",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin7",
+        "Emin7",
+        "Bmin",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-i-?-ii-i-v-i-?-ii-i-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "C",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "C",
+        "G",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-iv-i-ii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-?-v-i-v-i-?-ii-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Dear Mum",
+  "release_date": "2020-03-08",
+  "duration_ms": 197530
+}

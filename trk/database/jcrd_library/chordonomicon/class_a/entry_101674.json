@@ -1,0 +1,255 @@
+{
+  "songID": "entry_101674",
+  "title": "Me Hace Falta (Cap. 2)",
+  "artist": "Siddhartha",
+  "spotifyID": "7EAr8k0WiV9ybItof6utFj",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "G",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "G",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-?-?-v-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.06",
+        "progression:?-v-?-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "MEMORIA FUTURO",
+  "release_date": "2020-11-02",
+  "duration_ms": 225834
+}

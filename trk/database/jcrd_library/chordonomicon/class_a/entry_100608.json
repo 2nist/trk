@@ -1,0 +1,121 @@
+{
+  "songID": "entry_100608",
+  "title": "You Deserve",
+  "artist": "Chrystal Rucker",
+  "spotifyID": "5LecbLQlnFurmd230x9YnU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-?-?-?-v-i-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B7",
+        "Emin",
+        "Bmin",
+        "Amin",
+        "C7",
+        "Bmin",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "B7",
+        "Emin",
+        "Bmin",
+        "Amin",
+        "C7",
+        "Bmin",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-iii-?-?-?-iv-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "You Deserve",
+  "release_date": "2012-08-14",
+  "duration_ms": 220546
+}

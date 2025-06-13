@@ -1,0 +1,273 @@
+{
+  "songID": "entry_100566",
+  "title": "My God Can Do Anything",
+  "artist": "Luther Barnes",
+  "spotifyID": "0XTTO208MHbWBro9VUKZHY",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Bb",
+        "A",
+        "D",
+        "D",
+        "G",
+        "C",
+        "F",
+        "D",
+        "G",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "A",
+        "Bb",
+        "A",
+        "D",
+        "D",
+        "G",
+        "C",
+        "F",
+        "D",
+        "G",
+        "C",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:ii-?-biii-?-ii-?-v-?-v-?-i-?-iv-?-bvii-?-v-?-i-?-iv-?-bvii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "A7",
+        "Dmin",
+        "D7",
+        "Bb",
+        "C",
+        "F",
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "A7",
+        "Dmin",
+        "D7",
+        "Bb",
+        "C",
+        "F",
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.76",
+        "progression:i-?-vii-?-?-iii-?-i-?-ii-?-v-?-iii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "A7",
+        "Dmin",
+        "D7",
+        "Bb",
+        "C",
+        "F",
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "A7",
+        "Dmin",
+        "D7",
+        "Bb",
+        "C",
+        "F",
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:i-?-vii-?-?-iii-?-i-?-ii-?-v-?-iii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "A7",
+        "Dmin",
+        "D7",
+        "Bb",
+        "C",
+        "F",
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "A7",
+        "Dmin",
+        "D7",
+        "Bb",
+        "C",
+        "F",
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.76",
+        "progression:i-?-vii-?-?-iii-?-i-?-ii-?-v-?-iii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "A7",
+        "Dmin",
+        "D7",
+        "Bb",
+        "C",
+        "F",
+        "D",
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "A7",
+        "Dmin",
+        "D7",
+        "Bb",
+        "C",
+        "F",
+        "D",
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.71",
+        "progression:i-?-vii-?-?-iii-?-i-?-ii-?-v-?-iii-?-iii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "D7",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.62",
+        "progression:iii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "He Cares",
+  "release_date": "1984-06-20",
+  "duration_ms": 332373
+}

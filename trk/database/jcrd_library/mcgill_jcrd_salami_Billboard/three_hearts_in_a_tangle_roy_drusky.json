@@ -1,0 +1,190 @@
+{
+  "title": "Three Hearts In A Tangle",
+  "artist": "Roy Drusky",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 441,
+      "duration_ms": 15670,
+      "chords": [
+        "Db:maj",
+        "Db:7",
+        "Gb:maj",
+        "Gb:maj",
+        "Db:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 16111,
+      "duration_ms": 31102,
+      "chords": [
+        "Db:maj",
+        "Db:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "Ab:7",
+        "Ab:7",
+        "Db:maj",
+        "Db:7",
+        "Gb:maj",
+        "Gb:maj",
+        "Db:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 47213,
+      "duration_ms": 31130,
+      "chords": [
+        "Db:maj",
+        "Db:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "Ab:7",
+        "Ab:7",
+        "Db:maj",
+        "Db:7",
+        "Gb:maj",
+        "Gb:maj",
+        "Db:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 78344,
+      "duration_ms": 15642,
+      "chords": [
+        "Db:maj",
+        "Db:7",
+        "Gb:maj",
+        "Gb:maj",
+        "Gb:maj",
+        "Db:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 93987,
+      "duration_ms": 30707,
+      "chords": [
+        "Db:maj",
+        "Db:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "Ab:7",
+        "Ab:7",
+        "Db:maj",
+        "Db:7",
+        "Gb:maj",
+        "Gb:maj",
+        "Db:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_6",
+      "start_ms": 124694,
+      "duration_ms": 39354,
+      "chords": [
+        "Db:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "Ab:7",
+        "Ab:7",
+        "Db:maj",
+        "Db:7",
+        "Gb:maj",
+        "Gb:maj",
+        "Db:maj",
+        "Ab:7",
+        "N",
+        "Db:maj",
+        "Db:maj",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "songID": "entry_10024",
+  "title": "Lost in Translation",
+  "artist": "The Neighbourhood",
+  "spotifyID": "7CUk9X9Qy2nGCNrHVkddiJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "B7",
+        "Amin7",
+        "Cadd9/D",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "C",
+        "Cmin",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "B7",
+        "Amin7",
+        "Cadd9/D",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "C",
+        "Cmin",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "C",
+        "Cmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.16",
+        "progression:v-?-vii-?-?-?-v-?-?-?-i-?-?-v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B7",
+        "Amin7",
+        "D7",
+        "G",
+        "B7",
+        "Amin7",
+        "Emin",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "B7",
+        "Amin7",
+        "D7",
+        "G",
+        "B7",
+        "Amin7",
+        "Emin",
+        "D7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:i-?-iii-?-?-v-?-i-?-iii-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "Cadd9/D"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9/D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B7",
+        "Emin7",
+        "C",
+        "Cmin",
+        "G",
+        "B7",
+        "Emin7",
+        "C",
+        "Cmin",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "C",
+        "Cmin",
+        "G",
+        "D/Fs",
+        "Emin",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "B7",
+        "Emin7",
+        "C",
+        "Cmin",
+        "G",
+        "B7",
+        "Emin7",
+        "C",
+        "Cmin",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "C",
+        "Cmin",
+        "G",
+        "D/Fs",
+        "Emin",
+        "C",
+        "Cmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.15",
+        "progression:v-?-vii-?-?-i-?-?-v-?-vii-?-?-i-?-?-v-?-?-?-i-?-?-v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B7",
+        "Amin7",
+        "D7",
+        "G",
+        "B7",
+        "Amin7",
+        "Emin",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "B7",
+        "Amin7",
+        "D7",
+        "G",
+        "B7",
+        "Amin7",
+        "Emin",
+        "D7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:i-?-iii-?-?-v-?-i-?-iii-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "D",
+        "Cdim7"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Cdim7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "Emin7/Ds",
+        "Emin/D",
+        "Emin/Cs",
+        "Emin",
+        "Emin7/Ds",
+        "Emin/D",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7/Ds",
+        "Emin/D",
+        "Emin/Cs",
+        "Emin",
+        "Emin7/Ds",
+        "Emin/D",
+        "Cmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B7",
+        "Amin7",
+        "D7",
+        "G",
+        "B7",
+        "C",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "B7",
+        "Amin7",
+        "D7",
+        "G",
+        "B7",
+        "C",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.78",
+        "progression:i-?-iii-?-?-v-?-i-?-iii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "B7",
+        "Amin7",
+        "D7",
+        "G",
+        "B7",
+        "Amin7",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "B7",
+        "Amin7",
+        "D7",
+        "G",
+        "B7",
+        "Amin7",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:i-?-iii-?-?-v-?-i-?-iii-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Chip Chrome & The Mono-Tones (Deluxe)",
+  "release_date": "2020-12-11",
+  "duration_ms": 190226
+}

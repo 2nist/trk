@@ -1,0 +1,225 @@
+{
+  "title": "(I was) Born To Cry",
+  "artist": "Dion",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "chorus_1",
+      "start_ms": 438,
+      "duration_ms": 8896,
+      "chords": [
+        "A:min",
+        "D:min",
+        "A:min",
+        "E:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_1",
+      "start_ms": 9334,
+      "duration_ms": 15989,
+      "chords": [
+        "A:min",
+        "A:min",
+        "D:min",
+        "D:min",
+        "A:min",
+        "A:min",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 25324,
+      "duration_ms": 16018,
+      "chords": [
+        "N",
+        "A:min",
+        "A:min",
+        "D:min",
+        "D:min",
+        "A:min",
+        "A:min",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 41342,
+      "duration_ms": 16163,
+      "chords": [
+        "N",
+        "A:min",
+        "D:min",
+        "A:min",
+        "D:min",
+        "A:min",
+        "D:min",
+        "E:7",
+        "E:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 57506,
+      "duration_ms": 15854,
+      "chords": [
+        "E:7",
+        "A:min",
+        "A:min",
+        "D:min",
+        "D:min",
+        "A:min",
+        "A:min",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 73360,
+      "duration_ms": 15957,
+      "chords": [
+        "N",
+        "A:min",
+        "A:min",
+        "D:min",
+        "D:min",
+        "A:min",
+        "A:min",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 89318,
+      "duration_ms": 16003,
+      "chords": [
+        "N",
+        "A:min",
+        "D:min",
+        "A:min",
+        "D:min",
+        "A:min",
+        "D:min",
+        "E:7",
+        "E:7",
+        "E:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 105321,
+      "duration_ms": 15954,
+      "chords": [
+        "A:min",
+        "A:min",
+        "D:min",
+        "D:min",
+        "A:min",
+        "A:min",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_6",
+      "start_ms": 121276,
+      "duration_ms": 25401,
+      "chords": [
+        "N",
+        "A:min",
+        "A:min",
+        "D:min",
+        "D:min",
+        "A:min",
+        "A:min",
+        "N",
+        "N",
+        "N",
+        "A:min",
+        "A:min",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

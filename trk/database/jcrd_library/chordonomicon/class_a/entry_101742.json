@@ -1,0 +1,209 @@
+{
+  "songID": "entry_101742",
+  "title": "La culpa",
+  "artist": "Vanesa Mart\u00edn",
+  "spotifyID": "3qxXH10XmAeFBiHSAkxdBL",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-i-?-?-?-iv-?-v-?-iv-?-v-?-i-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-i-?-?-?-iv-?-v-?-iv-?-v-?-i-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Todas las mujeres que habitan en m\u00ed",
+  "release_date": "2018-11-16",
+  "duration_ms": 214053
+}

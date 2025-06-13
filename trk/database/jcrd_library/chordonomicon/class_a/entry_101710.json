@@ -1,0 +1,219 @@
+{
+  "songID": "entry_101710",
+  "title": "Fare Thee Well",
+  "artist": "Charity Children",
+  "spotifyID": "0aXPhm7lXsFZ5eil6tvwsm",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Autumn Came",
+  "release_date": "2013-07-26",
+  "duration_ms": 235453
+}

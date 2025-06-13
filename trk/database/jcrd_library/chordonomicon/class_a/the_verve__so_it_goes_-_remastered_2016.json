@@ -1,0 +1,319 @@
+{
+  "songID": "entry_10223",
+  "title": "So It Goes - Remastered 2016",
+  "artist": "The Verve",
+  "spotifyID": "1lyU2NOWxZFGwOxF9YtX03",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "A",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "A",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-?-?-?-?-?-?-?-?-?-i-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "A",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "Eno3d",
+        "Esus4",
+        "A",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-?-?-?-?-?-?-?-i-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Eno3d"
+      ],
+      "rawChords": [
+        "Eno3d"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:i-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:i-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "A Northern Soul (2016 Remastered / Deluxe)",
+  "release_date": "1995",
+  "duration_ms": 371240
+}

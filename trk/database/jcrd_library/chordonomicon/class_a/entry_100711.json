@@ -1,0 +1,229 @@
+{
+  "songID": "entry_100711",
+  "title": "Cut Me Off",
+  "artist": "Madeline Kenney",
+  "spotifyID": "1rGs7oMi0ej8kGEB3BKgYv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmaj7",
+        "E",
+        "Bmaj7",
+        "Gs"
+      ],
+      "rawChords": [
+        "Bmaj7",
+        "E",
+        "Bmaj7",
+        "Gs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Fs",
+        "Gs",
+        "Cs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Perfect Shapes",
+  "release_date": "2018-10-05",
+  "duration_ms": 199904
+}

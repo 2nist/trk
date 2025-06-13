@@ -1,0 +1,349 @@
+{
+  "songID": "entry_101458",
+  "title": "Glowin'",
+  "artist": "The Rationals",
+  "spotifyID": "45R3ni67VcArZc6xk4r2Sj",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "Bmin",
+        "Amin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Bmin",
+        "Amin",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin7",
+        "Bmin",
+        "Amin7",
+        "Bmin",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Amin7",
+        "Bmin",
+        "Amin7",
+        "Bmin",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Amin7",
+        "G",
+        "Fsmin7",
+        "Emin",
+        "D",
+        "C",
+        "Bmin",
+        "Amin",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "E7"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin7",
+        "G",
+        "Fsmin7",
+        "Emin",
+        "D",
+        "C",
+        "Bmin",
+        "Amin",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "E7"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.68",
+        "progression:i-?-v-?-?-v-?-?-?-ii-?-i-?-?-?-v-?-?-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7"
+      ],
+      "rawChords": [
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Bmin7",
+        "Amin7",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "E7",
+        "C",
+        "Bmin",
+        "Amin7",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "Bmin7",
+        "Amin7",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "E7",
+        "C",
+        "Bmin",
+        "Amin7",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.78",
+        "progression:i-?-?-?-v-?-?-?-ii-?-iii-?-i-?-?-?-v-?-?-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7"
+      ],
+      "rawChords": [
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Bmin7",
+        "Amin7",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "E",
+        "C",
+        "Bmin7",
+        "Amin7",
+        "G",
+        "D",
+        "Emin7",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "Bmin7",
+        "Amin7",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "E",
+        "C",
+        "Bmin7",
+        "Amin7",
+        "G",
+        "D",
+        "Emin7",
+        "D",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.66",
+        "progression:i-?-?-?-v-?-?-?-ii-?-iii-?-i-?-?-?-v-?-ii-?-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7"
+      ],
+      "rawChords": [
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7",
+        "Amin7",
+        "Bmin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Emin7",
+        "Bbmaj7",
+        "G",
+        "Emin7",
+        "Fsmin",
+        "Dmin7",
+        "Emin7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Bbmaj7",
+        "G",
+        "Emin7",
+        "Fsmin",
+        "Dmin7",
+        "Emin7",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Rationals (Deluxe Edition)",
+  "release_date": "1969-07-01",
+  "duration_ms": 257506
+}

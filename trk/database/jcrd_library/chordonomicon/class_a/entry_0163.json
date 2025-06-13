@@ -1,0 +1,355 @@
+{
+  "songID": "entry_0163",
+  "title": "John Williams",
+  "artist": "Jim Hurst",
+  "spotifyID": "36fdMDaWJE44kUwukUCiAh",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-iv-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-i-v-?-i-ii-v-ii-v-?-i-v-?-i-ii-?-ii-?-i-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-i-v-?-i-ii-v-ii-v-?-i-v-?-i-ii-?-ii-?-i-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-iv-i-?-iv-v-i-v-i-?-iv-i-?-iv-v-?-v-?-iv-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-i-v-?-i-ii-v-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-iv-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Solo",
+    "Verse",
+    "Solo",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "From the Ground Up",
+  "release_date": "2022-07-01",
+  "duration_ms": 224773
+}

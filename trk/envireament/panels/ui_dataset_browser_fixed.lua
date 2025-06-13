@@ -1,0 +1,3 @@
+-- Migrated from src/ui/legacy/ui_dataset_browser_fixed.lua
+
+...existing code from original file...

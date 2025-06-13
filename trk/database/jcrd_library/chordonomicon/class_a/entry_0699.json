@@ -1,0 +1,261 @@
+{
+  "songID": "entry_0699",
+  "title": "Lone Ranger",
+  "artist": "Julianna Riolino",
+  "spotifyID": "40qb95F1GdotBLLJJ0NhXR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-v-?-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "G",
+        "G/Fs",
+        "Emin",
+        "Emin/Fs",
+        "G",
+        "G/Fs",
+        "Emin",
+        "Emin/Fs",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "G",
+        "G/Fs",
+        "Emin",
+        "Emin/Fs",
+        "G",
+        "G/Fs",
+        "Emin",
+        "Emin/Fs",
+        "G"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-i-v-i-v-?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "G",
+        "G/Fs",
+        "Emin",
+        "Emin/Fs",
+        "G",
+        "G/Fs",
+        "Emin",
+        "Emin/Fs",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "G",
+        "G/Fs",
+        "Emin",
+        "Emin/Fs",
+        "G",
+        "G/Fs",
+        "Emin",
+        "Emin/Fs",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-v-?-i-v-i-v-?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-?-ii-i-v-?-ii-i-v-?-ii-i-v-?-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "All Blue",
+  "release_date": "2022-10-14",
+  "duration_ms": 191266
+}

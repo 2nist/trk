@@ -1,0 +1,19 @@
+{
+  "script": "batch_convert.py",
+  "name": "Batch Convert MIDI → .jcrd",
+  "description": "Converts all .mid files in /mid to .jcrd format and stores them in /raw.",
+  "arguments": [
+    {
+      "name": "--input_dir",
+      "required": false,
+      "type": "text",
+      "help": "Source folder containing .mid files (default: mid/)"
+    },
+    {
+      "name": "--output_dir",
+      "required": false,
+      "type": "text",
+      "help": "Destination folder for .jcrd files (default: raw/)"
+    }
+  ]
+}

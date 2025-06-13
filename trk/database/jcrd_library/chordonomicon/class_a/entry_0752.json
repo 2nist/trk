@@ -1,0 +1,123 @@
+{
+  "songID": "entry_0752",
+  "title": "I Put a Spell On You",
+  "artist": "Screamin' Jay Hawkins",
+  "spotifyID": "3sLhMSePzxSrmxluIqeoAZ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C7",
+        "Fmin",
+        "C7",
+        "Fmin"
+      ],
+      "rawChords": [
+        "C7",
+        "Fmin",
+        "C7",
+        "Fmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Fmin",
+        "Bbmin",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Fmin",
+        "C7",
+        "Fmin",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Fmin",
+        "Bbmin",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Fmin",
+        "C7",
+        "Fmin",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Fmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-v-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Fmin",
+        "C7",
+        "Fmin",
+        "C7",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Fmin",
+        "C7",
+        "Fmin",
+        "C7",
+        "Fmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-?-?-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "At Home with Screamin' Jay Hawkins",
+  "release_date": "1958",
+  "duration_ms": 144866
+}

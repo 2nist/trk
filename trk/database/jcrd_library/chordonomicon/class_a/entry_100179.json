@@ -1,0 +1,221 @@
+{
+  "songID": "entry_100179",
+  "title": "Volver",
+  "artist": "AlexDolphin",
+  "spotifyID": "1tej1skM1gvNvMYGoLjiZo",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?-?-i-v-?-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "E",
+        "B",
+        "Fs",
+        "Cs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Volver",
+  "release_date": "2021-05-29",
+  "duration_ms": 153081
+}

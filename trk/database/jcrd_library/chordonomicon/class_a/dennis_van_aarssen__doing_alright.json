@@ -1,0 +1,433 @@
+{
+  "songID": "entry_102476",
+  "title": "Doing Alright",
+  "artist": "Dennis van Aarssen",
+  "spotifyID": "4djgeByYfSQuXGyFqPCzk3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "Dmin",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "Dmin",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "Dmin",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "Dmin",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-?-i-?-?-iv-?-v-?-?-?-?-v-?-i-?-?-iv-?-?-i-?-?-iv-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Emin",
+        "Eb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Emin",
+        "Eb",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "Fmin"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "Fmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.55",
+        "progression:vi-?-ii-?-iii-?-v-?-ii-?-iii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "Dmin",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "Dmin",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-?-i-?-?-iv-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Emin",
+        "Eb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Emin",
+        "Eb",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "Fmin"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "Fmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.55",
+        "progression:vi-?-ii-?-iii-?-v-?-ii-?-iii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "G",
+        "E",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "E",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-iii-?-?-i-?-iv-?-v-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "G",
+        "D",
+        "E",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "G",
+        "D",
+        "E",
+        "G",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:ii-?-iii-?-v-?-ii-?-iii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Forever You",
+  "release_date": "2019-10-23",
+  "duration_ms": 164000
+}

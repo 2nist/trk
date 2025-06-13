@@ -1,0 +1,227 @@
+{
+  "songID": "entry_0532",
+  "title": "Picture Me",
+  "artist": "Creed Fisher",
+  "spotifyID": "7kXvGshEu26r9KJSXBWHzs",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-ii-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "How Country Music Sounded Before It All Went to Shit, Vol. 1",
+  "release_date": "2021-02-25",
+  "duration_ms": 211545
+}

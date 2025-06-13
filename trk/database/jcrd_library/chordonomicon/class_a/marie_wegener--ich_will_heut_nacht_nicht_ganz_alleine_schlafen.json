@@ -1,0 +1,201 @@
+{
+  "songID": "entry_0198",
+  "title": "Ich will heut Nacht nicht ganz alleine schlafen",
+  "artist": "Marie Wegener",
+  "spotifyID": "0LulVCBvoW7qLoqerYFXHe",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "A",
+        "Bmin",
+        "Emin",
+        "A",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "Bmin",
+        "Emin",
+        "A",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:?-v-?-?-?-v-?-?-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "Emin",
+        "A",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "Emin",
+        "A",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Fs"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:?-?-v-?-i-?-v-?-?-?-v-?-?-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "K\u00f6niglich",
+  "release_date": "2018-06-01",
+  "duration_ms": 193733
+}

@@ -1,0 +1,177 @@
+{
+  "songID": "entry_0246",
+  "title": "Der Prinz ist fort",
+  "artist": "Sylvester LeVay",
+  "spotifyID": "1xNUDESQ5TyPvMziSRIfpH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "C",
+        "Dmin",
+        "Bbmin",
+        "Dmin",
+        "Bbmin",
+        "C"
+      ],
+      "rawChords": [
+        "Db",
+        "C",
+        "Dmin",
+        "Bbmin",
+        "Dmin",
+        "Bbmin",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:iv-iii-?-?-?-?-iii"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "Dmin",
+        "Bbmin",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "Dmin",
+        "Bbmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-?-i-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "C",
+        "Dmin",
+        "Bbmin",
+        "Dmin",
+        "Bbmin",
+        "C"
+      ],
+      "rawChords": [
+        "Db",
+        "C",
+        "Dmin",
+        "Bbmin",
+        "Dmin",
+        "Bbmin",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:iv-iii-?-?-?-?-iii"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "Dmin",
+        "Bbmin",
+        "F",
+        "Db",
+        "D",
+        "Bmin",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "Bmin",
+        "Emin",
+        "D",
+        "Bmin",
+        "Emin",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "Dmin",
+        "Bbmin",
+        "F",
+        "Db",
+        "D",
+        "Bmin",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D",
+        "Bmin",
+        "Emin",
+        "D",
+        "Bmin",
+        "Emin",
+        "Gmin",
+        "D"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-?-i-?-?-?-?-v-biii-iii-?-vi-?-?-iii-?-?-iii-?-?-?-iii"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Mozart! - Das Musical - Gesamtaufnahme Live",
+  "release_date": "2015-12-04",
+  "duration_ms": 248033
+}

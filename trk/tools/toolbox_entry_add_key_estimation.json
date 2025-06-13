@@ -1,0 +1,13 @@
+{
+  "script": "add_key_estimation.py",
+  "name": "Add Key Estimation",
+  "description": "Estimates the key of the song using Music21 and fills in missing key field.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Folder containing .jcrd files (default: mcgill_jcrd/)"
+    }
+  ]
+}

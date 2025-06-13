@@ -1,0 +1,329 @@
+{
+  "songID": "entry_100343",
+  "title": "Bill Murray",
+  "artist": "Double Experience",
+  "spotifyID": "7BfEqDOetNjZVvIWg7ETIw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13"
+      ],
+      "rawChords": [
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13",
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13"
+      ],
+      "rawChords": [
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13",
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-v-?-iv-?-?-i-?-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13"
+      ],
+      "rawChords": [
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13",
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13"
+      ],
+      "rawChords": [
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13",
+        "G",
+        "B/Ds",
+        "Emin7",
+        "D",
+        "C",
+        "Cadd13"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-v-?-iv-?-?-i-?-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin9"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin9"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B/Ds",
+        "C",
+        "Cmin",
+        "G",
+        "B/Ds",
+        "C",
+        "Cmin9",
+        "Emin7",
+        "D",
+        "C",
+        "C13/C"
+      ],
+      "rawChords": [
+        "G",
+        "B/Ds",
+        "C",
+        "Cmin",
+        "G",
+        "B/Ds",
+        "C",
+        "Cmin9",
+        "Emin7",
+        "D",
+        "C",
+        "C13/C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-?-ii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin9",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin9"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin9",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin9"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Bill Murray",
+  "release_date": "2021-06-04",
+  "duration_ms": 182000
+}

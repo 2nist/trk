@@ -1,0 +1,19 @@
+{
+  "script": "export_jcrd_to_reaper_regions.py",
+  "name": "Export REAPER Regions",
+  "description": "Exports each .jcrd section to a REAPER-compatible .txt region file.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Folder with .jcrd files (default: mcgill_jcrd/)"
+    },
+    {
+      "name": "--output",
+      "required": false,
+      "type": "text",
+      "help": "Folder to save region .txt files (default: export/reaper_regions/)"
+    }
+  ]
+}

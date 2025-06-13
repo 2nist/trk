@@ -1,0 +1,303 @@
+{
+  "songID": "entry_10180",
+  "title": "My Name (With Madness)",
+  "artist": "Some Bodies",
+  "spotifyID": "32pS82VVMsIhbKNaAAp7Vu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Fs",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D",
+        "Fs",
+        "G",
+        "Gmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fs",
+        "G",
+        "D",
+        "Fs",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fs",
+        "G",
+        "D",
+        "Fs",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:i-?-iii-?-iv-?-i-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Gmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-i-?-?-?-v-?-iv-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fs",
+        "G",
+        "D",
+        "Fs",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fs",
+        "G",
+        "D",
+        "Fs",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:i-?-iii-?-iv-?-i-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Gmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Fs",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D",
+        "Fs",
+        "G",
+        "Gmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Intro"
+  ],
+  "tags": [],
+  "album": "Sunscreen",
+  "release_date": "2019-11-08",
+  "duration_ms": 270509
+}

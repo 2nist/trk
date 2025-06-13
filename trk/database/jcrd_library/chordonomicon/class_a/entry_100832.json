@@ -1,0 +1,293 @@
+{
+  "songID": "entry_100832",
+  "title": "Penny Rose",
+  "artist": "The Great Grandfathers",
+  "spotifyID": "6C0qyROckEAd5h1reTPRcz",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Bmin",
+        "Fsmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "Fsmin",
+        "E",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "Amaj7",
+        "Bmin",
+        "D",
+        "Fsmin",
+        "A",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Amaj7",
+        "Bmin",
+        "D",
+        "Fsmin",
+        "A",
+        "Bmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-i-?-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-i-v-ii-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "Bmin"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Bmin",
+        "Amaj7",
+        "Bmin",
+        "D",
+        "Fsmin",
+        "A",
+        "Bmin"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "Amaj7",
+        "Bmin",
+        "D",
+        "Fsmin",
+        "A",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-?-?-i-?-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-i-v-ii-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "C",
+        "D",
+        "C",
+        "C/B",
+        "A",
+        "C",
+        "D",
+        "C",
+        "C/B",
+        "G",
+        "Fsmin",
+        "A",
+        "D",
+        "E",
+        "A",
+        "Fsmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "D",
+        "C",
+        "C/B",
+        "A",
+        "C",
+        "D",
+        "C",
+        "C/B",
+        "G",
+        "Fsmin",
+        "A",
+        "D",
+        "E",
+        "A",
+        "Fsmin",
+        "Fs"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-biii-iv-biii-?-i-biii-iv-biii-?-bvii-?-i-iv-v-i-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "B",
+        "Csmin",
+        "B",
+        "Fs",
+        "B",
+        "Csmin",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Csmin",
+        "B",
+        "Fs",
+        "B",
+        "Csmin",
+        "B",
+        "Fs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "St. Anthony's Fire",
+  "release_date": "2012-05-01",
+  "duration_ms": 223007
+}

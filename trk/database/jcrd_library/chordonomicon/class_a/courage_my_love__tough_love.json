@@ -1,0 +1,403 @@
+{
+  "songID": "entry_10211",
+  "title": "Tough Love",
+  "artist": "Courage My Love",
+  "spotifyID": "4T2JW4lpRpaWvc5hrpZhq6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fs",
+        "Asmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "Asmin",
+        "Fmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "Cs",
+        "Fmin",
+        "Gs",
+        "Fs",
+        "Cs",
+        "Fmin",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Cs",
+        "Fmin",
+        "Gs",
+        "Fs",
+        "Cs",
+        "Fmin",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-?-v-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:i-?-?-?-i-?-?-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "Cs",
+        "Fmin",
+        "Gs",
+        "Fs",
+        "Cs",
+        "Fmin",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Cs",
+        "Fmin",
+        "Gs",
+        "Fs",
+        "Cs",
+        "Fmin",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-?-v-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:i-?-?-?-i-?-?-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Asmin",
+        "Fmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Asmin",
+        "Fmin",
+        "Fs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Gs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Gs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Gs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Gs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Gs"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-i-?-?-?-i-?-ii-?-?-?-i-?-ii-?-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Asmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Asmin",
+        "Fmin",
+        "Fs",
+        "Asmin",
+        "Gs",
+        "Cs",
+        "Asmin"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:i-?-?-?-i-?-?-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-i-?-?-?-i-?-?-ii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Synesthesia",
+  "release_date": "2017-02-03",
+  "duration_ms": 214306
+}

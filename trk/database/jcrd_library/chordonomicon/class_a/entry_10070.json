@@ -1,0 +1,385 @@
+{
+  "songID": "entry_10070",
+  "title": "Howdy",
+  "artist": "Clayton Johnson",
+  "spotifyID": "29yiKrq4t4tMBmLxETYBoU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-v-iv-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-v-iv-i-?-v-iv-?-v-iv-i-?-v-iv-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v-iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-v-iv-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-v-iv-i-?-v-iv-?-v-iv-i-?-v-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v-iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-?-ii-i-v-?-ii-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-v-iv-i-?-v-iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Howdy",
+  "release_date": "2022-12-02",
+  "duration_ms": 144426
+}

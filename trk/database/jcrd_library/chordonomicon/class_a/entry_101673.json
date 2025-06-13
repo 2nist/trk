@@ -1,0 +1,245 @@
+{
+  "songID": "entry_101673",
+  "title": "Swan Dive",
+  "artist": "convolk",
+  "spotifyID": "1IzGdhQ17U0r7ufI4qBv7d",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F7",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "F7",
+        "Emin",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7"
+      ],
+      "rawChords": [
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "G",
+        "Emin",
+        "C",
+        "Dmin",
+        "G",
+        "Emin",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "Emin",
+        "C",
+        "Dmin",
+        "G",
+        "Emin",
+        "C",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7"
+      ],
+      "rawChords": [
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7",
+        "Emin",
+        "G",
+        "F7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "G",
+        "Emin",
+        "C",
+        "Dmin",
+        "G",
+        "Emin",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "Emin",
+        "C",
+        "Dmin",
+        "G",
+        "Emin",
+        "C",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "Dmin",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "Dmin",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "SWAN DIVE",
+  "release_date": "2019-03-13",
+  "duration_ms": 151602
+}

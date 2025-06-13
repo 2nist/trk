@@ -1,0 +1,147 @@
+{
+  "songID": "entry_100943",
+  "title": "Ancient Man",
+  "artist": "Deadboy & The Elephantmen",
+  "spotifyID": "2QaTbhSmAoVUVa6kIZFzuT",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d",
+        "Fsno3d",
+        "Eno3d"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsno3d",
+        "B"
+      ],
+      "rawChords": [
+        "Fsno3d",
+        "B"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fsno3d",
+        "B"
+      ],
+      "rawChords": [
+        "Fsno3d",
+        "B"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "We Are Night Sky",
+  "release_date": "2005",
+  "duration_ms": 197333
+}

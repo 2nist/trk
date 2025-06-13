@@ -1,0 +1,181 @@
+{
+  "songID": "entry_100070",
+  "title": "Sol - Ao Vivo",
+  "artist": "Froid",
+  "spotifyID": "4O8gYGa5prhNlI2xmNJvgc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Bb",
+        "Abmaj7",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Bb",
+        "Abmaj7",
+        "Fmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Bb",
+        "Abmaj7",
+        "Fmin",
+        "Cmin",
+        "Bb",
+        "Abmaj7",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Bb",
+        "Abmaj7",
+        "Fmin",
+        "Cmin",
+        "Bb",
+        "Abmaj7",
+        "Fmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-?-?-?-?-?-?-?-?-?-?-v-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Fmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "O Florista (Ao Vivo)",
+  "release_date": "2023-05-26",
+  "duration_ms": 221836
+}

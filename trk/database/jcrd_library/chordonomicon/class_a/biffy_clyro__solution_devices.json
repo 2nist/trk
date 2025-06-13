@@ -1,0 +1,307 @@
+{
+  "songID": "entry_102767",
+  "title": "Solution Devices",
+  "artist": "Biffy Clyro",
+  "spotifyID": "3rWs9mcJKmnrZBIf0Tn1pc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "C7",
+        "Emin",
+        "Emin7",
+        "C7",
+        "F",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "C7",
+        "Emin",
+        "Emin7",
+        "C7",
+        "F",
+        "Fmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-?-v-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Dmin",
+        "Amin",
+        "C",
+        "Emin",
+        "Dmin",
+        "C",
+        "C7",
+        "F"
+      ],
+      "rawChords": [
+        "Emin",
+        "Dmin",
+        "Amin",
+        "C",
+        "Emin",
+        "Dmin",
+        "C",
+        "C7",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-?-?-v-?-?-?-v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin7",
+        "Emin",
+        "C7",
+        "Emin7"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Emin",
+        "C7",
+        "Emin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "C7",
+        "Amin7",
+        "Emin",
+        "G",
+        "C7",
+        "C",
+        "A",
+        "Emin",
+        "Dmin",
+        "Amin",
+        "C",
+        "E",
+        "Emin",
+        "Dmin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "C7",
+        "Amin7",
+        "Emin",
+        "G",
+        "C7",
+        "C",
+        "A",
+        "Emin",
+        "Dmin",
+        "Amin",
+        "C",
+        "E",
+        "Emin",
+        "Dmin",
+        "C",
+        "F"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:ii-?-v-?-ii-?-i-?-?-?-v-?-i-?-i-?-vi-?-?-?-?-i-?-iii-?-?-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "F",
+        "D",
+        "Emin",
+        "E",
+        "G",
+        "D",
+        "Emin",
+        "E",
+        "F",
+        "C",
+        "D",
+        "Emin",
+        "E",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "F",
+        "D",
+        "Emin",
+        "E",
+        "G",
+        "D",
+        "Emin",
+        "E",
+        "F",
+        "C",
+        "D",
+        "Emin",
+        "E",
+        "G",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:?-iv-?-ii-?-?-iii-?-v-?-ii-?-?-iii-?-iv-?-i-?-ii-?-?-iii-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "E",
+        "B",
+        "G",
+        "E",
+        "D",
+        "G",
+        "D",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "E",
+        "B",
+        "G",
+        "E",
+        "D",
+        "G",
+        "D",
+        "G",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-ii-?-v-?-iii-?-vii-?-v-?-iii-?-ii-?-v-?-ii-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Blackened Sky",
+  "release_date": "2002-03-11",
+  "duration_ms": 198626
+}

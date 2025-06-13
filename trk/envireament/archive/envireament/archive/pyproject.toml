@@ -1,0 +1,57 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "envireament"
+description = "EnviREAment - Virtual REAPER Environment for Development and Testing"
+readme = "README.md"
+license = {text = "MIT"}
+authors = [
+    {name = "Matthew @ Songbase", email = "contact@songbase.dev"}
+]
+keywords = ["reaper", "virtual-environment", "testing", "lua", "imgui", "music-production"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Lua",
+    "Topic :: Multimedia :: Sound/Audio",
+    "Topic :: Software Development :: Testing",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.7"
+dependencies = []
+dynamic = ["version"]
+
+[project.urls]
+homepage = "https://github.com/matthewsongbase/EnviREAment"
+repository = "https://github.com/matthewsongbase/EnviREAment.git"
+documentation = "https://github.com/matthewsongbase/EnviREAment/docs"
+changelog = "https://github.com/matthewsongbase/EnviREAment/releases"
+
+[project.scripts]
+envireament-test = "envireament.cli:run_tests"
+envireament-demo = "envireament.cli:run_demo"
+
+[project.optional-dependencies]
+dev = ["black", "pytest", "flake8"]
+
+[tool.setuptools_scm]
+write_to = "envireament/_version.py"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["envireament*"]
+
+[tool.setuptools.package-data]
+envireament = [
+    "*.lua",
+    "docs/*",
+    "examples/*", 
+    "ui/*"
+]
+
+[tool.black]
+line-length = 78
+include = '\.pyi?$'

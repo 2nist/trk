@@ -1,0 +1,205 @@
+{
+  "songID": "entry_101340",
+  "title": "Ducktail",
+  "artist": "Joe Clay",
+  "spotifyID": "6Rwh7GfFZQNMcbkYbFgtQB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "A7"
+      ],
+      "rawChords": [
+        "A",
+        "A7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7"
+      ],
+      "rawChords": [
+        "A7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "A7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "A7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Solo",
+    "Verse",
+    "Solo"
+  ],
+  "tags": [],
+  "album": "Ducktail",
+  "release_date": "1956-12-17",
+  "duration_ms": 148720
+}

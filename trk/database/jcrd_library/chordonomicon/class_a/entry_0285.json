@@ -1,0 +1,283 @@
+{
+  "songID": "entry_0285",
+  "title": "Chaise Lounge",
+  "artist": "Tamia",
+  "spotifyID": "1C18fJEsSR0hpRxMzRQCrA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "Cmaj7",
+        "C",
+        "Amin",
+        "A",
+        "Amin7",
+        "Fmaj7",
+        "Emin7",
+        "Dmin7",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "Cmaj7",
+        "C",
+        "Amin",
+        "A",
+        "Amin7",
+        "Fmaj7",
+        "Emin7",
+        "Dmin7",
+        "Cmaj7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-?-?-v-?-iii-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Fmaj7",
+        "Emin7",
+        "E",
+        "Fmaj7",
+        "Emin7",
+        "G",
+        "E7",
+        "Ebmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Fmaj7",
+        "Emin7",
+        "E",
+        "Fmaj7",
+        "Emin7",
+        "G",
+        "E7",
+        "Ebmaj7",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-?-?-iii-?-?-v-iii-?-iv"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmaj7",
+        "G",
+        "C",
+        "Dmin7",
+        "Amin",
+        "Fmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "Fmaj7",
+        "Emin",
+        "Dmin7",
+        "Dmin",
+        "C",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "Cmaj7",
+        "G",
+        "C",
+        "Dmin7",
+        "Amin",
+        "Fmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "Fmaj7",
+        "Emin",
+        "Dmin7",
+        "Dmin",
+        "C",
+        "Cmaj7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-ii-v-?-?-?-?-v-?-?-i-?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Fmaj7",
+        "Emin7",
+        "Emin",
+        "Fmaj7",
+        "Emin7",
+        "G",
+        "Ebmaj7",
+        "Eb",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Fmaj7",
+        "Emin7",
+        "Emin",
+        "Fmaj7",
+        "Emin7",
+        "G",
+        "Ebmaj7",
+        "Eb",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-?-?-?-?-?-v-?-biii-iv"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gb",
+        "Dbmaj7",
+        "Abmaj7",
+        "Gmin7",
+        "G",
+        "Db",
+        "Gbmaj7",
+        "Gb",
+        "Db",
+        "C7"
+      ],
+      "rawChords": [
+        "Gb",
+        "Dbmaj7",
+        "Abmaj7",
+        "Gmin7",
+        "G",
+        "Db",
+        "Gbmaj7",
+        "Gb",
+        "Db",
+        "C7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "progression:bbii-?-?-?-bii-bbvi-?-bbii-bbvi-bv"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmaj7",
+        "Emin7",
+        "G",
+        "Fmaj7",
+        "F",
+        "C",
+        "Emin7",
+        "Emin",
+        "E",
+        "Fmaj7",
+        "Emin7",
+        "C",
+        "Fmaj7",
+        "Emin7",
+        "G",
+        "C",
+        "Emin7",
+        "G",
+        "Ebmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "Emin7",
+        "G",
+        "Fmaj7",
+        "F",
+        "C",
+        "Emin7",
+        "Emin",
+        "E",
+        "Fmaj7",
+        "Emin7",
+        "C",
+        "Fmaj7",
+        "Emin7",
+        "G",
+        "C",
+        "Emin7",
+        "G",
+        "Ebmaj7",
+        "F"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-v-?-iv-i-?-?-iii-?-?-i-?-?-v-i-?-v-?-iv"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Love Life",
+  "release_date": "2015-06-09",
+  "duration_ms": 224093
+}

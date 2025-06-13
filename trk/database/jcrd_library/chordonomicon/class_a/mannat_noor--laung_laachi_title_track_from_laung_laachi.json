@@ -1,0 +1,181 @@
+{
+  "songID": "entry_100792",
+  "title": "Laung Laachi Title Track (From \"Laung Laachi\")",
+  "artist": "Mannat Noor",
+  "spotifyID": "31EqumBCMNGK3kt1sSL4gV",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "G",
+        "Emin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-?-?-?-i-?-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-v-?-iv-?-?-i-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Emin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-v-?-iv-?-?-i-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Laung Laachi Title Track (From \"Laung Laachi\")",
+  "release_date": "2018-02-22",
+  "duration_ms": 160635
+}

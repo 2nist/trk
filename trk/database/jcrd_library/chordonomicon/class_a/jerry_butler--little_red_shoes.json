@@ -1,0 +1,369 @@
+{
+  "songID": "entry_101717",
+  "title": "Little Red Shoes",
+  "artist": "Jerry Butler",
+  "spotifyID": "6wAiIOROSMjJtILTc1Gtqn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Csmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "G",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:iv-?-?-biii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin",
+        "D",
+        "Bmin",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "D",
+        "Bmin",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "G",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:v-?-?-i-?-?-?-?-?-?-?-?-iv-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E7",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-?-?-i-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Csmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "G",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin",
+        "D",
+        "Bmin",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "D",
+        "Bmin",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "G",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:v-?-?-i-?-?-?-?-?-?-?-?-iv-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-?-?-i-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Csmin",
+        "G",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "Csmin",
+        "G",
+        "E",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:?-biii-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "D",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "D",
+        "Bmin",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "Csmin",
+        "D",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 29,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:i-?-?-?-?-iv-?-?-?-v-?-i-?-v-?-i-?-?-?-?-iv-?-?-?-v-?-i-?-v-?-i-?-?-?-?-iv-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Signal: a Doo Wop Rhapsody",
+  "release_date": "2020-08-31",
+  "duration_ms": 206946
+}

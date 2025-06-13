@@ -1,0 +1,287 @@
+{
+  "songID": "entry_0995",
+  "title": "25",
+  "artist": "Morningsiders",
+  "spotifyID": "7vMmEp1Ofgn5KtGh4sQjq2",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "rawChords": [
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "rawChords": [
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Dsus4",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Dsus4",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Dsus4",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Dsus4",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-?-v-?-iv-?-i-?-v-?-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Dsus4",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Dsus4",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Dsus4",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Dsus4",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-?-v-?-iv-?-i-?-v-?-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Dsus4",
+        "C9",
+        "G",
+        "Dsus4",
+        "C9",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Unfocus",
+  "release_date": "2015",
+  "duration_ms": 239942
+}

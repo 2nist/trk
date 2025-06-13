@@ -1,0 +1,315 @@
+{
+  "songID": "entry_101567",
+  "title": "La mafia del baile, la ley del comp\u00e1s",
+  "artist": "Loquillo",
+  "spotifyID": "6NlyyR1VTVV6HpfjXwIJHH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:i-?-iv-?-iii-?-i-?-iv-?-iii-?-i-?-iv-?-iii-?-i-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.53",
+        "progression:v-?-ii-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:ii-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.50",
+        "progression:ii-?-?-i-?-v-?-ii-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:ii-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:ii-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.50",
+        "progression:ii-?-?-i-?-v-?-ii-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-?-iv-?-i-?-v-?-?-bvii-?-i-?-iv-?-iii-?-i-?-iv-?-iii-?-i-?-iv-?-iii-?-i-?-iv-?-iii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Diario de una tregua",
+  "release_date": "2022-04-29",
+  "duration_ms": 176024
+}

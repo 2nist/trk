@@ -1,0 +1,347 @@
+{
+  "songID": "entry_100555",
+  "title": "Eine Frage der Ehre - Kleine Liebe",
+  "artist": "Annett Louisan",
+  "spotifyID": "2UVaAssXdovZdGUJXsptVU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Cs",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Cs",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-v-i-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-v-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Fs7",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "Dmin",
+        "A",
+        "Cs",
+        "Fsmin",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Fs7",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "Dmin",
+        "A",
+        "Cs",
+        "Fsmin",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-i-v-i-?-ii-v-i-iv-?-i-?-?-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Cs",
+        "Fsmin",
+        "D",
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "Cs",
+        "Fsmin",
+        "D",
+        "A",
+        "E7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Fs7",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "Dmin",
+        "A",
+        "Cs",
+        "Fsmin",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Fs7",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "Dmin",
+        "A",
+        "Cs",
+        "Fsmin",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-i-v-i-?-ii-v-i-iv-?-i-?-?-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cs",
+        "Fs",
+        "B7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Cs",
+        "Fs",
+        "B7",
+        "B",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-v-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Fs7",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "Dmin",
+        "A",
+        "Cs",
+        "Fsmin",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Fs7",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "Dmin",
+        "A",
+        "Cs",
+        "Fsmin",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-i-v-i-?-ii-v-i-iv-?-i-?-?-i-iv-i-v-i-v-i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Kleine gro\u00dfe Liebe",
+  "release_date": "2019-03-29",
+  "duration_ms": 192600
+}

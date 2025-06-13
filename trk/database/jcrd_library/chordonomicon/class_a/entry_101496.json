@@ -1,0 +1,277 @@
+{
+  "songID": "entry_101496",
+  "title": "Demon Ghost Cave",
+  "artist": "Roar",
+  "spotifyID": "67wPFcBT3vuQxawN2yYhNn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D7",
+        "G",
+        "Emin",
+        "Amin",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D7",
+        "G",
+        "Emin",
+        "Amin",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Csmin",
+        "Fsmin",
+        "Ds7",
+        "Gsmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "Ds7",
+        "Gsmin",
+        "Fsmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Fsmin",
+        "Ds7",
+        "Gsmin",
+        "Fsmin",
+        "Csmin",
+        "Fsmin",
+        "Ds7",
+        "Gsmin",
+        "Fsmin",
+        "Amin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D7",
+        "G",
+        "Emin",
+        "Amin",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D7",
+        "G",
+        "Emin",
+        "Amin",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A7",
+        "Dmin7",
+        "Cminadd13",
+        "G",
+        "A7",
+        "Dmin7",
+        "Cminadd13",
+        "C/G",
+        "Eminadd13",
+        "C/G",
+        "Eminadd13"
+      ],
+      "rawChords": [
+        "G",
+        "A7",
+        "Dmin7",
+        "Cminadd13",
+        "G",
+        "A7",
+        "Dmin7",
+        "Cminadd13",
+        "C/G",
+        "Eminadd13",
+        "C/G",
+        "Eminadd13"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-?-iv-?-v-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "D7",
+        "G",
+        "C",
+        "A7"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "D7",
+        "G",
+        "C",
+        "A7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:v-?-i-?-iv-?-ii-?-v-?-i-?-iv-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.18",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Outro",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Diamond Destroyer of Death",
+  "release_date": "2021-03-30",
+  "duration_ms": 197270
+}

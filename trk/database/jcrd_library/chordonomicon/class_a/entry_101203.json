@@ -1,0 +1,299 @@
+{
+  "songID": "entry_101203",
+  "title": "You Can Call Me",
+  "artist": "Texas",
+  "spotifyID": "2DcGnYD80A2aOBXxUAghpn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-ii-?-i-v-ii-?-i-v-ii-?-i-v-ii-?-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Hi (Deluxe)",
+  "release_date": "2021-05-28",
+  "duration_ms": 190826
+}

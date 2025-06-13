@@ -1,0 +1,287 @@
+{
+  "songID": "entry_102451",
+  "title": "Looking For Love",
+  "artist": "Sheppard",
+  "spotifyID": "1c55ay5NCU5TOrXOxGSx1g",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bsus2"
+      ],
+      "rawChords": [
+        "Bsus2"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2"
+      ],
+      "rawChords": [
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-?-iii-?-?-?-iii-?-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2"
+      ],
+      "rawChords": [
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Fsmin",
+        "Esus2/B",
+        "Gsmin",
+        "G",
+        "Fsmin",
+        "Asus2"
+      ],
+      "length": 28,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-?-v-?-?-?-?-?-?-?-v-?-?-?-?-?-?-?-v-?-?-?-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2",
+        "Fsmin",
+        "E",
+        "Bsus2"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Kaleidoscope Eyes",
+  "release_date": "2021-02-26",
+  "duration_ms": 243600
+}

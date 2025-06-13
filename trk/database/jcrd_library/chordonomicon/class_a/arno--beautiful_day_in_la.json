@@ -1,0 +1,207 @@
+{
+  "songID": "entry_101996",
+  "title": "Beautiful Day in LA",
+  "artist": "Arno",
+  "spotifyID": "4r42whC0WnOS1J0GSG6TZG",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E7"
+      ],
+      "rawChords": [
+        "E7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dsus2",
+        "Asus2",
+        "E7"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "Asus2",
+        "E7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dsus2",
+        "Asus2",
+        "E7",
+        "Dsus2",
+        "Asus2",
+        "E7"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "Asus2",
+        "E7",
+        "Dsus2",
+        "Asus2",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dsus2",
+        "Asus2",
+        "E7",
+        "Dsus2",
+        "Asus2",
+        "E7"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "Asus2",
+        "E7",
+        "Dsus2",
+        "Asus2",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "E7",
+        "D",
+        "A",
+        "E7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E7",
+        "D",
+        "A",
+        "E7",
+        "D",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:i-?-v-?-ii-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "E7",
+        "D",
+        "A",
+        "E7",
+        "Dsus2",
+        "Asus2",
+        "E7",
+        "Dsus2",
+        "Asus2",
+        "E7"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E7",
+        "D",
+        "A",
+        "E7",
+        "Dsus2",
+        "Asus2",
+        "E7",
+        "Dsus2",
+        "Asus2",
+        "E7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:iv-?-i-?-v-?-iv-?-i-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Idiots Savants",
+  "release_date": "1993-03-23",
+  "duration_ms": 209933
+}

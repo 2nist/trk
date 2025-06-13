@@ -1,0 +1,237 @@
+{
+  "songID": "entry_102707",
+  "title": "Nov 2016",
+  "artist": "Suzi Bloom",
+  "spotifyID": "0tDGJO3Uwaia6Dn7rSLgx2",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F",
+        "Bb",
+        "Amin",
+        "Gmin",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Sanctuary",
+  "release_date": "2020-12-23",
+  "duration_ms": 169296
+}

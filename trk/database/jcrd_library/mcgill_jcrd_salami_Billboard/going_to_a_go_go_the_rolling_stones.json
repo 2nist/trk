@@ -1,0 +1,315 @@
+{
+  "title": "Going To A Go-Go",
+  "artist": "The Rolling Stones",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 2414,
+      "duration_ms": 15620,
+      "chords": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 18035,
+      "duration_ms": 14999,
+      "chords": [
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 33035,
+      "duration_ms": 14942,
+      "chords": [
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 47977,
+      "duration_ms": 22330,
+      "chords": [
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 70308,
+      "duration_ms": 15042,
+      "chords": [
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 85350,
+      "duration_ms": 14977,
+      "chords": [
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 100327,
+      "duration_ms": 30038,
+      "chords": [
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 130366,
+      "duration_ms": 14862,
+      "chords": [
+        "E:sus4(b7,9)",
+        "E:maj",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_5",
+      "start_ms": 145228,
+      "duration_ms": 14944,
+      "chords": [
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 160172,
+      "duration_ms": 43033,
+      "chords": [
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "E:sus4(b7,9)",
+        "E:sus4(b7,9)",
+        "E:maj",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "E:maj",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "E:maj",
+        "N",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

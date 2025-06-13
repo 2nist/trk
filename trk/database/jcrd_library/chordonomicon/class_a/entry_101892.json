@@ -1,0 +1,281 @@
+{
+  "songID": "entry_101892",
+  "title": "My Love Will Follow You",
+  "artist": "Dave Barnes",
+  "spotifyID": "06PEUqyLumcfAv2Kt7TuKa",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-v-?-i-?-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "Fsmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "Fsmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "A",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:v-?-?-v-?-i-?-v-?-?-v-?-i-?-?-ii-?-v-?-i-?-v-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-v-?-i-?-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "Fsmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "Fsmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "A",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:v-?-?-v-?-i-?-v-?-?-v-?-i-?-?-ii-?-v-?-i-?-v-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "A",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "Fsmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "Fsmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "Asus4",
+        "A"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-?-v-?-i-?-v-?-?-v-?-i-?-?-ii-?-v-?-i-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Notes from Paris",
+  "release_date": "2021-09-10",
+  "duration_ms": 230132
+}

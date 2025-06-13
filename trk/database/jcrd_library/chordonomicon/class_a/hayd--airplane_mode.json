@@ -1,0 +1,321 @@
+{
+  "songID": "entry_101864",
+  "title": "Airplane Mode",
+  "artist": "Hayd",
+  "spotifyID": "0AdoWBdFJUL5ejRBGFAAwq",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Dsus2",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Dsus2",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:i-?-?-?-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Dsus2",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Dsus2",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:i-?-?-?-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "Amin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cmaj7",
+        "G",
+        "D/Fs",
+        "Amin",
+        "Cmaj7",
+        "G",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "Cmaj7",
+        "G",
+        "D/Fs",
+        "Amin",
+        "Cmaj7",
+        "G",
+        "D/Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "Cmaj7",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Cmaj7",
+        "G",
+        "Bmin",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Changes - EP",
+  "release_date": "2021-09-17",
+  "duration_ms": 203060
+}

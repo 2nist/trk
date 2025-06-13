@@ -1,0 +1,277 @@
+{
+  "songID": "entry_100767",
+  "title": "Make My Life a Little Bit Brighter",
+  "artist": "Chester",
+  "spotifyID": "42bPsK2uirlswYxRy2CzZR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-i-v-i-v-i-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-iv-v-i-iv-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-i-v-i-v-i-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-iv-v-i-iv-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "E",
+        "D",
+        "Db",
+        "Fsmin",
+        "E",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "E",
+        "D",
+        "Db",
+        "Fsmin",
+        "E",
+        "D",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v-iv-biv-?-v-iv-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "E"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:ii-v-i-v-i-#i"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:i-iv-v-i-iv-v-i-iv-v-i-iv-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Make My Life a Little Bit Brighter",
+  "release_date": "1975-01-01",
+  "duration_ms": 187120
+}

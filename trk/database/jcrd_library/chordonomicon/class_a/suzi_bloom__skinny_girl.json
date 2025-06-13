@@ -1,0 +1,225 @@
+{
+  "songID": "entry_102709",
+  "title": "Skinny Girl",
+  "artist": "Suzi Bloom",
+  "spotifyID": "2J0PBwVauAsTENt1u9YSx3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-ii-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Sanctuary",
+  "release_date": "2020-12-23",
+  "duration_ms": 190868
+}

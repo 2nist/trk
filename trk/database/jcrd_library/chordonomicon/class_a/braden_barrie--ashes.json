@@ -1,0 +1,443 @@
+{
+  "songID": "entry_101260",
+  "title": "Ashes",
+  "artist": "Braden Barrie",
+  "spotifyID": "7nhVMjlVGCFHbjd8eN9QT9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Chorus",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Limitless",
+  "release_date": "2018-10-19",
+  "duration_ms": 234666
+}

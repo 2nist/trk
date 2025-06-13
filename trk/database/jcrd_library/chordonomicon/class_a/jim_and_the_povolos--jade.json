@@ -1,0 +1,297 @@
+{
+  "songID": "entry_102751",
+  "title": "Jade",
+  "artist": "Jim and The Povolos",
+  "spotifyID": "2hTI6fCnt0WypPsLJk0q1k",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "F",
+        "Ds",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "F",
+        "Ds",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:v-?-i-?-v-?-iv-?-#ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "Ds",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "Ds",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:i-?-v-?-iv-?-#ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:iv-?-v-?-i-?-?-ii-?-v-?-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "Ds",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "Ds",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:i-?-v-?-iv-?-#ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "Ds",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "Ds",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:i-?-v-?-iv-?-#ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:iv-?-v-?-i-?-?-ii-?-v-?-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "D",
+        "G",
+        "F",
+        "D",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "D",
+        "G",
+        "F",
+        "D",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.61",
+        "progression:?-i-?-ii-?-v-?-iv-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Make Party",
+  "release_date": "2017-06-16",
+  "duration_ms": 199394
+}

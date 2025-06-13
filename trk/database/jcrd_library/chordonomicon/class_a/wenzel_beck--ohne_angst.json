@@ -1,0 +1,241 @@
+{
+  "songID": "entry_100805",
+  "title": "Ohne Angst",
+  "artist": "Wenzel Beck",
+  "spotifyID": "7uMqcmHhr5wEpzM6nfePIJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "C",
+        "E",
+        "C",
+        "Amin",
+        "C",
+        "E",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "C",
+        "E",
+        "C",
+        "Amin",
+        "C",
+        "E",
+        "C"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-ii-?-v-?-i-?-iii-?-i-?-?-i-?-iii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "C",
+        "E",
+        "C",
+        "Amin",
+        "C",
+        "E",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "C",
+        "E",
+        "C",
+        "Amin",
+        "C",
+        "E",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:ii-?-?-i-?-v-?-ii-?-?-i-?-ii-?-v-?-i-?-iii-?-i-?-?-i-?-iii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Ohne Angst",
+  "release_date": "2021-03-12",
+  "duration_ms": 165442
+}

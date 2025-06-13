@@ -1,0 +1,329 @@
+{
+  "songID": "entry_101916",
+  "title": "Tomorrow",
+  "artist": "Andrew Ripp",
+  "spotifyID": "0I5r1VOxCdRdmAnBkTcBFS",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "D",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "D",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?-i-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:?-iv-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:?-iv-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Evergreen",
+  "release_date": "2021-05-14",
+  "duration_ms": 156270
+}

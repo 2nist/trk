@@ -1,0 +1,347 @@
+{
+  "songID": "entry_101453",
+  "title": "Carolientje",
+  "artist": "Louis Neefs",
+  "spotifyID": "0M706hxWg1gAGBNiFzVuQ9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-?-ii-?-v-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.50",
+        "progression:v-?-i-?-iv-?-ii-?-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "G",
+        "C",
+        "E",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "C",
+        "E",
+        "A",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:ii-?-v-?-i-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-?-ii-?-v-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "Emin",
+        "Bmin",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "Emin",
+        "Bmin",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:?-?-?-?-?-v-?-?-v-?-iv-?-?-?-?-i-?-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:?-ii-?-v-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.50",
+        "progression:v-?-i-?-iv-?-ii-?-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "G",
+        "C",
+        "E",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "C",
+        "E",
+        "A",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:ii-?-v-?-i-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:v-?-?-ii-?-v-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Vlaamse Troeven volume 286",
+  "release_date": "2021-09-06",
+  "duration_ms": 138684
+}

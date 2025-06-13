@@ -1,0 +1,291 @@
+{
+  "songID": "entry_0129",
+  "title": "Die Frau in meinem Spiegel",
+  "artist": "Peggy March",
+  "spotifyID": "2rcYTQRmj6HzSdqVzNdMak",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb"
+      ],
+      "rawChords": [
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:bbii-?-bbvi-?-bbii-?-bbvi-?-bbii-?-?-?-bbii-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:bbii-?-bbvi-?-?-?-bbv-?-bbvi-?-bbii-?-bbvi-?-?-?-bbv-?-bbvi-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb"
+      ],
+      "rawChords": [
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:bbii-?-bbvi-?-bbii-?-bbvi-?-bbii-?-?-?-bbii-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:bbii-?-bbvi-?-?-?-bbv-?-bbvi-?-bbii-?-bbvi-?-?-?-bbv-?-bbvi-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "E",
+        "B",
+        "Dbmin",
+        "Absus4",
+        "Ab"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "E",
+        "B",
+        "Dbmin",
+        "Absus4",
+        "Ab"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:?-bbvi-?-?-bbvi-?-bvi-?-biii-?-?-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab",
+        "Bbmin",
+        "Cmin",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:bbvi-?-?-?-bbv-?-bbvi-?-bbii-?-bbvi-?-?-?-bbv-?-bbvi-?-bbii-?-?-?-bbv-?-bbvi-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Die Frau in meinem Spiegel",
+  "release_date": "2022-03-04",
+  "duration_ms": 205400
+}

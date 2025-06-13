@@ -1,0 +1,251 @@
+{
+  "songID": "entry_0483",
+  "title": "My God Is Real",
+  "artist": "Johnny Cash",
+  "spotifyID": "2P2teY23XqucXk85CQGs0O",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:iv-?-i-?-v-?-ii-?-v-?-ii-?-v-?-i-?-iv-?-i-?-v-?-i-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:iv-?-i-?-v-?-ii-?-v-?-ii-?-v-?-i-?-iv-?-i-?-v-?-i-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Hymns From The Heart",
+  "release_date": "1962-06-01",
+  "duration_ms": 116826
+}

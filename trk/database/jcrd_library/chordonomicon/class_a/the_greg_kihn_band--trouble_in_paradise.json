@@ -1,0 +1,313 @@
+{
+  "songID": "entry_101263",
+  "title": "Trouble In Paradise",
+  "artist": "The Greg Kihn Band",
+  "spotifyID": "6VEP2KMytPHVDj4dMQNoWQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A"
+      ],
+      "rawChords": [
+        "A"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "Bmin",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Rockihnroll",
+  "release_date": "1981-01-01",
+  "duration_ms": 213933
+}

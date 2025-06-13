@@ -1,0 +1,225 @@
+{
+  "title": "Last Kiss",
+  "artist": "Wednesday",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 2693,
+      "duration_ms": 7355,
+      "chords": [
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "B:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 10048,
+      "duration_ms": 18050,
+      "chords": [
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "B:maj",
+        "E:maj",
+        "N",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 28099,
+      "duration_ms": 32624,
+      "chords": [
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "B:maj",
+        "E:maj",
+        "N",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 60723,
+      "duration_ms": 18189,
+      "chords": [
+        "N",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "B:maj",
+        "E:maj",
+        "N",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 78912,
+      "duration_ms": 40537,
+      "chords": [
+        "N",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "N",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 119450,
+      "duration_ms": 18215,
+      "chords": [
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "B:maj",
+        "E:maj",
+        "N",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 137665,
+      "duration_ms": 7322,
+      "chords": [
+        "N",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 144988,
+      "duration_ms": 11093,
+      "chords": [
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj",
+        "B:maj",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

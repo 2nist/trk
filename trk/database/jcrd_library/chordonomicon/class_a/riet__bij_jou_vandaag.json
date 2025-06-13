@@ -1,0 +1,521 @@
+{
+  "songID": "entry_102086",
+  "title": "Bij Jou Vandaag",
+  "artist": "RIET",
+  "spotifyID": "5iNtFrRwjiK9M4QOyiLGCs",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-iv-?-i-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-iv-?-i-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-i-?-v-?-i-?-?-ii-?-v-?-i-?-v-?-i-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-iv-?-i-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.44",
+        "progression:i-?-v-?-i-?-?-ii-?-v-?-i-?-v-?-i-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "C/G",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "C/G",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:?-v-?-i-?-?-?-?-v-?-i-?-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-i-?-v-?-i-?-?-ii-?-v-?-i-?-v-?-i-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Chorus",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Aardbeien in Januari",
+  "release_date": "2021-01-08",
+  "duration_ms": 226493
+}

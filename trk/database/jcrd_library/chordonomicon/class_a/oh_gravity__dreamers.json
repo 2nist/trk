@@ -1,0 +1,347 @@
+{
+  "songID": "entry_102607",
+  "title": "Dreamers",
+  "artist": "Oh Gravity",
+  "spotifyID": "2WsIlH4B2UEqXVmG8cqoxN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "E",
+        "Amin7",
+        "F",
+        "C",
+        "E",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "E",
+        "Amin7",
+        "F",
+        "C",
+        "E",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.52",
+        "progression:i-?-iii-?-?-iv-?-i-?-iii-?-?-v-?-iv-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "E",
+        "Amin7",
+        "F",
+        "C",
+        "E",
+        "Amin7",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "E",
+        "Amin7",
+        "F",
+        "C",
+        "E",
+        "Amin7",
+        "G",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:i-?-iii-?-?-iv-?-i-?-iii-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "E",
+        "Amin7",
+        "F",
+        "C",
+        "E",
+        "Amin7",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "E",
+        "Amin7",
+        "F",
+        "C",
+        "E",
+        "Amin7",
+        "G",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:i-?-iii-?-?-iv-?-i-?-iii-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Never Fade Away",
+  "release_date": "2015-08-28",
+  "duration_ms": 203839
+}

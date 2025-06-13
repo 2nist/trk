@@ -1,0 +1,297 @@
+{
+  "songID": "entry_100542",
+  "title": "Dig up the Hatchet",
+  "artist": "Jimbo Mathus",
+  "spotifyID": "6AxgAWCStaeT8fnEp1qBYr",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Fsmin",
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-?-i-?-v-?-ii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:?-iv-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Fsmin",
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:?-iv-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:i-?-ii-?-?-i-?-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:iv-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "These 13",
+  "release_date": "2021-03-05",
+  "duration_ms": 153933
+}

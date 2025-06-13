@@ -1,0 +1,441 @@
+{
+  "songID": "entry_101675",
+  "title": "El Morocho y el Oriental",
+  "artist": "Adriana Varela",
+  "spotifyID": "420FinHcfJIiCJIsXiYLxv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "E7",
+        "Dmin",
+        "E",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin7",
+        "A7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "E7",
+        "Dmin",
+        "E",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin7",
+        "A7",
+        "Amin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.32",
+        "progression:?-?-v-?-?-biii-?-bvii-?-bvi-?-v-?-?-v-?-v-?-?-i-?-?-v-?-?-i-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "E7",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "Amin",
+        "Dmin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "E7",
+        "Amin",
+        "Dmin",
+        "E7",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "E7",
+        "Dmin",
+        "E",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "E7",
+        "Dmin",
+        "E",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "E7",
+        "Amin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-?-iii-?-?-i-?-v-?-iv-?-iii-?-?-iii-?-iii-?-?-vi-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B7",
+        "Dsdim",
+        "E7",
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "B7",
+        "Dsdim",
+        "E7",
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "E7",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-ii-?-?-v-?-i-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Fsmin",
+        "E",
+        "A",
+        "Dmin",
+        "Amin",
+        "E",
+        "Amin",
+        "A7",
+        "Dmin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Cs",
+        "Fsmin",
+        "E",
+        "A",
+        "Dmin",
+        "Amin",
+        "E",
+        "Amin",
+        "A7",
+        "Dmin",
+        "E7",
+        "Amin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.57",
+        "progression:iii-?-?-v-?-i-?-?-?-v-?-?-i-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B7",
+        "Dsdim",
+        "E7",
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "B7",
+        "Dsdim",
+        "E7",
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "E7",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-ii-?-?-v-?-i-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Fsmin",
+        "E",
+        "A",
+        "Dmin",
+        "Amin",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "Cs",
+        "Fsmin",
+        "E",
+        "A",
+        "Dmin",
+        "Amin",
+        "E7",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.60",
+        "progression:iii-?-?-v-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Fsmin",
+        "E7",
+        "A",
+        "Dmin",
+        "A",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "Cs",
+        "Fsmin",
+        "E7",
+        "A",
+        "Dmin",
+        "A",
+        "E7",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:iii-?-?-v-?-i-?-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "F",
+        "G",
+        "E",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "E",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:iv-?-v-?-iii-?-iii-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "Gsdim",
+        "Amin",
+        "Dmin",
+        "Gsdim",
+        "Amin"
+      ],
+      "rawChords": [
+        "E7",
+        "Gsdim",
+        "Amin",
+        "Dmin",
+        "Gsdim",
+        "Amin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Instrumental",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Instrumental",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Encaje",
+  "release_date": "2017-07-04",
+  "duration_ms": 153186
+}

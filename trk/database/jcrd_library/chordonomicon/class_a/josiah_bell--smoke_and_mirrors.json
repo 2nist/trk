@@ -1,0 +1,301 @@
+{
+  "songID": "entry_101362",
+  "title": "Smoke and Mirrors",
+  "artist": "Josiah Bell",
+  "spotifyID": "12EjGzNHXAOBbL4HU9HRRQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Smoke and Mirrors",
+  "release_date": "2016-02-11",
+  "duration_ms": 157941
+}

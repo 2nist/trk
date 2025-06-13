@@ -1,0 +1,449 @@
+{
+  "songID": "entry_0948",
+  "title": "Southbound Jericho Parkway - Remastered 2015",
+  "artist": "Roy Orbison",
+  "spotifyID": "2WAl9YUZYSsJesXACRzk1Z",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A"
+      ],
+      "rawChords": [
+        "A"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "A",
+        "D",
+        "A",
+        "Asus2"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "A",
+        "D",
+        "A",
+        "Asus2"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-ii-i-v-ii-i-v-iv-i-v-iv-?-ii-v-ii-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "Emin",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "F",
+        "Emin",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:ii-v-i-?-iii-vi-iii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:iv-i-v-iv-i-v-iv-i-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "Eb",
+        "E",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "Eb",
+        "E",
+        "F"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-v-ii-i-v-ii-i-v-ii-i-v-ii-i-v-i-#i-ii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Bb",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Bb",
+        "Gmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:v-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Eb",
+        "Cmin",
+        "C",
+        "F",
+        "Fmin7"
+      ],
+      "rawChords": [
+        "B",
+        "Eb",
+        "Cmin",
+        "C",
+        "F",
+        "Fmin7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:vii-biii-?-i-iv-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "C",
+        "C7",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Cadd13",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C7",
+        "C",
+        "C7",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Cadd13",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-v-v-v-iv-i-v-?-v-iv-i-v-iv-i-v-iv-i-v-iv-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "F7",
+        "C",
+        "Bb",
+        "F7",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "F7",
+        "C",
+        "Bb",
+        "F7",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:i-v-v-ii-i-v-ii-i-v-ii-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C7",
+        "C",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "C7",
+        "C",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-v-biii-?-biii-?-biii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Cmin",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Abmin",
+        "Eb",
+        "Bb",
+        "Bb7",
+        "Cmin",
+        "Ab",
+        "Ab7",
+        "Bb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Abmin",
+        "Eb",
+        "Bb",
+        "Bb7",
+        "Cmin",
+        "Ab",
+        "Ab7",
+        "Bb",
+        "Ab"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:?-bbiii-bbii-?-bbiii-bbii-?-bbii-?-bbvi-bbiii-bbiii-?-bbii-bbii-bbiii-bbii"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Roy Orbison: The MGM Years 1965 - 1973 (Remastered)",
+  "release_date": "2015-10-23",
+  "duration_ms": 419240
+}

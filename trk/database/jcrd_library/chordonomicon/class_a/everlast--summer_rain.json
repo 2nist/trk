@@ -1,0 +1,283 @@
+{
+  "songID": "entry_0739",
+  "title": "Summer Rain",
+  "artist": "Everlast",
+  "spotifyID": "0x02IKC09GufIhUIW7WCbN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:iv-?-v-?-iv-?-v-?-iv-?-v-?-i-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:iv-?-v-?-iv-?-v-?-iv-?-v-?-i-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:iv-?-v-?-iv-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Whitey Ford's House of Pain",
+  "release_date": "2018-09-07",
+  "duration_ms": 196586
+}

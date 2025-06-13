@@ -1,0 +1,243 @@
+{
+  "songID": "entry_10006",
+  "title": "Can't Love You On The Phone",
+  "artist": "Cody Riddle",
+  "spotifyID": "2u145GveIi5LRJnxuJmpZV",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-i-ii-i-v-ii-?-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-i-v-i-iv-i-v-?-v-i-iv-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-i-ii-i-v-ii-?-v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-?-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Can't Love You On The Phone",
+  "release_date": "2022-10-27",
+  "duration_ms": 271795
+}

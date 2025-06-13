@@ -1,0 +1,307 @@
+{
+  "songID": "entry_0738",
+  "title": "Genderpolizei",
+  "artist": "Roland Hefter",
+  "spotifyID": "2m5wZJciBSeNQ3t9rErzCt",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "G"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-v-i-?-?-v-i-?-?-v-i-?-iv-v-iii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Eb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-?-v-iv-i-?-?-v-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "G"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-v-i-?-?-v-i-?-?-v-i-?-iv-v-iii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Ab"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-?-v-iv-i-?-?-v-iv"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "G"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-v-i-?-iv-v-iii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      "rawChords": [
+        "Eb",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbvi-?-bbiii-bbii-bbvi-?-?-bbiii-bbii-bbiii-bbii-bbiii-bbvi-bbv-bbii-bbv"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Genderpolizei",
+  "release_date": "2023-02-09",
+  "duration_ms": 196595
+}

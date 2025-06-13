@@ -1,0 +1,235 @@
+{
+  "songID": "entry_0542",
+  "title": "Little Miss Saturday Night",
+  "artist": "Drew Parker",
+  "spotifyID": "5MF7WqDx40eGewUkrPiigs",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-i-v-i-?-ii-i-v-?-ii-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-?-i-ii-v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-i-?-ii-i-v-?-ii-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-?-i-ii-v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-?-i-ii-v-i-ii-v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Little Miss Saturday Night",
+  "release_date": "2022-05-13",
+  "duration_ms": 200438
+}

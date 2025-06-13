@@ -1,0 +1,397 @@
+{
+  "songID": "entry_100279",
+  "title": "Max",
+  "artist": "Jacques Vermeire",
+  "spotifyID": "5Nl7tFAa4kAJbv7E9zvxGq",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "A",
+        "As",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "A",
+        "As",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:?-?-iii-?-?-?-iii-?-?-?-iii-?-#iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "C",
+        "As",
+        "Dmin/A"
+      ],
+      "rawChords": [
+        "Cmin",
+        "C",
+        "As",
+        "Dmin/A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-#iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "Amin",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "Amin",
+        "E",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-?-ii-?-?-biii-?-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "A",
+        "As",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "A",
+        "As",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:?-?-iii-?-?-?-iii-?-?-?-iii-?-#iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "As/A",
+        "Dmin/A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "As/A",
+        "Dmin/A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-?-ii-?-?-biii-?-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-?-ii-?-?-biii-?-?-ii-?-?-biii-?-?-ii-?-?-biii-?-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-?-ii-?-?-biii-?-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-?-ii-?-?-biii-?-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-?-ii-?-?-biii-?-?-ii-?-?-biii-?-?-ii-?-?-biii-?-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Max (The Original Soundtrack)",
+  "release_date": "1994-03-09",
+  "duration_ms": 186026
+}

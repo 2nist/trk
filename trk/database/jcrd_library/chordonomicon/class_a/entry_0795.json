@@ -1,0 +1,269 @@
+{
+  "songID": "entry_0795",
+  "title": "If You Think I'm Crazy Now [You Should Have Seen Me When I Was a Kid]",
+  "artist": "Creed Fisher",
+  "spotifyID": "6sx6u2XyfEJcntaizuxaXQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "B",
+        "E",
+        "A",
+        "E",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "B",
+        "E",
+        "A",
+        "E",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-i-v-i-ii-v-i-v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "Gs",
+        "Csmin",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "Gs",
+        "Csmin",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-i-v-?-?-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "F"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-ii-v-bvi"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "As",
+        "F",
+        "As",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "F",
+        "As",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "As",
+        "F",
+        "As",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "F",
+        "As",
+        "C",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-v-?-v-?-ii-v-?-v-?-ii-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "As",
+        "F",
+        "C",
+        "F",
+        "As",
+        "F",
+        "C",
+        "As",
+        "F",
+        "A",
+        "Dmin",
+        "F",
+        "As",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "As",
+        "F",
+        "C",
+        "F",
+        "As",
+        "F",
+        "C",
+        "As",
+        "F",
+        "A",
+        "Dmin",
+        "F",
+        "As",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-i-v-i-?-i-v-?-i-iii-?-i-?-i-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "As",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "As",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-i-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "How Country Music Sounded Before It All Went to Shit, Vol. 1",
+  "release_date": "2021-02-25",
+  "duration_ms": 163210
+}

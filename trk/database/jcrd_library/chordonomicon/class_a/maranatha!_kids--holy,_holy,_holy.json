@@ -1,0 +1,79 @@
+{
+  "songID": "entry_0421",
+  "title": "Holy, Holy, Holy",
+  "artist": "Maranatha! Kids",
+  "spotifyID": "2HLhjO1RuzdAnbKN1NXasT",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Fmin/Db",
+        "Bbmin",
+        "C7",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Fmin/Db",
+        "Bbmin",
+        "C7",
+        "Fmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb/G",
+        "Fmin",
+        "Eb/G",
+        "Fmin",
+        "Db",
+        "Eb",
+        "Eb/G",
+        "Fmin/G",
+        "Bbmin",
+        "C"
+      ],
+      "rawChords": [
+        "Eb/G",
+        "Fmin",
+        "Eb/G",
+        "Fmin",
+        "Db",
+        "Eb",
+        "Eb/G",
+        "Fmin/G",
+        "Bbmin",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:?-?-?-?-iv-?-v-?-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Top 25 Kids' Praise Songs 2012",
+  "release_date": "2011-01-01",
+  "duration_ms": 126546
+}

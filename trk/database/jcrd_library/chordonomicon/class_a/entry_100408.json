@@ -1,0 +1,319 @@
+{
+  "songID": "entry_100408",
+  "title": "Darkness",
+  "artist": "Horizonkit",
+  "spotifyID": "1SXnQzc4vXDjpVPwXdKJqz",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-i-v-?-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Cadd9",
+        "E",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Cadd9",
+        "E",
+        "G",
+        "Emin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-i-?-?-i-?-iii-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Dmin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Dmin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-i-v-?-?-ii-i-v-?-i-v-?-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Cadd9",
+        "E",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Cadd9",
+        "E",
+        "G",
+        "Emin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-i-?-?-i-?-iii-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Dmin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Dmin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-i-v-?-?-ii-i-v-?-i-v-?-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-i-?-?-?-i-v-i-?-i-v-?-?-i-v-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Dmin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Emin",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Dmin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "E"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-?-i-v-?-?-ii-i-v-?-i-v-?-iii-?-i-v-?-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Fisherman",
+  "release_date": "2021-06-01",
+  "duration_ms": 268224
+}

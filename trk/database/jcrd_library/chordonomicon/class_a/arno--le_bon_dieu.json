@@ -1,0 +1,171 @@
+{
+  "songID": "entry_101810",
+  "title": "Le bon Dieu",
+  "artist": "Arno",
+  "spotifyID": "0XlsMORbzHd0IdwcaDgL6f",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus2",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "E",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Fs",
+        "Gs",
+        "Fs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Gs",
+        "Fs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus2",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "E",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Charlatan",
+  "release_date": "1988-04-04",
+  "duration_ms": 155160
+}

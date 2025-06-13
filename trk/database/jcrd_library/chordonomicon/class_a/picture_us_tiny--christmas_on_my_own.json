@@ -1,0 +1,249 @@
+{
+  "songID": "entry_0087",
+  "title": "Christmas On My Own",
+  "artist": "Picture Us Tiny",
+  "spotifyID": "4aZdaUQoz69EqlmXt78TrE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-ii-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:i-?-v-?-iv-?-i-?-v-?-iv-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "D",
+        "G",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "F",
+        "D",
+        "G",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.55",
+        "progression:v-?-i-?-iv-?-ii-?-v-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-iv-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-ii-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Christmas On My Own",
+  "release_date": "2022-12-09",
+  "duration_ms": 168829
+}

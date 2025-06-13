@@ -1,0 +1,211 @@
+{
+  "songID": "entry_0806",
+  "title": "Ask Away",
+  "artist": "The Okee Dokee Brothers",
+  "spotifyID": "46KDaQrOxKuPchEddEWmF8",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-ii-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:v-?-i-?-iv-?-i-?-v-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Songs for Singin'",
+  "release_date": "2020-05-01",
+  "duration_ms": 161391
+}

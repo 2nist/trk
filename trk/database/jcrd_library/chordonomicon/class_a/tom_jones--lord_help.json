@@ -1,0 +1,133 @@
+{
+  "songID": "entry_101150",
+  "title": "Lord Help",
+  "artist": "Tom Jones",
+  "spotifyID": "1xjuK5OKGetZ1tn2fjo8Ha",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fs"
+      ],
+      "rawChords": [
+        "Fs"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gs",
+        "Fs"
+      ],
+      "rawChords": [
+        "Gs",
+        "Fs"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gs",
+        "Cs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Gs",
+        "Cs",
+        "Gs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Interlude"
+  ],
+  "tags": [],
+  "album": "Praise & Blame",
+  "release_date": "2010-01-01",
+  "duration_ms": 221826
+}

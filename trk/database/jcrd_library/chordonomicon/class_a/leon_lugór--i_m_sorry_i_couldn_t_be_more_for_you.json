@@ -1,0 +1,153 @@
+{
+  "songID": "entry_0031",
+  "title": "I'M SORRY I COULDN'T BE MORE FOR YOU",
+  "artist": "Leon Lug\u00f3r",
+  "spotifyID": "3JICV5tPaDMjzpYHBfAUrz",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Fmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I'M SORRY I COULDN'T BE MORE FOR YOU",
+  "release_date": "2023-02-02",
+  "duration_ms": 114339
+}

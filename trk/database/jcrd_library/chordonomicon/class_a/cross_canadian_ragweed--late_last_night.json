@@ -1,0 +1,165 @@
+{
+  "songID": "entry_100239",
+  "title": "Late Last Night",
+  "artist": "Cross Canadian Ragweed",
+  "spotifyID": "727I1bsWFs7UQ0YYmq1zCo",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-ii-?-i-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:v-?-i-?-v-?-i-?-ii-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Garage",
+  "release_date": "2005-01-01",
+  "duration_ms": 212186
+}

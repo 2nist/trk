@@ -1,0 +1,279 @@
+{
+  "songID": "entry_101237",
+  "title": "Better Late Than Never",
+  "artist": "Eat Your Heart Out",
+  "spotifyID": "5MD6XRzIuhHO9PYFWqj2eJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ab"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-bbvi"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-bbvi-?-bbvi"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Gmin",
+        "Ab",
+        "Fmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Gmin",
+        "Ab",
+        "Fmin",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-i-?-v-?-i-?-v"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Ab"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbii-bbvi-bbii"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Gmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Gmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Ab"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:?-?-bbii-bbvi-?-?-bbii"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Gmin",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Gmin",
+        "Ab",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Gmin",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Gmin",
+        "Ab",
+        "Fmin"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbvi-?-bbii-bbvi-?-bbii-bbvi-?-bbii-?-bbii-?-bbvi-?-bbii-bbvi-?-bbii-bbvi-?-bbii-?-bbii-?"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Cmin",
+        "Ab",
+        "Fmin",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ab",
+        "Fmin",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Fmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:?-bbii-?-?-bbii-?-bbii-bbvi-?-bbii-bbvi-?-bbii-bbvi-?-bbii-bbvi-?-bbii-?"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Instrumental"
+  ],
+  "tags": [],
+  "album": "Mind Games",
+  "release_date": "2017-12-01",
+  "duration_ms": 188212
+}

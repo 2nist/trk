@@ -1,0 +1,189 @@
+{
+  "songID": "entry_100414",
+  "title": "The Chicken",
+  "artist": "Mississippi John Hurt",
+  "spotifyID": "0RSJyhdacIvDIapU79hUy1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-i-v-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-i-v-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Complete Studio Recordings",
+  "release_date": "2000",
+  "duration_ms": 69826
+}

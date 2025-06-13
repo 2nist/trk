@@ -1,0 +1,251 @@
+{
+  "songID": "entry_101394",
+  "title": "With This Tear",
+  "artist": "C\u00e9line Dion",
+  "spotifyID": "40wCJBVGDSSGymvS1Tg380",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "Csmin",
+        "Bmin",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Csmin",
+        "Bmin",
+        "Bb",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.56",
+        "progression:i-?-v-?-?-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "A/Cs",
+        "Bmin",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "A/Cs",
+        "Bmin",
+        "Bb",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.56",
+        "progression:i-?-?-i-?-ii-?-v-?-i-?-?-i-?-v-?-?-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bmin",
+        "Bb",
+        "A",
+        "D",
+        "E",
+        "Emin",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Bb",
+        "A",
+        "D",
+        "E",
+        "Emin",
+        "Ebmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.09",
+        "progression:?-bvi-?-v-?-i-?-ii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "Bb",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.51",
+        "progression:i-?-?-i-?-v-?-i-?-?-i-?-v-?-ii-?-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "Bb",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:i-?-?-i-?-v-?-ii-?-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Celine Dion",
+  "release_date": "1992-03-30",
+  "duration_ms": 252133
+}

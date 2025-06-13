@@ -1,0 +1,171 @@
+{
+  "songID": "entry_101256",
+  "title": "Remember The Time",
+  "artist": "Chris Regez",
+  "spotifyID": "5Qf5NwdUHXmcyK3EzGIgXb",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "D",
+        "A",
+        "D",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "D",
+        "A",
+        "D",
+        "E7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-?-?-v-i-?-?-v-iv-i-iv-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:i-v-i-ii-i-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "A",
+        "Amaj7",
+        "Bmin",
+        "E7",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-v-i-?-?-v-iv-i-iv-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "In the Cloud",
+  "release_date": "2022-01-01",
+  "duration_ms": 196231
+}

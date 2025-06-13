@@ -1,0 +1,415 @@
+{
+  "songID": "entry_102752",
+  "title": "Trying",
+  "artist": "Jordan Davis",
+  "spotifyID": "2mWp5olnLmpzAReIGK18dA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "Dsmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin",
+        "Cs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "Gsmin7",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "Gsmin7",
+        "B"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin7",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin7",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "B",
+        "Dsmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin",
+        "Cs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Fs",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Fs",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.18",
+        "progression:iv-?-?-v-?-iv-?-?-v-?-iv-?-?-i-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin7",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin7",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Fs"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:i-?-v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin7"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Fs",
+        "B",
+        "Fs",
+        "Cs",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Fs",
+        "Cs",
+        "Fs",
+        "B",
+        "Fs",
+        "Cs",
+        "Fs"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Buy Dirt",
+  "release_date": "2021-05-21",
+  "duration_ms": 176866
+}

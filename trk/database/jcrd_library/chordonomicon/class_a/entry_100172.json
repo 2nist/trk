@@ -1,0 +1,281 @@
+{
+  "songID": "entry_100172",
+  "title": "Speak",
+  "artist": "Jhen\u00e9 Aiko",
+  "spotifyID": "6ffCTLnwgOBNv09A9UCRl9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "Amaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-ii-i-v-i-v-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Amaj7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Amaj7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "B",
+        "Amaj7",
+        "E",
+        "A",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "Amaj7",
+        "E",
+        "A",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Amaj7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-v-?-i-iv-?-?-v-iv-i-?-?-v-iv-i-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Csmin",
+        "B",
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "Amaj7",
+        "E",
+        "A",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "Amaj7",
+        "E",
+        "A",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-v-?-i-?-?-v-?-i-iv-?-?-v-iv-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "A",
+        "Amaj7",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "A",
+        "Amaj7",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-ii-i-v-i-?-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Chilombo",
+  "release_date": "2020-03-06",
+  "duration_ms": 185240
+}

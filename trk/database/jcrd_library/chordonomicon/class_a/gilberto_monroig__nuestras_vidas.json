@@ -1,0 +1,247 @@
+{
+  "songID": "entry_102859",
+  "title": "Nuestras Vidas",
+  "artist": "Gilberto Monroig",
+  "spotifyID": "7hrbkbJB2YSwQ4ESKhEcyO",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fsmin",
+        "B7",
+        "E",
+        "Gs7",
+        "Fsmin7",
+        "D7",
+        "E",
+        "Fsmin7",
+        "B7",
+        "E",
+        "Fs7",
+        "Fsmin7"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "B7",
+        "E",
+        "Gs7",
+        "Fsmin7",
+        "D7",
+        "E",
+        "Fsmin7",
+        "B7",
+        "E",
+        "Fs7",
+        "Fsmin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.18",
+        "progression:?-ii-?-v-?-?-?-iv-?-v-?-?-ii-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Fsmin7",
+        "Gsmin7",
+        "Gmin7",
+        "Fsmin7",
+        "B7",
+        "Fsmin",
+        "Aminadd13",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin7",
+        "Gsmin7",
+        "Gmin7",
+        "Fsmin7",
+        "B7",
+        "Fsmin",
+        "Aminadd13",
+        "B7",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-?-?-v-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin7",
+        "Gsmin",
+        "Ds7",
+        "Gsmin",
+        "Fsmin7",
+        "B7"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "Gsmin",
+        "Ds7",
+        "Gsmin",
+        "Fsmin7",
+        "B7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Fsmin7",
+        "Gsmin7",
+        "Gmin",
+        "Fsmin7",
+        "B7",
+        "Fsmin",
+        "Aminadd13",
+        "B7",
+        "E",
+        "Bmin7",
+        "Emin7"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin7",
+        "Gsmin7",
+        "Gmin",
+        "Fsmin7",
+        "B7",
+        "Fsmin",
+        "Aminadd13",
+        "B7",
+        "E",
+        "Bmin7",
+        "Emin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-?-?-v-?-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "Cs7",
+        "Fsmin",
+        "Aminadd13",
+        "B7",
+        "Gsmin",
+        "Cs7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "Cs7",
+        "Fsmin",
+        "Aminadd13",
+        "B7",
+        "Gsmin",
+        "Cs7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.49",
+        "progression:ii-?-v-?-vi-?-v-?-?-?-?-iii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fsmin7",
+        "Aminadd13",
+        "B7",
+        "E",
+        "D",
+        "G",
+        "Fs",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "Aminadd13",
+        "B7",
+        "E",
+        "D",
+        "G",
+        "Fs",
+        "F",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.24",
+        "progression:?-?-v-?-i-?-bvii-?-biii-?-ii-?-bii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Lo Mejor De Gilberto Monroig Atraves De Los A\u00f1os",
+  "release_date": "1993-08-02",
+  "duration_ms": 160240
+}

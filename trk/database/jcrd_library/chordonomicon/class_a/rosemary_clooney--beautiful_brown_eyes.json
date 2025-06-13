@@ -1,0 +1,235 @@
+{
+  "songID": "entry_0832",
+  "title": "Beautiful Brown Eyes",
+  "artist": "Rosemary Clooney",
+  "spotifyID": "0M1uwzjENOO4nD1K4PYijC",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "A7",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "D",
+        "E7",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "D",
+        "E7",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-vi-?-ii-?-v-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "D",
+        "E7",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "D",
+        "E7",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-vi-?-ii-?-v-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-v-?-ii-?-v-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "D",
+        "E7",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "D",
+        "E7",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "A7",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-vi-?-ii-?-v-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Rosemary Clooney Sings Country Hits from the Heart",
+  "release_date": "1963-12-31",
+  "duration_ms": 173226
+}

@@ -1,0 +1,223 @@
+{
+  "songID": "entry_102865",
+  "title": "Void",
+  "artist": "Balance And Composure",
+  "spotifyID": "45T7TFknSmMmZGVxMlcuIJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fmin",
+        "Cs",
+        "Ds"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cs",
+        "Ds"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Asmin",
+        "Cs",
+        "Fmin",
+        "Asmin",
+        "Cs",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Asmin",
+        "Cs",
+        "Fmin",
+        "Asmin",
+        "Cs",
+        "Fmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asmin",
+        "Cs",
+        "Fmin",
+        "Asmin",
+        "Cs",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Asmin",
+        "Cs",
+        "Fmin",
+        "Asmin",
+        "Cs",
+        "Fmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Gs",
+        "Asmin",
+        "Fmin",
+        "Asmin",
+        "Fmin",
+        "Asmin"
+      ],
+      "rawChords": [
+        "Gs",
+        "Asmin",
+        "Fmin",
+        "Asmin",
+        "Fmin",
+        "Asmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin",
+        "Cs",
+        "Ds",
+        "Fmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Separation",
+  "release_date": "2011-05-10",
+  "duration_ms": 164600
+}

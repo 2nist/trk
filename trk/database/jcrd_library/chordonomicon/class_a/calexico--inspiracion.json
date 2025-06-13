@@ -1,0 +1,313 @@
+{
+  "songID": "entry_100487",
+  "title": "Inspiracion",
+  "artist": "Calexico",
+  "spotifyID": "4CkgsJW72AjjLaM9vT67Ed",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "E7",
+        "Amin",
+        "Amin/G",
+        "Amin/F",
+        "E7"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "E7",
+        "Amin",
+        "Amin/G",
+        "Amin/F",
+        "E7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-?-v-?-?-i-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Dmin",
+        "E7",
+        "Amin",
+        "Amin/G",
+        "Amin/F",
+        "E7"
+      ],
+      "rawChords": [
+        "Dmin",
+        "E7",
+        "Amin",
+        "Amin/G",
+        "Amin/F",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-?-v-?-?-i-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "F",
+        "E7"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "F",
+        "E7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.71",
+        "progression:v-?-i-?-v-?-i-?-iii-?-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Amin",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-?-v-?-?-i-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "Amin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "E7",
+        "Amin",
+        "E7",
+        "Amin",
+        "A7",
+        "Dmin",
+        "Amin",
+        "E7",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:v-?-?-v-?-?-i-?-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin",
+        "E7",
+        "Amin",
+        "Amin/G",
+        "Amin/F",
+        "E7"
+      ],
+      "rawChords": [
+        "Dmin",
+        "E7",
+        "Amin",
+        "Amin/G",
+        "Amin/F",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Bridge",
+    "Instrumental",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Carried To Dust",
+  "release_date": "2008-09-09",
+  "duration_ms": 214493
+}

@@ -1,0 +1,317 @@
+{
+  "songID": "entry_10045",
+  "title": "All Night Dance Parties In The Underground Palace",
+  "artist": "Alesana",
+  "spotifyID": "6vnIpX0KE1jjvAncZjfN3G",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "A",
+        "Bb",
+        "Bmin",
+        "G",
+        "A",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "A",
+        "Bb",
+        "Bmin",
+        "G",
+        "A",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:?-i-?-ii-?-biii-?-?-i-?-ii-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Gbmin",
+        "G",
+        "Gbmin",
+        "Bb",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin",
+        "G",
+        "A",
+        "Gbmin",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Gbmin",
+        "G",
+        "Gbmin",
+        "Bb",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin",
+        "G",
+        "A",
+        "Gbmin",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.13",
+        "progression:?-?-i-?-?-biii-?-i-?-ii-?-?-i-?-ii-?-?-i-?-ii-?-?-?-i-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "A",
+        "Bb",
+        "Bmin",
+        "G",
+        "A",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "A",
+        "Bb",
+        "Bmin",
+        "G",
+        "A",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:?-i-?-ii-?-biii-?-?-i-?-ii-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Gbmin",
+        "G",
+        "Gbmin",
+        "Bb",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Gbmin",
+        "G",
+        "Gbmin",
+        "Bb",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin",
+        "Bmin"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.13",
+        "progression:?-?-i-?-?-biii-?-i-?-ii-?-?-i-?-ii-?-?-i-?-ii-?-?-?-i-?-ii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gb",
+        "G",
+        "Gb",
+        "Bb",
+        "Bmin",
+        "Gb",
+        "G",
+        "Gb",
+        "Bb",
+        "D"
+      ],
+      "rawChords": [
+        "Gb",
+        "G",
+        "Gb",
+        "Bb",
+        "Bmin",
+        "Gb",
+        "G",
+        "Gb",
+        "Bb",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:biv-?-iv-?-biv-?-bvi-?-?-biv-?-iv-?-biv-?-bvi-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin",
+        "G",
+        "A",
+        "Gbmin",
+        "Bmin",
+        "G",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "Gbmin",
+        "G",
+        "A",
+        "Gbmin",
+        "Bmin",
+        "G",
+        "A",
+        "Fsmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Where Myth Fades To Legend",
+  "release_date": "2008-01-01",
+  "duration_ms": 197706
+}

@@ -1,0 +1,309 @@
+{
+  "songID": "entry_102810",
+  "title": "Timeless",
+  "artist": "Zhang Li Yin",
+  "spotifyID": "6kuNvT3uTZA8rUz4o3Xq9z",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "D",
+        "Gmin",
+        "Cmin",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "D",
+        "Gmin",
+        "Cmin",
+        "F",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-?-v-?-iii-?-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "Gmin",
+        "Cmin",
+        "F",
+        "D",
+        "Gmin",
+        "Cmin",
+        "D",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "Gmin",
+        "Cmin",
+        "F",
+        "D",
+        "Gmin",
+        "Cmin",
+        "D",
+        "Gmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-?-v-?-?-?-v-?-iii-?-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "F",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "F"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "F",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-?-bbvi-?-biv-?-?-?-bbvi-?-biv-?-bbvi-?-biv-?-?-?-bbvi-?-biv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "Gmin",
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Ebmin",
+        "F",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "Gmin",
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Ebmin",
+        "F",
+        "Bbmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-?-bbvi-?-?-?-?-bbvi-?-biv-?-?-?-biv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Ebmin",
+        "Ab",
+        "F"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Ab",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-bbvi-?-biv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "Fs"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "Fs",
+        "Bmin",
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "Fs",
+        "Bmin",
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs",
+        "Bmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:?-?-v-?-iii-?-?-?-iii-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Timeless",
+  "release_date": "2006-09-08",
+  "duration_ms": 252264
+}

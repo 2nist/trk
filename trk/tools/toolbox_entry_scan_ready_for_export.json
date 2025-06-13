@@ -1,0 +1,25 @@
+{
+  "script": "scan_ready_for_export.py",
+  "name": "Scan Ready-for-Export Files",
+  "description": "Detects and optionally copies .jcrd files that are complete and ready for export.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Source directory (default: mcgill_jcrd/)"
+    },
+    {
+      "name": "--output_ready",
+      "required": false,
+      "type": "directory",
+      "help": "Folder to copy ready files to (optional)"
+    },
+    {
+      "name": "--output_log",
+      "required": false,
+      "type": "text",
+      "help": "Path to save readiness log (default: ready_report.txt)"
+    }
+  ]
+}

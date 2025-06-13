@@ -1,0 +1,247 @@
+{
+  "songID": "entry_10264",
+  "title": "Treat Him Right",
+  "artist": "Barbara Mandrell",
+  "spotifyID": "0a8NyYQGcgknkkW4HHJe7Z",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G7",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G7",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ds",
+        "Gs",
+        "Ds",
+        "As7",
+        "Ds",
+        "Gs",
+        "Ds",
+        "As7",
+        "Gs",
+        "Ds"
+      ],
+      "rawChords": [
+        "Ds",
+        "Gs",
+        "Ds",
+        "As7",
+        "Ds",
+        "Gs",
+        "Ds",
+        "As7",
+        "Gs",
+        "Ds"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:##iv-?-#vii-?-##iv-?-?-##iv-?-#vii-?-##iv-?-?-#vii-?-##iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gs",
+        "Ds",
+        "As7",
+        "Gs",
+        "Ds"
+      ],
+      "rawChords": [
+        "Gs",
+        "Ds",
+        "As7",
+        "Gs",
+        "Ds"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:#vii-?-##iv-?-?-#vii-?-##iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "As7",
+        "Gs",
+        "Ds",
+        "As7",
+        "Gs",
+        "Ds",
+        "As7",
+        "Gs",
+        "Ds"
+      ],
+      "rawChords": [
+        "As7",
+        "Gs",
+        "Ds",
+        "As7",
+        "Gs",
+        "Ds",
+        "As7",
+        "Gs",
+        "Ds"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-#vii-?-##iv-?-?-#vii-?-##iv-?-?-#vii-?-##iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Treat Him Right",
+  "release_date": "1970-05-01",
+  "duration_ms": 135106
+}

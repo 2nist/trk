@@ -1,0 +1,171 @@
+{
+  "songID": "entry_0521",
+  "title": "Unhealthy",
+  "artist": "Small Crush",
+  "spotifyID": "4nasoCZAXKguDUz1s0c9es",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:bbii-?-bbv-?-bbvi-?-bbii-?-bbv-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Bmin",
+        "Db",
+        "Bmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Bmin",
+        "Db",
+        "Bmin",
+        "Ab"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:bbvi-?-bbii-?-bbiii-?-bbvi-?-bbii-?-bbiii-?-?-bbii-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Bmin",
+        "Db",
+        "Bmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Bmin",
+        "Db",
+        "Bmin",
+        "Ab"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:bbii-?-bbiii-?-bbvi-?-bbii-?-bbiii-?-?-bbii-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Bmin",
+        "Db",
+        "Bmin",
+        "Db",
+        "Bmin",
+        "Db",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Bmin",
+        "Db",
+        "Bmin",
+        "Db",
+        "Bmin",
+        "Db",
+        "Ab"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:bbii-?-bbiii-?-bbvi-?-bbii-?-bbiii-?-?-bbii-?-?-bbii-?-?-bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Small Crush",
+  "release_date": "2019-07-26",
+  "duration_ms": 68739
+}

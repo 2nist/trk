@@ -1,0 +1,297 @@
+{
+  "title": "World In My Eyes",
+  "artist": "Depeche Mode",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 464,
+      "duration_ms": 15780,
+      "chords": [
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 16244,
+      "duration_ms": 31371,
+      "chords": [
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:min7",
+        "Ab:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7(b13)",
+        "Eb:min7(b13)",
+        "Eb:min7(b13)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 47616,
+      "duration_ms": 15758,
+      "chords": [
+        "Eb:min7(b13)",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 63374,
+      "duration_ms": 31472,
+      "chords": [
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:min7",
+        "Ab:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7(b13)",
+        "Eb:min7(b13)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 94847,
+      "duration_ms": 13755,
+      "chords": [
+        "Eb:min7(b13)",
+        "C:min",
+        "Cb:maj",
+        "Ab:min",
+        "Bb:maj",
+        "Eb:min",
+        "Ab:min",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 108602,
+      "duration_ms": 15737,
+      "chords": [
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 124340,
+      "duration_ms": 31423,
+      "chords": [
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:7",
+        "Ab:7",
+        "Eb:min7",
+        "Eb:min7",
+        "Eb:min7(b13)",
+        "Eb:min7(b13)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 155763,
+      "duration_ms": 13721,
+      "chords": [
+        "Eb:min7(b13)",
+        "C:min",
+        "Cb:maj",
+        "Ab:min",
+        "Bb:maj",
+        "Eb:min",
+        "Ab:min",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 169485,
+      "duration_ms": 15767,
+      "chords": [
+        "Bb:maj",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:maj",
+        "Ab:min",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:maj",
+        "Ab:min",
+        "Ab:min"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 185252,
+      "duration_ms": 54603,
+      "chords": [
+        "Ab:min",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:maj",
+        "Ab:min",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:maj",
+        "Ab:min",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:maj",
+        "Ab:min",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:maj",
+        "Ab:min",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:maj",
+        "Ab:min",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:maj",
+        "Ab:min",
+        "Eb:min7",
+        "Eb:min7",
+        "Ab:maj",
+        "Ab:min",
+        "Ab:min",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "B",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

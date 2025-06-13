@@ -1,0 +1,189 @@
+{
+  "songID": "entry_0589",
+  "title": "Drink Me - Acoustic Version",
+  "artist": "Anna Nalick",
+  "spotifyID": "4E6r66WitSIVZTV8Pz01Ef",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:iii-?-iii-?-iii-?-iv-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "F",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-v-?-v-?-v-?-bvi-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A",
+        "E",
+        "Amin",
+        "E",
+        "A",
+        "Amin",
+        "A",
+        "E",
+        "A",
+        "Amin",
+        "A",
+        "E",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "E7",
+        "A",
+        "E",
+        "Amin",
+        "E",
+        "A",
+        "Amin",
+        "A",
+        "E",
+        "A",
+        "Amin",
+        "A",
+        "E",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-?-v-i-?-i-v-i-?-i-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "A"
+      ],
+      "rawChords": [
+        "Amin",
+        "A"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Wreck of the Day",
+  "release_date": "2005",
+  "duration_ms": 182773
+}

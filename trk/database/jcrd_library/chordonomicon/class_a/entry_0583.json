@@ -1,0 +1,375 @@
+{
+  "songID": "entry_0583",
+  "title": "Walk That Easy",
+  "artist": "Chase Rice",
+  "spotifyID": "6YZmoddoYP2dyyN8vTEua1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv-i-v-iv-i-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv-i-v-iv-i-v-iv-i-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv-i-v-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i-v-iv-i-v-iv-i-v-iv-i-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-v-?-i-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv-i-v-iv-i-v-iv-i-v-iv-i-v-iv-i-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I Hate Cowboys & All Dogs Go To Hell",
+  "release_date": "2023-05-18",
+  "duration_ms": 224440
+}

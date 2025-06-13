@@ -1,0 +1,47 @@
+[
+  {
+    "name": "McGill Billboard (SALAMI)",
+    "key": "mcgill",
+    "source_type": "mirdata",
+    "format": "salami",
+    "path_hint": "datasets/mcgill/",
+    "script": "salami_billboard_to_jcrd.py",
+    "ready": true
+  },
+  {
+    "name": "RWC Popular Music",
+    "key": "rwc",
+    "source_type": "mirdata",
+    "format": "beat+chord",
+    "path_hint": "datasets/rwc/",
+    "script": "rwc_beat_to_jcrd.py",
+    "ready": true
+  },
+  {
+    "name": "Isophonics (Beatles/Queen)",
+    "key": "isophonics",
+    "source_type": "txt_lab",
+    "format": "chord+sections",
+    "path_hint": "datasets/isophonics/",
+    "script": "isophonics_to_jcrd.py",
+    "ready": false
+  },
+  {
+    "name": "Chord-Annotations (Lab files)",
+    "key": "chordlab",
+    "source_type": "txt_lab",
+    "format": "chords",
+    "path_hint": "datasets/chord_annotations/",
+    "script": "chord_annotation_to_jcrd.py",
+    "ready": false
+  },
+  {
+    "name": "ChoCo (Chord Corpus, JAMS)",
+    "key": "choco",
+    "source_type": "jams",
+    "format": "jams+roman",
+    "path_hint": "datasets/choco/",
+    "script": "jams_to_jcrd.py",
+    "ready": false
+  }
+]

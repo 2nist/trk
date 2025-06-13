@@ -1,0 +1,196 @@
+{
+  "title": "I Don't Mind",
+  "artist": "James Brown",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 73,
+      "duration_ms": 22272,
+      "chords": [
+        "N",
+        "N",
+        "A:min",
+        "A:min",
+        "C:maj",
+        "C:maj",
+        "A:min",
+        "A:min",
+        "C:maj",
+        "C:maj",
+        "A:min",
+        "A:min",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 22346,
+      "duration_ms": 26891,
+      "chords": [
+        "C:maj",
+        "A:min",
+        "A:min",
+        "C:maj",
+        "C:maj",
+        "A:min",
+        "A:min",
+        "C:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 49238,
+      "duration_ms": 26885,
+      "chords": [
+        "C:maj",
+        "A:maj",
+        "A:maj",
+        "C:maj",
+        "C:maj",
+        "A:maj",
+        "A:maj",
+        "C:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "C:maj",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 76123,
+      "duration_ms": 26800,
+      "chords": [
+        "A:min",
+        "A:min",
+        "C:maj",
+        "C:maj",
+        "A:min",
+        "A:min",
+        "C:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "C:maj",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 102924,
+      "duration_ms": 27282,
+      "chords": [
+        "C:maj",
+        "A:maj",
+        "A:maj",
+        "C:maj",
+        "C:maj",
+        "A:maj",
+        "A:maj",
+        "C:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "C:maj",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 130206,
+      "duration_ms": 20702,
+      "chords": [
+        "C:maj",
+        "A:min",
+        "A:min",
+        "C:maj",
+        "C:maj",
+        "A:min",
+        "A:min",
+        "C:maj",
+        "C:maj",
+        "A:min",
+        "A:min",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

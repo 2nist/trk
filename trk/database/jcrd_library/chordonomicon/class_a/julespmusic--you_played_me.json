@@ -1,0 +1,187 @@
+{
+  "songID": "entry_100879",
+  "title": "you played me",
+  "artist": "julespmusic",
+  "spotifyID": "0VT2aVs2gP0BBfYz2dUkOK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "C",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "C",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-?-i-?-ii-?-v-?-?-i-?-v-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-?-v-?-?-v-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-?-v-?-i-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "you played me",
+  "release_date": "2021-05-28",
+  "duration_ms": 246634
+}

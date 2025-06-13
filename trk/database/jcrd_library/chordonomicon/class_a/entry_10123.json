@@ -1,0 +1,247 @@
+{
+  "songID": "entry_10123",
+  "title": "Yodel Eh",
+  "artist": "Tyler McLaughlin",
+  "spotifyID": "4ngFh2zkzJdxau3kYllLbC",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-i-v-i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v-i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v-i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v-i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Sometimes",
+  "release_date": "2020-12-15",
+  "duration_ms": 202125
+}

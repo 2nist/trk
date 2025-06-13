@@ -1,0 +1,243 @@
+{
+  "songID": "entry_0977",
+  "title": "On the Road Again - Live at Nassau Coliseum, Uniondale, NY - March 1990",
+  "artist": "The Highwaymen",
+  "spotifyID": "6kiBHtPe8GfNhLygAO2jiv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.55",
+        "progression:i-?-iii-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:iii-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "B"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.55",
+        "progression:i-?-iii-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E",
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E",
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:iii-?-?-iv-?-v-?-i-?-iii-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "B"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Fsmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.55",
+        "progression:i-?-iii-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Solo",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Live - American Outlaws",
+  "release_date": "2016-05-20",
+  "duration_ms": 218506
+}

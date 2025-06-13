@@ -1,0 +1,170 @@
+{
+  "title": "Paper Roses",
+  "artist": "Marie Osmond",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "chorus_1",
+      "start_ms": 522,
+      "duration_ms": 18493,
+      "chords": [
+        "N",
+        "N",
+        "Db:maj",
+        "Db:maj",
+        "Ab:maj",
+        "F:min",
+        "F:min",
+        "Bb:min",
+        "Eb:7",
+        "Ab:maj",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 19015,
+      "duration_ms": 33747,
+      "chords": [
+        "Eb:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "Eb:7",
+        "Eb:7",
+        "Eb:7",
+        "Eb:7",
+        "Ab:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "Db:maj",
+        "Db:maj",
+        "Eb:7",
+        "Eb:7",
+        "Ab:maj",
+        "Ab:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 52762,
+      "duration_ms": 33469,
+      "chords": [
+        "Ab:maj",
+        "Db:maj",
+        "Db:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "Bb:min",
+        "Eb:7",
+        "Ab:maj",
+        "Ab:7",
+        "Db:maj",
+        "Db:maj",
+        "Eb:maj",
+        "Ab:maj",
+        "F:min",
+        "Bb:min",
+        "Eb:7",
+        "Ab:maj",
+        "E:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 86231,
+      "duration_ms": 33080,
+      "chords": [
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "E:7",
+        "E:7",
+        "E:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "E:7",
+        "E:7",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 119311,
+      "duration_ms": 42255,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "B:min",
+        "E:7",
+        "A:maj",
+        "A:7",
+        "D:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "F#:min",
+        "B:min",
+        "B:min",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "C",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "songID": "entry_0238",
+  "title": "I've Got The Blues",
+  "artist": "Jimmy Reed",
+  "spotifyID": "084PSDb2PUzArLqwsE0kwh",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "B7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii-v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Now Appearing",
+  "release_date": "1960-01-01",
+  "duration_ms": 166813
+}

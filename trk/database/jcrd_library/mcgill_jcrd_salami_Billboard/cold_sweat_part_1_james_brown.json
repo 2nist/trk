@@ -1,0 +1,216 @@
+{
+  "title": "Cold Sweat - Part 1",
+  "artist": "James Brown",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 232,
+      "duration_ms": 8724,
+      "chords": [
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 8956,
+      "duration_ms": 34339,
+      "chords": [
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 43296,
+      "duration_ms": 29670,
+      "chords": [
+        "D:min7",
+        "C:7",
+        "F:7",
+        "C:7",
+        "F:7",
+        "C:7",
+        "F:7",
+        "C:7",
+        "F:7",
+        "C:7",
+        "F:7",
+        "N",
+        "G:7",
+        "N",
+        "G:9",
+        "G:9"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 72967,
+      "duration_ms": 8635,
+      "chords": [
+        "D:maj6(b7,11)",
+        "D:maj6(b7,11)",
+        "D:maj6(b7,11)",
+        "D:maj6(b7,11)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 81602,
+      "duration_ms": 34344,
+      "chords": [
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 115947,
+      "duration_ms": 29649,
+      "chords": [
+        "D:min7",
+        "C:7",
+        "F:7",
+        "C:7",
+        "F:7",
+        "C:7",
+        "F:7",
+        "C:7",
+        "F:7",
+        "C:7",
+        "F:7",
+        "N",
+        "G:7",
+        "N",
+        "G:9",
+        "G:9"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 145596,
+      "duration_ms": 17253,
+      "chords": [
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 162850,
+      "duration_ms": 9087,
+      "chords": [
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

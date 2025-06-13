@@ -1,0 +1,221 @@
+{
+  "songID": "entry_10031",
+  "title": "Playing with brains",
+  "artist": "Matteu",
+  "spotifyID": "4Hjyq01yqrftRMskWQHRoQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "A",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-v-iii-i-v-iii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-v-iii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-v-iii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-v-iii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "F",
+        "C",
+        "A",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-v-iii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "A",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Playing with brains",
+  "release_date": "2021-12-10",
+  "duration_ms": 184184
+}

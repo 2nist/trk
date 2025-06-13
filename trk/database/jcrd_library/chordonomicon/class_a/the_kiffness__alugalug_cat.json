@@ -1,0 +1,127 @@
+{
+  "songID": "entry_102466",
+  "title": "Alugalug Cat",
+  "artist": "The Kiffness",
+  "spotifyID": "4ls5LcW90peNWMSqneNLDS",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-?-v-?-?-iv-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Alugalug Cat",
+  "release_date": "2021-05-28",
+  "duration_ms": 186333
+}

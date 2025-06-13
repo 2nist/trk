@@ -1,0 +1,189 @@
+{
+  "songID": "entry_100618",
+  "title": "Throw Away the Key",
+  "artist": "Linx",
+  "spotifyID": "0p6L4cMAdR1VJOvPER6gty",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin7"
+      ],
+      "rawChords": [
+        "Bmin7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Dadd11",
+        "C",
+        "Csus2",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Dadd11",
+        "C",
+        "Csus2",
+        "Bmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:?-?-?-?-?-?-?-?-?-i-?-ii-?-v-?-?-iv-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin7",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "Bmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7",
+        "Emin7",
+        "Bmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Dadd11",
+        "C",
+        "Csus2",
+        "Bmin",
+        "A",
+        "Bmin",
+        "Bmin7"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Dadd11",
+        "C",
+        "Csus2",
+        "Bmin",
+        "A",
+        "Bmin",
+        "Bmin7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:?-ii-?-iii-?-vi-?-?-v-?-?-?-iii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Intuition",
+  "release_date": "1981-03-13",
+  "duration_ms": 315800
+}

@@ -1,0 +1,203 @@
+{
+  "songID": "entry_101295",
+  "title": "Lentement (feat. Barbara Carlotti)",
+  "artist": "Bertrand Belin",
+  "spotifyID": "5PJGP3QpgKmhFpy3qPS9F0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "A",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Gsmin7",
+        "B",
+        "Gsmin7",
+        "Fs",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "B",
+        "Gsmin7",
+        "B",
+        "Gsmin7",
+        "Fs",
+        "E",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:v-?-?-v-?-?-ii-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "A",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "A",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Gsmin7",
+        "B",
+        "Gsmin7",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Gsmin7",
+        "B",
+        "Gsmin7",
+        "Fs",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-v-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Gsmin7",
+        "B",
+        "Gsmin7",
+        "Fs",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "B",
+        "Gsmin7",
+        "B",
+        "Gsmin7",
+        "Fs",
+        "E",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:v-?-?-v-?-?-ii-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Persona (Nouvelle \u00e9dition)",
+  "release_date": "2019-10-25",
+  "duration_ms": 269933
+}

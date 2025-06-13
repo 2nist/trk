@@ -1,0 +1,175 @@
+{
+  "songID": "entry_101524",
+  "title": "the clouds",
+  "artist": "fizznathan",
+  "spotifyID": "5VHAXSEG56BDxO2aWyul9o",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "E",
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "A7",
+        "F",
+        "G7",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "E",
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "A7",
+        "F",
+        "G7",
+        "Cmaj7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:biii-?-?-?-biii-?-?-?-ii-?-biii-?-?-?-v-?-biii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Fmaj7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "E",
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "A7",
+        "F",
+        "G7",
+        "F",
+        "G7",
+        "F",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "E",
+        "F",
+        "Fmin",
+        "Cmaj7",
+        "A7",
+        "F",
+        "G7",
+        "F",
+        "G7",
+        "F",
+        "G7",
+        "C"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:i-?-?-?-i-?-?-?-vii-?-i-?-?-?-iii-?-i-?-ii-?-i-?-ii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "the clouds",
+  "release_date": "2021-04-25",
+  "duration_ms": 132609
+}

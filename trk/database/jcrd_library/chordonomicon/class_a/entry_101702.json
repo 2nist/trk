@@ -1,0 +1,275 @@
+{
+  "songID": "entry_101702",
+  "title": "Wa Ko Gadahom",
+  "artist": "Zairish Alcasid",
+  "spotifyID": "5Q4dihSBsjr8cuYrzaXrRA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:?-i-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "Dsus2",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dsus2",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Wa Ko Gadahom",
+  "release_date": "2021-04-16",
+  "duration_ms": 200589
+}

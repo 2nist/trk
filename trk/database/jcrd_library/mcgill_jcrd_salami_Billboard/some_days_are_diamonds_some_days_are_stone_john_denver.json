@@ -1,0 +1,248 @@
+{
+  "title": "Some Days Are Diamonds (Some Days Are Stone)",
+  "artist": "John Denver",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 417,
+      "duration_ms": 9488,
+      "chords": [
+        "G:maj",
+        "G:sus4",
+        "G:maj",
+        "G:sus4",
+        "G:sus4"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 9906,
+      "duration_ms": 37369,
+      "chords": [
+        "G:sus4",
+        "G:maj",
+        "D:7/3",
+        "E:min",
+        "E:min",
+        "D:maj",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "G:maj",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "G:maj",
+        "E:min",
+        "A:7",
+        "D:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 47275,
+      "duration_ms": 41821,
+      "chords": [
+        "G:maj",
+        "C:maj(9)",
+        "G:maj",
+        "G:maj",
+        "E:min",
+        "A:7",
+        "D:7",
+        "D:7",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "E:min",
+        "C:maj",
+        "G:maj",
+        "D:7",
+        "G:maj",
+        "G:maj/3",
+        "C:maj",
+        "C#:dim",
+        "D:maj",
+        "D:7",
+        "D:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 89097,
+      "duration_ms": 9370,
+      "chords": [
+        "D:7",
+        "G:maj",
+        "G:sus4",
+        "G:maj",
+        "G:sus4",
+        "G:sus4"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 98468,
+      "duration_ms": 37014,
+      "chords": [
+        "G:sus4",
+        "G:maj",
+        "D:7/3",
+        "E:min",
+        "E:min",
+        "D:maj",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "G:maj",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "G:maj",
+        "E:min",
+        "A:7",
+        "D:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 135483,
+      "duration_ms": 36854,
+      "chords": [
+        "G:maj",
+        "C:maj(9)",
+        "G:maj",
+        "G:maj",
+        "E:min",
+        "A:7",
+        "D:7",
+        "D:7",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "E:min",
+        "C:maj",
+        "G:maj",
+        "D:7",
+        "G:maj",
+        "D:sus4(b7)",
+        "D:sus4(b7)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 172337,
+      "duration_ms": 4490,
+      "chords": [
+        "D:sus4(b7)",
+        "A:maj",
+        "D:sus4(b7)"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 176828,
+      "duration_ms": 65959,
+      "chords": [
+        "D:sus4(b7)",
+        "A:maj",
+        "D:maj(9)",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "B:7",
+        "E:7",
+        "E:7",
+        "A:maj",
+        "D:maj",
+        "A:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:7",
+        "A:maj",
+        "E:sus4(b7)",
+        "A:maj",
+        "D:maj(9)",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "B:7",
+        "E:7",
+        "E:7",
+        "E:7",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "C",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

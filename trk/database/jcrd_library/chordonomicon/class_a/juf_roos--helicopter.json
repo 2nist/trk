@@ -1,0 +1,123 @@
+{
+  "songID": "entry_0255",
+  "title": "Helicopter",
+  "artist": "Juf Roos",
+  "spotifyID": "7EIzti98M2f4Ur1YN8Z3Gz",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D/C",
+        "D/B",
+        "D/A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "D/C",
+        "D/B",
+        "D/A",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D/C",
+        "D/B",
+        "D/A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "D/C",
+        "D/B",
+        "D/A",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "E/D",
+        "E/Cs",
+        "E/B",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "E/D",
+        "E/Cs",
+        "E/B",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-v-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Hokey Pokey en meer Juf Roos kinderliedjes",
+  "release_date": "2023-10-13",
+  "duration_ms": 83520
+}

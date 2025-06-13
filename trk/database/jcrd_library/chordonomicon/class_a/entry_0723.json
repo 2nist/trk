@@ -1,0 +1,273 @@
+{
+  "songID": "entry_0723",
+  "title": "Love Song #3",
+  "artist": "The White Buffalo",
+  "spotifyID": "5FC1Nm4dviw2WEEQ5cNPeU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-i-v-?-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-i-v-?-i-v-?-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "C",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "C",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v-i-ii-v-?-v-i-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-iv-v-i-?-iv-v-?-v-iv-?-v-iv-?-v-iv"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Year Of The Dark Horse",
+  "release_date": "2022-11-11",
+  "duration_ms": 190520
+}

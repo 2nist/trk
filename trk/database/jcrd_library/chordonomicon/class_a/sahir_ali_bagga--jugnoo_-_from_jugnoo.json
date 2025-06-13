@@ -1,0 +1,327 @@
+{
+  "songID": "entry_0817",
+  "title": "Jugnoo - From \"Jugnoo\"",
+  "artist": "Sahir Ali Bagga",
+  "spotifyID": "6tHe6afvLtCSftjaITXjbN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "C"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-i-?-ii-?-i-?-ii-?-?-i-?-ii-?-i-?-ii-?-?-i-?-ii-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "Bmin",
+        "C",
+        "G",
+        "B7",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Bmin",
+        "C",
+        "G",
+        "B7",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:?-?-iv-?-i-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Amin",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Amin",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "C",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:i-?-v-?-?-i-?-v-?-?-?-?-v-?-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "C",
+        "D"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-?-i-?-v-?-?-?-?-?-iv-?-?-v-?-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Jugnoo (From \"Jugnoo\")",
+  "release_date": "2015-04-17",
+  "duration_ms": 288066
+}

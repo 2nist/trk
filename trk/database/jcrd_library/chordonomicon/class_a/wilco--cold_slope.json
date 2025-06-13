@@ -1,0 +1,173 @@
+{
+  "songID": "entry_102163",
+  "title": "Cold Slope",
+  "artist": "Wilco",
+  "spotifyID": "2Cm526JHh94Eth3X3PbGwv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Eb"
+      ],
+      "rawChords": [
+        "C",
+        "Eb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "C",
+        "Eb",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Eb",
+        "F",
+        "G",
+        "C",
+        "Eb",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Eb",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Eb",
+        "F",
+        "G",
+        "C",
+        "Eb",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-i-?-biii-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-i-?-biii-?-iv-?-v-?-i-?-biii-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Star Wars",
+  "release_date": "2015-07-16",
+  "duration_ms": 191388
+}

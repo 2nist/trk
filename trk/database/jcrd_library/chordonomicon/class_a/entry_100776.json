@@ -1,0 +1,337 @@
+{
+  "songID": "entry_100776",
+  "title": "Only the Brave",
+  "artist": "The Last Royals",
+  "spotifyID": "5AOgYx5d92d783JMzVAydU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-i-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-i-v-?-i-v-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-v-i-v-i-v-?-i-v-i-v-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Eb",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Eb",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-v-?-i-v-?-?-bi-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Csmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Csmin",
+        "Eb"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-v-i-v-i-v-?-i-v-i-v-i-v-?-bi"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Csmin",
+        "Eb",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "Csmin",
+        "Eb",
+        "Gsmin"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-v-i-v-i-v-?-i-v-i-v-i-v-?-i-v-i-v-i-v-?-bi-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Twistification",
+  "release_date": "2013-01-01",
+  "duration_ms": 214546
+}

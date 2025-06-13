@@ -1,0 +1,341 @@
+{
+  "songID": "entry_0972",
+  "title": "The Stache",
+  "artist": "Jonathan Coulton",
+  "spotifyID": "31trJ0p6jSrc4UTceABL0o",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "E",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "E",
+        "Amin",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Dmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Cmaj7",
+        "A",
+        "C",
+        "Cmaj7",
+        "A",
+        "F",
+        "D7",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "Cmaj7",
+        "A",
+        "C",
+        "Cmaj7",
+        "A",
+        "F",
+        "D7",
+        "G",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.79",
+        "progression:v-?-?-iii-?-v-?-?-iii-?-i-?-vi-?-ii-?-vii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "E",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Dmin",
+        "Bmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "E",
+        "Amin",
+        "E7",
+        "Amin",
+        "F",
+        "Dmin",
+        "Bmin",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-iii-?-?-iii-?-?-iv-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "E",
+        "Dmin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "E",
+        "Dmin",
+        "Bmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Cmaj7",
+        "A",
+        "C",
+        "Cmaj7",
+        "A",
+        "F",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "Cmaj7",
+        "A",
+        "C",
+        "Cmaj7",
+        "A",
+        "F",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.76",
+        "progression:v-?-?-iii-?-v-?-?-iii-?-i-?-?-ii-?-vii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "E",
+        "Amin",
+        "E7"
+      ],
+      "rawChords": [
+        "Amin",
+        "E",
+        "Amin",
+        "E7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "E",
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "E",
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.15",
+        "progression:?-iv-?-iii-?-?-iii-?-?-iv-?-iii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Cmaj7",
+        "A",
+        "C",
+        "Cmaj7",
+        "A",
+        "F",
+        "D7",
+        "G",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Cmaj7",
+        "A",
+        "C",
+        "Cmaj7",
+        "A",
+        "F",
+        "D7",
+        "G",
+        "E",
+        "Amin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.79",
+        "progression:v-?-?-iii-?-v-?-?-iii-?-i-?-vi-?-ii-?-vii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Artificial Heart",
+  "release_date": "2011-09-20",
+  "duration_ms": 180346
+}

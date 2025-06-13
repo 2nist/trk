@@ -1,0 +1,207 @@
+{
+  "songID": "entry_101120",
+  "title": "It's Yours",
+  "artist": "David Kitt",
+  "spotifyID": "0qZ9rwAonJvO91GK9nqqma",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Cmin",
+        "F",
+        "Cmin",
+        "F",
+        "Cmin",
+        "F",
+        "Gmin"
+      ],
+      "rawChords": [
+        "F",
+        "Cmin",
+        "F",
+        "Cmin",
+        "F",
+        "Cmin",
+        "F",
+        "Gmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "F",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Cmin",
+        "F",
+        "Cmin",
+        "F",
+        "Cmin",
+        "F",
+        "Gmin"
+      ],
+      "rawChords": [
+        "F",
+        "Cmin",
+        "F",
+        "Cmin",
+        "F",
+        "Cmin",
+        "F",
+        "Gmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Cmin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "Cmin",
+        "Dmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Nightsaver",
+  "release_date": "2009-06-12",
+  "duration_ms": 249920
+}

@@ -1,0 +1,241 @@
+{
+  "songID": "entry_100783",
+  "title": "Grey Suits",
+  "artist": "Adele & Glenn",
+  "spotifyID": "72Wka5xJh5kDArDEjzTdSe",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "G",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v-?-ii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "G",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v-?-ii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-i-?-ii-?-ii-v-i-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "G",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "G",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "G",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "G",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-i-v-?-ii-i-v-i-v-i-v-?-ii-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-i-?-ii-?-ii-v-i-v-i-?-ii-?-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F"
+      ],
+      "rawChords": [
+        "F"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Carrington Street",
+  "release_date": "2012-05-19",
+  "duration_ms": 186618
+}

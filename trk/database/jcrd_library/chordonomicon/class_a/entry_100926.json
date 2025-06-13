@@ -1,0 +1,237 @@
+{
+  "songID": "entry_100926",
+  "title": "Nu-Mi Lua Iubirea",
+  "artist": "Angela Similea",
+  "spotifyID": "36hAei3RtQOnTGUdvW6oCO",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-i-iv-ii-v-i-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v-?-v-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin",
+        "C",
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin",
+        "C",
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-iv-ii-v-i-?-iv-i-iv-ii-v-i-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-v-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin",
+        "C",
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin",
+        "C",
+        "G",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "Cmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-iv-ii-v-i-?-iv-i-iv-ii-v-i-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Parada \u0218lag\u0103relor, Vol. 1",
+  "release_date": "2005-01-01",
+  "duration_ms": 198106
+}

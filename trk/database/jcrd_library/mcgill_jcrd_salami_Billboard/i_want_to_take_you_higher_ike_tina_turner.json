@@ -1,0 +1,306 @@
+{
+  "title": "I Want To Take You Higher",
+  "artist": "Ike & Tina Turner",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 441,
+      "duration_ms": 8846,
+      "chords": [
+        "N",
+        "N",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 9287,
+      "duration_ms": 14559,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 23847,
+      "duration_ms": 18624,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "N",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 42472,
+      "duration_ms": 7913,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 50385,
+      "duration_ms": 14553,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 64938,
+      "duration_ms": 18525,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "N",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 83464,
+      "duration_ms": 7906,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 91371,
+      "duration_ms": 16336,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 107708,
+      "duration_ms": 18442,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "N",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 126151,
+      "duration_ms": 7749,
+      "chords": [
+        "N",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 133900,
+      "duration_ms": 14485,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 148385,
+      "duration_ms": 16384,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 164770,
+      "duration_ms": 8238,
+      "chords": [
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "Ab:7(#9)",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

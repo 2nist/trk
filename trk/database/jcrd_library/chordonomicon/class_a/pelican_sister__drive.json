@@ -1,0 +1,93 @@
+{
+  "songID": "entry_102458",
+  "title": "Drive",
+  "artist": "Pelican Sister",
+  "spotifyID": "4uC9xLi2VXD9lRq8Lh3IZY",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus2",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus2"
+      ],
+      "rawChords": [
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus2",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus4",
+        "D",
+        "Dsus2"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dadd11",
+        "Dsus2"
+      ],
+      "rawChords": [
+        "Dadd11",
+        "Dsus2"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "They Say Love Is Embarrassing",
+  "release_date": "2016-10-19",
+  "duration_ms": 234840
+}

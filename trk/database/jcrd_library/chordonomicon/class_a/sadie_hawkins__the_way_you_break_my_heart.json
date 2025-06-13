@@ -1,0 +1,357 @@
+{
+  "songID": "entry_102066",
+  "title": "The Way You Break My Heart",
+  "artist": "Sadie Hawkins",
+  "spotifyID": "5aOaydbhcJRGHxsdqWWHbU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-i-?-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-?-ii-?-i-?-v-?-?-ii-?-v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-?-ii-?-i-?-v-?-?-ii-?-v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Fsmin",
+        "D",
+        "A",
+        "D",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "D",
+        "A",
+        "D",
+        "Fsmin",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:v-?-?-v-?-ii-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.47",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Sadie Hawkins",
+  "release_date": "2019-06-14",
+  "duration_ms": 251557
+}

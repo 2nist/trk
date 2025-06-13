@@ -1,0 +1,447 @@
+{
+  "songID": "entry_0678",
+  "title": "Anthropocene It, Say It, Sorted.",
+  "artist": "Boom Boom Racoon",
+  "spotifyID": "5JDWJtBLdArudvrEiCrv5G",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Songs From The Before Times... & Some More",
+  "release_date": "2021-06-05",
+  "duration_ms": 248000
+}

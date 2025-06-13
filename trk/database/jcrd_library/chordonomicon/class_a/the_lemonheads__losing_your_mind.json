@@ -1,0 +1,401 @@
+{
+  "songID": "entry_102091",
+  "title": "Losing Your Mind",
+  "artist": "The Lemonheads",
+  "spotifyID": "4aCuJocgRNGDHXxvr9haFy",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "A",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "A",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-?-v-?-?-?-?-v-?-?-vi-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "A",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-?-?-i-?-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "A",
+        "Dmin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "A",
+        "Dmin",
+        "G",
+        "Gmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-?-v-?-?-?-?-v-?-?-vi-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "G",
+        "Gmin"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Car Button Cloth",
+  "release_date": "1996-01-01",
+  "duration_ms": 336333
+}

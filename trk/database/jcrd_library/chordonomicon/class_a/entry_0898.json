@@ -1,0 +1,373 @@
+{
+  "songID": "entry_0898",
+  "title": "Best Night Of Your Life",
+  "artist": "Olly Murs",
+  "spotifyID": "3i0rzDAN7n9At98l37wtkc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "F",
+        "Dmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "Dmin",
+        "B",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-bii-?-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "Dmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "Dmin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-iv-?-vii-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "Esus4",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-vii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "Dmin",
+        "B",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "B",
+        "E",
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "Dmin",
+        "B",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "B",
+        "E",
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "E"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-iv-?-vii-iii-?-iv-?-vii-iii-iv-?-?-i-iv-?-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "B",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-bii-?-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "Esus4",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-vii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "Dmin",
+        "B",
+        "E",
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "E",
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "Dmin",
+        "B",
+        "E",
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "E",
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "E"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-iv-?-vii-iii-?-iv-iii-?-iii-iv-?-?-i-iv-?-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "Emin",
+        "D",
+        "F",
+        "Amin",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "D",
+        "F",
+        "Amin",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-iii-v-?-?-iii-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "D",
+        "B",
+        "E",
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "E",
+        "C",
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "E",
+        "Eno3d"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "D",
+        "B",
+        "E",
+        "Amin",
+        "F",
+        "E",
+        "Dmin",
+        "E",
+        "C",
+        "F",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "E",
+        "Eno3d"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-iv-iii-?-ii-vii-iii-?-iv-iii-?-iii-i-iv-?-?-i-iv-?-iii-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Marry Me",
+  "release_date": "2022-12-02",
+  "duration_ms": 232672
+}

@@ -1,0 +1,287 @@
+{
+  "songID": "entry_1029",
+  "title": "Do You Remember",
+  "artist": "The Scaffold",
+  "spotifyID": "3HlE9x8NXWlM3rxN52HHs7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G7"
+      ],
+      "rawChords": [
+        "C",
+        "G7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G7",
+        "C",
+        "G7"
+      ],
+      "rawChords": [
+        "C",
+        "G7",
+        "C",
+        "G7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-?-bvii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G7",
+        "C",
+        "G7"
+      ],
+      "rawChords": [
+        "C",
+        "G7",
+        "C",
+        "G7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-?-bvii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G7",
+        "C",
+        "G7"
+      ],
+      "rawChords": [
+        "C",
+        "G7",
+        "C",
+        "G7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-?-bvii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7"
+      ],
+      "rawChords": [
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Thank U Very Much - The Very Best Of The Scaffold",
+  "release_date": "2006-03-24",
+  "duration_ms": 176133
+}

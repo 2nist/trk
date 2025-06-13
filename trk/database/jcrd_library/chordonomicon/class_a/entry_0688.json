@@ -1,0 +1,263 @@
+{
+  "songID": "entry_0688",
+  "title": "Into the Dark (My Hero Academia)",
+  "artist": "Divide Music",
+  "spotifyID": "5OLnxwC8H22NGEqwPm0fxp",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db"
+      ],
+      "rawChords": [
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "progression:bbii-bbiii-bbii-bbiii-bbii-bbiii-bbii-bbiii-bbii-bbiii-bbii"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Eb"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbvi-?-bbii-bbv-bbvi-?-bbii-bbv-bbvi-?-bbii-bbv-bbvi-?-bbii-?-bbvi"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db"
+      ],
+      "rawChords": [
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "progression:bbii-bbiii-bbii-bbiii-bbii-bbiii-bbii-bbiii-bbii-bbiii-bbii"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Fmin"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbvi-?-bbii-bbv-bbvi-?-bbii-bbv-bbvi-?-bbii-bbv-bbvi-?-bbii-?-bbvi-?-bbii-bbv-bbvi-?-bbii-?"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db"
+      ],
+      "rawChords": [
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbvi-?-bbii-bbv-bbvi-?-bbii-bbv"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Into the Dark (My Hero Academia)",
+  "release_date": "2020-09-11",
+  "duration_ms": 241920
+}

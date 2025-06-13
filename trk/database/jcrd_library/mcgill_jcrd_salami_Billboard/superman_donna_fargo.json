@@ -1,0 +1,255 @@
+{
+  "title": "Superman",
+  "artist": "Donna Fargo",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 325,
+      "duration_ms": 10576,
+      "chords": [
+        "N",
+        "N",
+        "F#:7",
+        "E:7",
+        "E:7",
+        "B:maj",
+        "B:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 10901,
+      "duration_ms": 19130,
+      "chords": [
+        "B:maj",
+        "E:maj",
+        "B:maj",
+        "F#:7",
+        "B:maj",
+        "E:maj",
+        "F#:7",
+        "E:maj",
+        "B:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 30031,
+      "duration_ms": 7328,
+      "chords": [
+        "F#:7",
+        "E:7",
+        "B:maj",
+        "B:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 37359,
+      "duration_ms": 19136,
+      "chords": [
+        "B:maj",
+        "E:maj",
+        "B:maj",
+        "F#:7",
+        "E:maj",
+        "B:maj",
+        "E:maj",
+        "B:maj",
+        "F#:7",
+        "E:maj",
+        "B:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 56495,
+      "duration_ms": 7330,
+      "chords": [
+        "F#:7",
+        "E:7",
+        "B:maj",
+        "B:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 63826,
+      "duration_ms": 9895,
+      "chords": [
+        "F#:7",
+        "E:7",
+        "B:maj",
+        "B:maj",
+        "B:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 73721,
+      "duration_ms": 19486,
+      "chords": [
+        "B:maj",
+        "E:maj",
+        "B:maj",
+        "F#:7",
+        "B:maj",
+        "E:maj",
+        "F#:7",
+        "E:maj",
+        "B:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 93208,
+      "duration_ms": 7363,
+      "chords": [
+        "F#:7",
+        "E:7",
+        "B:maj",
+        "B:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 100571,
+      "duration_ms": 19205,
+      "chords": [
+        "E:maj",
+        "B:maj",
+        "F#:7",
+        "E:maj",
+        "B:maj",
+        "E:maj",
+        "B:maj",
+        "F#:7",
+        "E:maj",
+        "B:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_6",
+      "start_ms": 119777,
+      "duration_ms": 7361,
+      "chords": [
+        "B:maj",
+        "F#:7",
+        "E:7",
+        "B:maj",
+        "B:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 127139,
+      "duration_ms": 19851,
+      "chords": [
+        "B:maj",
+        "E:maj",
+        "B:maj",
+        "F#:7",
+        "E:maj",
+        "B:maj",
+        "B:maj",
+        "E:maj",
+        "B:maj",
+        "F#:7",
+        "E:maj",
+        "B:maj",
+        "B:maj",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

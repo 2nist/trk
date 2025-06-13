@@ -1,0 +1,307 @@
+{
+  "songID": "entry_101720",
+  "title": "Cold Hands",
+  "artist": "Eat Your Heart Out",
+  "spotifyID": "6j9NwunweLX3Fdimv0wuUa",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Eb",
+        "Cmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Eb",
+        "Cmin",
+        "Fmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:?-bbii-?-?-bbii-?-bbvi-?-?-?-bbiii-?-bbii-?-?-bbvi-?-bbii-?-?-?-bbii-?-?-?-bbvi-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:bbii-?-?-bbvi-?-bbii-?-?-bbii-?-?-bbvi-?-bbii-?-bbvi-?-?-bbii-?-?-bbvi-?-bbii-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Cmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:bbii-?-?-bbvi-?-bbii-?-?-bbii-?-?-bbvi-?-bbii-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Eb"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:bbii-?-?-bbvi-?-bbii-?-?-bbvi-?-bbii-?-?-bbvi-?-bbii-?-?-bbvi-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Ab"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Florescence",
+  "release_date": "2019-05-17",
+  "duration_ms": 241493
+}

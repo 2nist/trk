@@ -1,0 +1,163 @@
+{
+  "songID": "entry_0231",
+  "title": "Wee Wee Baby",
+  "artist": "Jimmy Reed",
+  "spotifyID": "5wIojD5Azr9DuLTFAYBqG9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E7"
+      ],
+      "rawChords": [
+        "E7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-i-v-iv-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii-v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E7",
+        "A7",
+        "E7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Jimmy Reed Sings The Best Of The Blues",
+  "release_date": "1963-01-01",
+  "duration_ms": 141840
+}

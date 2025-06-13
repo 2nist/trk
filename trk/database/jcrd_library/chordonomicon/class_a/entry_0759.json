@@ -1,0 +1,305 @@
+{
+  "songID": "entry_0759",
+  "title": "Take Me Back",
+  "artist": "Cinderella",
+  "spotifyID": "7nyjXSQu2WGpZMzzBthVbN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-v-i-v-i-ii-i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:ii-i-v-ii-i-v-i-v-i-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-v-i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:ii-i-v-ii-i-v-i-v-i-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "Fs",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "Fs",
+        "A",
+        "E"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-v-i-v-ii-?-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-v-i-v-ii-v-i-v-ii-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-v-i-v-ii-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Long Cold Winter",
+  "release_date": "1988",
+  "duration_ms": 197773
+}

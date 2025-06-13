@@ -1,0 +1,159 @@
+{
+  "songID": "entry_10116",
+  "title": "Everything is Wrong",
+  "artist": "Lincoln",
+  "spotifyID": "7hbLtKkS8qww5F6ZeIPC5s",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:bbvi-bbii-bbiii-bbvi"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F7",
+        "Dbmin",
+        "Ab",
+        "Fmin",
+        "C"
+      ],
+      "rawChords": [
+        "F7",
+        "Dbmin",
+        "Ab",
+        "Fmin",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-?-biii-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:bbvi-bbii-bbiii-bbvi-bbii-bbiii-bbvi"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F7",
+        "Dbmin",
+        "C"
+      ],
+      "rawChords": [
+        "F7",
+        "Dbmin",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab",
+        "Db",
+        "Eb",
+        "Ab"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:bbvi-bbii-bbiii-bbvi-bbii-bbiii-bbvi"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Everything Is Wrong",
+  "release_date": "2023-01-13",
+  "duration_ms": 180253
+}

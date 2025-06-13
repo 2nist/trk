@@ -1,0 +1,189 @@
+{
+  "songID": "entry_100689",
+  "title": "Theater of Dreams",
+  "artist": "Bigelf",
+  "spotifyID": "6i1LLMZp2vd2nIEkZFFOR9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Gs",
+        "G7",
+        "C",
+        "Gs",
+        "G7",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "C",
+        "Gs",
+        "G7",
+        "C",
+        "Gs",
+        "G7",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.06",
+        "progression:v-?-#ii-?-ii-?-v-?-#ii-?-ii-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Fs",
+        "Eb",
+        "E",
+        "B",
+        "Fs",
+        "Eb",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Eb",
+        "E",
+        "B",
+        "Fs",
+        "Eb",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:i-?-v-?-biv-?-iv-?-i-?-v-?-biv-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Gs",
+        "G7",
+        "C",
+        "Gs",
+        "G7",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "C",
+        "Gs",
+        "G7",
+        "C",
+        "Gs",
+        "G7",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.06",
+        "progression:v-?-#ii-?-ii-?-v-?-#ii-?-ii-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Fs",
+        "Eb",
+        "E",
+        "B",
+        "Fs",
+        "Eb",
+        "E",
+        "B",
+        "Fs",
+        "Eb",
+        "E",
+        "B",
+        "A",
+        "G",
+        "A",
+        "B",
+        "A",
+        "G",
+        "E",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Eb",
+        "E",
+        "B",
+        "Fs",
+        "Eb",
+        "E",
+        "B",
+        "Fs",
+        "Eb",
+        "E",
+        "B",
+        "A",
+        "G",
+        "A",
+        "B",
+        "A",
+        "G",
+        "E",
+        "B",
+        "A"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.66",
+        "progression:v-?-ii-?-bi-?-i-?-v-?-ii-?-bi-?-i-?-v-?-ii-?-bi-?-i-?-v-?-iv-?-biii-?-iv-?-v-?-iv-?-biii-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Into the Maelstrom",
+  "release_date": "2014-03-04",
+  "duration_ms": 241573
+}

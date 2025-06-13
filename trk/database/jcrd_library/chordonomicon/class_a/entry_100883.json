@@ -1,0 +1,273 @@
+{
+  "songID": "entry_100883",
+  "title": "Feel It",
+  "artist": "The Luka State",
+  "spotifyID": "1W3Cji9VnTHi72CuQhxclE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-i-v-iv-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v-ii-v-i-?-?-v-ii-v-i-?-?-v-ii-v-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-i-v-iv-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v-ii-v-i-?-?-v-ii-v-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "Fsmin",
+        "A",
+        "B",
+        "C"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "A",
+        "B",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-?-i-ii-biii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fs",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fs",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fs",
+        "Csmin",
+        "E",
+        "B",
+        "E",
+        "A",
+        "Fs",
+        "Csmin"
+      ],
+      "length": 25,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v-ii-v-i-?-?-v-ii-v-i-?-?-v-ii-v-i-?-?-v-ii-v-i-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Fall In Fall Out",
+  "release_date": "2021-01-29",
+  "duration_ms": 215157
+}

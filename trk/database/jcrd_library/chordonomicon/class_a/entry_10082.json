@@ -1,0 +1,245 @@
+{
+  "songID": "entry_10082",
+  "title": "Het is winter Bibber Bibber",
+  "artist": "Juf Roos",
+  "spotifyID": "517533ixslDgu4Sz2eREL0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "C7"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "C7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "C7"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "C7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Juf Roos is jarig (Liedjes uit de film)",
+  "release_date": "2019-08-02",
+  "duration_ms": 87280
+}

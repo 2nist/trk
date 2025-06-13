@@ -1,0 +1,151 @@
+{
+  "songID": "entry_101390",
+  "title": "The Missing Link - Mixed",
+  "artist": "Gorkiz",
+  "spotifyID": "5uUMcDniQJZnIBCn2lun1N",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "B7",
+        "Emin",
+        "Amin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "B7",
+        "Emin",
+        "Amin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "Amin",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:v-?-?-?-biii-?-v-?-?-biii-?-v-?-?-biii-?-v-?-?-biii-?-v-?-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "Amin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:iv-?-iii-?-?-iv-?-iii-?-?-iv-?-iii-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B7",
+        "Emin",
+        "Amin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin"
+      ],
+      "rawChords": [
+        "B7",
+        "Emin",
+        "Amin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.18",
+        "progression:v-?-?-?-biii-?-v-?-?-biii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Transensations Archive (DJ Mix)",
+  "release_date": "2023-05-31",
+  "duration_ms": 344000
+}

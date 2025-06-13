@@ -1,0 +1,299 @@
+{
+  "songID": "entry_100862",
+  "title": "Africa's Sky",
+  "artist": "Cynthia Silveira",
+  "spotifyID": "6LUEO8GiulkQgK8yRauHt4",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin/E",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin/E",
+        "C",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin/E",
+        "C",
+        "F",
+        "C",
+        "Amin/E"
+      ],
+      "rawChords": [
+        "C",
+        "Amin/E",
+        "C",
+        "F",
+        "C",
+        "Amin/E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-v-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "Fmaj7",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "Fmaj7",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "Fmaj7",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "Fmaj7",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:i-?-ii-?-i-?-ii-?-?-i-?-?-v-?-i-?-ii-?-i-?-ii-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Dmin",
+        "F",
+        "Amin",
+        "F",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Dmin",
+        "F",
+        "Amin",
+        "F",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:i-?-ii-?-i-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C9"
+      ],
+      "rawChords": [
+        "C9"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "C"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:i-?-ii-?-i-?-?-v-?-i-?-ii-?-i-?-ii-?-?-i-?-v-?-i-?-ii-?-i-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Shades of Love",
+  "release_date": "2017-09-01",
+  "duration_ms": 198250
+}

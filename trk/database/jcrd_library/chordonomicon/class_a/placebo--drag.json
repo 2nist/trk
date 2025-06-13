@@ -1,0 +1,381 @@
+{
+  "songID": "entry_100732",
+  "title": "Drag",
+  "artist": "Placebo",
+  "spotifyID": "6tFs6g08LjsqaUAtKpkVy2",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:bbvi-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-bbvi-?-?-bbvi-?-?-bbvi-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:bbvi-?-?-biv-?-bbiii-?-bbvi-?-?-biv-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-bbvi-?-?-bbvi-?-?-bbvi-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:bbvi-?-?-biv-?-bbiii-?-bbvi-?-?-biv-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.57",
+        "progression:bbvi-?-?-biv-?-bbiii-?-bbvi-?-?-biv-?-bbvii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Db",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Ab"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Ab/B",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Ab/B",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-bbvi-?-?-?-bbvi-?-?-bbvi-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:bbvi-?-?-biv-?-bbiii-?-bbvi-?-?-biv-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Db",
+        "Fmin",
+        "Bb",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Bb",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.57",
+        "progression:bbvi-?-?-biv-?-bbiii-?-bbvi-?-?-biv-?-bbvii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Db",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Ab"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Meds",
+  "release_date": "2006-03-13",
+  "duration_ms": 201120
+}

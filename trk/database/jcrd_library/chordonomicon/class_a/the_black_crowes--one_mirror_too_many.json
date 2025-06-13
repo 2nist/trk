@@ -1,0 +1,215 @@
+{
+  "songID": "entry_100358",
+  "title": "One Mirror Too Many",
+  "artist": "The Black Crowes",
+  "spotifyID": "6Bf0BQArZEzrdWmZyee5AD",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gmin",
+        "F",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "F",
+        "Gmin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bbsus4"
+      ],
+      "rawChords": [
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bbsus4"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Fsus4",
+        "F",
+        "Fsus4",
+        "F"
+      ],
+      "rawChords": [
+        "Fsus4",
+        "F",
+        "Fsus4",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F"
+      ],
+      "rawChords": [
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F",
+        "Bb/F",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Three Snakes And One Charm",
+  "release_date": "1996-01-01",
+  "duration_ms": 214666
+}

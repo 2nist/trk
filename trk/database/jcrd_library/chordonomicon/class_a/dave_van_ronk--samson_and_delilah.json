@@ -1,0 +1,139 @@
+{
+  "songID": "entry_0407",
+  "title": "Samson And Delilah",
+  "artist": "Dave Van Ronk",
+  "spotifyID": "0tVX2Tst13rHUsPBKxmEqu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-iv-?-v-?-i-?-iv-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Folksinger",
+  "release_date": "1962",
+  "duration_ms": 159160
+}

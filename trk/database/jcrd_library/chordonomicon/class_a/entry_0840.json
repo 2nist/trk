@@ -1,0 +1,291 @@
+{
+  "songID": "entry_0840",
+  "title": "A Place In The Clouds",
+  "artist": "Joey + Rory",
+  "spotifyID": "6TM9OqJ5iOv069DwCyX2gP",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-i-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-i-v-i-v-ii-v-i-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-i-v-ii-v-i-v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:ii-i-v-i-v-ii-i-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-i-v-i-v-ii-v-i-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:ii-i-v-i-v-ii-i-v-i-v-ii-i-v-ii-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Singer And The Song: The Best Of Joey+Rory",
+  "release_date": "2018-09-21",
+  "duration_ms": 225840
+}

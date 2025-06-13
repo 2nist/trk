@@ -1,0 +1,351 @@
+{
+  "songID": "entry_100183",
+  "title": "Nada Se Repete",
+  "artist": "Teago Oliveira",
+  "spotifyID": "6OfMLv3GLwaY7U1EJaac9x",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Emin",
+        "A7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "A7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Emin",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Emin",
+        "A7",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-?-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Emin",
+        "D",
+        "Fsmin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Emin",
+        "D",
+        "Fsmin",
+        "Bmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-?-?-i-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:i-?-?-ii-?-v-?-v-?-i-?-?-ii-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Emin",
+        "D",
+        "Fsmin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Emin",
+        "D",
+        "Fsmin",
+        "Bmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-?-?-i-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "Emin",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "Emin",
+        "A7",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:i-?-?-ii-?-v-?-v-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Emin",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:i-?-?-i-?-v-?-i-?-?-i-?-?-ii-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "Emin",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "Emin",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "Emin",
+        "A7",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:i-?-?-ii-?-v-?-v-?-i-?-?-ii-?-v-?-v-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Nada Se Repete",
+  "release_date": "2021-05-21",
+  "duration_ms": 258333
+}

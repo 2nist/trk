@@ -1,0 +1,59 @@
+{
+  "songID": "entry_102455",
+  "title": "Humming - Interlude 3",
+  "artist": "St. Vincent",
+  "spotifyID": "04vIWAQ9ghS8qGKSuqzjjP",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmaj7",
+        "G",
+        "Fmaj7",
+        "G",
+        "G7",
+        "F7",
+        "G",
+        "Cmaj7",
+        "F7",
+        "G",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "G",
+        "Fmaj7",
+        "G",
+        "G7",
+        "F7",
+        "G",
+        "Cmaj7",
+        "F7",
+        "G",
+        "Cmaj7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.06",
+        "progression:?-v-?-?-v-?-v-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Daddy's Home",
+  "release_date": "2021-05-14",
+  "duration_ms": 38240
+}

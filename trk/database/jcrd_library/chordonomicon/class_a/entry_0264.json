@@ -1,0 +1,227 @@
+{
+  "songID": "entry_0264",
+  "title": "ABC (ghi)",
+  "artist": "Skema Boy",
+  "spotifyID": "63yGv7ArIn2BiOzYVYTRcX",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Emin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-i-v-?-?-i-v-?-?-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-?-i-v-?-?-i-v-?-?-i-v-?-?-i-v-?-?-i-v-?-?-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-vii-?-i-v-?-?-i-v-vii-?-i-v-?-?-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-?-i-v-?-?-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "ABC (ghi)",
+  "release_date": "2022-02-19",
+  "duration_ms": 116007
+}

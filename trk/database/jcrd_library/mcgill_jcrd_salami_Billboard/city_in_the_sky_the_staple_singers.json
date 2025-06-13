@@ -1,0 +1,270 @@
+{
+  "title": "City In The Sky",
+  "artist": "The Staple Singers",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 534,
+      "duration_ms": 18789,
+      "chords": [
+        "N",
+        "N",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:min7",
+        "D:7",
+        "C:sus4",
+        "D:7",
+        "C:sus4",
+        "C:sus4"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 19323,
+      "duration_ms": 31746,
+      "chords": [
+        "C:sus4",
+        "D:7",
+        "C:sus4",
+        "D:7",
+        "C:sus4",
+        "D:7",
+        "C:sus4",
+        "G:7",
+        "G:7",
+        "D:7",
+        "C:sus4",
+        "G:7",
+        "G:7",
+        "D:7",
+        "C:sus4"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 51069,
+      "duration_ms": 9013,
+      "chords": [
+        "A:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 60083,
+      "duration_ms": 9035,
+      "chords": [
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7(#9)",
+        "D:7(#9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 69119,
+      "duration_ms": 31712,
+      "chords": [
+        "D:7(#9)",
+        "D:7",
+        "C:sus4",
+        "D:7",
+        "C:sus4",
+        "D:7",
+        "C:sus4",
+        "G:7",
+        "G:7",
+        "D:7",
+        "C:sus4",
+        "G:7",
+        "G:7",
+        "D:7",
+        "C:sus4"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 100832,
+      "duration_ms": 9033,
+      "chords": [
+        "A:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 109865,
+      "duration_ms": 8945,
+      "chords": [
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7(#9)",
+        "D:7(#9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 118810,
+      "duration_ms": 31601,
+      "chords": [
+        "D:7(#9)",
+        "D:7",
+        "C:sus4",
+        "D:7",
+        "C:sus4",
+        "D:7",
+        "C:sus4",
+        "G:7",
+        "G:7",
+        "D:7",
+        "C:sus4",
+        "G:7",
+        "G:7",
+        "D:7",
+        "C:sus4"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 150411,
+      "duration_ms": 9060,
+      "chords": [
+        "A:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 159472,
+      "duration_ms": 64632,
+      "chords": [
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

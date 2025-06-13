@@ -1,0 +1,253 @@
+{
+  "songID": "entry_0400",
+  "title": "Que des vagues",
+  "artist": "Auguste",
+  "spotifyID": "1r5MZUGGrSxkcxiYrV4Jg9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Que des vagues (Radio Edit)",
+  "release_date": "2023-02-07",
+  "duration_ms": 263986
+}

@@ -1,0 +1,321 @@
+{
+  "songID": "entry_102793",
+  "title": "Nothing Left to Lose",
+  "artist": "Bluprint",
+  "spotifyID": "2jO4hxOaYuTrKseKdyTebh",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "Ds",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Ds",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:i-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Ds",
+        "E",
+        "Gs",
+        "Fs",
+        "B",
+        "Ds",
+        "E",
+        "Gs",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Ds",
+        "E",
+        "Gs",
+        "Fs",
+        "B",
+        "Ds",
+        "E",
+        "Gs",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:v-?-vii-?-i-?-iii-?-ii-?-v-?-vii-?-i-?-iii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "B",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "B",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.53",
+        "progression:i-?-v-?-iii-?-ii-?-i-?-v-?-vi-?-vii-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Ds",
+        "E",
+        "Gs",
+        "Fs",
+        "B",
+        "Ds",
+        "E",
+        "Gs",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Ds",
+        "E",
+        "Gs",
+        "Fs",
+        "B",
+        "Ds",
+        "E",
+        "Gs",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:v-?-vii-?-i-?-iii-?-ii-?-v-?-vii-?-i-?-iii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "B",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "B",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.65",
+        "progression:i-?-v-?-iii-?-ii-?-i-?-v-?-vi-?-vii-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gs",
+        "Fs",
+        "B",
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Gs",
+        "Fs",
+        "B",
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.72",
+        "progression:iii-?-ii-?-v-?-i-?-v-?-iii-?-ii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "B",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "B",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs",
+        "Gs",
+        "Fs",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "B",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "B",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs",
+        "Cs",
+        "Ds",
+        "E",
+        "Fs",
+        "Gs",
+        "Fs",
+        "B",
+        "E"
+      ],
+      "length": 28,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:iv-?-i-?-vi-?-v-?-iv-?-i-?-ii-?-iii-?-iv-?-v-?-iv-?-i-?-vi-?-v-?-iv-?-i-?-ii-?-iii-?-iv-?-v-?-ii-?-iii-?-iv-?-v-?-vi-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Nothing Left to Lose",
+  "release_date": "2019-04-15",
+  "duration_ms": 225462
+}

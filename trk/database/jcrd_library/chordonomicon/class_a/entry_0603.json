@@ -1,0 +1,279 @@
+{
+  "songID": "entry_0603",
+  "title": "Five Years",
+  "artist": "Robyn Ottolini",
+  "spotifyID": "1Sz7AlQskzUlFOCg777Blx",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-v-iv-?-v-iv-?-v-iv-?-v-iv-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Emin",
+        "Fsmin",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Emin",
+        "Fsmin",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:ii-i-?-ii-i-?-ii-i-?-ii-i-?-?-i-?-ii-i-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-?-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Emin",
+        "Fsmin",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Emin",
+        "Fsmin",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-ii-i-?-ii-i-?-ii-i-?-ii-i-?-?-i-?-ii-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "Fs",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "Fs",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-?-i-?-ii-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "Emin",
+        "Fs",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "Emin",
+        "Fs",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-ii-?-ii-i-?-ii-i-?-v-i-?-?-i-?-ii-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Five Years",
+  "release_date": "2023-02-06",
+  "duration_ms": 188228
+}

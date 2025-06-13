@@ -1,0 +1,197 @@
+{
+  "songID": "entry_0298",
+  "title": "Blue Cigar",
+  "artist": "Midnight Sister",
+  "spotifyID": "036mhHLlaQwnNbQEu5yW1S",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-iv-v-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G/D",
+        "Emin",
+        "Amin",
+        "F",
+        "G/D",
+        "Emin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "G/D",
+        "Emin",
+        "Amin",
+        "F",
+        "G/D",
+        "Emin",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-iv-v-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G/D",
+        "Emin",
+        "Amin",
+        "F",
+        "G/D",
+        "Emin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "G/D",
+        "Emin",
+        "Amin",
+        "F",
+        "G/D",
+        "Emin",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-iv-v-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G/D",
+        "Emin",
+        "Amin",
+        "F",
+        "G/D",
+        "Emin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "G/D",
+        "Emin",
+        "Amin",
+        "F",
+        "G/D",
+        "Emin",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Saturn Over Sunset",
+  "release_date": "2017-09-08",
+  "duration_ms": 210373
+}

@@ -1,0 +1,309 @@
+{
+  "songID": "entry_100593",
+  "title": "Ika-Labing Walo",
+  "artist": "Itim Na Ulap",
+  "spotifyID": "57vDwvalT8N16kYrqynUP9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G/B",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G/B",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:v-?-?-i-?-?-ii-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:v-?-?-i-?-?-ii-?-i-?-v-?-?-i-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G/B",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:v-?-?-i-?-?-ii-?-i-?-v-?-?-i-?-?-ii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Ika-Labing Walo",
+  "release_date": "2019-05-18",
+  "duration_ms": 268043
+}

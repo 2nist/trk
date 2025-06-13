@@ -1,0 +1,187 @@
+{
+  "title": "Oh Me, Oh My (Dreams In My Arms)",
+  "artist": "Al Green",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 592,
+      "duration_ms": 9978,
+      "chords": [
+        "F:maj",
+        "Bb:maj",
+        "G:min",
+        "A:7",
+        "A:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 10570,
+      "duration_ms": 39787,
+      "chords": [
+        "F:maj",
+        "Bb:maj/5",
+        "A:min",
+        "A:min",
+        "Bb:maj",
+        "G:min",
+        "A:7",
+        "A:7",
+        "F:maj",
+        "Bb:maj/5",
+        "A:min",
+        "A:min",
+        "Bb:maj",
+        "G:min",
+        "A:7",
+        "A:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 50358,
+      "duration_ms": 24746,
+      "chords": [
+        "A:7",
+        "F:maj",
+        "D:7",
+        "Bb:maj",
+        "Eb:9",
+        "E:7",
+        "E:7",
+        "Ab:min",
+        "Db:7",
+        "C:7(11)",
+        "C:7(11)",
+        "C:7(11)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 75104,
+      "duration_ms": 19765,
+      "chords": [
+        "F:maj",
+        "G:min",
+        "A:min",
+        "Bb:maj",
+        "A:min",
+        "Ab:dim",
+        "G:min",
+        "C:7",
+        "C:7"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 94870,
+      "duration_ms": 24740,
+      "chords": [
+        "C:7",
+        "F:maj",
+        "D:7",
+        "Bb:maj",
+        "Eb:9",
+        "E:7",
+        "E:7",
+        "Ab:min7",
+        "Db:7",
+        "C:7(11)",
+        "C:7(11)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 119611,
+      "duration_ms": 29750,
+      "chords": [
+        "C:7(11)",
+        "F:maj",
+        "D:7",
+        "Bb:maj",
+        "Eb:9",
+        "E:7",
+        "E:7",
+        "F:maj",
+        "D:7",
+        "Bb:maj",
+        "Eb:9",
+        "E:7",
+        "C:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 149362,
+      "duration_ms": 17280,
+      "chords": [
+        "F:maj",
+        "D:7",
+        "Bb:maj",
+        "Eb:9",
+        "E:7",
+        "C:7",
+        "C:7",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "h",
+      "sectionFunction": "Development",
+      "sectionLabel": "horns)",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

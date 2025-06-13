@@ -1,0 +1,245 @@
+{
+  "songID": "entry_102420",
+  "title": "Crystal Closet Queen",
+  "artist": "Leon Russell",
+  "spotifyID": "6AJPxUP4NWh1SwXLzHPAXK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "Ds",
+        "C",
+        "F",
+        "G",
+        "Ds",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "Ds",
+        "C",
+        "F",
+        "G",
+        "Ds",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.69",
+        "progression:i-?-iv-?-v-?-#ii-?-i-?-iv-?-v-?-#ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-i-?-v-?-ii-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "A7",
+        "F",
+        "D",
+        "G",
+        "A7",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "A7",
+        "F",
+        "D",
+        "G",
+        "A7",
+        "F",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.69",
+        "progression:i-?-iv-?-v-?-biii-?-i-?-iv-?-v-?-biii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:i-?-v-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Leon Russell And The Shelter People (Expanded Edition)",
+  "release_date": "1971",
+  "duration_ms": 179866
+}

@@ -1,0 +1,269 @@
+{
+  "songID": "entry_0653",
+  "title": "Gemstones",
+  "artist": "Adam Green",
+  "spotifyID": "6LRRnDBaalYj2dS33cpjxN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-?-?-?-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-iv-?-v-?-i-?-iv-?-v-?-?-?-?-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "F",
+        "Bb",
+        "Amin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "G",
+        "Dmin",
+        "E",
+        "G"
+      ],
+      "rawChords": [
+        "E",
+        "F",
+        "Bb",
+        "Amin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "G",
+        "Dmin",
+        "E",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.03",
+        "progression:ii-?-biii-?-bvi-?-?-biii-?-?-biii-?-?-iv-?-?-ii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Amin",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "E",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:biii-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Gemstones",
+  "release_date": "2005-01-10",
+  "duration_ms": 144120
+}

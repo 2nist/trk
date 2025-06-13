@@ -1,0 +1,441 @@
+{
+  "songID": "entry_102980",
+  "title": "The Ballad Of Blind Tom",
+  "artist": "Elton John",
+  "spotifyID": "77acx0NXhP4vdTOsPlCsMv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dadd11/G",
+        "G7/F",
+        "Eb7",
+        "D7",
+        "Gmin",
+        "Bb7",
+        "Eb7",
+        "D7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dadd11/G",
+        "G7/F",
+        "Eb7",
+        "D7",
+        "Gmin",
+        "Bb7",
+        "Eb7",
+        "D7",
+        "Gmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-?-iv-?-iii-?-?-i-?-iv-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A7",
+        "Cmin",
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "A7",
+        "Cmin",
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dadd11/G",
+        "G7/F",
+        "Eb7",
+        "D7",
+        "Gmin",
+        "Bb7",
+        "Eb7",
+        "D7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dadd11/G",
+        "G7/F",
+        "Eb7",
+        "D7",
+        "Gmin",
+        "Bb7",
+        "Eb7",
+        "D7",
+        "Gmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-?-iv-?-iii-?-?-i-?-iv-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "D",
+        "Gmin"
+      ],
+      "rawChords": [
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "D",
+        "Gmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-biii-?-bvi-?-biii-?-bvi-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A7",
+        "Cmin",
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "A7",
+        "Cmin",
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dadd11/G",
+        "G7/F",
+        "Eb7",
+        "D7",
+        "Gmin",
+        "Bb7",
+        "Eb7",
+        "D7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dadd11/G",
+        "G7/F",
+        "Eb7",
+        "D7",
+        "Gmin",
+        "Bb7",
+        "Eb7",
+        "D7",
+        "Gmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-?-iv-?-iii-?-?-i-?-iv-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "D",
+        "Gmin"
+      ],
+      "rawChords": [
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "D",
+        "Gmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-biii-?-bvi-?-biii-?-bvi-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A7",
+        "Cmin",
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "A7",
+        "Cmin",
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "D",
+        "Gmin"
+      ],
+      "rawChords": [
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "G",
+        "Cmin",
+        "A",
+        "D",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "D",
+        "Gmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-biii-?-bvi-?-biii-?-bvi-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A7",
+        "Cmin",
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "A7",
+        "Cmin",
+        "Gmin",
+        "A7",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Interlude"
+  ],
+  "tags": [],
+  "album": "The Diving Board",
+  "release_date": "2013-09-16",
+  "duration_ms": 252120
+}

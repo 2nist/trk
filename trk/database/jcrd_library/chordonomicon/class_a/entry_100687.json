@@ -1,0 +1,375 @@
+{
+  "songID": "entry_100687",
+  "title": "Jel' Zbog Nje",
+  "artist": "Magazin",
+  "spotifyID": "6aQAk5B6fsfRQPXeXXNwYN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Csmin",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-iv-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "B",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "B",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-iv-v-?-?-iv-v-?-?-v-i-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-iv-v-i-?-v-i-iv-v-i-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-iv-v-i-?-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Csmin",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-iv-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-v-?-?-iv-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-iv-v-i-?-v-i-iv-v-i-?-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Cs"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Cs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-i-ii-v-i-ii-v-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "B",
+        "Cs",
+        "Fs",
+        "Gsmin",
+        "Cs",
+        "Fs"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "Cs",
+        "Fs",
+        "Gsmin",
+        "Cs",
+        "Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gsmin",
+        "Cs",
+        "Fs",
+        "Gsmin",
+        "Cs",
+        "Fs"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "Cs",
+        "Fs",
+        "Gsmin",
+        "Cs",
+        "Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Platinum Collection",
+  "release_date": "2011-01-01",
+  "duration_ms": 217893
+}

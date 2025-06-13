@@ -1,0 +1,271 @@
+{
+  "songID": "entry_102639",
+  "title": "St. Matthew",
+  "artist": "The Monkees",
+  "spotifyID": "1wsR2nPFilWwsI3AVYChnR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "E",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "E",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.64",
+        "progression:iv-?-v-?-iv-?-v-?-i-?-ii-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "E",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "E",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.64",
+        "progression:iv-?-v-?-iv-?-v-?-i-?-ii-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "Bmin",
+        "Fs",
+        "D",
+        "Dmin",
+        "E7"
+      ],
+      "rawChords": [
+        "Fs",
+        "Bmin",
+        "Fs",
+        "D",
+        "Dmin",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:v-?-?-v-?-biii-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "E",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "E",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.59",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-i-?-ii-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "Bmin",
+        "Fs",
+        "D",
+        "Dmin",
+        "E7"
+      ],
+      "rawChords": [
+        "Fs",
+        "Bmin",
+        "Fs",
+        "D",
+        "Dmin",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:v-?-?-v-?-biii-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "E",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "E",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.59",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-i-?-ii-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Missing Links, Vol. 2",
+  "release_date": "1986-01-14",
+  "duration_ms": 162191
+}

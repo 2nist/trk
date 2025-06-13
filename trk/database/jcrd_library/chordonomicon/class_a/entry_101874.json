@@ -1,0 +1,219 @@
+{
+  "songID": "entry_101874",
+  "title": "Who's Been in My Dream?",
+  "artist": "Milk Music",
+  "spotifyID": "5VfQOeWtQD3qs9LVBRAemw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:v-?-?-v-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gsmin",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Mystic 100's",
+  "release_date": "2017-03-15",
+  "duration_ms": 242306
+}

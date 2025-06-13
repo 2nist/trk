@@ -1,0 +1,283 @@
+{
+  "songID": "entry_0763",
+  "title": "You Ain't No Cowboy",
+  "artist": "Jenna Paulette",
+  "spotifyID": "1Pmw5CD0edZEOktKk0TjvK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-i-v-i-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "Bmin7",
+        "Emin7",
+        "A",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "Bmin7",
+        "Emin7",
+        "A",
+        "D",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-?-v-iv-v-i-v-?-v-iv-v-?-?-v-i-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-i-v-i-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "Bmin7",
+        "Emin7",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "Emin7"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "Bmin7",
+        "Emin7",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "Emin7"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:i-v-?-v-iv-v-i-v-?-v-iv-v-?-?-v-?-v-iv-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "Bmin7",
+        "Emin7",
+        "A",
+        "Bmin7",
+        "Emin7",
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin7",
+        "A",
+        "G",
+        "A",
+        "Bmin7",
+        "Emin7",
+        "A",
+        "Bmin7",
+        "Emin7",
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-?-v-iv-v-i-v-?-v-iv-v-?-?-v-?-?-v-i-iv-i-iv-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Girl I Was",
+  "release_date": "2023-03-31",
+  "duration_ms": 208106
+}

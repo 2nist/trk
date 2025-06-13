@@ -1,0 +1,379 @@
+{
+  "songID": "entry_100420",
+  "title": "To Drink the Rainbow (Acoustic)",
+  "artist": "Tanita Tikaram",
+  "spotifyID": "3RVyjMrYE8rjgl1D4HWbG4",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:iv-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:?-i-?-v-?-v-?-i-?-v-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:?-i-?-v-?-v-?-i-?-v-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "Gsus2",
+        "D",
+        "Dsus2",
+        "D",
+        "Dsus2",
+        "G",
+        "Gsus2",
+        "D7",
+        "D",
+        "Dsus2",
+        "G",
+        "Gsus2",
+        "Cmin",
+        "Cmin7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Gsus2",
+        "D",
+        "Dsus2",
+        "D",
+        "Dsus2",
+        "G",
+        "Gsus2",
+        "D7",
+        "D",
+        "Dsus2",
+        "G",
+        "Gsus2",
+        "Cmin",
+        "Cmin7",
+        "G",
+        "D"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:i-?-?-v-?-?-v-?-?-i-?-?-v-?-v-?-?-i-?-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "Gsus2",
+        "D",
+        "D7",
+        "G",
+        "Gsus2",
+        "D",
+        "D7",
+        "G",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G",
+        "D",
+        "D7",
+        "G",
+        "Gsus2",
+        "D",
+        "D7",
+        "G",
+        "Gsus2",
+        "D",
+        "D7",
+        "G",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-v-?-v-?-i-?-?-v-?-v-?-i-?-?-v-?-v-?-i-?-?-i-?-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Tanita Tikaram (Acoustic)",
+  "release_date": "2018-09-10",
+  "duration_ms": 211680
+}

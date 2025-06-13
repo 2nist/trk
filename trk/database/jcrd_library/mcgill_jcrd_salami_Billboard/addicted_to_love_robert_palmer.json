@@ -1,0 +1,308 @@
+{
+  "title": "Addicted To Love",
+  "artist": "Robert Palmer",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 510,
+      "duration_ms": 18575,
+      "chords": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 19086,
+      "duration_ms": 34397,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj/5",
+        "D:maj/5",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 53484,
+      "duration_ms": 34341,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj/5",
+        "D:maj/5",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 87826,
+      "duration_ms": 17114,
+      "chords": [
+        "A:maj",
+        "F#:min11",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "F#:min11",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:sus4(b7)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 104941,
+      "duration_ms": 34424,
+      "chords": [
+        "D:sus4(b7)",
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj/5",
+        "D:maj/5",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj/5",
+        "D:maj/5",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 139365,
+      "duration_ms": 17228,
+      "chords": [
+        "A:maj",
+        "F#:min11",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "F#:min11",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:sus4(b7)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 156594,
+      "duration_ms": 21466,
+      "chords": [
+        "D:sus4(b7)",
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj/5",
+        "D:maj/5",
+        "A:maj",
+        "A:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_5",
+      "start_ms": 178060,
+      "duration_ms": 17339,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj/5",
+        "D:maj/5",
+        "A:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_6",
+      "start_ms": 195400,
+      "duration_ms": 17245,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj/5",
+        "D:maj/5",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 212645,
+      "duration_ms": 17071,
+      "chords": [
+        "F#:min11",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "F#:min11",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:sus4(b7)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_7",
+      "start_ms": 229717,
+      "duration_ms": 35216,
+      "chords": [
+        "D:sus4(b7)",
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj/5",
+        "D:maj/5",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj/5",
+        "D:maj/5",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

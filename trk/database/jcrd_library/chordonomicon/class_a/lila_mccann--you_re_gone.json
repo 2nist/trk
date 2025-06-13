@@ -1,0 +1,349 @@
+{
+  "songID": "entry_100599",
+  "title": "You're Gone",
+  "artist": "Lila McCann",
+  "spotifyID": "07IMecAvfTPw4myyrW0114",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:biii-?-iv-?-i-?-biii-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-i-?-v-?-i-?-ii-?-i-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "A",
+        "F",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "A",
+        "F",
+        "Emin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.50",
+        "progression:i-?-v-?-?-iv-?-v-?-i-?-v-?-?-v-?-iv-?-v-?-biii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:iii-?-v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-ii-?-i-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-v-?-i-?-v-?-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "A"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.53",
+        "progression:iv-?-i-?-v-?-iv-?-i-?-v-?-?-v-?-i-?-iv-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "A",
+        "F",
+        "Emin",
+        "D",
+        "F",
+        "Emin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "A",
+        "F",
+        "Emin",
+        "D",
+        "F",
+        "Emin",
+        "A",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.65",
+        "progression:i-?-v-?-?-iv-?-v-?-i-?-v-?-?-v-?-iv-?-v-?-biii-?-?-i-?-biii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Something In The Air",
+  "release_date": "1999",
+  "duration_ms": 238333
+}

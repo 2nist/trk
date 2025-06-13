@@ -1,0 +1,348 @@
+{
+  "title": "Reelin' & Rockin'",
+  "artist": "Chuck Berry",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 464,
+      "duration_ms": 5945,
+      "chords": [
+        "G:5",
+        "G:5",
+        "G:5",
+        "G:5",
+        "G:5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 6409,
+      "duration_ms": 16833,
+      "chords": [
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 23243,
+      "duration_ms": 16849,
+      "chords": [
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 40093,
+      "duration_ms": 16901,
+      "chords": [
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 56994,
+      "duration_ms": 16933,
+      "chords": [
+        "D:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_5",
+      "start_ms": 73928,
+      "duration_ms": 17020,
+      "chords": [
+        "D:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_6",
+      "start_ms": 90948,
+      "duration_ms": 16972,
+      "chords": [
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_7",
+      "start_ms": 107921,
+      "duration_ms": 16960,
+      "chords": [
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_8",
+      "start_ms": 124882,
+      "duration_ms": 17008,
+      "chords": [
+        "D:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_9",
+      "start_ms": 141890,
+      "duration_ms": 16809,
+      "chords": [
+        "D:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_10",
+      "start_ms": 158700,
+      "duration_ms": 17027,
+      "chords": [
+        "D:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_11",
+      "start_ms": 175728,
+      "duration_ms": 21522,
+      "chords": [
+        "D:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "G:7",
+        "C:7",
+        "C:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "Bb:7",
+        "A:7",
+        "Ab:7",
+        "G:7",
+        "G:7",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

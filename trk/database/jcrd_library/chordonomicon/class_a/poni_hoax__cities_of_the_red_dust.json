@@ -1,0 +1,189 @@
+{
+  "songID": "entry_102649",
+  "title": "Cities of the Red Dust",
+  "artist": "Poni Hoax",
+  "spotifyID": "7tlTeCY8YVun7J2ux5jSeJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:iv-?-biii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "F",
+        "Emin",
+        "D",
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "Emin",
+        "D",
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:iv-?-biii-?-?-i-?-iv-?-biii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "Eb",
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Eb",
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:1.00",
+        "progression:i-?-?-biii-?-v-?-iv-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:iv-?-biii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "B",
+        "G",
+        "C",
+        "B",
+        "G",
+        "C",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:iv-?-iii-?-i-?-iv-?-iii-?-i-?-iv-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "A State of War",
+  "release_date": "2013-03-25",
+  "duration_ms": 168506
+}

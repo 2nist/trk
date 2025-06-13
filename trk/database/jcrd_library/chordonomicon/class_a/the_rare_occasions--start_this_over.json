@@ -1,0 +1,325 @@
+{
+  "songID": "entry_10117",
+  "title": "Start This Over",
+  "artist": "The Rare Occasions",
+  "spotifyID": "3rghzWiJzh59FHeec1hcfK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Emaj7",
+        "B",
+        "E",
+        "Emaj7",
+        "B",
+        "E",
+        "Ds7",
+        "Gsmin7",
+        "Cs7",
+        "Csmin",
+        "Dsmin",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Emaj7",
+        "B",
+        "E",
+        "Emaj7",
+        "B",
+        "E",
+        "Ds7",
+        "Gsmin7",
+        "Cs7",
+        "Csmin",
+        "Dsmin",
+        "Csmin",
+        "B"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "Fs",
+        "B",
+        "Ds",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Fs",
+        "B",
+        "Ds",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.60",
+        "progression:?-v-?-i-?-iii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Emaj7",
+        "B",
+        "E",
+        "Emaj7",
+        "B",
+        "E",
+        "Ds7",
+        "Gsmin7",
+        "Cs7",
+        "Csmin",
+        "Dsmin",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Emaj7",
+        "B",
+        "E",
+        "Emaj7",
+        "B",
+        "E",
+        "Ds7",
+        "Gsmin7",
+        "Cs7",
+        "Csmin",
+        "Dsmin",
+        "Csmin",
+        "B"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "Fs",
+        "B",
+        "Ds",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Fs",
+        "B",
+        "Ds",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.60",
+        "progression:?-v-?-i-?-iii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D",
+        "Gmaj7",
+        "D",
+        "Gmaj7",
+        "D",
+        "Gmaj7",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "D",
+        "Gmaj7",
+        "D",
+        "Gmaj7",
+        "D",
+        "Gmaj7",
+        "D",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "As",
+        "D",
+        "E7",
+        "G",
+        "Fs",
+        "Fsmaj7"
+      ],
+      "rawChords": [
+        "G",
+        "As",
+        "D",
+        "E7",
+        "G",
+        "Fs",
+        "Fsmaj7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:v-?-#vi-?-ii-?-iii-?-v-?-#iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "Fs",
+        "B",
+        "Ds",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Fs",
+        "B",
+        "Ds",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.60",
+        "progression:?-v-?-i-?-iii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Ds7",
+        "Gsmin7",
+        "Cs7",
+        "Csmin",
+        "Dsmin",
+        "Csmin",
+        "Dsmin",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Ds7",
+        "Gsmin7",
+        "Cs7",
+        "Csmin",
+        "Dsmin",
+        "Csmin",
+        "Dsmin",
+        "Csmin",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-?-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Attaboy",
+  "release_date": "2022-11-04",
+  "duration_ms": 213530
+}

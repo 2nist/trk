@@ -1,0 +1,347 @@
+{
+  "songID": "entry_100021",
+  "title": "Lyin'",
+  "artist": "David Tucker",
+  "spotifyID": "515U3WDeHjtd8s9UkfSdhX",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-?-i-v-?-?-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "Emin7"
+      ],
+      "rawChords": [
+        "C",
+        "Emin7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-i-v-?-?-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-?-i-v-?-?-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "Emin7",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin7",
+        "Amin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-?-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "Emin7",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin7",
+        "Amin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-?-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-?-i-v-?-?-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Amin",
+        "F",
+        "C",
+        "Emin7",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-i-v-?-?-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Bridge",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Lyin'",
+  "release_date": "2021-03-26",
+  "duration_ms": 168285
+}

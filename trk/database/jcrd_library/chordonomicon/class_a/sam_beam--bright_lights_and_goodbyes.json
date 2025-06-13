@@ -1,0 +1,263 @@
+{
+  "songID": "entry_101083",
+  "title": "Bright Lights and Goodbyes",
+  "artist": "Sam Beam",
+  "spotifyID": "50oJpAcp4epieUIGbg8Lv0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "Gbmin",
+        "Emin",
+        "D",
+        "Gbmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "Gbmin",
+        "Emin",
+        "D",
+        "Gbmin",
+        "G",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-i-?-v-?-?-?-v-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "Gbmin",
+        "Emin",
+        "D",
+        "Gbmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "Gbmin",
+        "Emin",
+        "D",
+        "Gbmin",
+        "G",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-i-?-v-?-?-?-v-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "D",
+        "Amin7",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.40",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Love Letter for Fire",
+  "release_date": "2016-04-15",
+  "duration_ms": 223631
+}

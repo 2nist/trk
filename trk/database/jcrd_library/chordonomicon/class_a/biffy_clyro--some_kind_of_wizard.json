@@ -1,0 +1,357 @@
+{
+  "songID": "entry_100722",
+  "title": "Some Kind of Wizard",
+  "artist": "Biffy Clyro",
+  "spotifyID": "4XAuxl0ZTiLbh9QG8ogG5C",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Eno3d",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Eno3d",
+        "D",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "D",
+        "Eno3d",
+        "D",
+        "C",
+        "G",
+        "Bmin",
+        "D",
+        "Eno3d",
+        "D",
+        "Fs",
+        "D",
+        "A",
+        "D",
+        "Fs",
+        "D",
+        "Cs"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "D",
+        "Eno3d",
+        "D",
+        "C",
+        "G",
+        "Bmin",
+        "D",
+        "Eno3d",
+        "D",
+        "Fs",
+        "D",
+        "A",
+        "D",
+        "Fs",
+        "D",
+        "Cs"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:i-?-?-v-?-?-v-?-iv-?-i-?-?-v-?-?-v-?-vii-?-v-?-ii-?-v-?-vii-?-v-?-#iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "D",
+        "A",
+        "Cs",
+        "Fs",
+        "D",
+        "Eno3d",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Fs",
+        "D",
+        "A",
+        "Cs",
+        "Fs",
+        "D",
+        "Eno3d",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:iii-?-i-?-v-?-vii-?-iii-?-i-?-?-iv-?-bvii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "D",
+        "Eno3d",
+        "D",
+        "C",
+        "G",
+        "Bmin",
+        "Eno3d",
+        "D",
+        "G",
+        "D",
+        "Eno3d",
+        "D",
+        "G",
+        "D",
+        "Eno3d"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "D",
+        "Eno3d",
+        "D",
+        "C",
+        "G",
+        "Bmin",
+        "Eno3d",
+        "D",
+        "G",
+        "D",
+        "Eno3d",
+        "D",
+        "G",
+        "D",
+        "Eno3d"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:i-?-?-v-?-?-v-?-iv-?-i-?-?-?-v-?-i-?-v-?-?-v-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Fs",
+        "D",
+        "Bmin",
+        "A",
+        "Fs"
+      ],
+      "rawChords": [
+        "D",
+        "Fs",
+        "D",
+        "Bmin",
+        "A",
+        "Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.49",
+        "progression:i-?-iii-?-i-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Fs",
+        "D",
+        "A",
+        "Cs",
+        "Fs",
+        "D",
+        "Cs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Fs",
+        "D",
+        "A",
+        "Cs",
+        "Fs",
+        "D",
+        "Cs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.24",
+        "progression:ii-?-v-?-biii-?-bvii-?-ii-?-v-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "B",
+        "Cs",
+        "D",
+        "E",
+        "B",
+        "Cs",
+        "B",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Cs",
+        "D",
+        "E",
+        "B",
+        "Cs",
+        "B",
+        "E",
+        "B"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:i-?-ii-?-biii-?-iv-?-i-?-ii-?-i-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "F",
+        "D",
+        "C",
+        "F",
+        "G",
+        "D",
+        "C",
+        "F",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "F",
+        "D",
+        "C",
+        "F",
+        "G",
+        "D",
+        "C",
+        "F",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.47",
+        "progression:i-?-v-?-biii-?-i-?-bvii-?-biii-?-iv-?-i-?-bvii-?-biii-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Instrumental",
+    "Bridge",
+    "Chorus",
+    "Instrumental",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Infinity Land",
+  "release_date": "2004-10-04",
+  "duration_ms": 230706
+}

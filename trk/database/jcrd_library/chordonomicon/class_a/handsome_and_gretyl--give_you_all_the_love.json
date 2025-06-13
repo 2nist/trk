@@ -1,0 +1,241 @@
+{
+  "songID": "entry_0447",
+  "title": "Give You All The Love",
+  "artist": "Handsome and Gretyl",
+  "spotifyID": "1uMe6YpnPG3yrsvPCn3vKo",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F"
+      ],
+      "rawChords": [
+        "F"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "Gmin",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "Gmin",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-i-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Gmin",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Gmin",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-i-?-v-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Give You All The Love",
+  "release_date": "2023-02-10",
+  "duration_ms": 216761
+}

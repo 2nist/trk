@@ -1,0 +1,191 @@
+{
+  "songID": "entry_103042",
+  "title": "Won't You Come Home",
+  "artist": "Devendra Banhart",
+  "spotifyID": "4IrgGk5Yb5bmdgdaFAcEgg",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G"
+      ],
+      "rawChords": [
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G"
+      ],
+      "rawChords": [
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Dmin/F",
+        "G"
+      ],
+      "rawChords": [
+        "Dmin/F",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G"
+      ],
+      "rawChords": [
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G",
+        "Dmin/F",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Solo",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Mala",
+  "release_date": "2013-03-08",
+  "duration_ms": 211733
+}

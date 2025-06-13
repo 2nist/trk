@@ -1,0 +1,291 @@
+{
+  "songID": "entry_102349",
+  "title": "Wonderful Shadow (Acoustic)",
+  "artist": "Tanita Tikaram",
+  "spotifyID": "5buAC9jW4fmU9PIL5EeZuS",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C/G",
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "Amin7",
+        "C/B",
+        "C"
+      ],
+      "rawChords": [
+        "C/G",
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "Amin7",
+        "C/B",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C/G",
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "Amin7",
+        "C/B",
+        "C"
+      ],
+      "rawChords": [
+        "C/G",
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "Amin7",
+        "C/B",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C/G",
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "Amin7",
+        "C/B",
+        "C",
+        "Amin7"
+      ],
+      "rawChords": [
+        "C/G",
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "Amin7",
+        "C/B",
+        "C",
+        "Amin7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "C/G",
+        "Amin7",
+        "C/B",
+        "G",
+        "C",
+        "C/G"
+      ],
+      "rawChords": [
+        "C",
+        "C/G",
+        "Amin7",
+        "C/B",
+        "G",
+        "C",
+        "C/G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "C/G",
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "Amin7",
+        "C/B",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "C/G",
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "Amin7",
+        "C/B",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:i-?-?-v-?-i-?-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "G/B",
+        "C/B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin7",
+        "G",
+        "G/B",
+        "C/B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-i-?-?-v-?-?-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Tanita Tikaram (Acoustic)",
+  "release_date": "2018-09-10",
+  "duration_ms": 299493
+}

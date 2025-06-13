@@ -1,0 +1,347 @@
+{
+  "songID": "entry_10076",
+  "title": "Is There Nowhere",
+  "artist": "Gord Downie",
+  "spotifyID": "2lF4o89rL350ht0q7qmi4s",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-i-v-iv"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-i-v-iv-?-i-v-iv-?-i-v-iv-?-i-v-iv"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-i-v-?-?-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A"
+      ],
+      "rawChords": [
+        "A"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-i-v-iv-?-i-v-iv-iii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:ii-?-?-v-ii-?-?-v-iii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "Fsmin",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Fsmin",
+        "Emin",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-i-v-iv-?-i-v-iv"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "G",
+        "Fsmin",
+        "Emin",
+        "A",
+        "Amin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "G",
+        "Fsmin",
+        "Emin",
+        "A",
+        "Amin",
+        "A",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:ii-?-?-v-ii-?-?-iii-?-iii-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fsmin",
+        "Emin",
+        "C",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Emin",
+        "C",
+        "G",
+        "Fsmin",
+        "Emin",
+        "C",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-v-ii-?-?-v-iii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Lustre Parfait",
+  "release_date": "2023-05-05",
+  "duration_ms": 266786
+}

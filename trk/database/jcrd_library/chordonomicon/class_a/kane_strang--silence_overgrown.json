@@ -1,0 +1,257 @@
+{
+  "songID": "entry_100517",
+  "title": "Silence Overgrown",
+  "artist": "Kane Strang",
+  "spotifyID": "2MnnsWECJlbrrsn27BRkjh",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "Fmaj7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "C",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "Amin",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Two Hearts and No Brain",
+  "release_date": "2017-06-30",
+  "duration_ms": 203307
+}

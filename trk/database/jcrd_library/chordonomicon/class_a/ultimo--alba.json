@@ -1,0 +1,263 @@
+{
+  "songID": "entry_0963",
+  "title": "Alba",
+  "artist": "Ultimo",
+  "spotifyID": "3slQ550jA1udn2keXTvu1U",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Amin",
+        "Dmin7",
+        "F/C",
+        "C7",
+        "Bb/C",
+        "C7"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "Dmin7",
+        "F/C",
+        "C7",
+        "Bb/C",
+        "C7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Bbadd9",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bbadd9",
+        "F",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bbadd9",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bbadd9",
+        "F",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-?-v-?-?-i-?-v-?-?-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Dmin",
+        "C/E",
+        "F",
+        "Amin",
+        "Gmin7",
+        "Bb",
+        "F",
+        "C7"
+      ],
+      "rawChords": [
+        "Bb",
+        "Dmin",
+        "C/E",
+        "F",
+        "Amin",
+        "Gmin7",
+        "Bb",
+        "F",
+        "C7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:i-?-?-?-v-?-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Bbadd9",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bbadd9",
+        "F",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bbadd9",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bbadd9",
+        "F",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-?-v-?-?-i-?-v-?-?-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmaj7",
+        "Dmin",
+        "C/E",
+        "F",
+        "Amin",
+        "Bb",
+        "Bbmaj7",
+        "Dmin",
+        "C/E",
+        "F",
+        "Dmin7",
+        "Amin",
+        "Gmin7"
+      ],
+      "rawChords": [
+        "Bbmaj7",
+        "Dmin",
+        "C/E",
+        "F",
+        "Amin",
+        "Bb",
+        "Bbmaj7",
+        "Dmin",
+        "C/E",
+        "F",
+        "Dmin7",
+        "Amin",
+        "Gmin7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-v-?-?-i-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bb",
+        "Bbmaj7",
+        "F",
+        "Amin",
+        "Dmin7",
+        "F/C",
+        "C7",
+        "Bb/C",
+        "C7",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbmaj7",
+        "F",
+        "Amin",
+        "Dmin7",
+        "F/C",
+        "C7",
+        "Bb/C",
+        "C7",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:iv-?-?-i-?-?-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Alba",
+  "release_date": "2023-02-08",
+  "duration_ms": 209657
+}

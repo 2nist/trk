@@ -1,0 +1,261 @@
+{
+  "songID": "entry_100337",
+  "title": "Canned Heat Blues",
+  "artist": "Tommy Johnson",
+  "spotifyID": "1Uk2MppskA0wnHUj8JwYfC",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D7",
+        "G",
+        "G7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "G7",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "G7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "G7",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:v-?-i-?-i-?-i-?-v-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A7",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A7",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D7",
+        "G",
+        "G7",
+        "G",
+        "D",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "G7",
+        "G",
+        "D",
+        "A7",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-i-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "G7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "G7",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:v-?-v-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A7",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "A7",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A7",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.44",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Tommy Johnson 1928 - 1929",
+  "release_date": "2000",
+  "duration_ms": 219141
+}

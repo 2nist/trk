@@ -1,0 +1,293 @@
+{
+  "songID": "entry_100195",
+  "title": "Encounter",
+  "artist": "LCBC Worship",
+  "spotifyID": "6JAXN7NMN6HtZ7pkmifWvG",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-i-?-v-?-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-i-?-v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-i-?-v-?-?-iv-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-i-?-v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:i-?-v-?-i-?-v-?-iv-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Encounter",
+  "release_date": "2020-07-10",
+  "duration_ms": 234206
+}

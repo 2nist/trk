@@ -1,0 +1,19 @@
+{
+  "script": "rwc_beat_to_jcrd.py",
+  "name": "Add Beat Timing to .jcrd Files",
+  "description": "Enriches .jcrd files with beat timing using RWC-Popular or LibROSA fallback.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Folder containing .jcrd files (default: mcgill_jcrd/)"
+    },
+    {
+      "name": "--rwc_csv",
+      "required": false,
+      "type": "file",
+      "help": "Optional path to RWC beat timing CSV"
+    }
+  ]
+}

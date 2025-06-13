@@ -1,0 +1,333 @@
+{
+  "songID": "entry_101002",
+  "title": "Show Me How This Thing Works",
+  "artist": "Cracker",
+  "spotifyID": "4bN1pwDp2ZqQT35zbZkcm8",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Bb",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Bb",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:v-?-iv-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:?-i-?-v-?-?-v-?-?-i-?-v-?-?-v-?-?-i-?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "Bb",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:?-i-?-v-?-?-v-?-?-i-?-v-?-?-v-?-?-i-?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "Bb",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Bb",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:v-?-iv-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "C",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-i-?-v-?-?-v-?-?-i-?-v-?-?-v-?-?-i-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "Fmaj7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Sunrise In The Land Of Milk And Honey",
+  "release_date": "2009-05-05",
+  "duration_ms": 170812
+}

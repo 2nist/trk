@@ -1,0 +1,247 @@
+{
+  "songID": "entry_0585",
+  "title": "Dancing in the Sky",
+  "artist": "Liv Harland",
+  "spotifyID": "5v80AKgxhOPEzKAnZTCszz",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:bbii-?-bbvi-?-?-bbv-?-bbii-?-bbvi-?-?-bbv-?-?-?-bbvi-?-?-bbv-?-bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:?-bbii-?-bbvi-?-bbiii-?-?-bbii-?-bbvi-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ebminadd13",
+        "Bbmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ebminadd13",
+        "Bbmin",
+        "Ab"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:bbvi-?-?-bbv-?-bbii-?-bbvi-?-?-bbv-?-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:?-bbii-?-bbvi-?-bbiii-?-?-bbii-?-bbvi-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ab",
+        "Bbmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bbmin",
+        "Ab"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:bbvi-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Db"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:?-bbii-?-bbvi-?-bbiii-?-?-bbii-?-bbvi-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Dancing in the Sky",
+  "release_date": "2020-09-24",
+  "duration_ms": 214202
+}

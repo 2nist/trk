@@ -1,0 +1,187 @@
+{
+  "songID": "entry_0442",
+  "title": "This Skin",
+  "artist": "Stitched Up Heart",
+  "spotifyID": "6eNCTpIlmVH1nY0h8VfLHr",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eb",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Gmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Emin",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Emin",
+        "Cmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Bb",
+        "Eb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Bb",
+        "Eb",
+        "Cmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Eb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Eb",
+        "Cmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-?-ii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Eb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Cmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Darkness",
+  "release_date": "2020-03-13",
+  "duration_ms": 158333
+}

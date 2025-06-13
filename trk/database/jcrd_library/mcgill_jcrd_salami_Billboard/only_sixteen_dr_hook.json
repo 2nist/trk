@@ -1,0 +1,247 @@
+{
+  "title": "Only Sixteen",
+  "artist": "Dr. Hook",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 255,
+      "duration_ms": 4829,
+      "chords": [
+        "F:maj",
+        "D:min",
+        "G:min",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 5085,
+      "duration_ms": 18725,
+      "chords": [
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/5",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 23810,
+      "duration_ms": 18861,
+      "chords": [
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/5",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 42672,
+      "duration_ms": 18904,
+      "chords": [
+        "F:7",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "D:min",
+        "G:7",
+        "C:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 61576,
+      "duration_ms": 19066,
+      "chords": [
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/5",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/5",
+        "F:maj/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 80642,
+      "duration_ms": 18903,
+      "chords": [
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/5",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 99545,
+      "duration_ms": 18922,
+      "chords": [
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "D:min",
+        "G:7",
+        "C:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 118468,
+      "duration_ms": 47801,
+      "chords": [
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/5",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/5",
+        "F:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "N",
+        "C:maj",
+        "N",
+        "F:maj",
+        "N",
+        "Bb:maj",
+        "Bb:min",
+        "F:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "B",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "songID": "entry_100509",
+  "title": "natural disaster",
+  "artist": "Aeden Alvarez",
+  "spotifyID": "0ZbCNIZqwXGDuQsmd65CsT",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Esus4",
+        "E",
+        "D",
+        "E",
+        "G",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Esus4",
+        "E",
+        "D",
+        "E",
+        "G",
+        "D",
+        "Dmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:?-iii-?-ii-?-iii-?-v-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin",
+        "A",
+        "Eadd13",
+        "D",
+        "Dmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "natural disaster",
+  "release_date": "2021-06-01",
+  "duration_ms": 307853
+}

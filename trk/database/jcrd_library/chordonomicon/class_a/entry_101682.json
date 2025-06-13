@@ -1,0 +1,237 @@
+{
+  "songID": "entry_101682",
+  "title": "Take Me Back Home",
+  "artist": "Emmy Law",
+  "spotifyID": "66EEC0MyZ9UTurX0xLO8j4",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Bitter Heart",
+  "release_date": "2021-05-21",
+  "duration_ms": 182773
+}

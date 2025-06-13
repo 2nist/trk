@@ -1,0 +1,323 @@
+{
+  "songID": "entry_102660",
+  "title": "Cuenta Conmigo",
+  "artist": "D\u00fao Zimrah",
+  "spotifyID": "0uqitq4rCvgrWuH3hNDfiI",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "E/F",
+        "Fsmin",
+        "Fsmin/Gs",
+        "A",
+        "Fsmin7",
+        "E",
+        "Fsmin",
+        "E",
+        "E/F",
+        "Fsmin",
+        "Fsmin/Gs",
+        "A",
+        "Fsmin7",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "E/F",
+        "Fsmin",
+        "Fsmin/Gs",
+        "A",
+        "Fsmin7",
+        "E",
+        "Fsmin",
+        "E",
+        "E/F",
+        "Fsmin",
+        "Fsmin/Gs",
+        "A",
+        "Fsmin7",
+        "E"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-?-?-?-i-?-?-v-?-?-v-?-?-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Amin",
+        "Aminadd13"
+      ],
+      "rawChords": [
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Amin",
+        "Aminadd13"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Amin"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "E",
+        "Fsmin",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E/F",
+        "Fsmin",
+        "Fsmin/Gs",
+        "A",
+        "Fsmin7",
+        "E",
+        "Fsmin",
+        "E",
+        "E/F",
+        "Fsmin",
+        "Fsmin/Gs",
+        "A",
+        "Fsmin7",
+        "E"
+      ],
+      "rawChords": [
+        "E/F",
+        "Fsmin",
+        "Fsmin/Gs",
+        "A",
+        "Fsmin7",
+        "E",
+        "Fsmin",
+        "E",
+        "E/F",
+        "Fsmin",
+        "Fsmin/Gs",
+        "A",
+        "Fsmin7",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-?-?-i-?-?-v-?-?-v-?-?-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Amin",
+        "Aminadd13"
+      ],
+      "rawChords": [
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Amin",
+        "Aminadd13"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Amin"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Fsmin",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Cuenta Conmigo",
+  "release_date": "2020-08-20",
+  "duration_ms": 190434
+}

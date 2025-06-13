@@ -1,0 +1,265 @@
+{
+  "songID": "entry_0016",
+  "title": "One Voice",
+  "artist": "Patti Smith",
+  "spotifyID": "2YNNsFj1otPsgN6nQus2So",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:iii-v-ii-iii-v-ii-iii-v-ii-iii-v-ii-iii"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "F",
+        "C",
+        "D",
+        "F",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-iii-v-ii-iii-v-ii-iii"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "F",
+        "G",
+        "D",
+        "C/E",
+        "F",
+        "G",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "F",
+        "G",
+        "D",
+        "C/E",
+        "F",
+        "G",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D",
+        "F",
+        "D"
+      ],
+      "length": 26,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-iii-ii-v-vi-iii-?-v-vi-iii-v-iii-v-iii-v-iii-v-iii-v-iii-v-iii-v-iii-v-iii"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iii-ii-iii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Bb",
+        "D",
+        "Bb",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Bb",
+        "D",
+        "Bb",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-biii-v-biii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bb",
+        "D"
+      ],
+      "rawChords": [
+        "Bb",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:biii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Interlude"
+  ],
+  "tags": [],
+  "album": "Gung Ho",
+  "release_date": "2000",
+  "duration_ms": 244733
+}

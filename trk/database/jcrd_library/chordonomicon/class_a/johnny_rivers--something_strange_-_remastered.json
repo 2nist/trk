@@ -1,0 +1,283 @@
+{
+  "songID": "entry_0313",
+  "title": "Something Strange - Remastered",
+  "artist": "Johnny Rivers",
+  "spotifyID": "0hK5XDKfs7M0cRVsFqlgN7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Cs",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "A",
+        "Cs",
+        "Cmaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.11",
+        "progression:iii-?-#v-?-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "Emin",
+        "D",
+        "As",
+        "G"
+      ],
+      "rawChords": [
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "Emin",
+        "D",
+        "As",
+        "G"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.62",
+        "progression:?-v-?-?-ii-?-?-v-?-?-ii-?-?-?-v-?-?-iii-?-#vii-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "As",
+        "G",
+        "Fs"
+      ],
+      "rawChords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "As",
+        "G",
+        "Fs"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-?-i-?-#iii-?-ii-?-#i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "Fs",
+        "Bmin",
+        "E7",
+        "Amin",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Fs",
+        "Bmin",
+        "E7",
+        "Amin",
+        "D7",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:?-iii-?-?-ii-?-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "As",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "F",
+        "As",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-?-i-?-#iii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Cs",
+        "Cmaj7",
+        "D",
+        "E",
+        "G",
+        "Amaj7",
+        "A",
+        "D",
+        "G",
+        "A",
+        "C",
+        "D",
+        "G",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "Cs",
+        "Cmaj7",
+        "D",
+        "E",
+        "G",
+        "Amaj7",
+        "A",
+        "D",
+        "G",
+        "A",
+        "C",
+        "D",
+        "G",
+        "A",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:#iv-?-?-v-?-vi-?-i-?-?-ii-?-v-?-i-?-ii-?-iv-?-v-?-i-?-ii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Realization",
+  "release_date": "1968",
+  "duration_ms": 208333
+}

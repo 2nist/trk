@@ -1,0 +1,181 @@
+{
+  "songID": "entry_103079",
+  "title": "soldiers",
+  "artist": "Iosonouncane",
+  "spotifyID": "7nBWctawKpLkIfBQ52DTPU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Fmaj7",
+        "G",
+        "Emin",
+        "F",
+        "Dmin7",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Fmaj7",
+        "G",
+        "Emin",
+        "F",
+        "Dmin7",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G7",
+        "Emin",
+        "A7",
+        "F",
+        "G7",
+        "Emin",
+        "A7",
+        "F",
+        "G7",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "G7",
+        "Emin",
+        "A7",
+        "F",
+        "G7",
+        "Emin",
+        "A7",
+        "F",
+        "G7",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:iv-?-?-v-?-biii-?-iv-?-?-v-?-biii-?-iv-?-?-biii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Fmaj7",
+        "G",
+        "Emin",
+        "F",
+        "Dmin7",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Fmaj7",
+        "G",
+        "Emin",
+        "F",
+        "Dmin7",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fmaj7",
+        "G"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "IRA",
+  "release_date": "2021-05-14",
+  "duration_ms": 277293
+}

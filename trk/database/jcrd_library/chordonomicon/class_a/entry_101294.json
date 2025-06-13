@@ -1,0 +1,257 @@
+{
+  "songID": "entry_101294",
+  "title": "Travelin' Soldier",
+  "artist": "Home Free",
+  "spotifyID": "1o0mrQ6hZnz0G9xcXiHcNe",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-i-v-iv-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i-v-?-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-i-v-iv-i-v-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i-v-?-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Travelin' Soldier",
+  "release_date": "2021-05-28",
+  "duration_ms": 246933
+}

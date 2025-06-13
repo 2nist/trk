@@ -1,0 +1,25 @@
+{
+  "name": "Update .jcrd Schema",
+  "description": "Updates all .jcrd files to match the new schema with sections, roman numerals, and beat times support",
+  "script": "scripts/update_jcrd_schema.py",
+  "arguments": [
+    {
+      "name": "--dir",
+      "type": "directory",
+      "help": "Directory containing .jcrd files (defaults to mcgill_jcrd/)",
+      "required": false
+    },
+    {
+      "name": "--dry-run",
+      "type": "flag",
+      "help": "Show what changes would be made without modifying files",
+      "required": false
+    },
+    {
+      "name": "--verbose",
+      "type": "flag",
+      "help": "Show detailed information about changes",
+      "required": false
+    }
+  ]
+}

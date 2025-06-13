@@ -1,0 +1,251 @@
+{
+  "songID": "entry_0077",
+  "title": "The Party's Over",
+  "artist": "Cowboy Copas",
+  "spotifyID": "068Tf3MnOjbSsrROoYhqhD",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "C",
+        "A7",
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "C",
+        "A7",
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.53",
+        "progression:v-?-i-?-iv-?-ii-?-v-?-i-?-v-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.53",
+        "progression:v-?-i-?-iv-?-ii-?-v-?-i-?-v-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Tragic Tales Of Love & Life",
+  "release_date": "2005",
+  "duration_ms": 157146
+}

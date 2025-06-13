@@ -1,0 +1,275 @@
+{
+  "songID": "entry_100866",
+  "title": "Talking to the Moon",
+  "artist": "Paul Caldwell",
+  "spotifyID": "4sa2Kjoi6tM4n27ZglS48a",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "Csmin",
+        "D",
+        "A",
+        "Bmin",
+        "Csmin",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Csmin",
+        "D",
+        "A",
+        "Bmin",
+        "Csmin",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Post-It Notes",
+  "release_date": "2018-07-08",
+  "duration_ms": 155226
+}

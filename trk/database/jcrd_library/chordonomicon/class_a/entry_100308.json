@@ -1,0 +1,347 @@
+{
+  "songID": "entry_100308",
+  "title": "She Doesn't Have To Shave",
+  "artist": "Squeeze",
+  "spotifyID": "0Yssa2cV6nnHRG6XLr02VT",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "Amin",
+        "G",
+        "C",
+        "D",
+        "E",
+        "Gsmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "Amin",
+        "G",
+        "C",
+        "D",
+        "E",
+        "Gsmin",
+        "Fs"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:vi-iii-?-?-vi-iii-?-?-v-?-v-i-ii-iii-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Asmin",
+        "B",
+        "Cs",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Asmin",
+        "B",
+        "Cs",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-v-?-?-v-?-iv-i-?-?-iv-i-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "Amin",
+        "G",
+        "D",
+        "E",
+        "Gsmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "Amin",
+        "G",
+        "D",
+        "E",
+        "Gsmin",
+        "Fs"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-ii-?-?-v-ii-?-?-iv-?-iv-i-ii-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Asmin",
+        "B",
+        "Cs",
+        "Dsmin",
+        "E"
+      ],
+      "rawChords": [
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Asmin",
+        "B",
+        "Cs",
+        "Dsmin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-v-?-?-v-?-?-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Dsmin",
+        "E",
+        "Dsmin"
+      ],
+      "rawChords": [
+        "Dsmin",
+        "E",
+        "Dsmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Bmin",
+        "Fsmin",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "Amin",
+        "G",
+        "C",
+        "D",
+        "E",
+        "Gsmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "Bmin",
+        "Fsmin",
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "Amin",
+        "G",
+        "C",
+        "D",
+        "E",
+        "Gsmin",
+        "Fs"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:iii-?-?-vi-iii-?-?-v-?-v-i-ii-iii-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Asmin",
+        "B",
+        "Cs",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Asmin",
+        "B",
+        "Cs",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Asmin",
+        "B",
+        "Cs",
+        "Fs",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Asmin",
+        "B",
+        "Cs",
+        "Fs"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-v-?-?-v-?-?-?-?-v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Frank",
+  "release_date": "1989-01-01",
+  "duration_ms": 206760
+}

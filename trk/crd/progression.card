@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "label": "modal_jazz_cycle",
+  "type": "progression.card",
+  "key": "D dorian",
+  "progression": ["Dm7", "G7", "Cmaj7", "F#ø7", "Bm7b5", "E7b9", "A7#5"],
+  "roman": ["i7", "IV7", "bVIImaj7", "IIIø7", "viø7", "II7b9", "V7#5"],
+  "tags": ["modal", "jazz"],
+  "length_bars": 8,
+  "bpm": 110,
+  "source": "user_input",
+  "created": "2025-06-10T15:12:00Z"
+}

@@ -1,0 +1,179 @@
+{
+  "songID": "entry_102352",
+  "title": "I Got Your Number",
+  "artist": "Tom Jones",
+  "spotifyID": "6KBeqMnLq9lXqStn7q9dg1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin",
+        "Bb",
+        "Cmin",
+        "Bb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Bb",
+        "Cmin",
+        "Bb",
+        "Cmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Cmin",
+        "F",
+        "Cmin",
+        "G",
+        "Cmin",
+        "F",
+        "G",
+        "Fmin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Cmin",
+        "F",
+        "Cmin",
+        "G",
+        "Cmin",
+        "F",
+        "G",
+        "Fmin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:v-?-?-iv-?-?-v-?-?-iv-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "G",
+        "Cmin",
+        "F",
+        "Cmin",
+        "G",
+        "Cmin",
+        "F",
+        "G",
+        "Fmin",
+        "G"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G",
+        "Cmin",
+        "F",
+        "Cmin",
+        "G",
+        "Cmin",
+        "F",
+        "G",
+        "Fmin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "G",
+        "Cmin",
+        "F",
+        "Fmin",
+        "G"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G",
+        "Cmin",
+        "F",
+        "Fmin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G",
+        "Cmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Memories Don't Leave Like People Do",
+  "release_date": "1975-01-01",
+  "duration_ms": 207133
+}

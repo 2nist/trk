@@ -1,0 +1,209 @@
+{
+  "songID": "entry_101412",
+  "title": "A mani nude",
+  "artist": "Nek",
+  "spotifyID": "19LEiuPfXLzKAIrD0qrQ0w",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Gmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "C",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "C",
+        "Amin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "C",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "C",
+        "Amin",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Gmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "C",
+        "Amin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "C",
+        "Amin",
+        "Dmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Gmin",
+        "Amin",
+        "As",
+        "Gmin",
+        "Dmin",
+        "C",
+        "As",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Gmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Gmin",
+        "Amin",
+        "As",
+        "Gmin",
+        "Dmin",
+        "C",
+        "As",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Gmin",
+        "Amin"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-?-?-?-?-?-#vii-?-?-?-ii-?-#vii-?-?-?-?-?-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Gmin",
+        "Dmin",
+        "Amin",
+        "Gmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Il mio gioco preferito (Parte seconda)",
+  "release_date": "2020-05-29",
+  "duration_ms": 190186
+}

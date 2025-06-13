@@ -1,0 +1,221 @@
+{
+  "songID": "entry_101497",
+  "title": "Reaction Video Dream",
+  "artist": "Roar",
+  "spotifyID": "4Qv88QncT5fcFrj39CyAeX",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Cmin",
+        "G",
+        "A7"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Cmin",
+        "G",
+        "A7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:v-?-?-?-?-?-v-?-?-v-?-?-?-?-?-v-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "D7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "Amin7",
+        "D7",
+        "Bmin7",
+        "Emin7"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "Amin7",
+        "D7",
+        "Bmin7",
+        "Emin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:v-?-i-?-iv-?-ii-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Cmin",
+        "G",
+        "A7"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Cmin",
+        "G",
+        "Cmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Cmin",
+        "G",
+        "A7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:v-?-?-?-?-?-v-?-?-v-?-?-?-?-?-v-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "Amin7",
+        "D7",
+        "Bmin7",
+        "Emin7"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "D7",
+        "G",
+        "C",
+        "A7",
+        "Amin7",
+        "D7",
+        "Bmin7",
+        "Emin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.64",
+        "progression:v-?-i-?-iv-?-ii-?-v-?-i-?-iv-?-ii-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Instrumental",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Diamond Destroyer of Death",
+  "release_date": "2021-03-30",
+  "duration_ms": 166161
+}

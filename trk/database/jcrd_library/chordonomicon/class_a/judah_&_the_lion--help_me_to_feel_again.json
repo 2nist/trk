@@ -1,0 +1,293 @@
+{
+  "songID": "entry_102433",
+  "title": "Help Me To Feel Again",
+  "artist": "Judah & the Lion",
+  "spotifyID": "6eYJIGCwT3hFY5Fz8KI8c6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:v-?-?-v-?-ii-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:v-?-i-?-?-i-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:ii-?-?-i-?-v-?-ii-?-?-i-?-?-ii-?-v-?-i-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:v-?-i-?-?-i-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Help Me To Feel Again",
+  "release_date": "2021-05-14",
+  "duration_ms": 262383
+}

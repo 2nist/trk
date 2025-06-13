@@ -1,0 +1,171 @@
+{
+  "songID": "entry_10023",
+  "title": "Blue Christmas",
+  "artist": "Cliff Richard",
+  "spotifyID": "5eFarIUzI5GI3AFzHPzTM6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "E7",
+        "Fsmin",
+        "Csmin",
+        "Cmin",
+        "B7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "E7",
+        "Fsmin",
+        "Csmin",
+        "Cmin",
+        "B7",
+        "E7",
+        "B7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.18",
+        "progression:i-?-i-?-?-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "Gs",
+        "G",
+        "Fs7",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "Gs",
+        "G",
+        "Fs7",
+        "B7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-i-?-i-?-iv-?-iii-?-biii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "Asdim",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B7",
+        "E7"
+      ],
+      "rawChords": [
+        "E",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "Asdim",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B7",
+        "E7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:i-?-v-?-i-?-i-?-iv-?-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "E7",
+        "A",
+        "Asdim",
+        "B7",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "E7",
+        "A",
+        "Asdim",
+        "B7",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:v-?-v-?-i-?-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Christmas with Cliff",
+  "release_date": "2022-11-25",
+  "duration_ms": 146933
+}

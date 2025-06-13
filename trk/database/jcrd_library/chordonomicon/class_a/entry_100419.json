@@ -1,0 +1,281 @@
+{
+  "songID": "entry_100419",
+  "title": "bad for you",
+  "artist": "Danny Worsnop",
+  "spotifyID": "1Fetqbgcq0AWh2qqonDutI",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Bb",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-ii-iv-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-ii-iv-i-v-ii-iv-i-?-ii-i-?-ii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-ii-iv-i-v-ii-iv-i-v-ii-iv-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-ii-iv-i-v-ii-iv-i-?-ii-i-?-ii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-ii-iv-i-v-ii-iv-i-v-ii-iv-i-?-ii-i-?-ii-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F",
+        "C",
+        "G",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-ii-iv-i-v-ii-iv-i-v-ii-iv-i-v-ii-iv-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "bad for you",
+  "release_date": "2021-04-10",
+  "duration_ms": 285258
+}

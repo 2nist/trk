@@ -1,0 +1,251 @@
+{
+  "songID": "entry_102720",
+  "title": "Last Summer",
+  "artist": "Zara Larsson",
+  "spotifyID": "7K6H44x9AOkrt3PK6ig4w0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb"
+      ],
+      "rawChords": [
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:bbvi-?-bbiii-?-?-i-?-bbvi-?-bbiii-?-?-i-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B"
+      ],
+      "rawChords": [
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:bbvi-?-?-iv-?-bbii-?-bbvi-?-?-iv-?-bbii-?-bbvi-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb"
+      ],
+      "rawChords": [
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:bbvi-?-bbiii-?-?-i-?-bbvi-?-bbiii-?-?-i-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B"
+      ],
+      "rawChords": [
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:bbvi-?-?-iv-?-bbii-?-bbvi-?-?-iv-?-bbii-?-bbvi-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gb",
+        "Db7",
+        "Ebmin7",
+        "B"
+      ],
+      "rawChords": [
+        "Gb",
+        "Db7",
+        "Ebmin7",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:bbii-?-bbvi-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb"
+      ],
+      "rawChords": [
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "B",
+        "Gb"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:bbvi-?-bbiii-?-?-i-?-bbvi-?-bbiii-?-?-i-?-bbvi-?-bbiii-?-?-i-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Poster Girl (Summer Edition)",
+  "release_date": "2021-05-21",
+  "duration_ms": 174571
+}

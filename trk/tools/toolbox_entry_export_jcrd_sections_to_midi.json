@@ -1,0 +1,19 @@
+{
+  "script": "export_jcrd_sections_to_midi.py",
+  "name": "Export .jcrd Sections to MIDI",
+  "description": "Converts each section of a .jcrd into its own labeled MIDI file.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Folder containing .jcrd files (default: mcgill_jcrd/)"
+    },
+    {
+      "name": "--output",
+      "required": false,
+      "type": "text",
+      "help": "Folder to save section MIDI files (default: export/midi_sections/)"
+    }
+  ]
+}

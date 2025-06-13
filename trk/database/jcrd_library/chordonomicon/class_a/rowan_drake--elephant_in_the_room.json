@@ -1,0 +1,221 @@
+{
+  "songID": "entry_0946",
+  "title": "Elephant In The Room",
+  "artist": "Rowan Drake",
+  "spotifyID": "3WZyXUHTqffITfNniSJyKD",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:?-v-?-?-v-?-ii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-v-?-ii-?-i-?-v-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "C",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:?-v-?-ii-?-i-?-?-v-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "Amin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-v-?-ii-?-i-?-v-?-?-v-?-ii-?-?-v-?-i-?-v-?-?-v-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Dear Ella,",
+  "release_date": "2023-06-09",
+  "duration_ms": 161210
+}

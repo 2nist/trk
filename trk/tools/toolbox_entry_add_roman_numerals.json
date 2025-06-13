@@ -1,0 +1,13 @@
+{
+  "script": "add_roman_numerals.py",
+  "name": "Add Roman Numerals",
+  "description": "Analyzes chords in each section and adds romanNumerals[] using Music21.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Folder containing .jcrd files (default: mcgill_jcrd/)"
+    }
+  ]
+}

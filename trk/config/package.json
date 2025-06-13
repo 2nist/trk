@@ -1,0 +1,7 @@
+{
+  "name": "songbase",
+  "version": "1.0.0",
+  "scripts": {
+    "gui": "./launch_toolbox.sh"
+  }
+}

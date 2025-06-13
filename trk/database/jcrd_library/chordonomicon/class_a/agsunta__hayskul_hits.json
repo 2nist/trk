@@ -1,0 +1,279 @@
+{
+  "songID": "entry_102571",
+  "title": "Hayskul Hits",
+  "artist": "Agsunta",
+  "spotifyID": "4j4kZBZk48kTrNc15Vf8sV",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cadd9",
+        "G",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "D/Fs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "D/Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Amin",
+        "Bmin",
+        "Cadd9",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Amin",
+        "Bmin",
+        "Cadd9",
+        "F",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-v-?-?-?-?-?-iv-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "G",
+        "D/Fs"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin7",
+        "D",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "Amin",
+        "Bmin",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "Emin7",
+        "D",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Cadd9",
+        "Amin",
+        "Bmin",
+        "Cadd9",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?-v-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "D/Fs",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "D/Fs",
+        "Cadd9"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Feels Trip",
+  "release_date": "2019-12-27",
+  "duration_ms": 306834
+}

@@ -1,0 +1,219 @@
+{
+  "songID": "entry_101117",
+  "title": "Clarity",
+  "artist": "Andy Kong",
+  "spotifyID": "2V7Lu4a5FrYivpr9AnnDFH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-i-?-v-?-?-i-?-v-?-?-i-?-ii-?-v-?-?-i-?-v-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-i-?-v-?-?-i-?-v-?-?-i-?-ii-?-v-?-?-i-?-v-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Meteor Showers",
+  "release_date": "2015-05-12",
+  "duration_ms": 201782
+}

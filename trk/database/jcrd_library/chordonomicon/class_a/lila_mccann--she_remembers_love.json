@@ -1,0 +1,283 @@
+{
+  "songID": "entry_100602",
+  "title": "She Remembers Love",
+  "artist": "Lila McCann",
+  "spotifyID": "0pDmXD8Y2QgSrf3JiiozRr",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:iv-?-i-?-v-?-?-iv-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "C",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "C",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:iv-?-v-?-iv-?-v-?-?-iv-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-?-i-?-ii-?-v-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:v-?-?-iv-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Complete",
+  "release_date": "2001-06-26",
+  "duration_ms": 241706
+}

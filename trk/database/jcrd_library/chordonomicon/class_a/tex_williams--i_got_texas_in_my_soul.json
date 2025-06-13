@@ -1,0 +1,305 @@
+{
+  "songID": "entry_102117",
+  "title": "I Got Texas In My Soul",
+  "artist": "Tex Williams",
+  "spotifyID": "5DwAKtfuEhlWiXN6XQvAJY",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab",
+        "Fdim7",
+        "Bbmin",
+        "Eb7",
+        "Abadd13",
+        "Fdim7",
+        "Bbmin",
+        "Eb7"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fdim7",
+        "Bbmin",
+        "Eb7",
+        "Abadd13",
+        "Fdim7",
+        "Bbmin",
+        "Eb7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab",
+        "Eb7",
+        "Abadd13",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab",
+        "Eb7",
+        "Abadd13",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:bbvi-?-biii-?-bbvi-?-biv-?-bbvii-?-bbiii-?-bbvi-?-bbiii-?-?-biii-?-bbvi-?-biv-?-bbvii-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "Eb7",
+        "Ab",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "rawChords": [
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "Eb7",
+        "Ab",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.20",
+        "progression:i-?-v-?-i-?-v-?-i-?-bi-?-biv-?-i-?-biv-?-bii-?-bv-?-bi-?-biv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab",
+        "Eb7",
+        "Abadd13",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "rawChords": [
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab",
+        "Eb7",
+        "Abadd13",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.19",
+        "progression:biii-?-bbvi-?-biv-?-bbvii-?-bbiii-?-bbvi-?-bbiii-?-?-biii-?-bbvi-?-biv-?-bbvii-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "Eb7",
+        "Ab",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "rawChords": [
+        "E",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "Eb7",
+        "Ab",
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.20",
+        "progression:i-?-v-?-i-?-v-?-i-?-bi-?-biv-?-i-?-biv-?-bii-?-bv-?-bi-?-biv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "rawChords": [
+        "E7",
+        "Ab",
+        "F7",
+        "Bb7",
+        "Eb7",
+        "Ab"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.19",
+        "progression:biii-?-bbvi-?-biv-?-bbvii-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gsadd13",
+        "Cs7",
+        "Bb7",
+        "Eb7",
+        "Gsadd13"
+      ],
+      "rawChords": [
+        "Gsadd13",
+        "Cs7",
+        "Bb7",
+        "Eb7",
+        "Gsadd13"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Vintage Collections",
+  "release_date": "1996-01-01",
+  "duration_ms": 177573
+}

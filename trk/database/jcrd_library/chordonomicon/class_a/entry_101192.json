@@ -1,0 +1,223 @@
+{
+  "songID": "entry_101192",
+  "title": "Think I'll Stay",
+  "artist": "Jesse Daniel",
+  "spotifyID": "2HJvvB412hPnpyWc3OsWEr",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Beyond These Walls",
+  "release_date": "2021-07-30",
+  "duration_ms": 216080
+}

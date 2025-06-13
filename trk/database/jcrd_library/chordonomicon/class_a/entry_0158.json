@@ -1,0 +1,241 @@
+{
+  "songID": "entry_0158",
+  "title": "He's Sending Miracles",
+  "artist": "Val Storey",
+  "spotifyID": "6OKFm1ROJTjzJJmwAAqOIA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-i-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-v-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-v-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Where Flowers Bloom",
+  "release_date": "2011-05-18",
+  "duration_ms": 202800
+}

@@ -1,0 +1,249 @@
+{
+  "songID": "entry_0003",
+  "title": "Sad Exchange",
+  "artist": "Finger Eleven",
+  "spotifyID": "5KiY8SZEnvCPyIEkFGRR3y",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-v-?-v-?-v-vi"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "A",
+        "Fsmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Fsmin",
+        "A",
+        "B"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-i-?-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Fsmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "A",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-v-vi-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "B",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Dsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "B",
+        "Cs",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Dsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-v-?-v-?-?-v-?-?-?-iv-?-?-iv-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Daredevil - The Album",
+  "release_date": "2003-01-01",
+  "duration_ms": 212560
+}

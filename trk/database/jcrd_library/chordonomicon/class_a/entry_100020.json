@@ -1,0 +1,337 @@
+{
+  "songID": "entry_100020",
+  "title": "Your Love",
+  "artist": "Wait of the World",
+  "spotifyID": "39HM4oYL5j4NrEN934t1QR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb"
+      ],
+      "rawChords": [
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "progression:bbii-bbiii-?-bbii"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Ab",
+        "Gb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Ab",
+        "Gb"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "progression:bbvi-?-bbv-bbvi-?-bbv-bbvi-?-bbv-bbvi-?-bbv-bbvi-?-?-bbvi-bbv"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab",
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab"
+      ],
+      "rawChords": [
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab",
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-bbii-?-bbvi-?-bbii-?-bbvi"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb"
+      ],
+      "rawChords": [
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "progression:bbii-bbiii-?-bbii"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Ab",
+        "Gb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Ab",
+        "Gb"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "progression:bbvi-?-bbv-bbvi-?-bbv-bbvi-?-bbv-bbvi-?-bbv-bbvi-?-?-bbvi-bbv"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab",
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab"
+      ],
+      "rawChords": [
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab",
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-bbii-?-bbvi-?-bbii-?-bbvi"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Ab",
+        "Gb",
+        "Fmin",
+        "Ab",
+        "Gb",
+        "Fmin",
+        "Ab",
+        "Gb"
+      ],
+      "rawChords": [
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Ab",
+        "Gb",
+        "Fmin",
+        "Ab",
+        "Gb",
+        "Fmin",
+        "Ab",
+        "Gb"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "progression:bbv-bbvi-?-bbv-bbvi-?-bbv-bbvi-?-?-bbvi-bbv-?-bbvi-bbv-?-bbvi-bbv"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab",
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab",
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab"
+      ],
+      "rawChords": [
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab",
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab",
+        "Gbadd9",
+        "Db",
+        "Bbmin7",
+        "Ab"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-bbii-?-bbvi-?-bbii-?-bbvi-?-bbii-?-bbvi"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Your Love",
+  "release_date": "2021-04-23",
+  "duration_ms": 253961
+}

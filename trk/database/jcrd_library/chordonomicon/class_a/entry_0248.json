@@ -1,0 +1,335 @@
+{
+  "songID": "entry_0248",
+  "title": "Wishin' and Hopin'",
+  "artist": "Dionne Warwick",
+  "spotifyID": "5Rw8qpcPkThjuNbnHNx1wL",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-iv-v-i-v-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-vii-?-i-v-ii-i-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-i-iv-i-v-?-i-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-iv-v-i-v-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Emin",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-iii-?-iv-i-v-iv-v-i-v-iv-v-i-iv"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-i-iv-i-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "Emin",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "Emin",
+        "E",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 27,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-iv-v-i-v-iv-v-?-iii-?-iv-i-v-iv-v-i-v-iv-v-i-iv-v-i-iv-v-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Make Way for Dionne Warwick",
+  "release_date": "1964",
+  "duration_ms": 178000
+}

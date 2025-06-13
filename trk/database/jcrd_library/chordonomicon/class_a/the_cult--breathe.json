@@ -1,0 +1,465 @@
+{
+  "songID": "entry_0788",
+  "title": "Breathe",
+  "artist": "The Cult",
+  "spotifyID": "66CnEXvRUAbv4FjXS3kVsu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "C/D",
+        "D",
+        "G/D",
+        "D",
+        "C/D",
+        "D",
+        "G",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "D",
+        "C/D",
+        "D",
+        "G/D",
+        "D",
+        "C/D",
+        "D",
+        "G",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:i-?-?-i-?-?-i-?-?-i-?-iv-?-i-?-iv-?-biii-?-i-?-iv-?-biii-?-i-?-iv-?-biii-?-i-?-iv-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:iii-?-v-?-iii-?-v-?-iii-?-v-?-iii-?-v-?-vii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.32",
+        "progression:biii-?-i-?-biii-?-iv-?-i-?-biii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:i-?-iv-?-biii-?-i-?-iv-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "G",
+        "Bb",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:iii-?-v-?-iii-?-v-?-iii-?-v-?-iii-?-v-?-vii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:biii-?-i-?-biii-?-iv-?-i-?-biii-?-iv-?-i-?-biii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "G",
+        "F",
+        "Bb",
+        "A",
+        "G",
+        "F",
+        "Bb",
+        "A",
+        "G",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "F",
+        "Bb",
+        "A",
+        "G",
+        "F",
+        "Bb",
+        "A",
+        "G",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.55",
+        "progression:iii-?-ii-?-i-?-iv-?-iii-?-ii-?-i-?-iv-?-iii-?-ii-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F",
+        "D",
+        "G",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:i-?-iv-?-biii-?-i-?-iv-?-biii-?-i-?-iv-?-biii-?-i-?-iv-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C/D",
+        "D",
+        "G/D",
+        "D",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C/D",
+        "D",
+        "G/D",
+        "D",
+        "F",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:?-i-?-?-i-?-biii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "F",
+        "G",
+        "D",
+        "F"
+      ],
+      "rawChords": [
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "D",
+        "F",
+        "G",
+        "F",
+        "G",
+        "D",
+        "F"
+      ],
+      "length": 25,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:i-?-biii-?-iv-?-i-?-biii-?-iv-?-i-?-biii-?-iv-?-i-?-biii-?-iv-?-i-?-biii-?-iv-?-i-?-biii-?-iv-?-i-?-biii-?-iv-?-biii-?-iv-?-i-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Solo",
+    "Bridge",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Beyond Good and Evil",
+  "release_date": "2001",
+  "duration_ms": 299666
+}

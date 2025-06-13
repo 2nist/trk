@@ -1,0 +1,245 @@
+{
+  "songID": "entry_0039",
+  "title": "CLAY",
+  "artist": "Fayre Canosa",
+  "spotifyID": "4BxfStG0kB4oOYRd7KoCeV",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-?-?-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "A",
+        "Bmin",
+        "A",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "A",
+        "Bmin",
+        "A",
+        "Emin",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-?-iv-v-?-?-iv-?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Cadd9",
+        "G",
+        "D",
+        "A",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Cadd9",
+        "G",
+        "D",
+        "A",
+        "Cadd9",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "A",
+        "Bmin",
+        "A",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "A",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "A",
+        "Bmin",
+        "A",
+        "Emin",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-?-iv-v-?-?-iv-?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "Cadd9",
+        "G",
+        "D",
+        "A",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Cadd9",
+        "G",
+        "D",
+        "A",
+        "Cadd9",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "Cadd9",
+        "G",
+        "D",
+        "A",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Cadd9",
+        "G",
+        "D",
+        "A",
+        "Cadd9",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "CLAY",
+  "release_date": "2022-12-06",
+  "duration_ms": 194586
+}

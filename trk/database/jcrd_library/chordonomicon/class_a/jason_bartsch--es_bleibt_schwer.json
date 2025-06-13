@@ -1,0 +1,325 @@
+{
+  "songID": "entry_0592",
+  "title": "Es bleibt schwer",
+  "artist": "Jason Bartsch",
+  "spotifyID": "6fAomEmUgdo7rk5LegKpOy",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "A",
+        "Fsmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin7",
+        "A",
+        "Fsmin7",
+        "Fsmin",
+        "A",
+        "Fsmin7",
+        "Fsmin",
+        "A",
+        "Fsmin7",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin7",
+        "A",
+        "Fsmin7",
+        "Fsmin",
+        "A",
+        "Fsmin7",
+        "Fsmin",
+        "A",
+        "Fsmin7",
+        "Fsmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "A",
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "Fsmin",
+        "A",
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "A",
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "Fsmin",
+        "A",
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "A",
+        "Fsmin"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-?-ii-?-?-i-?-v-?-?-ii-?-?-?-i-?-v-?-?-ii-?-?-i-?-v-?-ii-?-i-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin",
+        "A",
+        "Fsmin7"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "A",
+        "Fsmin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin7",
+        "Fsmin",
+        "A",
+        "Fsmin7",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin7",
+        "Fsmin",
+        "A",
+        "Fsmin7",
+        "Fsmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "A",
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "Fsmin",
+        "A",
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "A",
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "Fsmin",
+        "A",
+        "E",
+        "Esus4",
+        "B",
+        "B7sus4",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-v-?-?-iv-?-i-?-?-v-?-?-?-iv-?-i-?-?-v-?-?-iv-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin7",
+        "A",
+        "Fsmin7",
+        "Fsmin7"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "A",
+        "Fsmin7",
+        "Fsmin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin7",
+        "A",
+        "Fsmin7",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin7",
+        "A",
+        "Fsmin7",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Eine Idee f\u00fcr das Klappen aller Dinge",
+  "release_date": "2020-01-10",
+  "duration_ms": 204000
+}

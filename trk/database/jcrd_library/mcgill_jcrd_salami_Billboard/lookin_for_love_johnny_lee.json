@@ -1,0 +1,260 @@
+{
+  "title": "Lookin' For Love",
+  "artist": "Johnny Lee",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 534,
+      "duration_ms": 17534,
+      "chords": [
+        "E:min",
+        "F#:min",
+        "G:maj",
+        "A:maj",
+        "E:min",
+        "F#:min",
+        "G:maj",
+        "A:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 18068,
+      "duration_ms": 30822,
+      "chords": [
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj/b7",
+        "A:maj/6",
+        "A:maj/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 48891,
+      "duration_ms": 30881,
+      "chords": [
+        "A:maj/5",
+        "D:maj",
+        "D:maj",
+        "F#:min",
+        "F#:min",
+        "G:maj",
+        "G:maj",
+        "E:min",
+        "F#:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "F#:min",
+        "F#:min",
+        "G:maj",
+        "E:min",
+        "A:maj6",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 79772,
+      "duration_ms": 30808,
+      "chords": [
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj/b7",
+        "A:maj/6",
+        "A:maj/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 110581,
+      "duration_ms": 30798,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "F#:min",
+        "F#:min",
+        "G:maj",
+        "G:maj",
+        "E:min",
+        "F#:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "F#:min",
+        "F#:min",
+        "G:maj",
+        "E:min",
+        "A:maj6",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 141379,
+      "duration_ms": 10613,
+      "chords": [
+        "G:maj",
+        "G:maj",
+        "E:min",
+        "F#:min",
+        "G:maj",
+        "A:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 151992,
+      "duration_ms": 27037,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "F#:min",
+        "F#:min",
+        "G:maj",
+        "G:maj",
+        "E:min",
+        "F#:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "F#:min",
+        "F#:min",
+        "G:maj",
+        "E:min",
+        "A:maj6"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 179030,
+      "duration_ms": 33005,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "F#:min",
+        "F#:min",
+        "G:maj",
+        "G:maj",
+        "E:min",
+        "F#:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "F#:min",
+        "F#:min",
+        "G:maj",
+        "E:min",
+        "A:maj6",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

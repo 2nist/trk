@@ -1,0 +1,183 @@
+{
+  "songID": "entry_0235",
+  "title": "You're My Baby",
+  "artist": "Jimmy Reed",
+  "spotifyID": "3aVwyINZ1BAn0zq4Ab4LiX",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "E7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Now Appearing",
+  "release_date": "1960-01-01",
+  "duration_ms": 126213
+}

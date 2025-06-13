@@ -1,0 +1,301 @@
+{
+  "songID": "entry_101249",
+  "title": "Strangers",
+  "artist": "Your Summer World.",
+  "spotifyID": "4P6PRW7ejYT1Gag31OtNBN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Gmin",
+        "F",
+        "D",
+        "Cmin",
+        "D7",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Gmin",
+        "F",
+        "D",
+        "Cmin",
+        "D7",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-v-iii-?-iii-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "D7"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "D7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-?-biii-?-biii-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "F",
+        "D",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "F",
+        "D",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-v-iii-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "D7"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "D7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-biii-?-biii-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "D",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "D",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-v-iv-iii-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Eb",
+        "D7",
+        "Eb",
+        "D7",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "D7",
+        "Eb",
+        "D7",
+        "Cmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:biii-ii-biii-ii-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "F",
+        "D",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "F",
+        "D",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "F",
+        "D",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "F",
+        "D",
+        "Cmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-v-iii-?-?-?-?-v-iii-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Spells",
+  "release_date": "2016-10-31",
+  "duration_ms": 167490
+}

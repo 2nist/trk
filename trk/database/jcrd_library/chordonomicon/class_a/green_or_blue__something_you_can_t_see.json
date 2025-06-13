@@ -1,0 +1,245 @@
+{
+  "songID": "entry_102207",
+  "title": "Something You Can't See",
+  "artist": "Green or Blue",
+  "spotifyID": "4ncfLvBpXVgcatz8LARwyu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "A Shot Below the Moon",
+  "release_date": "2014-02-06",
+  "duration_ms": 279773
+}

@@ -1,0 +1,221 @@
+{
+  "title": "Oh Me Oh My (I'm A Fool For You Baby)",
+  "artist": "Aretha Franklin",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 255,
+      "duration_ms": 17255,
+      "chords": [
+        "F:sus4(b7,9)",
+        "Bb:maj7",
+        "F:sus4(b7,9)",
+        "Bb:maj7",
+        "Bb:maj7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 17511,
+      "duration_ms": 35032,
+      "chords": [
+        "Bb:maj7",
+        "F:sus4(b7,9)",
+        "F:7",
+        "Bb:maj9",
+        "C:min7",
+        "Bb:maj(9)/3",
+        "Eb:maj6(7)",
+        "F:7",
+        "Bb:maj7",
+        "C:min7(11)",
+        "Bb:7/3",
+        "Eb:maj",
+        "F:7",
+        "Bb:maj/3",
+        "G:min7",
+        "Gb:maj",
+        "F:sus4(b7,9)",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 52543,
+      "duration_ms": 34454,
+      "chords": [
+        "F:7",
+        "F:sus4(b7,9)",
+        "F:7",
+        "Bb:maj9",
+        "C:min7",
+        "Bb:maj(9)/3",
+        "Eb:maj7",
+        "F:7",
+        "Bb:maj7",
+        "C:min7",
+        "Bb:7/3",
+        "Eb:maj7",
+        "F:7",
+        "Bb:maj7",
+        "D:min7",
+        "G:min7",
+        "Gb:maj",
+        "F:sus4(b7,9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 86997,
+      "duration_ms": 32294,
+      "chords": [
+        "Eb:maj",
+        "F:7",
+        "Bb:maj",
+        "D:min7",
+        "G:min7",
+        "Eb:maj",
+        "F:7",
+        "Bb:maj",
+        "D:min7",
+        "G:min7",
+        "Eb:maj",
+        "F:7",
+        "Bb:maj",
+        "D:min7",
+        "G:min7",
+        "Gb:maj",
+        "F:sus4(b7,9)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 119291,
+      "duration_ms": 33835,
+      "chords": [
+        "F:sus4(b7,9)",
+        "F:7",
+        "Bb:maj7",
+        "C:min7",
+        "Bb:maj/3",
+        "Eb:maj7",
+        "F:7",
+        "Bb:maj7",
+        "C:min7",
+        "Bb:7/3",
+        "Eb:maj7",
+        "F:7",
+        "Bb:maj7",
+        "D:min7",
+        "G:min7",
+        "Gb:maj",
+        "F:sus4(b7,9)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 153127,
+      "duration_ms": 47439,
+      "chords": [
+        "Eb:maj",
+        "F:7",
+        "Bb:maj",
+        "D:min7",
+        "G:min7",
+        "Eb:maj",
+        "F:7",
+        "Bb:maj",
+        "D:min7",
+        "G:min7",
+        "Eb:maj",
+        "F:7",
+        "Bb:maj",
+        "D:min7",
+        "G:min7",
+        "Gb:maj",
+        "F:sus4(b7,9)",
+        "Gb:maj",
+        "F:sus4(b7,9)",
+        "Gb:maj",
+        "F:sus4(b7,9)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 200566,
+      "duration_ms": 21090,
+      "chords": [
+        "Eb:maj",
+        "F:7",
+        "Bb:maj",
+        "D:min7",
+        "G:min7",
+        "Eb:maj",
+        "F:7",
+        "Bb:maj",
+        "D:min7",
+        "G:min7",
+        "G:min7",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

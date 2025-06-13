@@ -1,0 +1,311 @@
+{
+  "songID": "entry_0772",
+  "title": "Maybe Not",
+  "artist": "Treis",
+  "spotifyID": "0rw7E6zwcpgeMAz2fuZPNq",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amaj7",
+        "A",
+        "Csmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "A",
+        "Csmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A",
+        "Csmin",
+        "Bmin7",
+        "Bmin",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A",
+        "Csmin",
+        "Bmin7",
+        "Bmin",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:i-?-?-?-v-?-i-?-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin7",
+        "E",
+        "A",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "E",
+        "A",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Amaj7",
+        "A",
+        "Csmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "A",
+        "Csmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A",
+        "Csmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "Bmin",
+        "E",
+        "A",
+        "Csmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin7",
+        "E",
+        "A",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "E",
+        "A",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmaj7",
+        "A",
+        "D",
+        "Bmin",
+        "Cs",
+        "E"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "A",
+        "D",
+        "Bmin",
+        "Cs",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:?-i-?-iv-?-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Csmin",
+        "A",
+        "Bmin",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Csmin",
+        "A",
+        "Bmin",
+        "Csmin",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "B"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-i-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Maybe Not / Probably",
+  "release_date": "2022-06-24",
+  "duration_ms": 208420
+}

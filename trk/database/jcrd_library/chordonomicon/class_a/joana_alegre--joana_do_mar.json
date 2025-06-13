@@ -1,0 +1,313 @@
+{
+  "songID": "entry_101807",
+  "title": "Joana do Mar",
+  "artist": "Joana Alegre",
+  "spotifyID": "6MKrSlIItcusQbGr30pHK0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "Amin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Festival da Can\u00e7\u00e3o 2021",
+  "release_date": "2021-02-26",
+  "duration_ms": 178797
+}

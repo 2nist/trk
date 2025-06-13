@@ -1,0 +1,281 @@
+{
+  "songID": "entry_0317",
+  "title": "Blood Is on the Rails",
+  "artist": "Harrison Whitford",
+  "spotifyID": "0AvbIYF6sUHmLc3AW2JcLm",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-?-v-i-?-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-v-i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-?-v-i-?-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-v-i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-?-v-i-?-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-v-i-?-v-i-?-v-i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Afraid of Everything",
+  "release_date": "2018-01-26",
+  "duration_ms": 201177
+}

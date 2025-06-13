@@ -1,0 +1,219 @@
+{
+  "songID": "entry_0181",
+  "title": "Verlieb dich nicht in mich",
+  "artist": "Ramon Roselly",
+  "spotifyID": "3xHVrfCSQmTsciPTfOvujn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bb",
+        "F",
+        "Dmin",
+        "F/C",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Dmin",
+        "F/C",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:iv-?-i-?-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-iv-?-v-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-iv-?-v-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Fs"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Fs"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:v-?-i-?-ii-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-#v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-ii-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Lieblingsmomente",
+  "release_date": "2021-06-25",
+  "duration_ms": 187453
+}

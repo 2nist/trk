@@ -1,0 +1,211 @@
+{
+  "songID": "entry_100162",
+  "title": "The Metal",
+  "artist": "Tenacious D",
+  "spotifyID": "3pYKJaLiixRcDFfcNhxZKK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "F"
+      ],
+      "rawChords": [
+        "E",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-biii-?-ii-?-biii-?-ii-?-biii-?-ii-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "E",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "E",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-ii-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?-?-v-?-iv-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E",
+        "F",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-biii-?-ii-?-biii-?-ii-?-biii-?-ii-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Pick Of Destiny",
+  "release_date": "2006-11-02",
+  "duration_ms": 165960
+}

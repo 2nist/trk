@@ -1,0 +1,183 @@
+{
+  "songID": "entry_0232",
+  "title": "Trouble In Mind",
+  "artist": "Jimmy Reed",
+  "spotifyID": "0r3O0kffEfGVYWzMQ2F0Xm",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A7",
+        "E7",
+        "A7",
+        "D7",
+        "A7",
+        "E7"
+      ],
+      "rawChords": [
+        "A7",
+        "E7",
+        "A7",
+        "D7",
+        "A7",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-i-iv-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "D7",
+        "A7",
+        "E7"
+      ],
+      "rawChords": [
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "D7",
+        "A7",
+        "E7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "D7",
+        "A7",
+        "E7",
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "D7",
+        "A7",
+        "E7"
+      ],
+      "rawChords": [
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "D7",
+        "A7",
+        "E7",
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "D7",
+        "A7",
+        "E7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii-v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "A7",
+        "E7"
+      ],
+      "rawChords": [
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "A7",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-iv-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "A7",
+        "D7",
+        "A7",
+        "E7",
+        "A7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Jimmy Reed Sings The Best Of The Blues",
+  "release_date": "1963-01-01",
+  "duration_ms": 156443
+}

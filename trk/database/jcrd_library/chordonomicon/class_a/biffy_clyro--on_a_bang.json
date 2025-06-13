@@ -1,0 +1,243 @@
+{
+  "songID": "entry_102637",
+  "title": "On a Bang",
+  "artist": "Biffy Clyro",
+  "spotifyID": "4il28aEycgx2qk6jKDtLMP",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "A",
+        "Emin",
+        "Dmin",
+        "Amin",
+        "G",
+        "B",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F",
+        "G",
+        "D",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "A",
+        "Emin",
+        "Dmin",
+        "Amin",
+        "G",
+        "B",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F",
+        "G",
+        "D",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.49",
+        "progression:iv-?-v-?-vi-?-?-?-?-v-?-vii-?-?-ii-?-i-?-v-?-iv-?-v-?-ii-?-?-ii-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "A",
+        "Emin",
+        "Dmin",
+        "Amin",
+        "G",
+        "B"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "A",
+        "Emin",
+        "Dmin",
+        "Amin",
+        "G",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:bii-?-biii-?-iv-?-?-?-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F",
+        "G",
+        "D",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F",
+        "G",
+        "D",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F",
+        "G",
+        "D",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F",
+        "G",
+        "D",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:?-ii-?-i-?-v-?-iv-?-v-?-ii-?-?-ii-?-i-?-v-?-iv-?-?-ii-?-i-?-v-?-iv-?-v-?-ii-?-?-ii-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Ellipsis (Deluxe)",
+  "release_date": "2016-01-13",
+  "duration_ms": 158400
+}

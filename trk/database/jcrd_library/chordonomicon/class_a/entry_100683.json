@@ -1,0 +1,215 @@
+{
+  "songID": "entry_100683",
+  "title": "Kad Bi Bio Blizu",
+  "artist": "Magazin",
+  "spotifyID": "3qZF45hqb5bC3vqoGbnMHl",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbii-bbvi-bbv-?"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-?-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbii-bbvi-bbv-bbii-?-bbvi-bbv-?-bbvi-bbii-bbvi-bbv-bbii-?-bbvi-bbv-?"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-?-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbii-bbvi-bbv-bbii-?-bbvi-bbv-?-bbvi-bbii-bbvi-bbv-bbii-?-bbvi-bbv-?"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Paaa..?",
+  "release_date": "2012-01-23",
+  "duration_ms": 224440
+}

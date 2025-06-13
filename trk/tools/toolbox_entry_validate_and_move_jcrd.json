@@ -1,0 +1,19 @@
+{
+  "script": "validate_and_move_jcrd.py",
+  "name": "Validate and Move .jcrd",
+  "description": "Scans /raw/ for complete .jcrd files and moves them to /fixed/ if valid.",
+  "arguments": [
+    {
+      "name": "--source",
+      "required": false,
+      "type": "text",
+      "help": "Path to source folder (default: raw)"
+    },
+    {
+      "name": "--destination",
+      "required": false,
+      "type": "text",
+      "help": "Path to destination folder (default: fixed)"
+    }
+  ]
+}

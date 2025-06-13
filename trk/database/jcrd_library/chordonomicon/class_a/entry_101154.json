@@ -1,0 +1,269 @@
+{
+  "songID": "entry_101154",
+  "title": "It Never Hurts To Be Nice To Somebody",
+  "artist": "Tom Jones",
+  "spotifyID": "26DSZITlOfUHcIdO1a6rAW",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B"
+      ],
+      "rawChords": [
+        "B"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bsus4",
+        "B",
+        "Bsus4",
+        "B",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Bsus4",
+        "B",
+        "Bsus4",
+        "B",
+        "Bsus4",
+        "B"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "B",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "Fs",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bsus4",
+        "B",
+        "Bsus4",
+        "B",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Bsus4",
+        "B",
+        "Bsus4",
+        "B",
+        "Bsus4",
+        "B"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "B",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "Fs",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "B",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-v-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Bsus4",
+        "B"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Fs",
+        "B"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Bsus4",
+        "B"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Somethin' 'Bout You Baby I Like",
+  "release_date": "1974-01-01",
+  "duration_ms": 273413
+}

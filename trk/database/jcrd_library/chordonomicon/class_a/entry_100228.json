@@ -1,0 +1,233 @@
+{
+  "songID": "entry_100228",
+  "title": "i deserve 2 b alone",
+  "artist": "Tai Verdes",
+  "spotifyID": "2NKvrozwURLPXnj3chhnfD",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmaj7",
+        "Emin7",
+        "D9"
+      ],
+      "rawChords": [
+        "Cmaj7",
+        "Emin7",
+        "D9"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmaj7",
+        "Emin7",
+        "D9",
+        "Cmaj7",
+        "Emin7",
+        "D9",
+        "Cmaj7",
+        "Emin7",
+        "D9",
+        "Cmaj7",
+        "Emin7",
+        "D9"
+      ],
+      "rawChords": [
+        "Cmaj7",
+        "Emin7",
+        "D9",
+        "Cmaj7",
+        "Emin7",
+        "D9",
+        "Cmaj7",
+        "Emin7",
+        "D9",
+        "Cmaj7",
+        "Emin7",
+        "D9"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-?-v-?-?-v-?-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-?-v-iv-?-v-iv-?-v-iv-?-v-iv-?-v-iv-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "Cmaj7",
+        "Emin7",
+        "D9",
+        "Cmaj7",
+        "Emin7",
+        "D9"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "Cmaj7",
+        "Emin7",
+        "D9",
+        "Cmaj7",
+        "Emin7",
+        "D9"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-?-v-iv-?-v-iv-?-v-iv-?-v-?-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-?-v-iv-?-v-iv-?-v-iv-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "TV",
+  "release_date": "2021-05-20",
+  "duration_ms": 165533
+}

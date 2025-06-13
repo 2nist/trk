@@ -1,0 +1,351 @@
+{
+  "songID": "entry_101634",
+  "title": "I Walk Alone",
+  "artist": "Salvatore Giuseppe Sichi",
+  "spotifyID": "6FIr842VpbSpQs4Tsn9tWS",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-i-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-i-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-?-v-?-i-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-i-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "C",
+        "Fmaj7",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-i-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-?-v-?-i-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:i-?-v-?-?-?-v-?-i-?-v-?-?-?-v-?-i-?-v-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "I Walk Alone",
+  "release_date": "2021-05-27",
+  "duration_ms": 203494
+}

@@ -1,0 +1,183 @@
+{
+  "songID": "entry_102779",
+  "title": "everything sucks",
+  "artist": "vaultboy",
+  "spotifyID": "3z06k8YF9CqX0CGFrlekOK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "everything sucks",
+  "release_date": "2021-05-21",
+  "duration_ms": 115401
+}

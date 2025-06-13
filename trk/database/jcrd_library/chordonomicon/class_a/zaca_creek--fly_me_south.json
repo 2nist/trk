@@ -1,0 +1,293 @@
+{
+  "songID": "entry_0337",
+  "title": "Fly Me South",
+  "artist": "Zaca Creek",
+  "spotifyID": "43x6O2rNtw57b8FWKjqi6h",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bb",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bb",
+        "A",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:v-?-i-?-v-?-ii-?-biii-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:ii-?-v-?-ii-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bb",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bb",
+        "A",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:v-?-i-?-v-?-ii-?-biii-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:ii-?-v-?-ii-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bb",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bb",
+        "A",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.53",
+        "progression:i-?-v-?-ii-?-biii-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G",
+        "D",
+        "Cadd9",
+        "G",
+        "F",
+        "D"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-i-?-?-iv-?-i-?-?-iv-?-i-?-?-iv-?-i-?-?-iv-?-biii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Broken Heartland",
+  "release_date": "1993-01-01",
+  "duration_ms": 200173
+}

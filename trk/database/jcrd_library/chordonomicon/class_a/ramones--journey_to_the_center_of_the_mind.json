@@ -1,0 +1,399 @@
+{
+  "songID": "entry_100436",
+  "title": "Journey To The Center Of The Mind",
+  "artist": "Ramones",
+  "spotifyID": "21Tn68LddrdNTcW9XFw8Bs",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:iii-?-v-?-iii-?-v-?-iii-?-v-?-iii-?-v-?-iii-?-vii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "Fs"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "Cs"
+      ],
+      "rawChords": [
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "Cs"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-biii-?-ii-?-bii-?-i-?-biii-?-ii-?-bii-?-i-?-biii-?-ii-?-bii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "Cs"
+      ],
+      "rawChords": [
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "Cs"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-biii-?-ii-?-bii-?-i-?-biii-?-ii-?-bii-?-i-?-biii-?-ii-?-bii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fs",
+        "Ds",
+        "B",
+        "Gs",
+        "Ds",
+        "B",
+        "Gs",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Ds",
+        "B",
+        "Gs",
+        "Ds",
+        "B",
+        "Gs",
+        "Cs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.71",
+        "progression:bvii-?-v-?-biii-?-i-?-v-?-biii-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-biii-?-i-?-biii-?-i-?-biii-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "Cs"
+      ],
+      "rawChords": [
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "B",
+        "D",
+        "Cs",
+        "C",
+        "Cs"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-biii-?-ii-?-bii-?-i-?-biii-?-ii-?-bii-?-i-?-biii-?-ii-?-bii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "Cs"
+      ],
+      "rawChords": [
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "D",
+        "B",
+        "Cs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:i-?-biii-?-i-?-biii-?-i-?-biii-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Solo",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Acid Eaters",
+  "release_date": "1993",
+  "duration_ms": 172000
+}

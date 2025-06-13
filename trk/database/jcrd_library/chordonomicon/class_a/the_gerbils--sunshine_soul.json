@@ -1,0 +1,271 @@
+{
+  "songID": "entry_100984",
+  "title": "Sunshine Soul",
+  "artist": "The Gerbils",
+  "spotifyID": "1uZp7ZihCa4BjDQzL3TxEq",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "B",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "B",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.53",
+        "progression:bbii-?-bbvi-?-bbiii-?-bbii-?-bbvi-?-bbiii-?-bbii-?-bbvi-?-bbiii-?-bbii-?-biii-?-bbvi-?-bbiii-?-bbvi-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "B"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.60",
+        "progression:bbii-?-bbvi-?-bbiii-?-bbii-?-bbvi-?-bbiii-?-bbii-?-bbvi-?-bbiii-?-bbii-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.18",
+        "progression:i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Are You Sleepy",
+  "release_date": "2019-08-09",
+  "duration_ms": 158826
+}

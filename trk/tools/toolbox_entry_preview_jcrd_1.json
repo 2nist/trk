@@ -1,0 +1,13 @@
+{
+  "script": "preview_jcrd.py",
+  "name": "Browse .jcrd Files",
+  "description": "Display a preview of each .jcrd file in a folder including sections, chords, and timing.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Folder to scan for .jcrd files (default: fixed/)"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "songID": "entry_100777",
+  "title": "Well Educated",
+  "artist": "Gwen Dolyn",
+  "spotifyID": "76Hg5FXpSD6EnEU3ntVN4m",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D",
+        "Fs",
+        "Bmin",
+        "As",
+        "F",
+        "A",
+        "F",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Fs",
+        "Bmin",
+        "As",
+        "F",
+        "A",
+        "F",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.10",
+        "progression:i-?-iii-?-?-#v-?-biii-?-v-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Instrumental"
+  ],
+  "tags": [],
+  "album": "Things To Tell A Crying Girl",
+  "release_date": "2020-03-20",
+  "duration_ms": 255440
+}

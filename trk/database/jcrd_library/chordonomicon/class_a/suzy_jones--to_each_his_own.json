@@ -1,0 +1,357 @@
+{
+  "songID": "entry_101279",
+  "title": "To Each His Own",
+  "artist": "Suzy Jones",
+  "spotifyID": "3DTN8wWZuqDCO8276TkY3n",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-?-v-?-i-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-v-?-?-v-?-i-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "G",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "G",
+        "A",
+        "Asus4",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "G",
+        "A",
+        "Asus4",
+        "A",
+        "D",
+        "A",
+        "Asus4",
+        "A",
+        "G",
+        "A",
+        "Asus4",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:i-?-v-?-?-v-?-iv-?-v-?-?-v-?-i-?-v-?-?-v-?-iv-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Gs",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Gs",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:i-?-?-v-?-i-?-iv-?-#iv-?-v-?-i-?-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "Asus4",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "Asus4",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "Asus4",
+        "A",
+        "G",
+        "A",
+        "Asus4",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "Asus4",
+        "A",
+        "G",
+        "A",
+        "Asus4",
+        "A",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "To Each His Own",
+  "release_date": "2016-07-08",
+  "duration_ms": 230830
+}

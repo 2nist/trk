@@ -1,0 +1,243 @@
+{
+  "songID": "entry_0471",
+  "title": "Yoyo Thoughts",
+  "artist": "Philwit & Pegasus",
+  "spotifyID": "6eb1Cerv3moGbuwqPy1yS5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fsmin",
+        "Emin",
+        "G",
+        "Fsmin",
+        "Emin",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Emin",
+        "G",
+        "Fsmin",
+        "Emin",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.18",
+        "progression:?-?-i-?-?-?-i-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?-?-i-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "G",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "G",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?-?-i-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "G",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?-?-v-?-?-?-?-?-?-?-?-ii-?-i-?-ii-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Philwit & Pegasus",
+  "release_date": "2000-10-17",
+  "duration_ms": 176866
+}

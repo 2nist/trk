@@ -1,0 +1,273 @@
+{
+  "songID": "entry_102553",
+  "title": "Little Problems",
+  "artist": "Guys On a Bus",
+  "spotifyID": "36M97x1tk8yfw7csYZuMhJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A"
+      ],
+      "rawChords": [
+        "A"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "Fsmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "D",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Love Brings out the Worst in Us",
+  "release_date": "2018-09-14",
+  "duration_ms": 174656
+}

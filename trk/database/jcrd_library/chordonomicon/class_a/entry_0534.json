@@ -1,0 +1,369 @@
+{
+  "songID": "entry_0534",
+  "title": "Niap",
+  "artist": "Millencolin",
+  "spotifyID": "5bIKrNyyhIfLA1YahrVD0X",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-v-v-v-ii-i-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-v-v-ii-i-?-v-v-v-ii-i-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-?-iv-v-?-iv-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-v-v-v-ii-i-?-v-v-v-ii-i-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-?-iv-v-?-iv-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "F",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-i-i-i-v-iv-?-i-v-iv-?-v-iv-?-v-iv"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "Dmin",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "Dmin",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-v-i-?-v-i-ii"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "Dmin",
+        "F",
+        "Bb",
+        "C",
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "Dmin",
+        "F",
+        "Bb",
+        "C",
+        "Dmin",
+        "F",
+        "F7",
+        "F",
+        "C",
+        "Bb",
+        "Dmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-v-i-?-v-i-ii-?-v-v-v-ii-i-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-?-iv-v-?-iv-v-iv-v-iv-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Melancholy Collection",
+  "release_date": "2001",
+  "duration_ms": 157706
+}

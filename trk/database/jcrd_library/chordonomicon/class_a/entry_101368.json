@@ -1,0 +1,229 @@
+{
+  "songID": "entry_101368",
+  "title": "Just Want to Be Liked",
+  "artist": "Texas",
+  "spotifyID": "5wwQFuqbtXfA7S0Uincmni",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Dmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Dmin",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Dmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Dmin",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E"
+      ],
+      "rawChords": [
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Dmin",
+        "A",
+        "Dmin",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "A",
+        "Dmin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin",
+        "A",
+        "A/G",
+        "A/F",
+        "A/E",
+        "Dmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-?-?-?-v-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Hi (Deluxe)",
+  "release_date": "2021-05-28",
+  "duration_ms": 180986
+}

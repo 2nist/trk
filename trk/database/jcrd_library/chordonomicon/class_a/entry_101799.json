@@ -1,0 +1,281 @@
+{
+  "songID": "entry_101799",
+  "title": "Martha ma douce",
+  "artist": "Arno",
+  "spotifyID": "33IdJCSh2DuKY4XK9dbhj2",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A",
+        "E7",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E7",
+        "A",
+        "E7",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A",
+        "E7",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E7",
+        "A",
+        "E7",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E7",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E",
+        "E7",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E7",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E",
+        "E7",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Idiots Savants",
+  "release_date": "1993-03-23",
+  "duration_ms": 329240
+}

@@ -1,0 +1,317 @@
+{
+  "songID": "entry_102446",
+  "title": "None Good",
+  "artist": "Annette Lee",
+  "spotifyID": "1g1bLYkFK1eMMOuYjd9Mqc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "E",
+        "Amin",
+        "D",
+        "E",
+        "Amin",
+        "D",
+        "F",
+        "Amin",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "E",
+        "Amin",
+        "D",
+        "E",
+        "Amin",
+        "D",
+        "F",
+        "Amin",
+        "E",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.15",
+        "progression:?-ii-?-?-i-?-ii-?-?-i-?-biii-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-iii-?-ii-?-iv-?-iii-?-?-iii-?-ii-?-iv-?-iii-?-?-iii-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "E",
+        "Amin",
+        "D",
+        "E",
+        "Amin",
+        "D",
+        "F",
+        "Amin",
+        "E",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "E",
+        "Amin",
+        "D",
+        "E",
+        "Amin",
+        "D",
+        "F",
+        "Amin",
+        "E",
+        "Dmin",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.06",
+        "progression:?-iii-?-?-ii-?-iii-?-?-ii-?-iv-?-?-iii-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "E7",
+        "D",
+        "Dmin",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "E7",
+        "D",
+        "Dmin",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-iii-?-ii-?-?-iv-?-iii-?-?-iii-?-ii-?-iv-?-iii-?-?-iii-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "E",
+        "D",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "F",
+        "E",
+        "D",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.21",
+        "progression:biii-?-ii-?-i-?-?-ii-?-i-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.12",
+        "progression:?-ii-?-i-?-biii-?-ii-?-?-ii-?-i-?-biii-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "E",
+        "Amin",
+        "E",
+        "Amin",
+        "E",
+        "D",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:iii-?-?-iii-?-?-iii-?-ii-?-iv-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "All Our Achilles Heels",
+  "release_date": "2017-09-20",
+  "duration_ms": 225320
+}

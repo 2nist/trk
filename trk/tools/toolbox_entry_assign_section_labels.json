@@ -1,0 +1,13 @@
+{
+    "script": "assign_section_labels.py",
+    "name": "Assign Section Labels",
+    "description": "Detects repeating chord patterns and assigns section labels (verse, chorus, bridge, etc.) to each section in .jcrd files.",
+    "arguments": [
+        {
+            "name": "--directory",
+            "required": false,
+            "type": "text",
+            "help": "Path to folder of .jcrd files (default: mcgill_jcrd/)"
+        }
+    ]
+}

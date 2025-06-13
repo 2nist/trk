@@ -1,0 +1,231 @@
+{
+  "songID": "entry_100959",
+  "title": "Sound of My Voice",
+  "artist": "Texas",
+  "spotifyID": "7LT1SGFQQFZjj5qSSJP0df",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Hi (Deluxe)",
+  "release_date": "2021-05-28",
+  "duration_ms": 214493
+}

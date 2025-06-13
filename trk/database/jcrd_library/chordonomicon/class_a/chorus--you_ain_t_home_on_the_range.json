@@ -1,0 +1,173 @@
+{
+  "songID": "entry_101966",
+  "title": "(You Ain't) Home On the Range",
+  "artist": "Chorus",
+  "spotifyID": "1y3nDIZRAnrciAVqfSRSaX",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "D7",
+        "G",
+        "G7",
+        "C",
+        "Emin",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "D7",
+        "G",
+        "G7",
+        "C",
+        "Emin",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:i-?-v-?-v-?-i-?-i-?-iv-?-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:v-?-i-?-v-?-ii-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "D",
+        "Fsmin",
+        "A",
+        "E7",
+        "Fsmin",
+        "A",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "D",
+        "Fsmin",
+        "A",
+        "E7",
+        "Fsmin",
+        "A",
+        "E7",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:i-?-v-?-v-?-i-?-i-?-iv-?-?-i-?-v-?-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Home On The Range (Original Motion Picture Soundtrack)",
+  "release_date": "2004-01-01",
+  "duration_ms": 73426
+}

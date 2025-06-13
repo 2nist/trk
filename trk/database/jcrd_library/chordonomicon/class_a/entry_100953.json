@@ -1,0 +1,241 @@
+{
+  "songID": "entry_100953",
+  "title": "Rolling 7s",
+  "artist": "Dirty Honey",
+  "spotifyID": "7uHw1z0wMpgvgiDiNy6RJE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B",
+        "G",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "G",
+        "D/Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-v-biii-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "A",
+        "Emin",
+        "D",
+        "A",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "A",
+        "Emin",
+        "D",
+        "A",
+        "Emin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B",
+        "G",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "G",
+        "D/Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-v-biii-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "A",
+        "Emin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "A",
+        "Emin",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Csmin",
+        "A",
+        "Csmin",
+        "D",
+        "A",
+        "Csmin",
+        "A",
+        "B",
+        "A",
+        "G",
+        "D/Fs",
+        "Emin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Csmin",
+        "D",
+        "A",
+        "Csmin",
+        "A",
+        "B",
+        "A",
+        "G",
+        "D/Fs",
+        "Emin",
+        "A",
+        "B"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-i-v-?-v-vi-v-iv-?-?-v-vi"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "A",
+        "Emin",
+        "B",
+        "A",
+        "G",
+        "D/Fs",
+        "Emin",
+        "D",
+        "A/Cs",
+        "B",
+        "Emin",
+        "D",
+        "A/Cs",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "A",
+        "Emin",
+        "B",
+        "A",
+        "G",
+        "D/Fs",
+        "Emin",
+        "D",
+        "A/Cs",
+        "B",
+        "Emin",
+        "D",
+        "A/Cs",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-ii-?-iii-ii-i-?-?-v-?-iii-?-v-?-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Dirty Honey",
+  "release_date": "2019-03-22",
+  "duration_ms": 255193
+}

@@ -1,0 +1,279 @@
+{
+  "songID": "entry_100898",
+  "title": "Wie die Welt",
+  "artist": "Filou",
+  "spotifyID": "5mbHFsofdM4j8ZNm76zPIB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "A",
+        "B",
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "A",
+        "B",
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "A",
+        "B"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v-?-?-?-?-v-i-ii-?-v-?-?-?-?-v-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Amin",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Amin",
+        "E",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-i-v-?-?-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-i-?-?-?-?-i-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "A",
+        "B",
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "A",
+        "B",
+        "Fsmin",
+        "E",
+        "Csmin",
+        "B/Ds",
+        "Csmin/E",
+        "Fsmin",
+        "E",
+        "A",
+        "B"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v-?-?-?-?-v-i-ii-?-v-?-?-?-?-v-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Amin",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Amin",
+        "E",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-i-v-?-?-i-v-?-?-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Amin",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "Amin",
+        "E",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-i-v-?-?-i-v-?-?-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Wie die Welt",
+  "release_date": "2015-10-30",
+  "duration_ms": 250146
+}

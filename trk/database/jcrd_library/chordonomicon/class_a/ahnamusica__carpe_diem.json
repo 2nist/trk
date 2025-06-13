@@ -1,0 +1,273 @@
+{
+  "songID": "entry_102753",
+  "title": "Carpe Diem",
+  "artist": "AHNAMUSICA",
+  "spotifyID": "3rBPVgcgUt7VdAZ7J6iFte",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "Gmin",
+        "C7",
+        "C",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "Gmin",
+        "C7",
+        "C",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:?-ii-?-v-?-iii-?-?-ii-?-ii-?-ii-?-v-?-iii-?-iii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "F",
+        "D",
+        "D7",
+        "D",
+        "Gmin",
+        "C7",
+        "C",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D"
+      ],
+      "rawChords": [
+        "Gmin",
+        "F",
+        "D",
+        "D7",
+        "D",
+        "Gmin",
+        "C7",
+        "C",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:?-v-?-iii-?-iii-?-iii-?-?-ii-?-ii-?-ii-?-v-?-iii-?-iii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D",
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D",
+        "Gmin",
+        "C7",
+        "C",
+        "C7",
+        "F",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D",
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D",
+        "Gmin",
+        "C7",
+        "C",
+        "C7",
+        "F",
+        "D",
+        "D7"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:?-ii-?-v-?-iii-?-iii-?-iii-?-?-ii-?-v-?-iii-?-iii-?-iii-?-?-ii-?-ii-?-ii-?-v-?-iii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "C7",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C7",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D",
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D",
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:?-ii-?-v-?-iii-?-iii-?-iii-?-?-ii-?-v-?-iii-?-iii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "Gmin",
+        "C7",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C7",
+        "F",
+        "D",
+        "D7",
+        "Gmin",
+        "C7",
+        "F",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-ii-?-v-?-iii-?-iii-?-?-ii-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Carpe Diem",
+  "release_date": "2023-08-17",
+  "duration_ms": 107192
+}

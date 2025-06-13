@@ -1,0 +1,245 @@
+{
+  "songID": "entry_101456",
+  "title": "Faze Me",
+  "artist": "Lil Goat",
+  "spotifyID": "3jdTSZ9puZ5oyyayxeIBWO",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fs",
+        "Dsmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Dsmin",
+        "Cs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "Fs",
+        "Dsmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "Fs",
+        "Dsmin",
+        "Cs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:i-?-iv-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "Gsmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-iv-?-v-?-?-i-?-iv-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-?-i-?-iv-?-v-?-?-i-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "B",
+        "Cs",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "Fs",
+        "B",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "Cs",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "Fs",
+        "B",
+        "Cs"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-iv-?-v-?-i-?-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "Fsus4",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "B",
+        "Cs",
+        "Dsmin",
+        "Fs",
+        "Fsus4",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:i-?-ii-?-?-v-?-i-?-ii-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Faze Me",
+  "release_date": "2020-03-27",
+  "duration_ms": 187501
+}

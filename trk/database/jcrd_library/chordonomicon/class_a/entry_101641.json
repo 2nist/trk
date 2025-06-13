@@ -1,0 +1,211 @@
+{
+  "songID": "entry_101641",
+  "title": "cherry blossom",
+  "artist": "slenderbodies",
+  "spotifyID": "2pVym24miJgEbF170Is2lO",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bbmin7"
+      ],
+      "rawChords": [
+        "Bbmin7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Ebmin7",
+        "Gbmaj7",
+        "Bbmin7",
+        "Ebmin7"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Ebmin7",
+        "Gbmaj7",
+        "Bbmin7",
+        "Ebmin7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Fmin",
+        "Bbmin7",
+        "Eb7",
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Eb7"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Fmin",
+        "Bbmin7",
+        "Eb7",
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Eb7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Ebmin7",
+        "Gbmaj7",
+        "Bbmin7",
+        "Fmin7",
+        "Bbmin7",
+        "Ebmin7"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Ebmin7",
+        "Gbmaj7",
+        "Bbmin7",
+        "Fmin7",
+        "Bbmin7",
+        "Ebmin7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bbmin7",
+        "Fmin7",
+        "Bbmin7",
+        "Ebmin7",
+        "Bbmin",
+        "Gb",
+        "Bbmin7",
+        "Fmin7",
+        "Bbmin7",
+        "Ebmin7",
+        "Bbmin",
+        "Gb"
+      ],
+      "rawChords": [
+        "Bbmin7",
+        "Fmin7",
+        "Bbmin7",
+        "Ebmin7",
+        "Bbmin",
+        "Gb",
+        "Bbmin7",
+        "Fmin7",
+        "Bbmin7",
+        "Ebmin7",
+        "Bbmin",
+        "Gb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-?-?-bbvi-?-?-?-?-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Fmin",
+        "Bbmin7",
+        "Eb7",
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Eb7"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Fmin",
+        "Bbmin7",
+        "Eb7",
+        "Bbmin",
+        "Gbmaj7",
+        "Bbmin7",
+        "Eb7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "are we?",
+  "release_date": "2021-05-21",
+  "duration_ms": 141049
+}

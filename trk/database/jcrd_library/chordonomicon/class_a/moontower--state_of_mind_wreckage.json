@@ -1,0 +1,231 @@
+{
+  "songID": "entry_101259",
+  "title": "State of Mind (Wreckage)",
+  "artist": "Moontower",
+  "spotifyID": "5PFQ8hyMmwqrFKgk68RDkx",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "G",
+        "D",
+        "E",
+        "G",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "D",
+        "E",
+        "G",
+        "D",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:iii-?-v-?-ii-?-iii-?-v-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.67",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "E",
+        "G",
+        "D",
+        "E",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "E",
+        "G",
+        "D",
+        "E",
+        "D",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.58",
+        "progression:v-?-ii-?-iii-?-v-?-ii-?-iii-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "E",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "E",
+        "D",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.71",
+        "progression:v-?-i-?-v-?-i-?-v-?-ii-?-iii-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "G",
+        "D",
+        "E",
+        "G",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "D",
+        "E",
+        "G",
+        "D",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.52",
+        "progression:iii-?-v-?-ii-?-iii-?-v-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "D",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.67",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "State of Mind (Wreckage)",
+  "release_date": "2023-09-29",
+  "duration_ms": 182564
+}

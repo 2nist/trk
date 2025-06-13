@@ -1,0 +1,349 @@
+{
+  "songID": "entry_0952",
+  "title": "Reaching",
+  "artist": "Leeland",
+  "spotifyID": "7yWSBvDGeKXgdDZnoy2YXd",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-iv-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "Fsmin",
+        "Fsmin/E",
+        "G",
+        "D",
+        "A/Cs",
+        "Bmin",
+        "Fsmin",
+        "Fsmin/E",
+        "G",
+        "D",
+        "Csmin",
+        "Bmin",
+        "A/Cs",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Fsmin",
+        "Fsmin/E",
+        "G",
+        "D",
+        "A/Cs",
+        "Bmin",
+        "Fsmin",
+        "Fsmin/E",
+        "G",
+        "D",
+        "Csmin",
+        "Bmin",
+        "A/Cs",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-?-?-i-?-v-?-?-?-?-?-i-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "Fsmin",
+        "Fsmin/E",
+        "G",
+        "D",
+        "A/Cs",
+        "Bmin",
+        "Fsmin",
+        "Fsmin/E",
+        "G",
+        "D",
+        "Csmin",
+        "Bmin",
+        "A/Cs",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Fsmin",
+        "Fsmin/E",
+        "G",
+        "D",
+        "A/Cs",
+        "Bmin",
+        "Fsmin",
+        "Fsmin/E",
+        "G",
+        "D",
+        "Csmin",
+        "Bmin",
+        "A/Cs",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-?-?-i-?-v-?-?-?-?-?-i-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Csmin",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "Csmin",
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-i-?-?-ii-?-i-?-ii-?-i-?-ii-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "Csmin",
+        "D",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "Csmin",
+        "D",
+        "Fsmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-iv-?-v-?-?-iv-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Sound Of Melodies",
+  "release_date": "2006-08-15",
+  "duration_ms": 205973
+}

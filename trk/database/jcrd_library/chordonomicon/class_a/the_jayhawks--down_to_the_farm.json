@@ -1,0 +1,247 @@
+{
+  "songID": "entry_100588",
+  "title": "Down to the Farm",
+  "artist": "The Jayhawks",
+  "spotifyID": "1FlpEr8q7xgRfcQ6agYItI",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Bsus4",
+        "B",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Bsus4",
+        "B",
+        "E",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-?-i-?-iv-?-i-?-?-?-ii-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Bsus4",
+        "B",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Bsus4",
+        "B",
+        "E",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-?-i-?-iv-?-i-?-?-?-ii-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Bsus4",
+        "B",
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Bsus4",
+        "B",
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:?-i-?-?-i-?-iv-?-i-?-?-?-ii-?-?-ii-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Xoxo",
+  "release_date": "2020-07-10",
+  "duration_ms": 208496
+}

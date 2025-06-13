@@ -1,0 +1,399 @@
+{
+  "songID": "entry_0922",
+  "title": "Yellow Dog",
+  "artist": "Millencolin",
+  "spotifyID": "1pXr9vMbbCnszXNj6O6k8J",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-iv-?-v-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-iv-?-v-?-?-i-?-iv-?-v-?-?-i-?-iv-?-v-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:?-iv-?-v-?-?-?-iv-?-v-?-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-iv-?-v-?-?-i-?-iv-?-v-?-?-i-?-iv-?-v-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "Emin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-i-?-ii-?-?-i-?-ii-?-?-i-?-ii-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "Amin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?-?-iv-?-v-?-?-?-iv-?-v-?-?-?-iv-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Instrumental",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Melancholy Collection",
+  "release_date": "2001",
+  "duration_ms": 178307
+}

@@ -1,0 +1,185 @@
+{
+  "songID": "entry_10287",
+  "title": "Forty Dollars",
+  "artist": "The Twilight Singers",
+  "spotifyID": "2iH4xVTc1NJkSDXs5OGMBY",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Powder Burns",
+  "release_date": "2006",
+  "duration_ms": 231960
+}

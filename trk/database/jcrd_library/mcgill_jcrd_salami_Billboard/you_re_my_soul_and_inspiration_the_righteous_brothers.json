@@ -1,0 +1,276 @@
+{
+  "title": "(You're My) Soul And Inspiration",
+  "artist": "The Righteous Brothers",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 441,
+      "duration_ms": 8848,
+      "chords": [
+        "A:maj",
+        "D:maj/5",
+        "A:maj",
+        "A:maj",
+        "D:maj/5",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 9290,
+      "duration_ms": 25875,
+      "chords": [
+        "A:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "B:min7",
+        "D:maj",
+        "E:maj",
+        "E:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 35165,
+      "duration_ms": 15116,
+      "chords": [
+        "D:maj",
+        "A:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "C#:min",
+        "D:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "E:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 50281,
+      "duration_ms": 4313,
+      "chords": [
+        "E:maj",
+        "A:maj",
+        "D:maj/5",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 54595,
+      "duration_ms": 25752,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "B:min7",
+        "D:maj",
+        "E:maj",
+        "E:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 80348,
+      "duration_ms": 15091,
+      "chords": [
+        "D:maj",
+        "A:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "C#:min",
+        "D:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "E:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 95439,
+      "duration_ms": 4376,
+      "chords": [
+        "E:maj",
+        "A:maj",
+        "D:maj/5",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 99815,
+      "duration_ms": 27690,
+      "chords": [
+        "A:maj",
+        "B:maj7",
+        "E:maj",
+        "B:maj7",
+        "E:maj",
+        "B:maj7",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "E:maj",
+        "E:maj",
+        "G:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 127506,
+      "duration_ms": 25637,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "B:min7",
+        "D:maj",
+        "E:maj",
+        "E:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 153143,
+      "duration_ms": 35643,
+      "chords": [
+        "E:maj",
+        "D:maj",
+        "A:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "C#:min",
+        "D:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "A:maj",
+        "C#:min",
+        "D:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "G:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "C",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

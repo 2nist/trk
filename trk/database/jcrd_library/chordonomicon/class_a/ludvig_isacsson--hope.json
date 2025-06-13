@@ -1,0 +1,237 @@
+{
+  "songID": "entry_101868",
+  "title": "Hope",
+  "artist": "Ludvig Isacsson",
+  "spotifyID": "31cJXFKjz60KHVFbgNPE2D",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-i-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "Fsmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "Fsmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:i-?-v-?-i-?-v-?-?-i-?-ii-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Hope",
+  "release_date": "2019-09-28",
+  "duration_ms": 261816
+}

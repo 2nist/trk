@@ -1,0 +1,257 @@
+{
+  "songID": "entry_100968",
+  "title": "Colombina",
+  "artist": "Kathy Kelly",
+  "spotifyID": "11cWXOCAvJv2OvEdQG2j2u",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.44",
+        "progression:v-?-?-i-?-ii-?-v-?-?-i-?-ii-?-v-?-?-ii-?-iv-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Fmin",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Fmin",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "Bb",
+        "F",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-?-iv-?-v-?-i-?-v-?-iv-?-v-?-i-?-?-v-?-bvii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Fmin",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Fmin",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Wer lacht \u00fcberlebt",
+  "release_date": "2019-03-15",
+  "duration_ms": 187933
+}

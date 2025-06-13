@@ -1,0 +1,149 @@
+{
+  "songID": "entry_101114",
+  "title": "Black Bear Lane",
+  "artist": "Couch",
+  "spotifyID": "6Y2IycNctyPlgqPUVJ5By3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "Bbmaj7",
+        "Fmaj7",
+        "Bbmaj7",
+        "Bmaj7",
+        "Amin7",
+        "Gmin7",
+        "Dmin9",
+        "Abmin7",
+        "Gmin7",
+        "Dbmaj7",
+        "Csus4",
+        "C"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "Bbmaj7",
+        "Fmaj7",
+        "Bbmaj7",
+        "Bmaj7",
+        "Amin7",
+        "Gmin7",
+        "Dmin9",
+        "Abmin7",
+        "Gmin7",
+        "Dbmaj7",
+        "Csus4",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-?-?-?-?-?-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "Bbmaj7",
+        "Fmaj7",
+        "Bbmaj7",
+        "Amin7",
+        "Gmin7",
+        "Dmin9",
+        "Abmin7",
+        "Gmin7",
+        "Bbmin7",
+        "Eb7"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "Bbmaj7",
+        "Fmaj7",
+        "Bbmaj7",
+        "Amin7",
+        "Gmin7",
+        "Dmin9",
+        "Abmin7",
+        "Gmin7",
+        "Bbmin7",
+        "Eb7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-?-?-?-?-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Abmaj7",
+        "Dbmaj7",
+        "Abmaj7",
+        "Dmajs911s",
+        "Dmaj7",
+        "Db/Eb"
+      ],
+      "rawChords": [
+        "Abmaj7",
+        "Dbmaj7",
+        "Abmaj7",
+        "Dmajs911s",
+        "Dmaj7",
+        "Db/Eb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Abmaj7",
+        "Dbmaj7",
+        "Abmaj7",
+        "Dbmaj7",
+        "Abmaj7",
+        "Dbmaj7"
+      ],
+      "rawChords": [
+        "Abmaj7",
+        "Dbmaj7",
+        "Abmaj7",
+        "Dbmaj7",
+        "Abmaj7",
+        "Dbmaj7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Black Bear Lane",
+  "release_date": "2021-02-05",
+  "duration_ms": 197616
+}

@@ -1,0 +1,367 @@
+{
+  "songID": "entry_102587",
+  "title": "Is Je Moeder Niet Thuis? - Remastered",
+  "artist": "Nico Haak",
+  "spotifyID": "1bpiFpUYLUOUMC0aPBlfDR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:v-?-v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:v-?-v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Cs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Cs",
+        "Gs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-v-?-i-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Cs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Gs",
+        "Cs",
+        "Fs",
+        "Cs",
+        "Gs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-i-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fs",
+        "Cs",
+        "Gs",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Cs",
+        "Gs",
+        "Cs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Haak Is De Naam (Remastered / Expanded Edition)",
+  "release_date": "1977-01-01",
+  "duration_ms": 228106
+}

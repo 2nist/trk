@@ -1,0 +1,389 @@
+{
+  "songID": "entry_101269",
+  "title": "Kino",
+  "artist": "Nena",
+  "spotifyID": "5grfSAJFzScEufOz4wIyct",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-ii-?-v-?-i-?-v-?-i-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iv-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iv-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iv-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iv-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Interlude",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Interlude",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Nena",
+  "release_date": "1983-09-23",
+  "duration_ms": 162693
+}

@@ -1,0 +1,227 @@
+{
+  "songID": "entry_101359",
+  "title": "100 Headaches",
+  "artist": "ROSIE",
+  "spotifyID": "2xoAPLcvVx8TvVtny5a8a0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Csno3d",
+        "Asminmaj7",
+        "Gs",
+        "Csno3d",
+        "Asminmaj7",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs"
+      ],
+      "rawChords": [
+        "Csno3d",
+        "Asminmaj7",
+        "Gs",
+        "Csno3d",
+        "Asminmaj7",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsadd9",
+        "Gs",
+        "Asminmaj7",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fsadd9",
+        "Gs",
+        "Asminmaj7",
+        "Gs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csno3d",
+        "Asminmaj7",
+        "Gs",
+        "Csno3d",
+        "Asminmaj7",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs"
+      ],
+      "rawChords": [
+        "Csno3d",
+        "Asminmaj7",
+        "Gs",
+        "Csno3d",
+        "Asminmaj7",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsadd9",
+        "Gs",
+        "Asminmaj7",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fsadd9",
+        "Gs",
+        "Asminmaj7",
+        "Gs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Asminmaj7",
+        "Gs"
+      ],
+      "rawChords": [
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Asminmaj7",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsadd9",
+        "Gs",
+        "Asminmaj7",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fs"
+      ],
+      "rawChords": [
+        "Fsadd9",
+        "Gs",
+        "Asminmaj7",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fsadd9",
+        "Gs",
+        "Fs"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.06",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "100 Headaches",
+  "release_date": "2021-04-23",
+  "duration_ms": 171005
+}

@@ -1,0 +1,232 @@
+{
+  "title": "Shapes Of Things",
+  "artist": "The Yardbirds",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 255,
+      "duration_ms": 3552,
+      "chords": [
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 3808,
+      "duration_ms": 14490,
+      "chords": [
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 18298,
+      "duration_ms": 14349,
+      "chords": [
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 32648,
+      "duration_ms": 16415,
+      "chords": [
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 49063,
+      "duration_ms": 14587,
+      "chords": [
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 63651,
+      "duration_ms": 14272,
+      "chords": [
+        "F:maj",
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 77923,
+      "duration_ms": 16674,
+      "chords": [
+        "F:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 94598,
+      "duration_ms": 29466,
+      "chords": [
+        "D:maj",
+        "G:maj",
+        "F:maj",
+        "G:maj",
+        "F:maj",
+        "G:maj",
+        "F:maj",
+        "G:maj",
+        "F:maj",
+        "G:maj",
+        "F:maj",
+        "G:maj",
+        "F:maj",
+        "G:maj",
+        "F:maj",
+        "Bb:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_6",
+      "start_ms": 124064,
+      "duration_ms": 21176,
+      "chords": [
+        "D:maj",
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "G:maj",
+        "D:min7",
+        "F:maj",
+        "F:maj",
+        "F:maj",
+        "G:maj",
+        "G:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

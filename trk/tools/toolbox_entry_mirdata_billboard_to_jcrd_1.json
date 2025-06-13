@@ -1,0 +1,13 @@
+{
+    "script": "mirdata_billboard_to_jcrd.py",
+    "name": "McGill Billboard to .jcrd",
+    "description": "Converts the McGill Billboard dataset (via mirdata) into `.jcrd` JSON files in /.",
+    "arguments": [
+        {
+            "name": "--output_dir",
+            "required": false,
+            "type": "text",
+            "help": "Folder to save .jcrd files (default: mcgill_jcrd/)"
+        }
+    ]
+}

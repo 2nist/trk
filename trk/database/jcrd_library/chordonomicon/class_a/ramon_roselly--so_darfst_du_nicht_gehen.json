@@ -1,0 +1,417 @@
+{
+  "songID": "entry_0186",
+  "title": "So darfst du nicht gehen",
+  "artist": "Ramon Roselly",
+  "spotifyID": "1tfBy4ScX5YlHZhoEDdUZo",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Cs7",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Cs7",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Cs7",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Cs7",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-?-v-?-i-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Bmin",
+        "D",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "Fs",
+        "Bmin",
+        "D",
+        "A",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Bmin",
+        "D",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "Fs",
+        "Bmin",
+        "D",
+        "A",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.78",
+        "progression:v-?-?-?-i-?-v-?-?-?-iii-?-?-i-?-v-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:i-?-iii-?-?-?-v-?-i-?-iii-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Bmin",
+        "D",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "Fs",
+        "Bmin",
+        "D",
+        "A",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Bmin",
+        "D",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "Fs",
+        "Bmin",
+        "D",
+        "A",
+        "Fs",
+        "Bmin",
+        "E",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.78",
+        "progression:v-?-?-?-i-?-v-?-?-?-iii-?-?-i-?-v-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.49",
+        "progression:?-?-ii-?-v-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Ds",
+        "Gsmin",
+        "Csmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Ds",
+        "Gsmin",
+        "Csmin",
+        "Fs"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:i-?-iii-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Gsmin",
+        "Csmin",
+        "E",
+        "B",
+        "Gsmin",
+        "Csmin",
+        "Gs",
+        "Csmin",
+        "E",
+        "B",
+        "Gs",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Gsmin",
+        "Csmin",
+        "E",
+        "B",
+        "Gsmin",
+        "Csmin",
+        "Gs",
+        "Csmin",
+        "E",
+        "B",
+        "Gs",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.78",
+        "progression:v-?-?-?-i-?-v-?-?-?-iii-?-?-i-?-v-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gsmin",
+        "Csmin",
+        "Fs",
+        "B",
+        "Gsmin",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "Csmin",
+        "Fs",
+        "B",
+        "Gsmin",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-?-v-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude"
+  ],
+  "tags": [],
+  "album": "Lieblingsmomente",
+  "release_date": "2021-06-25",
+  "duration_ms": 249000
+}

@@ -1,0 +1,337 @@
+{
+  "songID": "entry_101802",
+  "title": "Marie tu m'as (Marie Thumas)",
+  "artist": "Arno",
+  "spotifyID": "1qb4gXv6dDjgW9QXp7Nvft",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "D",
+        "C",
+        "Bmin",
+        "A",
+        "G",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "C",
+        "Bmin",
+        "A",
+        "G",
+        "F",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.61",
+        "progression:iii-?-ii-?-i-?-?-vi-?-v-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-biii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-biii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "Bmin",
+        "Amin",
+        "G",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "Bmin",
+        "Amin",
+        "G",
+        "F",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:iii-?-ii-?-iii-?-ii-?-iii-?-ii-?-i-?-?-?-v-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Ratata",
+  "release_date": "1990-04-01",
+  "duration_ms": 195093
+}

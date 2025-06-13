@@ -1,0 +1,91 @@
+{
+  "songID": "entry_102904",
+  "title": "Raise a Wreck",
+  "artist": "Skinny Lister",
+  "spotifyID": "0aPNv4jM8bpmMkuidrgLtp",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Bb",
+        "A",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Bb",
+        "A",
+        "Bb",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:iii-?-iv-?-iii-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "B",
+        "G",
+        "B"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "B",
+        "G",
+        "B"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.20",
+        "progression:iv-?-i-?-iii-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Down on Deptford Broadway",
+  "release_date": "2015-04-20",
+  "duration_ms": 173120
+}

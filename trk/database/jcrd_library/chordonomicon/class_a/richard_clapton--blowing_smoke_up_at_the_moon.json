@@ -1,0 +1,311 @@
+{
+  "songID": "entry_10276",
+  "title": "Blowing Smoke Up At The Moon",
+  "artist": "Richard Clapton",
+  "spotifyID": "2guDgd5Jh2RVCGwjErEJrf",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Dsus4",
+        "Dmaj7sus2",
+        "Dsus2",
+        "Dmaj7sus2",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Dsus2",
+        "Emin",
+        "D/Fs",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Dsus4",
+        "Dmaj7sus2",
+        "Dsus2",
+        "Dmaj7sus2",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Dsus2",
+        "Emin",
+        "D/Fs",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-?-?-?-v-?-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "Emin",
+        "D/Fs",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "Emin",
+        "D/Fs",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-?-i-?-v-?-?-?-ii-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "Emin7"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "Emin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:i-?-?-i-?-ii-?-?-i-?-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "Emin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "Bmin",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:i-?-?-i-?-ii-?-?-i-?-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Dsus4",
+        "Dmaj7sus2",
+        "Dsus2",
+        "Dmaj7sus2",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "Dsus4",
+        "Dmaj7sus2",
+        "Dsus2",
+        "Dmaj7sus2",
+        "Bmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Harlequin Nights",
+  "release_date": "2012-08-03",
+  "duration_ms": 210093
+}

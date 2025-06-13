@@ -1,0 +1,243 @@
+{
+  "songID": "entry_100401",
+  "title": "not safe",
+  "artist": "BAYLI",
+  "spotifyID": "7fNfMtB0PQ07oV6fA2rMVc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "rawChords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "rawChords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "rawChords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "rawChords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "rawChords": [
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7",
+        "A",
+        "Bbdim",
+        "Bmin7",
+        "Gmaj7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "not safe",
+  "release_date": "2020-09-18",
+  "duration_ms": 136686
+}

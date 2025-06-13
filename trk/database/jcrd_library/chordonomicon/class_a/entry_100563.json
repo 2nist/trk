@@ -1,0 +1,293 @@
+{
+  "songID": "entry_100563",
+  "title": "California",
+  "artist": "Willie Wisely",
+  "spotifyID": "5P1GUUZwtRQTx5PjiTKl91",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmaj7"
+      ],
+      "rawChords": [
+        "Bmaj7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin7",
+        "Csmin7/Fs",
+        "Bmaj7",
+        "Csmin7",
+        "Dsmin7",
+        "Ds7",
+        "Gsmin7",
+        "Gaug",
+        "Gsmin7/F",
+        "Gaug/E",
+        "Csmin7",
+        "Cs7"
+      ],
+      "rawChords": [
+        "Csmin7",
+        "Csmin7/Fs",
+        "Bmaj7",
+        "Csmin7",
+        "Dsmin7",
+        "Ds7",
+        "Gsmin7",
+        "Gaug",
+        "Gsmin7/F",
+        "Gaug/E",
+        "Csmin7",
+        "Cs7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E/B",
+        "Badd13",
+        "Dsdim7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "B",
+        "E/B",
+        "Badd13",
+        "Cs7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "Bmaj7"
+      ],
+      "rawChords": [
+        "B",
+        "E/B",
+        "Badd13",
+        "Dsdim7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "B",
+        "E/B",
+        "Badd13",
+        "Cs7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "Bmaj7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-?-?-?-?-?-?-?-v-?-?-?-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin7",
+        "Csmin7/Fs",
+        "Bmaj7",
+        "Csmin7",
+        "Dsmin7",
+        "Ds7",
+        "Gsmin7",
+        "Gaug",
+        "Gsmin7/F",
+        "Gaug/E",
+        "Csmin7",
+        "Cs7"
+      ],
+      "rawChords": [
+        "Csmin7",
+        "Csmin7/Fs",
+        "Bmaj7",
+        "Csmin7",
+        "Dsmin7",
+        "Ds7",
+        "Gsmin7",
+        "Gaug",
+        "Gsmin7/F",
+        "Gaug/E",
+        "Csmin7",
+        "Cs7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E/B",
+        "Badd13",
+        "Dsdim7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "B",
+        "E/B",
+        "Badd13",
+        "Cs7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "Bmaj7"
+      ],
+      "rawChords": [
+        "B",
+        "E/B",
+        "Badd13",
+        "Dsdim7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "B",
+        "E/B",
+        "Badd13",
+        "Cs7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "Bmaj7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-?-?-?-?-?-?-?-v-?-?-?-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "Gsmin",
+        "Gsminmaj7",
+        "Gsmin7",
+        "Gsminadd13",
+        "Csmin7",
+        "Dsmin7",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Gsmin",
+        "Gsminmaj7",
+        "Gsmin7",
+        "Gsminadd13",
+        "Csmin7",
+        "Dsmin7",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-?-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E/B",
+        "Badd13",
+        "Dsdim7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "B",
+        "E/B",
+        "Badd13",
+        "Cs7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "Bmaj7"
+      ],
+      "rawChords": [
+        "B",
+        "E/B",
+        "Badd13",
+        "Dsdim7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "B",
+        "E/B",
+        "Badd13",
+        "Cs7",
+        "E/Gs",
+        "Cs7",
+        "Fssus4",
+        "Fs",
+        "Bmaj7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-?-?-?-?-?-?-?-v-?-?-?-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Wisely (Deluxe)",
+  "release_date": "2007",
+  "duration_ms": 255746
+}

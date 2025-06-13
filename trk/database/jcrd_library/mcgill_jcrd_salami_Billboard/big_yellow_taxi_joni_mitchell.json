@@ -1,0 +1,282 @@
+{
+  "title": "Big Yellow Taxi",
+  "artist": "Joni Mitchell",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 139,
+      "duration_ms": 9982,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 10121,
+      "duration_ms": 9997,
+      "chords": [
+        "G:maj(9)/5",
+        "D:maj",
+        "G:maj(9)/5",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 20118,
+      "duration_ms": 10107,
+      "chords": [
+        "D:maj",
+        "G:maj(9)",
+        "G:maj(9)",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 30226,
+      "duration_ms": 10008,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 40235,
+      "duration_ms": 9892,
+      "chords": [
+        "G:maj(9)/5",
+        "D:maj",
+        "G:maj(9)/5",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 50127,
+      "duration_ms": 10054,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "G:maj9",
+        "G:maj9",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 60182,
+      "duration_ms": 30041,
+      "chords": [
+        "D:maj",
+        "D:sus4",
+        "D:maj",
+        "A:sus4(b7)",
+        "G:maj(9)",
+        "G:maj(9)",
+        "D:maj",
+        "D:maj",
+        "G:maj(9)",
+        "G:maj(9)",
+        "A:sus4(b7)",
+        "A:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 90223,
+      "duration_ms": 9927,
+      "chords": [
+        "G:maj(9)/5",
+        "D:maj",
+        "G:maj(9)/5",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 100151,
+      "duration_ms": 10059,
+      "chords": [
+        "D:maj",
+        "G:maj9",
+        "G:maj9",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 110210,
+      "duration_ms": 9921,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 120132,
+      "duration_ms": 9933,
+      "chords": [
+        "D:maj",
+        "G:maj(9)/5",
+        "D:maj",
+        "G:maj(9)/5",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 130066,
+      "duration_ms": 10080,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "G:maj9",
+        "G:maj9",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 140147,
+      "duration_ms": 27376,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

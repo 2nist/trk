@@ -1,0 +1,269 @@
+{
+  "songID": "entry_102035",
+  "title": "Who Are You",
+  "artist": "Draper",
+  "spotifyID": "6huADjSupaUew2FeJIkSrB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "C",
+        "Emin7"
+      ],
+      "rawChords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "C",
+        "Emin7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "G",
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7"
+      ],
+      "rawChords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "G",
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-i-?-?-?-?-v-?-?-i-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7"
+      ],
+      "rawChords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "G",
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7"
+      ],
+      "rawChords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "G",
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-i-?-?-?-?-v-?-?-i-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin"
+      ],
+      "rawChords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin7",
+        "C",
+        "Emin7",
+        "F",
+        "Amin7",
+        "C",
+        "Emin7",
+        "F",
+        "Amin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin7",
+        "C",
+        "Emin7",
+        "F",
+        "Amin7",
+        "C",
+        "Emin7",
+        "F",
+        "Amin",
+        "C",
+        "Emin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-v-?-?-i-?-?-v-?-?-i-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7",
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7"
+      ],
+      "rawChords": [
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7",
+        "Fsus2",
+        "C",
+        "Emin7",
+        "Fsus2",
+        "Amin",
+        "Emin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Luminous",
+  "release_date": "2017-01-13",
+  "duration_ms": 224530
+}

@@ -1,0 +1,367 @@
+{
+  "songID": "entry_0884",
+  "title": "Everytime",
+  "artist": "Gavin James",
+  "spotifyID": "3wSkbpT3er8zmg5i0hFYmT",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "Bsus2"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-ii-v-?-v-ii-v-?-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-?-?-iv-v-i-v-?-?-iv-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "Bsus2"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-ii-v-?-v-ii-v-?-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-?-?-iv-v-i-v-?-?-iv-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cmin",
+        "G",
+        "Emin7",
+        "Fsmin",
+        "Cmin",
+        "G",
+        "Emin7",
+        "Fs",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G",
+        "Emin7",
+        "Fsmin",
+        "Cmin",
+        "G",
+        "Emin7",
+        "Fs",
+        "Fsmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "Bsus2",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "Bsus2",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-ii-v-?-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A",
+        "D",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "G",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-?-?-iv-v-i-v-?-?-iv-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Intro",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Everytime",
+  "release_date": "2023-02-03",
+  "duration_ms": 214000
+}

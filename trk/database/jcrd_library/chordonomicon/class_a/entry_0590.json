@@ -1,0 +1,279 @@
+{
+  "songID": "entry_0590",
+  "title": "Smoke Along the Track",
+  "artist": "Dwight Yoakam",
+  "spotifyID": "6bjtyFZfSLMkciToU2054g",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Hillbilly Deluxe",
+  "release_date": "1987-04-15",
+  "duration_ms": 191333
+}

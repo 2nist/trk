@@ -1,0 +1,271 @@
+{
+  "songID": "entry_101581",
+  "title": "Why Trust You",
+  "artist": "Alice Cooper",
+  "spotifyID": "6QhsQvMgEuqJE6z7re1ijE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "F",
+        "Ab",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "F",
+        "Ab",
+        "G",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:iv-?-i-?-biii-?-?-iv-?-i-?-biii-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Eb",
+        "F",
+        "Ab",
+        "Bb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Eb",
+        "F",
+        "Ab",
+        "Bb",
+        "Cmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:?-i-?-ii-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "F",
+        "Ab",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "F",
+        "Ab",
+        "G",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:iv-?-i-?-biii-?-?-iv-?-i-?-biii-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Eb",
+        "F",
+        "Ab",
+        "Bb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Eb",
+        "F",
+        "Ab",
+        "Bb",
+        "Cmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:?-i-?-ii-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Eb",
+        "F",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Eb",
+        "F",
+        "Ab",
+        "Bb"
+      ],
+      "rawChords": [
+        "Eb",
+        "F",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Eb",
+        "F",
+        "Ab",
+        "Bb"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:i-?-ii-?-iv-?-v-?-?-i-?-ii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Eb",
+        "F",
+        "Ab",
+        "Bb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Eb",
+        "F",
+        "Ab",
+        "Bb",
+        "Cmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:?-iv-?-v-?-?-i-?-ii-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Trash",
+  "release_date": "1989-07-25",
+  "duration_ms": 193600
+}

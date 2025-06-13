@@ -1,0 +1,281 @@
+{
+  "songID": "entry_10214",
+  "title": "Love Torn Us Under",
+  "artist": "Manic Street Preachers",
+  "spotifyID": "7uHVnRQ3hZGeKZdNcXVVc4",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "A7",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Amin7",
+        "D",
+        "A7",
+        "D",
+        "A",
+        "A7",
+        "Amin7",
+        "D",
+        "A",
+        "Amin7",
+        "D",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "E",
+        "Ds"
+      ],
+      "rawChords": [
+        "A",
+        "Amin7",
+        "D",
+        "A7",
+        "D",
+        "A",
+        "A7",
+        "Amin7",
+        "D",
+        "A",
+        "Amin7",
+        "D",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "E",
+        "Ds"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.54",
+        "progression:v-?-?-i-?-v-?-i-?-v-?-v-?-?-i-?-v-?-?-i-?-biii-?-?-biii-?-?-biii-?-ii-?-#i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "Emin",
+        "Cmaj7",
+        "Emin",
+        "Cmaj7",
+        "Emin",
+        "Cmaj7",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Emin",
+        "Cmaj7",
+        "Emin",
+        "Cmaj7",
+        "Emin",
+        "Cmaj7",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "A7",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Amin7",
+        "D",
+        "A",
+        "Amin7",
+        "D",
+        "A",
+        "Amin7",
+        "D",
+        "A7",
+        "Amin7",
+        "D",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Emin",
+        "Ds"
+      ],
+      "rawChords": [
+        "A",
+        "Amin7",
+        "D",
+        "A",
+        "Amin7",
+        "D",
+        "A",
+        "Amin7",
+        "D",
+        "A7",
+        "Amin7",
+        "D",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Emin",
+        "Ds"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-biii-?-?-biii-?-?-biii-?-?-#i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "Emin",
+        "Cmaj7",
+        "Emin",
+        "Cmaj7",
+        "Emin",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Emin",
+        "Cmaj7",
+        "Emin",
+        "Cmaj7",
+        "Emin",
+        "Cmaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Holy Bible 20 (Deluxe)",
+  "release_date": "1994-08-29",
+  "duration_ms": 223013
+}

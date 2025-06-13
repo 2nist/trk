@@ -1,0 +1,239 @@
+{
+  "songID": "entry_0110",
+  "title": "Una at Huli",
+  "artist": "Cami",
+  "spotifyID": "5iy5KJcoVkz3Wswh0K8VLl",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "Bb",
+        "F",
+        "G",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "Bb",
+        "F",
+        "G",
+        "G7",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-ii-v-i-ii-v-iv-i-ii-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "G7",
+        "C",
+        "C7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "G7",
+        "C",
+        "C7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-ii-ii-v-v-i-iv-i-iv-i-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-ii-v-i-iv-i-?-v-i-iv-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "G7",
+        "C",
+        "C7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "G7",
+        "C",
+        "C7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-ii-ii-v-v-i-iv-i-iv-i-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "G",
+        "Bb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Bb",
+        "Bbmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:ii-iii-v-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "C",
+        "F",
+        "Gmin",
+        "G",
+        "Bb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "F",
+        "Gmin",
+        "G",
+        "Bb",
+        "Bbmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:v-vi-ii-?-iii-v-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Una at Huli",
+  "release_date": "2023-02-10",
+  "duration_ms": 210260
+}

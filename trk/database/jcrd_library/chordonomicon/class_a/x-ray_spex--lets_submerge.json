@@ -1,0 +1,599 @@
+{
+  "songID": "entry_100729",
+  "title": "Lets Submerge",
+  "artist": "X-Ray Spex",
+  "spotifyID": "2ydNdRDMIAMOQPWkJMYWXW",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "C",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "A",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:iii-?-v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:i-?-biii-?-i-?-biii-?-v-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "D",
+        "E",
+        "G",
+        "E",
+        "G",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "D",
+        "E",
+        "G",
+        "E",
+        "G",
+        "E",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:i-?-biii-?-i-?-biii-?-v-?-iv-?-v-?-bvii-?-v-?-bvii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:i-?-biii-?-i-?-biii-?-v-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "A",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:biii-?-i-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:i-?-biii-?-i-?-biii-?-v-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "D",
+        "E",
+        "G",
+        "E",
+        "G",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "D",
+        "E",
+        "G",
+        "E",
+        "G",
+        "E",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:i-?-biii-?-i-?-biii-?-v-?-iv-?-v-?-bvii-?-v-?-bvii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "A",
+        "C",
+        "E",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:i-?-biii-?-i-?-biii-?-v-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "A",
+        "C",
+        "A"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:v-?-iii-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Interlude",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Interlude",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Germ Free Adolescents",
+  "release_date": "1978-11-10",
+  "duration_ms": 206533
+}

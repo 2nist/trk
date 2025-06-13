@@ -1,0 +1,237 @@
+{
+  "songID": "entry_101659",
+  "title": "Love Letter to My Future Self",
+  "artist": "Via Audio",
+  "spotifyID": "7LF5r20HTPeIZvDlImhVEg",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "E",
+        "F",
+        "D",
+        "C",
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "E",
+        "F",
+        "D",
+        "C",
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.21",
+        "progression:?-ii-?-biii-?-i-?-bvii-?-biii-?-?-ii-?-biii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "D",
+        "C",
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "D",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "E",
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "D",
+        "C",
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "D",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "E",
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "D"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.20",
+        "progression:?-ii-?-v-?-iii-?-ii-?-v-?-?-#iv-?-v-?-iii-?-ii-?-v-?-ii-?-?-#iv-?-v-?-?-#iv-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "E",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "E",
+        "Emin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:biii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "D",
+        "C",
+        "F",
+        "Amin",
+        "E",
+        "D",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "E",
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "D",
+        "C",
+        "F",
+        "Amin",
+        "E",
+        "D",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "E",
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "D",
+        "G"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:?-i-?-ii-?-i-?-iv-?-?-iii-?-ii-?-i-?-iv-?-i-?-?-iii-?-iv-?-?-iii-?-iv-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "Amin",
+        "E",
+        "Dmin",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "E",
+        "F",
+        "Amin",
+        "E",
+        "Dmin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:biii-?-?-ii-?-biii-?-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Natural Language",
+  "release_date": "2014-03-25",
+  "duration_ms": 196013
+}

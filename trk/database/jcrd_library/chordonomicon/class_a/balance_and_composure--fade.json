@@ -1,0 +1,383 @@
+{
+  "songID": "entry_102672",
+  "title": "Fade",
+  "artist": "Balance And Composure",
+  "spotifyID": "6qev3UHF3JPfByscZ7TNlG",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-v-?-?-i-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "Amin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-v-?-?-i-?-?-i-?-v-?-?-i-?-v-?-?-v-?-?-i-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:i-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Separation",
+  "release_date": "2011-05-10",
+  "duration_ms": 255493
+}

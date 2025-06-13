@@ -1,0 +1,287 @@
+{
+  "songID": "entry_101825",
+  "title": "Find Your Throne",
+  "artist": "Origami Angel",
+  "spotifyID": "0FYgbU053OIe4Mg6EtxSgp",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-i-?-iv-?-?-v-?-?-i-?-iv-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:?-v-?-i-?-?-ii-?-?-v-?-i-?-?-ii-?-?-v-?-?-i-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "D",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Emin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:iv-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-?-i-?-ii-?-v-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.24",
+        "progression:?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Somewhere City",
+  "release_date": "2019-11-15",
+  "duration_ms": 206387
+}

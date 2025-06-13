@@ -1,0 +1,353 @@
+{
+  "songID": "entry_102347",
+  "title": "Colorless",
+  "artist": "Leoniden",
+  "spotifyID": "6EBn40MU1VLPoXy88wM39P",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gs",
+        "A",
+        "Gs",
+        "A",
+        "E",
+        "Cs",
+        "E",
+        "Cs"
+      ],
+      "rawChords": [
+        "Gs",
+        "A",
+        "Gs",
+        "A",
+        "E",
+        "Cs",
+        "E",
+        "Cs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:vii-?-i-?-vii-?-i-?-v-?-iii-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "A",
+        "Gs",
+        "A",
+        "Gs",
+        "A",
+        "E",
+        "Cs",
+        "E",
+        "Cs",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Gs",
+        "A",
+        "Gs",
+        "A",
+        "E",
+        "Cs",
+        "E",
+        "Cs",
+        "A",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.19",
+        "progression:?-i-?-vii-?-i-?-vii-?-i-?-v-?-iii-?-v-?-iii-?-i-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "A",
+        "C",
+        "E",
+        "C",
+        "E",
+        "Gs",
+        "A",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "A",
+        "C",
+        "E",
+        "C",
+        "E",
+        "Gs",
+        "A",
+        "C",
+        "E"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:v-?-vii-?-i-?-biii-?-v-?-biii-?-v-?-vii-?-i-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Gs",
+        "A",
+        "Gs",
+        "A",
+        "E",
+        "Cs",
+        "E",
+        "Cs",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "A",
+        "Gs",
+        "A",
+        "Gs",
+        "A",
+        "E",
+        "Cs",
+        "E",
+        "Cs",
+        "A",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.19",
+        "progression:i-?-vii-?-i-?-vii-?-i-?-v-?-iii-?-v-?-iii-?-i-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "A",
+        "C",
+        "E",
+        "C",
+        "E",
+        "Gs",
+        "A",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "A",
+        "C",
+        "E",
+        "C",
+        "E",
+        "Gs",
+        "A",
+        "C",
+        "E"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:v-?-vii-?-i-?-biii-?-v-?-biii-?-v-?-vii-?-i-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "E",
+        "B",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "E",
+        "A",
+        "Csmin",
+        "B",
+        "Gsmin",
+        "A",
+        "E",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "Gsmin",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "E",
+        "B",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "E",
+        "A",
+        "Csmin",
+        "B",
+        "Gsmin",
+        "A",
+        "E",
+        "Amaj7",
+        "Csmin",
+        "B",
+        "Gsmin",
+        "A"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-v-?-iv-?-?-i-?-v-?-?-i-?-iv-?-?-v-?-?-iv-?-i-?-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fsmin",
+        "B",
+        "A",
+        "Fsmin",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "A",
+        "Fsmin",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "A",
+        "Fsmin",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "B",
+        "A",
+        "Fsmin",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "A",
+        "Fsmin",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "A",
+        "Fsmin",
+        "B",
+        "Csmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-v-?-iv-?-?-v-?-?-?-v-?-iv-?-?-v-?-?-?-v-?-iv-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Again",
+  "release_date": "2018-10-26",
+  "duration_ms": 203693
+}

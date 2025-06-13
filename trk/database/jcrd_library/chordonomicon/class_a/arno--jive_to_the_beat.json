@@ -1,0 +1,425 @@
+{
+  "songID": "entry_101819",
+  "title": "Jive to the Beat",
+  "artist": "Arno",
+  "spotifyID": "1H8hGg5a11QN2dein4VCgB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin",
+        "Aminmaj7",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "E",
+        "E7",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "E7",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Asus2",
+        "Amin",
+        "Asus2"
+      ],
+      "rawChords": [
+        "Amin",
+        "Asus2",
+        "Amin",
+        "Asus2"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Asus2",
+        "Amin",
+        "Asus2"
+      ],
+      "rawChords": [
+        "Amin",
+        "Asus2",
+        "Amin",
+        "Asus2"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "Bsus2",
+        "Bmin",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Bsus2",
+        "Bmin",
+        "Bsus2"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "Csmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Charlatan",
+  "release_date": "1988-04-04",
+  "duration_ms": 276306
+}

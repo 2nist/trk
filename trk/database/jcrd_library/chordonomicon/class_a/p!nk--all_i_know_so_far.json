@@ -1,0 +1,357 @@
+{
+  "songID": "entry_101533",
+  "title": "All I Know So Far",
+  "artist": "P!nk",
+  "spotifyID": "4LmN3eU1R1vVEdKuDELpGk",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bsus4",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Asus2",
+        "E",
+        "Asus2",
+        "Bsus4",
+        "Csmin7",
+        "Bsus4"
+      ],
+      "rawChords": [
+        "Bsus4",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Asus2",
+        "E",
+        "Asus2",
+        "Bsus4",
+        "Csmin7",
+        "Bsus4"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "Bsus4"
+      ],
+      "rawChords": [
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "Bsus4"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "Bsus4",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Asus2",
+        "E",
+        "Asus2",
+        "Bsus4",
+        "Csmin7",
+        "Bsus4"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "Bsus4",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Asus2",
+        "E",
+        "Asus2",
+        "Bsus4",
+        "Csmin7",
+        "Bsus4"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.24",
+        "progression:v-?-i-?-v-?-i-?-v-?-?-?-v-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "Csmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4"
+      ],
+      "rawChords": [
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "E",
+        "Bsus4",
+        "Csmin7",
+        "Asus2",
+        "Csmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Asus2",
+        "E"
+      ],
+      "rawChords": [
+        "Asus2",
+        "E"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "All I Know So Far",
+  "release_date": "2021-05-07",
+  "duration_ms": 277413
+}

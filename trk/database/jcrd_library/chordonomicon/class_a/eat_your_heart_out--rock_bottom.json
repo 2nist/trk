@@ -1,0 +1,329 @@
+{
+  "songID": "entry_101235",
+  "title": "Rock Bottom",
+  "artist": "Eat Your Heart Out",
+  "spotifyID": "35tBDJKTtjsG2o0RTeHXhQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-?-i-?-v-?-ii-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Amin",
+        "F",
+        "Dmin",
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "Dmin",
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:?-v-?-?-v-?-ii-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-ii-?-?-v-?-i-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Instrumental",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Mind Games",
+  "release_date": "2017-12-01",
+  "duration_ms": 196919
+}

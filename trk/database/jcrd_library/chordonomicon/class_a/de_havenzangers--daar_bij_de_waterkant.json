@@ -1,0 +1,339 @@
+{
+  "songID": "entry_100380",
+  "title": "Daar Bij de Waterkant",
+  "artist": "De Havenzangers",
+  "spotifyID": "7oDn2Fl33bpaTWzCSiQmy5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.77",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.77",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.77",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.24",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Hollands Glorie",
+  "release_date": "2001",
+  "duration_ms": 189853
+}

@@ -1,0 +1,175 @@
+{
+  "songID": "entry_101794",
+  "title": "He Don't Love Me Anymore",
+  "artist": "June Carter Cash",
+  "spotifyID": "6FPsQ5ytzIlbivxAfFgYkL",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "A",
+        "G",
+        "D",
+        "A",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "A7",
+        "A",
+        "G",
+        "D",
+        "A",
+        "A7",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:v-?-v-?-iv-?-i-?-v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "A7",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "A7",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:v-?-iv-?-i-?-v-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Live Recordings from the Louisiana Hayride",
+  "release_date": "2003-09-23",
+  "duration_ms": 331066
+}

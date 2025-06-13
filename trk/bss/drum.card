@@ -1,0 +1,25 @@
+{
+  "id": "D103",
+  "label": "pocket_groove",
+  "type": "drum.card",
+  "gmm_version": "1.0.0",
+  "components": {
+    "kick": "kick_001.mid",
+    "snare": "snare_002.mid",
+    "hihat": "hat_005.mid",
+    "perc": "perc_003.mid"
+  },
+  "pattern_name": "Funky Pocket",
+  "style": "funk",
+  "bpm": 96,
+  "length_bars": 4,
+  "tags": ["tight", "laid-back", "GMM"],
+  "section_suitability": ["verse", "bridge"],
+  "preview": [
+    {"track": "kick", "steps": [1, 0, 1, 0, 0, 1, 0, 0]},
+    {"track": "snare", "steps": [0, 0, 1, 0, 0, 0, 1, 0]},
+    {"track": "hihat", "steps": [1, 1, 1, 1, 1, 1, 1, 1]}
+  ],
+  "source_midi": "funky_pocket_full.mid",
+  "created": "2025-06-10T16:00:00Z"
+}

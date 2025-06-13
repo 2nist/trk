@@ -1,0 +1,311 @@
+{
+  "songID": "entry_0880",
+  "title": "Damn I'm in Love Again",
+  "artist": "Mr. Big",
+  "spotifyID": "4wGPXraznAXLV1a0eUGLA3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "F"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.21",
+        "progression:?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-ii-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Bb"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Eb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Ab",
+        "Gb",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "Eb",
+        "F",
+        "Ab",
+        "Gb",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:ii-?-v-?-ii-?-i-?-ii-?-iv-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Defying Gravity",
+  "release_date": "2017-07-21",
+  "duration_ms": 175842
+}

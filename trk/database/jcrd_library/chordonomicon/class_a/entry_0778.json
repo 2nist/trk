@@ -1,0 +1,473 @@
+{
+  "songID": "entry_0778",
+  "title": "Building Me Back",
+  "artist": "Foreigners",
+  "spotifyID": "4QL3h2B2HVBkNBwWaMpYxb",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-i-?-i-v-i-?-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Dmin7",
+        "Amin7",
+        "C",
+        "G",
+        "Dmin7",
+        "Amin7",
+        "C",
+        "D",
+        "Emin7",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Dmin7",
+        "Amin7",
+        "C",
+        "G",
+        "Dmin7",
+        "Amin7",
+        "C",
+        "D",
+        "Emin7",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-?-iv-i-?-?-iv-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-?-?-i-?-i-v-?-?-i-?-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "rawChords": [
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Dmin7",
+        "G",
+        "C",
+        "Cmin7",
+        "G7",
+        "Dmin7",
+        "G",
+        "C",
+        "Cmin7",
+        "G/B",
+        "C",
+        "D",
+        "Emin7",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Dmin7",
+        "G",
+        "C",
+        "Cmin7",
+        "G7",
+        "Dmin7",
+        "G",
+        "C",
+        "Cmin7",
+        "G/B",
+        "C",
+        "D",
+        "Emin7",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-v-i-?-v-?-v-i-?-?-i-ii-?-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-?-?-i-?-i-v-?-?-i-?-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "rawChords": [
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-v-?-v-ii-?-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin7",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Amin7",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "C",
+        "G",
+        "D",
+        "Amin7",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-i-v-?-iv-i-v-?-iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "D/C",
+        "G/B",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "D/C",
+        "G/B",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C",
+        "G",
+        "Amin7",
+        "G/B",
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-?-?-i-?-i-v-?-?-i-?-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "G/C",
+        "G/E",
+        "G/C",
+        "G",
+        "G/C",
+        "G/E",
+        "G/C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "G/C",
+        "G/E",
+        "G/C",
+        "G",
+        "G/C",
+        "G/E",
+        "G/C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Emin7",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Interlude",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Building Me Back (Acoustic Version)",
+  "release_date": "2023-02-23",
+  "duration_ms": 265500
+}

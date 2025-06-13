@@ -1,0 +1,297 @@
+{
+  "songID": "entry_100804",
+  "title": "Somebody New",
+  "artist": "Swim Mountain",
+  "spotifyID": "6S6Ls9g5i1k2duXCWiOm55",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "A"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "A",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "A",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "A"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "A",
+        "Dmaj7"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "A",
+        "Dmaj7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gsmin7",
+        "Cs7",
+        "Fsmaj7",
+        "Fsmin7",
+        "B7",
+        "Emaj7",
+        "Emin7",
+        "A7",
+        "Emin7",
+        "A"
+      ],
+      "rawChords": [
+        "Gsmin7",
+        "Cs7",
+        "Fsmaj7",
+        "Fsmin7",
+        "B7",
+        "Emaj7",
+        "Emin7",
+        "A7",
+        "Emin7",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-?-?-ii-?-?-i-?-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "A"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "A"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-ii-i-ii-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Solo",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "If (Deluxe Edition)",
+  "release_date": "2021-10-08",
+  "duration_ms": 194733
+}

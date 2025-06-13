@@ -1,0 +1,281 @@
+{
+  "songID": "entry_0166",
+  "title": "Mtns Of Glory",
+  "artist": "Amy Ray",
+  "spotifyID": "2xBStcKy2RFcD12hp0GfoT",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-biii-?-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-biii-?-iv-i-biii-?-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-biii-?-iv-i-biii-?-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-biii-?-iv-i-biii-?-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-biii-?-iv-i-biii-?-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-biii-?-iv-i-biii-?-iv-i-biii-?-iv-i-biii-?-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E",
+        "G",
+        "Fs",
+        "A",
+        "E"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-biii-?-iv-i-biii-?-iv-i-biii-?-iv-i-biii-?-iv-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Stag",
+  "release_date": "2001-01-01",
+  "duration_ms": 131133
+}

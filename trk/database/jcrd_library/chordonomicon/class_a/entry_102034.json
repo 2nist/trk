@@ -1,0 +1,271 @@
+{
+  "songID": "entry_102034",
+  "title": "Not All Men",
+  "artist": "Morgan St. Jean",
+  "spotifyID": "16HzLmAArSTpIUkgkizfOM",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bbmin",
+        "Ab",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ab",
+        "Ebmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-bbvi-?-?-?-bbvi-?-?-?-bbvi-?-?-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:bbv-?-bbvi-?-?-?-bbv-?-bbvi-?-?-bbv-?-bbvi-?-?-?-bbv-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin",
+        "Bbmin",
+        "Ab",
+        "Ebmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-bbvi-?-?-?-bbvi-?-?-?-bbvi-?-?-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin",
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:bbv-?-bbvi-?-?-?-bbv-?-bbvi-?-?-bbv-?-bbvi-?-?-?-bbv-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Gb",
+        "Ab",
+        "Bbmin",
+        "Fmin",
+        "Gb",
+        "Ab",
+        "Ebmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:bbv-?-bbvi-?-?-?-bbv-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bbmin",
+        "Ab",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ab",
+        "Ebmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Not All Men",
+  "release_date": "2021-04-02",
+  "duration_ms": 177435
+}

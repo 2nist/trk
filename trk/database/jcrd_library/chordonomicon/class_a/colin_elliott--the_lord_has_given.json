@@ -1,0 +1,317 @@
+{
+  "songID": "entry_0650",
+  "title": "The Lord Has Given",
+  "artist": "Colin Elliott",
+  "spotifyID": "40fvcDX5oxbLZXOoIBJ8II",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F"
+      ],
+      "rawChords": [
+        "F"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:iv-?-i-?-v-?-i-?-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:iv-?-i-?-v-?-i-?-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Cs"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F",
+        "Cs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:?-?-?-?-ii-?-v-?-#ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "Gsmin",
+        "Cs",
+        "Fs",
+        "Cs",
+        "Fs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Gsmin",
+        "Cs",
+        "Fs",
+        "Cs",
+        "Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:i-?-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Fs",
+        "Gsmin",
+        "Asmin",
+        "Dsmin",
+        "Gsmin",
+        "Cs",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Fs",
+        "Gsmin",
+        "Asmin",
+        "Dsmin",
+        "Gsmin",
+        "Cs",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:iv-?-i-?-v-?-i-?-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Fs",
+        "Gsmin",
+        "Asmin",
+        "Dsmin",
+        "Gsmin",
+        "Cs",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Cs",
+        "Fs",
+        "Gsmin",
+        "Asmin",
+        "Dsmin",
+        "Gsmin",
+        "Cs",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:iv-?-i-?-v-?-i-?-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "More Than a Song",
+  "release_date": "2017-12-02",
+  "duration_ms": 170221
+}

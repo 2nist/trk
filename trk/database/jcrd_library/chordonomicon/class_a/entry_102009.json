@@ -1,0 +1,197 @@
+{
+  "songID": "entry_102009",
+  "title": "Take Me Away",
+  "artist": "William Clark Green",
+  "spotifyID": "5sOCgv2ycT7F2H3bmUk10I",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "Fsmin",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:?-i-?-ii-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "Fsmin",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:?-i-?-ii-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Rose Queen",
+  "release_date": "2013-04-30",
+  "duration_ms": 248280
+}

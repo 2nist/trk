@@ -1,0 +1,261 @@
+{
+  "songID": "entry_101116",
+  "title": "Like Before",
+  "artist": "Couch",
+  "spotifyID": "7u7ggTAi1etzizzVuf2a71",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmaj7",
+        "Fmin7",
+        "Ebmaj7",
+        "Bbmaj7",
+        "Fmin7",
+        "Ebmaj7",
+        "Gbmaj7",
+        "Bbmaj7",
+        "Gbmaj7",
+        "Cmin7",
+        "Eb/F"
+      ],
+      "rawChords": [
+        "Bbmaj7",
+        "Fmin7",
+        "Ebmaj7",
+        "Bbmaj7",
+        "Fmin7",
+        "Ebmaj7",
+        "Gbmaj7",
+        "Bbmaj7",
+        "Gbmaj7",
+        "Cmin7",
+        "Eb/F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:v-?-v-?-v-?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmaj7",
+        "F/A",
+        "Gmin7",
+        "F",
+        "Ebmaj7",
+        "Bbmaj7",
+        "F/A",
+        "Gmin7",
+        "Fmin7",
+        "Ebmaj7",
+        "Gbmaj7",
+        "Ebmaj7",
+        "Gbmaj7",
+        "Cmin7",
+        "Eb/F"
+      ],
+      "rawChords": [
+        "Bbmaj7",
+        "F/A",
+        "Gmin7",
+        "F",
+        "Ebmaj7",
+        "Bbmaj7",
+        "F/A",
+        "Gmin7",
+        "Fmin7",
+        "Ebmaj7",
+        "Gbmaj7",
+        "Ebmaj7",
+        "Gbmaj7",
+        "Cmin7",
+        "Eb/F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-?-?-?-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:v-?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gmin7",
+        "C7",
+        "Cmin9",
+        "Ab",
+        "Gmin7",
+        "Edim7",
+        "Ebmaj7",
+        "Eb/F"
+      ],
+      "rawChords": [
+        "Gmin7",
+        "C7",
+        "Cmin9",
+        "Ab",
+        "Gmin7",
+        "Edim7",
+        "Ebmaj7",
+        "Eb/F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-v-?-biii-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "Dmin7",
+        "Eb",
+        "Ebminadd13",
+        "Abmin9",
+        "Bb",
+        "Dmin7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "D7",
+        "Ebmaj7",
+        "Eb/F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbmaj7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "Dmin7",
+        "Eb",
+        "Ebminadd13",
+        "Abmin9",
+        "Bb",
+        "Dmin7",
+        "Bb7",
+        "Ebmaj7",
+        "Bb",
+        "D7",
+        "Ebmaj7",
+        "Eb/F"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:v-?-v-?-v-?-i-?-?-v-?-v-?-v-vii-?-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "COUCH",
+  "release_date": "2021-02-26",
+  "duration_ms": 206971
+}

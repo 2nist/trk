@@ -1,0 +1,70 @@
+{
+  "tools": {
+    "router": {
+      "script": "router.py",
+      "description": "Main router for JCRD operations",
+      "cli_args": ["operation", "directory", "input", "output"],
+      "trigger": "button"
+    },
+    "add_key_estimation": {
+      "script": "add_key_estimation.py", 
+      "description": "Add key estimation to JCRD files",
+      "cli_args": ["directory"],
+      "trigger": "button"
+    },
+    "add_roman_numerals": {
+      "script": "add_roman_numerals.py",
+      "description": "Add Roman numeral analysis to JCRD files", 
+      "cli_args": ["directory"],
+      "trigger": "button"
+    },
+    "export_jcrd_to_midi": {
+      "script": "export_jcrd_to_midi.py",
+      "description": "Export JCRD files to MIDI format",
+      "cli_args": ["directory", "output"],
+      "trigger": "button"
+    },
+    "export_jcrd_to_reaper_regions": {
+      "script": "export_jcrd_to_reaper_regions.py", 
+      "description": "Export JCRD sections as REAPER regions",
+      "cli_args": ["file"],
+      "trigger": "button"
+    },
+    "preview_jcrd": {
+      "script": "preview_jcrd.py",
+      "description": "Preview JCRD file contents",
+      "cli_args": ["file"],
+      "trigger": "button"
+    },
+    "batch_convert": {
+      "script": "batch_convert.py",
+      "description": "Batch convert files to JCRD format",
+      "cli_args": ["input_dir", "output_dir", "format"],
+      "trigger": "button"
+    },
+    "salami_billboard_to_jcrd": {
+      "script": "salami_billboard_to_jcrd.py",
+      "description": "Convert SALAMI Billboard dataset to JCRD",
+      "cli_args": ["input", "output"],
+      "trigger": "button"
+    },
+    "rwc_beat_to_jcrd": {
+      "script": "rwc_beat_to_jcrd.py", 
+      "description": "Convert RWC beat data to JCRD",
+      "cli_args": ["input", "output"],
+      "trigger": "button"
+    },
+    "jams_to_jcrd": {
+      "script": "jams_to_jcrd.py",
+      "description": "Convert JAMS format to JCRD",
+      "cli_args": ["input", "output"],
+      "trigger": "button"
+    },
+    "chordify_midi_to_jcrd": {
+      "script": "chordify_midi_to_jcrd.py",
+      "description": "Convert Chordify MIDI to JCRD",
+      "cli_args": ["input", "output"],
+      "trigger": "button"
+    }
+  }
+}

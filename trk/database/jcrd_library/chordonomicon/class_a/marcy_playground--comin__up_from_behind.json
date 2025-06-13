@@ -1,0 +1,359 @@
+{
+  "songID": "entry_100160",
+  "title": "Comin' Up From Behind",
+  "artist": "Marcy Playground",
+  "spotifyID": "6Ll9vQBrTbt1OXZutNNeQv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Asus4"
+      ],
+      "rawChords": [
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Asus4"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "As",
+        "A",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13"
+      ],
+      "rawChords": [
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "As",
+        "A",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:v-?-?-v-?-?-v-?-?-#iv-?-iv-?-i-?-?-i-?-?-i-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "As",
+        "A"
+      ],
+      "rawChords": [
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "As",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:v-?-?-v-?-?-v-?-?-#iv-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E",
+        "Gadd13",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "As",
+        "A",
+        "E",
+        "Gadd13",
+        "E",
+        "F"
+      ],
+      "rawChords": [
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "B",
+        "Emin",
+        "As",
+        "A",
+        "E",
+        "Gadd13",
+        "E",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-v-?-?-v-?-?-#iv-?-iv-?-i-?-?-i-?-bii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Cruel Intentions",
+  "release_date": "1999-01-01",
+  "duration_ms": 221840
+}

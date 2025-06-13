@@ -1,0 +1,259 @@
+{
+  "songID": "entry_102908",
+  "title": "Virtue",
+  "artist": "Yates",
+  "spotifyID": "4iWAN8qgifsspDUt381iRy",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "G",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:?-v-?-?-v-?-?-i-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Mercury - EP",
+  "release_date": "2016-03-04",
+  "duration_ms": 195130
+}

@@ -1,0 +1,335 @@
+{
+  "songID": "entry_100594",
+  "title": "Source of Life",
+  "artist": "Cade Thompson",
+  "spotifyID": "2S4eyQBE9TSWFZy2Jl4FrA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-ii-?-?-i-?-v-?-i-?-ii-?-?-i-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:v-?-i-?-ii-?-?-i-?-v-?-i-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:v-?-i-?-ii-?-?-i-?-v-?-i-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-ii-?-?-i-?-v-?-i-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:i-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Bigger Story",
+  "release_date": "2021-09-10",
+  "duration_ms": 211133
+}

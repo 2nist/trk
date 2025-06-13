@@ -1,0 +1,335 @@
+{
+  "songID": "entry_103015",
+  "title": "Vijf Miljoen",
+  "artist": "De Geest",
+  "spotifyID": "0BTwlrQzf8wzz530SQKHiu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.18",
+        "progression:?-iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Cmaj7",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Hits Van Hier - Het Beste Van 2020",
+  "release_date": "2020-11-07",
+  "duration_ms": 193363
+}

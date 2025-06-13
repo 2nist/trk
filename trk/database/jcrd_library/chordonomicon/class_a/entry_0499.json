@@ -1,0 +1,239 @@
+{
+  "songID": "entry_0499",
+  "title": "Get a Little Rowdy",
+  "artist": "Travis Tritt",
+  "spotifyID": "2Sda1KzCD3MnlfP0Oq2Ysj",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-v-iv-v-iv-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-i-ii-v-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:i-v-ii-i-v-i-v-ii-v-i-v-i-ii-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "B7",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-i-ii-v-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:i-v-ii-i-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:i-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Get a Little Rowdy",
+  "release_date": "1987-01-01",
+  "duration_ms": 127609
+}

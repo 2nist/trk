@@ -1,0 +1,346 @@
+{
+  "title": "Let The Music Play",
+  "artist": "Shannon",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 18808,
+      "duration_ms": 20674,
+      "chords": [
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 39482,
+      "duration_ms": 24807,
+      "chords": [
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 64289,
+      "duration_ms": 16484,
+      "chords": [
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 80773,
+      "duration_ms": 20592,
+      "chords": [
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 101365,
+      "duration_ms": 16528,
+      "chords": [
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_6",
+      "start_ms": 117893,
+      "duration_ms": 4055,
+      "chords": [
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_7",
+      "start_ms": 121949,
+      "duration_ms": 12296,
+      "chords": [
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_8",
+      "start_ms": 134245,
+      "duration_ms": 16478,
+      "chords": [
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_9",
+      "start_ms": 150724,
+      "duration_ms": 16376,
+      "chords": [
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_10",
+      "start_ms": 167101,
+      "duration_ms": 16484,
+      "chords": [
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_11",
+      "start_ms": 183586,
+      "duration_ms": 4101,
+      "chords": [
+        "C:min",
+        "Ab:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_12",
+      "start_ms": 187688,
+      "duration_ms": 34805,
+      "chords": [
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

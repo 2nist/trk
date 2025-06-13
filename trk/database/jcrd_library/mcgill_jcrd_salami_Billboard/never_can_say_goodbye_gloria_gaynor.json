@@ -1,0 +1,227 @@
+{
+  "title": "Never Can Say Goodbye",
+  "artist": "Gloria Gaynor",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 394,
+      "duration_ms": 11364,
+      "chords": [
+        "F:maj7",
+        "F:maj7",
+        "D:min7",
+        "G:sus4(b7)",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 11759,
+      "duration_ms": 45160,
+      "chords": [
+        "C:maj",
+        "F:maj7",
+        "F:maj7",
+        "G:sus4(b7)",
+        "G:sus4(b7)",
+        "F:maj7",
+        "F:maj7",
+        "G:sus4(b7)",
+        "G:7",
+        "C:maj7",
+        "C:maj7",
+        "C:min7",
+        "C:min7",
+        "C:maj7",
+        "C:maj7",
+        "C:min7",
+        "C:min7",
+        "C:maj7",
+        "C:maj7",
+        "C:min7",
+        "C:7",
+        "F:maj7",
+        "F:maj7",
+        "D:min7",
+        "G:sus4(b7)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 56920,
+      "duration_ms": 15097,
+      "chords": [
+        "C:maj",
+        "C:maj",
+        "C:min7",
+        "C:min7",
+        "D:maj/b7",
+        "Db:maj7/7",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 72017,
+      "duration_ms": 45432,
+      "chords": [
+        "F:maj7",
+        "F:maj7",
+        "G:sus4(b7)",
+        "G:sus4(b7)",
+        "F:maj7",
+        "F:maj7",
+        "G:sus4(b7)",
+        "G:7",
+        "C:maj7",
+        "C:maj7",
+        "C:min7",
+        "C:min7",
+        "C:maj7",
+        "C:maj7",
+        "C:min7",
+        "C:min7",
+        "C:maj7",
+        "C:maj7",
+        "C:min7",
+        "C:7",
+        "F:maj7",
+        "F:maj7",
+        "D:min7",
+        "G:sus4(b7)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 117450,
+      "duration_ms": 15117,
+      "chords": [
+        "C:maj",
+        "C:maj",
+        "C:min7",
+        "C:min7",
+        "D:maj/b7",
+        "Db:maj7/7",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 132567,
+      "duration_ms": 15159,
+      "chords": [
+        "C:maj",
+        "C:maj",
+        "C:min7",
+        "C:min7",
+        "D:maj/b7",
+        "Db:maj7/7",
+        "C:maj",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 147726,
+      "duration_ms": 7588,
+      "chords": [
+        "C:maj",
+        "F:maj7",
+        "F:maj7",
+        "D:min7",
+        "G:sus4(b7)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 155315,
+      "duration_ms": 22735,
+      "chords": [
+        "C:maj",
+        "C:maj",
+        "C:min7",
+        "C:min7",
+        "D:maj/b7",
+        "Db:maj7/7",
+        "C:maj",
+        "C:maj",
+        "C:maj",
+        "C:maj",
+        "C:min7",
+        "C:min7",
+        "C:min7",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

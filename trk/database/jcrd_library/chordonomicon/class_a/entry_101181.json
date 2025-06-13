@@ -1,0 +1,257 @@
+{
+  "songID": "entry_101181",
+  "title": "Marijuana",
+  "artist": "Together Pangea",
+  "spotifyID": "2jo6sOm7xoSkEkOj6c361T",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E7"
+      ],
+      "rawChords": [
+        "E7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "E"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iv-i-iii-v-iv-i-iii-v-iv-i-iii-v-iv-i-vi"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7"
+      ],
+      "rawChords": [
+        "E7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iv-i-iii-v-iv-i-iii-v-iv-i-iii-v-iv-i-iii-v-iv-i-iii-v-iv-i-iii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "E7"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "E7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iv-i-iii-v-iv-i-iii-v-iv-i-iii-v-iv-i-iii-v-vi"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G",
+        "B",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iv-i-iii-v-iv-i-iii-v-iv-i-iii-v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Little Demon",
+  "release_date": "2025-04-18",
+  "duration_ms": 170266
+}

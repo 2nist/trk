@@ -1,0 +1,229 @@
+{
+  "songID": "entry_101291",
+  "title": "La Camarera",
+  "artist": "Paul Thin",
+  "spotifyID": "6EIiTUCcL8rFvW97A6v7Y5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bbmin",
+        "Abmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Abmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-?-bbvi-bbv-biv"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-bbvi-bbv-biv-?-bbvi-bbv-biv"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-bbvi-bbv-biv-?-bbvi-bbv-biv"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-bbvi-bbv-biv-?-bbvi-bbv-biv"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:?-bbvi-bbv-biv-?-bbvi-bbv-biv"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "F"
+      ],
+      "rawChords": [
+        "Gb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Gb",
+        "Ab",
+        "F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "progression:bbv-bbvi-biv-?-bbv-bbvi-biv-?-bbv-bbvi-biv-?-bbv-bbvi-biv"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "La Camarera",
+  "release_date": "2022-02-17",
+  "duration_ms": 166615
+}

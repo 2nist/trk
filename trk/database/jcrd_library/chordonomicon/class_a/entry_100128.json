@@ -1,0 +1,239 @@
+{
+  "songID": "entry_100128",
+  "title": "Aloysius, Bluegrass Drummer",
+  "artist": "Silver Jews",
+  "spotifyID": "3eFmdipk73HxqRZYgCyDD3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-iii-?-iii-?-v-ii-?-iii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iii-?-iii-?-v-ii-?-iii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iii-?-iii-?-v-ii-?-iii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iii-?-iii-?-v-ii-?-iii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iii-?-iii-?-v-ii-?-iii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "A7",
+        "Dmin",
+        "A7",
+        "Dmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iii-?-iii-?-v-ii-?-iii-?-iii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Lookout Mountain, Lookout Sea",
+  "release_date": "2008-06-17",
+  "duration_ms": 114066
+}

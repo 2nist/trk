@@ -1,0 +1,337 @@
+{
+  "songID": "entry_100426",
+  "title": "Let it Be Me",
+  "artist": "Justin Jesso",
+  "spotifyID": "12PJCkZit47Sr3K705SZIm",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Let it Be Me",
+  "release_date": "2019-06-07",
+  "duration_ms": 219440
+}

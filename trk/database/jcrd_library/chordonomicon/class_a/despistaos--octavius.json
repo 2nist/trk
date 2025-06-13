@@ -1,0 +1,319 @@
+{
+  "songID": "entry_10221",
+  "title": "Octavius",
+  "artist": "Despistaos",
+  "spotifyID": "793EnMeZt2L9HjRdmA4LDN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "G",
+        "F",
+        "Emin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "G",
+        "F",
+        "Emin",
+        "Dmin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-i-?-?-i-?-ii-?-i-?-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-v-?-i-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Estamos enteros (Deluxe Edition)",
+  "release_date": "2020-01-24",
+  "duration_ms": 249111
+}

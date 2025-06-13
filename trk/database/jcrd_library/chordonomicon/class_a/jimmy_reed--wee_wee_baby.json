@@ -1,0 +1,171 @@
+{
+  "songID": "entry_0231",
+  "title": "Wee Wee Baby",
+  "artist": "Jimmy Reed",
+  "spotifyID": "6ykzyzN5pRgygZsUell9yT",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E7"
+      ],
+      "rawChords": [
+        "E7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E7",
+        "A7",
+        "E7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Mr. Luck: The Complete Vee-Jay Singles",
+  "release_date": "2017-08-04",
+  "duration_ms": 141840
+}

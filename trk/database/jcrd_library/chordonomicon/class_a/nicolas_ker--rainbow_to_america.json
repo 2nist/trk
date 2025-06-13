@@ -1,0 +1,289 @@
+{
+  "songID": "entry_101867",
+  "title": "Rainbow to America",
+  "artist": "Nicolas Ker",
+  "spotifyID": "74wuZRlCUxHY5AwQ8fCamF",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fs",
+        "Bmin",
+        "E",
+        "A",
+        "G",
+        "D",
+        "Fs",
+        "Bmin",
+        "E",
+        "A",
+        "G",
+        "Fs",
+        "E",
+        "D",
+        "A",
+        "Fs",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Fs",
+        "Bmin",
+        "E",
+        "A",
+        "G",
+        "D",
+        "Fs",
+        "Bmin",
+        "E",
+        "A",
+        "G",
+        "Fs",
+        "E",
+        "D",
+        "A",
+        "Fs",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.88",
+        "progression:i-?-iii-?-?-ii-?-v-?-iv-?-i-?-iii-?-?-ii-?-v-?-iv-?-iii-?-ii-?-i-?-v-?-iii-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "Fs",
+        "Bmin",
+        "G",
+        "E",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Fs",
+        "Bmin",
+        "G",
+        "E",
+        "A",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-ii-?-?-biii-?-i-?-iv-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fs",
+        "Bmin",
+        "E",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fs",
+        "Bmin",
+        "E",
+        "A",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.83",
+        "progression:i-?-iii-?-?-ii-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Emin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Les faubourgs de l'exil",
+  "release_date": "2016-02-12",
+  "duration_ms": 205790
+}

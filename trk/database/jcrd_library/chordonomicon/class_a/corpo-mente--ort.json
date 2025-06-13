@@ -1,0 +1,107 @@
+{
+  "songID": "entry_101815",
+  "title": "Ort",
+  "artist": "Corpo-Mente",
+  "spotifyID": "1xvf1mRhxkNbCEdvuXQo3a",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dbmin",
+        "D",
+        "Gmin",
+        "Ab",
+        "Dbmin"
+      ],
+      "rawChords": [
+        "Dbmin",
+        "D",
+        "Gmin",
+        "Ab",
+        "Dbmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-bii-?-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "Bbmin",
+        "Gbmin",
+        "Bmin",
+        "Emin",
+        "Dbmin",
+        "C",
+        "Emin",
+        "Dbmin",
+        "C",
+        "Emin",
+        "Dbmin",
+        "C",
+        "Emin",
+        "Gb",
+        "C",
+        "F",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Bbmin",
+        "Gbmin",
+        "Bmin",
+        "Emin",
+        "Dbmin",
+        "C",
+        "Emin",
+        "Dbmin",
+        "C",
+        "Emin",
+        "Dbmin",
+        "C",
+        "Emin",
+        "Gb",
+        "C",
+        "F",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-v-?-?-?-?-?-?-v-?-?-?-v-?-?-?-v-?-?-bii-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Corpo-Mente",
+  "release_date": "2015-03-24",
+  "duration_ms": 237166
+}

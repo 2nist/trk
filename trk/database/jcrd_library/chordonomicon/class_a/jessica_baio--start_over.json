@@ -1,0 +1,281 @@
+{
+  "songID": "entry_0777",
+  "title": "start over",
+  "artist": "Jessica Baio",
+  "spotifyID": "1aNcRXb2dHyCqcd5PBAE8m",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "Dmin",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Dmin",
+        "F",
+        "Bb",
+        "Gmin",
+        "Dmin7",
+        "Gmin7",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "Dmin",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Dmin",
+        "F",
+        "Bb",
+        "Gmin",
+        "Dmin7",
+        "Gmin7",
+        "F",
+        "Bb"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-?-v-?-i-?-v-?-i-?-?-v-?-i-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin7",
+        "C",
+        "Bb",
+        "F",
+        "Dmin7",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin7",
+        "C",
+        "Bb",
+        "F",
+        "Dmin7",
+        "C",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "Dmin7",
+        "F",
+        "Bb",
+        "Dmin7",
+        "C",
+        "F",
+        "Bb",
+        "Dmin",
+        "C",
+        "Amin",
+        "Bb",
+        "Gmin",
+        "Dmin7",
+        "Gmin",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "Dmin7",
+        "F",
+        "Bb",
+        "Dmin7",
+        "C",
+        "F",
+        "Bb",
+        "Dmin",
+        "C",
+        "Amin",
+        "Bb",
+        "Gmin",
+        "Dmin7",
+        "Gmin",
+        "F",
+        "Bb"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-?-v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-?-i-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin7",
+        "C",
+        "Bb",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin7"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin7",
+        "C",
+        "Bb",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "Dmin7",
+        "C",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Dmin7",
+        "C",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:iv-?-?-v-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin7",
+        "Bb",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin7",
+        "F",
+        "Bb",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin7",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin7",
+        "Bb",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin7",
+        "F",
+        "Bb",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin7",
+        "F",
+        "Bb"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-?-ii-?-?-i-?-v-?-?-ii-?-?-v-?-i-?-v-?-?-ii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "catalyst",
+  "release_date": "2023-03-10",
+  "duration_ms": 204908
+}

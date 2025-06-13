@@ -1,0 +1,77 @@
+{
+  "songID": "entry_0608",
+  "title": "HASTA LA MUERTE",
+  "artist": "Eslabon Armado",
+  "spotifyID": "3qAJAUr7yc9bPDx4ESt6ND",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Bmaj7",
+        "E",
+        "Bmaj7"
+      ],
+      "rawChords": [
+        "E",
+        "Bmaj7",
+        "E",
+        "Bmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Bmaj7",
+        "E",
+        "Bmaj7",
+        "E",
+        "Bmaj7"
+      ],
+      "rawChords": [
+        "E",
+        "Bmaj7",
+        "E",
+        "Bmaj7",
+        "E",
+        "Bmaj7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "NOSTALGIA",
+  "release_date": "2022-05-06",
+  "duration_ms": 209902
+}

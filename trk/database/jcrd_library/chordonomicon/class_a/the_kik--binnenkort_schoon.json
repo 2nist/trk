@@ -1,0 +1,319 @@
+{
+  "songID": "entry_101597",
+  "title": "Binnenkort (schoon)",
+  "artist": "The Kik",
+  "spotifyID": "4DXjF0eSZ7aPUUTJS9L8Cw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "D7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "D7",
+        "G",
+        "C",
+        "G",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "D7",
+        "G",
+        "C",
+        "D7",
+        "G",
+        "C",
+        "D7",
+        "G",
+        "A7",
+        "Ds"
+      ],
+      "rawChords": [
+        "C",
+        "D7",
+        "G",
+        "C",
+        "D7",
+        "G",
+        "C",
+        "D7",
+        "G",
+        "A7",
+        "Ds"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.49",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-i-?-ii-?-#v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds7",
+        "Gs",
+        "Cs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds7",
+        "Gs",
+        "Cs",
+        "Gs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-i-?-v-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Cs7",
+        "Ds",
+        "Gs",
+        "Fmin",
+        "Cs7",
+        "Ds",
+        "E"
+      ],
+      "rawChords": [
+        "Cs7",
+        "Ds",
+        "Gs",
+        "Fmin",
+        "Cs7",
+        "Ds",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.12",
+        "progression:?-ii-?-v-?-?-?-ii-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-i-?-v-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "B7",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "B7",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-vi-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Eurovisie",
+  "release_date": "2021-05-22",
+  "duration_ms": 142612
+}

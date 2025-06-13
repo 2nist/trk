@@ -1,0 +1,229 @@
+{
+  "songID": "entry_101995",
+  "title": "Reformed Baptist Blues",
+  "artist": "The Tragically Hip",
+  "spotifyID": "7EIjI9VFuJzUccgq8AjiUg",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:iv-?-i-?-biii-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:iv-?-i-?-biii-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.15",
+        "progression:i-?-ii-?-i-?-ii-?-i-?-ii-?-i-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.24",
+        "progression:iv-?-i-?-biii-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:iv-?-i-?-biii-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "A",
+        "E",
+        "G",
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "E",
+        "G",
+        "A",
+        "E",
+        "G",
+        "A",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:biii-?-iv-?-i-?-biii-?-iv-?-i-?-biii-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Saskadelphia",
+  "release_date": "2021-05-21",
+  "duration_ms": 210706
+}

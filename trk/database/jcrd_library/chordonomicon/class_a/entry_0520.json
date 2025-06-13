@@ -1,0 +1,273 @@
+{
+  "songID": "entry_0520",
+  "title": "Light of the World",
+  "artist": "Watermark",
+  "spotifyID": "1ew9nlf8XQ9uDeNZFrWGCH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Fsus2",
+        "Fno3d",
+        "F",
+        "Fsus2",
+        "Bbadd9/D"
+      ],
+      "rawChords": [
+        "F",
+        "Fsus2",
+        "Fno3d",
+        "F",
+        "Fsus2",
+        "Bbadd9/D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "C/E",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "C/E",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "C/E",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "C/E",
+        "F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-?-v-?-v-?-?-v-?-v-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C/E",
+        "Bb",
+        "C",
+        "C/E",
+        "Bb",
+        "C",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C/E",
+        "Bb",
+        "C",
+        "C/E",
+        "Bb",
+        "C",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-iv-v-?-iv-v-?-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "C/E",
+        "F"
+      ],
+      "rawChords": [
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "C/E",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-v-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "C/E",
+        "F"
+      ],
+      "rawChords": [
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "F",
+        "Fsus2",
+        "C/E",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-v-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C/E",
+        "Bb",
+        "C",
+        "C/E",
+        "Bb",
+        "C",
+        "C/E",
+        "Bb",
+        "C",
+        "C/E",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "C/E",
+        "Bb",
+        "C",
+        "C/E",
+        "Bb",
+        "C",
+        "C/E",
+        "Bb",
+        "C",
+        "C/E",
+        "Bb",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-iv-v-?-iv-v-?-iv-v-?-iv-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F/A",
+        "Bb",
+        "F/A",
+        "Bb",
+        "F/A",
+        "Bb",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F/A",
+        "Bb",
+        "F/A",
+        "Bb",
+        "F/A",
+        "Bb",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-i-?-i-?-i-?-ii-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "A Grateful People",
+  "release_date": "2006-03-14",
+  "duration_ms": 238706
+}

@@ -1,0 +1,215 @@
+{
+  "songID": "entry_0558",
+  "title": "Smokey the Bear",
+  "artist": "Thriftworks",
+  "spotifyID": "4CWMB9QpCdZpHft8btcfM1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "B7",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B7",
+        "E",
+        "A",
+        "A7",
+        "D",
+        "F",
+        "A",
+        "Fsmin",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "B7",
+        "E",
+        "A",
+        "A7",
+        "D",
+        "F",
+        "A",
+        "Fsmin",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:i-?-ii-?-v-?-i-?-i-?-iv-?-bvi-?-i-?-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "B7",
+        "E",
+        "A",
+        "A7",
+        "D",
+        "F",
+        "A",
+        "Fsmin",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "B7",
+        "E",
+        "A",
+        "A7",
+        "D",
+        "F",
+        "A",
+        "Fsmin",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-v-?-i-?-v-?-vi-?-ii-?-v-?-v-?-i-?-biii-?-v-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "B7",
+        "E",
+        "A",
+        "A7",
+        "D",
+        "F",
+        "A",
+        "Fsmin",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "B7",
+        "E",
+        "A",
+        "A7",
+        "D",
+        "F",
+        "A",
+        "Fsmin",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-v-?-i-?-v-?-vi-?-ii-?-v-?-v-?-i-?-biii-?-v-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fsmin",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Terry - D",
+  "release_date": "2013-02-15",
+  "duration_ms": 199102
+}

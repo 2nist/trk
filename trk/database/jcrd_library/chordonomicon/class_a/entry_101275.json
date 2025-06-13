@@ -1,0 +1,323 @@
+{
+  "songID": "entry_101275",
+  "title": "Valerie",
+  "artist": "The Greg Kihn Band",
+  "spotifyID": "1jXmIeMMzWAm4p7DTArwGc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A"
+      ],
+      "rawChords": [
+        "A"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-v-i-iv-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-i-ii-?-?-i-ii-?-?-i-ii-?-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-ii-v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-i-ii-?-?-i-ii-?-?-i-ii-?-i-?-i-ii-?-i-ii-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-ii-v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "Gsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "length": 26,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-iv-v-?-?-iv-v-?-?-iv-v-?-iv-?-iv-v-?-iv-v-?-iv-v-?-iv-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Rockihnroll",
+  "release_date": "1981-01-01",
+  "duration_ms": 139640
+}

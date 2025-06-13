@@ -1,0 +1,325 @@
+{
+  "songID": "entry_0598",
+  "title": "Fix'n To Break",
+  "artist": "Bailey Zimmerman",
+  "spotifyID": "26YvZWW29FXHaSRQzajRYv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "G",
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "G",
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-v-?-?-v-?-?-vi-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Gmin7",
+        "Bb",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Gmin7",
+        "Bb",
+        "Dmin7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:i-?-v-?-i-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Gmin7",
+        "Bb",
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Gmin7",
+        "Bb",
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-i-?-v-?-?-i-?-?-v-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin7",
+        "C",
+        "Gmin7",
+        "Bb",
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "C",
+        "Gmin7",
+        "Bb",
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "C",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:?-v-?-?-iv-?-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Gmin7",
+        "Bb",
+        "Gmin7",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Gmin7",
+        "Bb",
+        "Gmin7",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-v-?-i-?-v-?-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Religiously. The Album.",
+  "release_date": "2023-01-11",
+  "duration_ms": 232894
+}

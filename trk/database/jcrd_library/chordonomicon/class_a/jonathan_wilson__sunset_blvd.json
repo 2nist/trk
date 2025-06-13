@@ -1,0 +1,411 @@
+{
+  "songID": "entry_102776",
+  "title": "Sunset Blvd",
+  "artist": "Jonathan Wilson",
+  "spotifyID": "2j2AXmeYHwZ8pYA1tJM9Gp",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:v-?-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:v-?-?-?-v-?-iv-?-v-?-?-?-v-?-iv-?-v-?-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.06",
+        "progression:v-?-?-?-v-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Amin",
+        "Bb",
+        "Amin",
+        "Fsmin",
+        "F",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Bb",
+        "Amin",
+        "Bb",
+        "Amin",
+        "Fsmin",
+        "F",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.67",
+        "progression:i-?-?-i-?-?-?-v-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:?-?-v-?-iv-?-v-?-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:v-?-?-?-v-?-iv-?-v-?-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Amin",
+        "Bb",
+        "Amin",
+        "Fsmin",
+        "F",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Bb",
+        "Amin",
+        "Bb",
+        "Amin",
+        "Fsmin",
+        "F",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.67",
+        "progression:i-?-?-i-?-?-?-v-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "Bb",
+        "Amin",
+        "Bb",
+        "Amin",
+        "Fsmin",
+        "F",
+        "Fsmin",
+        "F",
+        "Fsmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "Bb",
+        "Amin",
+        "Bb",
+        "Amin",
+        "Fsmin",
+        "F",
+        "Fsmin",
+        "F",
+        "Fsmin",
+        "F",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.68",
+        "progression:?-?-iii-?-ii-?-i-?-?-i-?-?-?-v-?-?-v-?-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Interlude",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Rare Birds",
+  "release_date": "2018-03-02",
+  "duration_ms": 344104
+}

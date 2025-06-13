@@ -1,0 +1,327 @@
+{
+  "songID": "entry_102769",
+  "title": "Punk prima di te",
+  "artist": "Enrico Ruggeri",
+  "spotifyID": "5Km6oflnFAhqvQZBk7TxL2",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "A",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "A",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "A",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "A",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "C",
+        "Bb",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "C",
+        "Bb",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "Eb",
+        "Db",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:vi-?-iii-?-ii-?-i-?-iv-?-biii-?-iv-?-biii-?-iv-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "A",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "A",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "A",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "A",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Un viaggio incredibile",
+  "release_date": "2016-02-12",
+  "duration_ms": 161720
+}

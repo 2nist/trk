@@ -1,0 +1,247 @@
+{
+  "title": "Tell Me What You Want Me To Do",
+  "artist": "Tevin Campbell",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 417,
+      "duration_ms": 23701,
+      "chords": [
+        "Db:maj(9)",
+        "Ab:maj/3",
+        "Bb:min11",
+        "Gb:maj6(9)",
+        "Ab:sus4(b7)",
+        "Db:maj(9)",
+        "Db:maj(9)",
+        "Db:maj(9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 24119,
+      "duration_ms": 29981,
+      "chords": [
+        "Db:maj(9)",
+        "Db:maj(9)",
+        "Ab:maj/3",
+        "Bb:min11",
+        "Gb:maj13",
+        "F:min7",
+        "Eb:sus4(b7)",
+        "Ab:sus4(b7)",
+        "Db:maj(9)",
+        "Ab:maj/3",
+        "Bb:min11",
+        "Gb:maj13",
+        "F:min7",
+        "Eb:min7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 54101,
+      "duration_ms": 15026,
+      "chords": [
+        "F:min11",
+        "Bb:min9",
+        "Eb:min9",
+        "Ab:sus4(b7,9)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 69127,
+      "duration_ms": 22490,
+      "chords": [
+        "Db:maj(9)",
+        "Ab:maj/3",
+        "Bb:min11",
+        "Bb:min11/b7",
+        "Gb:maj6(9)",
+        "Ab:sus4(b7)",
+        "Db:maj(9)",
+        "Db:maj(9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 91618,
+      "duration_ms": 29956,
+      "chords": [
+        "Db:maj(9)",
+        "Db:maj(9)",
+        "Ab:maj/3",
+        "Bb:min11",
+        "Gb:maj13",
+        "F:min7",
+        "Eb:sus4(b7)",
+        "Ab:sus4(b7,9)",
+        "Db:maj(9)",
+        "Ab:maj/3",
+        "Bb:min11",
+        "Gb:maj13",
+        "F:min7",
+        "Eb:min7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 121575,
+      "duration_ms": 15060,
+      "chords": [
+        "Eb:min7",
+        "F:min11",
+        "Bb:min9",
+        "Eb:min9",
+        "Ab:sus4(b7,9)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 136635,
+      "duration_ms": 37510,
+      "chords": [
+        "Db:maj(9)",
+        "Ab:maj/3",
+        "Bb:min11",
+        "Bb:min11/b7",
+        "Gb:maj6(9)",
+        "Ab:sus4(b7)",
+        "Db:maj(9)",
+        "Ab:maj/3",
+        "Bb:min11",
+        "Bb:min11/b7",
+        "Gb:maj6(9)",
+        "Ab:sus4(b7)",
+        "Db:maj(9)",
+        "Db:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 174146,
+      "duration_ms": 37470,
+      "chords": [
+        "Gb:maj13",
+        "F:min7",
+        "Bb:min7",
+        "Ab:maj",
+        "Gb:maj13",
+        "F:min7",
+        "Bb:min7",
+        "Gb:maj13",
+        "F:min7",
+        "Bb:min7",
+        "Ab:sus4(b7,9)",
+        "Ab:maj",
+        "Ab:sus4(b7,9)",
+        "Ab:maj",
+        "A:sus4(b7)",
+        "A:maj",
+        "A:sus4(b7)"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 211617,
+      "duration_ms": 45975,
+      "chords": [
+        "A:sus4(b7)",
+        "D:maj(9)",
+        "A:maj/3",
+        "B:min11",
+        "B:min11/b7",
+        "G:maj6(9)",
+        "E:min7",
+        "A:sus4(b7)",
+        "D:maj(9)",
+        "A:maj/3",
+        "B:min11",
+        "B:min11/b7",
+        "G:maj6(9)",
+        "E:min7",
+        "A:sus4(b7,9)",
+        "D:maj(9)",
+        "D:maj(9)",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

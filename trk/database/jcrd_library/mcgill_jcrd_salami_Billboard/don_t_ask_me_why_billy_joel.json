@@ -1,0 +1,324 @@
+{
+  "title": "Don't Ask Me Why",
+  "artist": "Billy Joel",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 348,
+      "duration_ms": 7359,
+      "chords": [
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 7708,
+      "duration_ms": 19383,
+      "chords": [
+        "Eb:7/5",
+        "Bb:maj",
+        "C:7",
+        "F:7",
+        "Bb:maj",
+        "Eb:maj/5",
+        "Bb:maj",
+        "C:7",
+        "F:7",
+        "Bb:maj",
+        "D:7/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 27091,
+      "duration_ms": 9754,
+      "chords": [
+        "D:7/5",
+        "G:min",
+        "Bb:7/5",
+        "E:hdim7",
+        "F:sus4(b7)",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 36846,
+      "duration_ms": 19470,
+      "chords": [
+        "Bb:maj",
+        "C:7",
+        "F:7",
+        "Bb:maj",
+        "Eb:maj/5",
+        "Bb:maj",
+        "C:7",
+        "F:7",
+        "Bb:maj",
+        "D:7/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 56316,
+      "duration_ms": 9678,
+      "chords": [
+        "G:min",
+        "Bb:7/5",
+        "E:hdim7",
+        "F:sus4(b7)",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 65994,
+      "duration_ms": 19470,
+      "chords": [
+        "F:maj",
+        "Eb:maj",
+        "F:maj",
+        "Bb:maj",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "C:7",
+        "F:7"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 85464,
+      "duration_ms": 19545,
+      "chords": [
+        "Bb:maj",
+        "C:7",
+        "F:7",
+        "Bb:maj",
+        "Eb:maj/5",
+        "Bb:maj",
+        "C:7",
+        "F:7",
+        "Bb:maj",
+        "D:7/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 105010,
+      "duration_ms": 9798,
+      "chords": [
+        "D:7/5",
+        "G:min",
+        "Bb:7/5",
+        "E:hdim7",
+        "F:sus4(b7)",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Eb:7/5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_2",
+      "start_ms": 114808,
+      "duration_ms": 19605,
+      "chords": [
+        "F:maj",
+        "Eb:maj",
+        "F:maj",
+        "Bb:maj",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "C:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 134414,
+      "duration_ms": 19605,
+      "chords": [
+        "F:7",
+        "Bb:maj",
+        "C:7",
+        "F:7",
+        "Bb:maj",
+        "Eb:maj/5",
+        "Bb:maj",
+        "C:7",
+        "F:7",
+        "Bb:maj",
+        "D:7/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 154020,
+      "duration_ms": 9776,
+      "chords": [
+        "G:min",
+        "Bb:7/5",
+        "E:hdim7",
+        "F:sus4(b7)",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 163796,
+      "duration_ms": 15289,
+      "chords": [
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Eb:7/5",
+        "Bb:maj",
+        "Bb:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "A",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

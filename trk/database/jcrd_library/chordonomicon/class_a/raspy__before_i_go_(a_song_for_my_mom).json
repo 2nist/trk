@@ -1,0 +1,213 @@
+{
+  "songID": "entry_102656",
+  "title": "before i go (a song for my mom)",
+  "artist": "raspy",
+  "spotifyID": "6sHv7BDxkv8d8Ajs0CILH7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F",
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C/G",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "before i go (a song for my mom)",
+  "release_date": "2021-04-16",
+  "duration_ms": 174175
+}

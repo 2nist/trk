@@ -1,0 +1,285 @@
+{
+  "songID": "entry_101377",
+  "title": "Gimme Brains",
+  "artist": "Bratmobile",
+  "spotifyID": "7tqOiAIzo508J3tlWV7E1c",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "E",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:i-?-ii-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-ii-?-i-?-ii-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "B"
+      ],
+      "rawChords": [
+        "B"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "A",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "A",
+        "Gb",
+        "A",
+        "Gb",
+        "A",
+        "Gb"
+      ],
+      "rawChords": [
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "A",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "A",
+        "Gb",
+        "A",
+        "Gb",
+        "A",
+        "Gb"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:biii-?-biv-?-biii-?-biv-?-biii-?-biv-?-v-?-biv-?-biii-?-biv-?-biii-?-biv-?-biii-?-biv-?-v-?-biv-?-v-?-biv-?-v-?-biv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "B"
+      ],
+      "rawChords": [
+        "B"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "A",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "A",
+        "Gb",
+        "A",
+        "Gb",
+        "A",
+        "Gb"
+      ],
+      "rawChords": [
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "A",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "F",
+        "Gb",
+        "A",
+        "Gb",
+        "A",
+        "Gb",
+        "A",
+        "Gb"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:biii-?-biv-?-biii-?-biv-?-biii-?-biv-?-v-?-biv-?-biii-?-biv-?-biii-?-biv-?-biii-?-biv-?-v-?-biv-?-v-?-biv-?-v-?-biv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Ladies, Women and Girls",
+  "release_date": "2000-10-24",
+  "duration_ms": 136880
+}

@@ -1,0 +1,227 @@
+{
+  "title": "Sidewalk Surfin'",
+  "artist": "Jan & Dean",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 6455,
+      "duration_ms": 7405,
+      "chords": [
+        "N",
+        "N",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 13860,
+      "duration_ms": 28047,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "A:maj",
+        "F:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 41907,
+      "duration_ms": 28124,
+      "chords": [
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "A:maj",
+        "F:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "Eb:7",
+        "Eb:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 70032,
+      "duration_ms": 13986,
+      "chords": [
+        "Eb:7",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 84019,
+      "duration_ms": 14143,
+      "chords": [
+        "Ab:maj",
+        "Ab:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Bb:maj",
+        "Gb:maj",
+        "Ab:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B''",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 98162,
+      "duration_ms": 28099,
+      "chords": [
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "Eb:7",
+        "Ab:maj",
+        "Ab:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Bb:maj",
+        "Gb:maj",
+        "Ab:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'''",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 126262,
+      "duration_ms": 36116,
+      "chords": [
+        "Bb:maj",
+        "Gb:maj",
+        "Ab:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Bb:maj",
+        "Gb:maj",
+        "Ab:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Bb:maj",
+        "Gb:maj",
+        "Ab:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Bb:maj",
+        "Gb:maj",
+        "Ab:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Bb:maj",
+        "Gb:maj",
+        "Ab:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "N"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "songID": "entry_100362",
+  "title": "afterlife dating",
+  "artist": "Teen Suicide",
+  "spotifyID": "2FtUSYegHMLamTJwiv93eK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Db",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "Db",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:biii-?-i-iv-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Eb",
+        "Bb",
+        "Db",
+        "Cmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Eb",
+        "Bb",
+        "Db",
+        "Cmin",
+        "Bb"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-v-i-v-iv-i-bvii-?-v-i-v-i-v-i-v-iv-i-bvii-i-v-bvii-?-v"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "i will be my own hell because there is a devil inside my body",
+  "release_date": "2015-10-07",
+  "duration_ms": 109824
+}

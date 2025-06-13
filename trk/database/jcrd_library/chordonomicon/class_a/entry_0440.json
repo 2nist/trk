@@ -1,0 +1,239 @@
+{
+  "songID": "entry_0440",
+  "title": "God Is Coming",
+  "artist": "The 88",
+  "spotifyID": "05Jsyv8Oq5U9CZloBvqXkL",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "Fs",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "Fs",
+        "A",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-i-v-i-?-iv-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "A",
+        "B",
+        "C",
+        "A",
+        "C",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "A",
+        "B",
+        "C",
+        "A",
+        "C",
+        "A",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-ii-v-?-i-ii-biii-i-biii-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs7",
+        "E",
+        "Gs7",
+        "A",
+        "Fs",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs7",
+        "E",
+        "Gs7",
+        "A",
+        "Fs",
+        "A",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-v-?-i-?-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Fs",
+        "A",
+        "B",
+        "C",
+        "A",
+        "C",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Fs",
+        "A",
+        "B",
+        "C",
+        "A",
+        "C",
+        "A",
+        "B"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-ii-v-ii-v-?-i-ii-biii-i-biii-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs7",
+        "E",
+        "Gs7",
+        "A",
+        "Fs",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs7",
+        "E",
+        "Gs7",
+        "A",
+        "Fs",
+        "A",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-v-?-i-?-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fs",
+        "B",
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-vii-i-v-v-i-v-v-vii-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Kind Of Light",
+  "release_date": "2003-02-06",
+  "duration_ms": 225266
+}

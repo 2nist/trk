@@ -1,0 +1,201 @@
+{
+  "songID": "entry_0622",
+  "title": "Maya",
+  "artist": "Tobias Dray",
+  "spotifyID": "59cZhvYZEcKLrYwxCN7ovu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G7",
+        "Emin",
+        "Amin7",
+        "D",
+        "C7",
+        "Amin7",
+        "Bmin",
+        "C7",
+        "Amin7",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "G7",
+        "Emin",
+        "Amin7",
+        "D",
+        "C7",
+        "Amin7",
+        "Bmin",
+        "C7",
+        "Amin7",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:v-?-?-?-ii-?-i-?-?-?-i-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G7",
+        "B7",
+        "Amin7",
+        "D",
+        "G7",
+        "B7",
+        "Amin7"
+      ],
+      "rawChords": [
+        "G7",
+        "B7",
+        "Amin7",
+        "D",
+        "G7",
+        "B7",
+        "Amin7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:i-?-iii-?-?-v-?-i-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G7",
+        "Emin",
+        "Amin7",
+        "Bmin",
+        "Emin",
+        "Amin7",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "G7",
+        "Emin",
+        "Amin7",
+        "Bmin",
+        "Emin",
+        "Amin7",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G7",
+        "B7",
+        "Amin7",
+        "D",
+        "G7",
+        "B7",
+        "Amin7"
+      ],
+      "rawChords": [
+        "G7",
+        "B7",
+        "Amin7",
+        "D",
+        "G7",
+        "B7",
+        "Amin7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:i-?-iii-?-?-v-?-i-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G7",
+        "E/Gs",
+        "Amin7",
+        "D",
+        "G7",
+        "E/Gs",
+        "Amin7",
+        "D",
+        "G7",
+        "E/Gs",
+        "Amin7",
+        "D",
+        "G7"
+      ],
+      "rawChords": [
+        "G7",
+        "E/Gs",
+        "Amin7",
+        "D",
+        "G7",
+        "E/Gs",
+        "Amin7",
+        "D",
+        "G7",
+        "E/Gs",
+        "Amin7",
+        "D",
+        "G7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Maya",
+  "release_date": "2022-12-29",
+  "duration_ms": 207955
+}

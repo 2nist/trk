@@ -1,0 +1,291 @@
+{
+  "title": "It's Your Thing",
+  "artist": "The Isley Brothers",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "other_1",
+      "start_ms": 371,
+      "duration_ms": 58491,
+      "chords": [
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "Z",
+      "sectionFunction": "Development",
+      "sectionLabel": "Z",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_1",
+      "start_ms": 58862,
+      "duration_ms": 10304,
+      "chords": [
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 69167,
+      "duration_ms": 20332,
+      "chords": [
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 89499,
+      "duration_ms": 20785,
+      "chords": [
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 110285,
+      "duration_ms": 20557,
+      "chords": [
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 130842,
+      "duration_ms": 21101,
+      "chords": [
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 151944,
+      "duration_ms": 20677,
+      "chords": [
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 172622,
+      "duration_ms": 21134,
+      "chords": [
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 193756,
+      "duration_ms": 20857,
+      "chords": [
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_2",
+      "start_ms": 214613,
+      "duration_ms": 3639,
+      "chords": [
+        "F:7",
+        "Bb:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "songID": "entry_101399",
+  "title": "Bridge Over Troubled Water",
+  "artist": "Stephen Stanley",
+  "spotifyID": "3ulJ7HHDnZjLAkf41F8gyA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "Esus4",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:iv-?-v-?-?-iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:iv-?-v-?-?-iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "E",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:iv-?-v-?-?-iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Bridge Over Troubled Water",
+  "release_date": "2021-05-28",
+  "duration_ms": 231026
+}

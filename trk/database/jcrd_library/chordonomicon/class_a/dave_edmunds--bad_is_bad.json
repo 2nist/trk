@@ -1,0 +1,227 @@
+{
+  "songID": "entry_102418",
+  "title": "Bad is Bad",
+  "artist": "Dave Edmunds",
+  "spotifyID": "0rnjWqphTiI3Wpfs3lktwK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Gs",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Gs",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:v-?-#v-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Repeat When Necessary",
+  "release_date": "1979-06-09",
+  "duration_ms": 191573
+}

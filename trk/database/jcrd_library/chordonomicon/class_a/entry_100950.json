@@ -1,0 +1,177 @@
+{
+  "songID": "entry_100950",
+  "title": "Could You Wait 'Til I've Had My Coffee?",
+  "artist": "Lisa LeBlanc",
+  "spotifyID": "1pBsCSvVbV7WpJ7FblZfxQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "A",
+        "G",
+        "C",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "G",
+        "C",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-bvii-biii-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "E",
+        "A",
+        "C",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "E",
+        "A",
+        "C",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-bvii-v-i-biii-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "C",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:vi-v-i-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "E",
+        "A",
+        "G",
+        "C",
+        "A",
+        "E",
+        "A",
+        "G",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "C",
+        "A",
+        "E",
+        "A",
+        "G",
+        "C",
+        "A",
+        "E",
+        "A",
+        "G",
+        "A",
+        "E"
+      ],
+      "length": 26,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-v-iii-v-iii-v-iii-v-iii-v-iii-v-iii-v-iii-vii-iii-ii-v-iii-vii-iii-ii-iii-vii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Why You Wanna Leave, Runaway Queen?",
+  "release_date": "2016-09-30",
+  "duration_ms": 165754
+}

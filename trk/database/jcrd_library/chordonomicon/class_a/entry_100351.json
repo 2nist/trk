@@ -1,0 +1,293 @@
+{
+  "songID": "entry_100351",
+  "title": "Radiant (feat. Bryson Breakey)",
+  "artist": "Every Nation Music",
+  "spotifyID": "7pkYikiWLrI7FmPLkLuTmV",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A"
+      ],
+      "rawChords": [
+        "A"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "Bmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "Bmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v-?-i-ii-?-i-v-?-ii-v-i-v-?-ii-i-v-?-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:i-v-i-v-i-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "A",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "Bmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "A",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "Bmin",
+        "E",
+        "A",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v-?-i-ii-?-i-v-?-ii-v-i-v-?-ii-i-v-?-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-v-i-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E",
+        "D",
+        "A",
+        "Fsmin",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-v-iv-v-iv-v-iv-v-iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-v-i-ii-i-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Doxology",
+  "release_date": "2016-10-07",
+  "duration_ms": 215563
+}

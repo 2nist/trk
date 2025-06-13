@@ -1,0 +1,291 @@
+{
+  "songID": "entry_101044",
+  "title": "My Friends, My Friends",
+  "artist": "Eddie Money",
+  "spotifyID": "4hWxLOpilFkcIwWBL0DyH7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Dmaj7",
+        "G",
+        "Fsmin",
+        "Dmaj7"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Dmaj7",
+        "G",
+        "Fsmin",
+        "Dmaj7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A",
+        "Dmaj7",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A",
+        "Dmaj7",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-?-iv-?-v-?-?-?-iv-?-v-?-?-?-iv-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Dmaj7",
+        "G",
+        "Fsmin",
+        "E",
+        "Dmaj7"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Dmaj7",
+        "G",
+        "Fsmin",
+        "E",
+        "Dmaj7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-?-v-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A",
+        "Dmaj7"
+      ],
+      "rawChords": [
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A",
+        "Dmaj7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:v-?-?-iv-?-v-?-?-?-iv-?-v-?-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "E",
+        "Dmaj7",
+        "G",
+        "Fsmin",
+        "Dmaj7",
+        "Fsmin",
+        "E",
+        "Dmaj7",
+        "G",
+        "Fsmin",
+        "E",
+        "Dmaj7"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "E",
+        "Dmaj7",
+        "G",
+        "Fsmin",
+        "Dmaj7",
+        "Fsmin",
+        "E",
+        "Dmaj7",
+        "G",
+        "Fsmin",
+        "E",
+        "Dmaj7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:?-iii-?-?-v-?-?-?-?-iii-?-?-v-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Dmaj7",
+        "G",
+        "A",
+        "Amaj7",
+        "Dmaj7",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:v-?-?-iv-?-v-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "No Control",
+  "release_date": "1983",
+  "duration_ms": 195066
+}

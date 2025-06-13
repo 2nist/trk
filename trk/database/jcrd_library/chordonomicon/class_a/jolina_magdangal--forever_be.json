@@ -1,0 +1,563 @@
+{
+  "songID": "entry_103012",
+  "title": "Forever Be",
+  "artist": "Jolina Magdangal",
+  "spotifyID": "2I5ZzpKayU7SKnb6mkwyv0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E/Gs",
+        "Asus2",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E/Gs",
+        "Asus2",
+        "Csmin7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asus2",
+        "B7sus4",
+        "E",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E",
+        "Fsmin7",
+        "B/Ds",
+        "E",
+        "Asus2",
+        "E/Gs",
+        "Fsmin7",
+        "B7sus4"
+      ],
+      "rawChords": [
+        "Asus2",
+        "B7sus4",
+        "E",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E",
+        "Fsmin7",
+        "B/Ds",
+        "E",
+        "Asus2",
+        "E/Gs",
+        "Fsmin7",
+        "B7sus4"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-?-v-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asus2",
+        "B7sus4",
+        "E",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "Csmin7",
+        "E/Gs",
+        "Fsmin7",
+        "B7sus4",
+        "E",
+        "Asus2",
+        "Fsmin7",
+        "B7sus4"
+      ],
+      "rawChords": [
+        "Asus2",
+        "B7sus4",
+        "E",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "Csmin7",
+        "E/Gs",
+        "Fsmin7",
+        "B7sus4",
+        "E",
+        "Asus2",
+        "Fsmin7",
+        "B7sus4"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-?-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "Csmin7",
+        "B/Ds",
+        "E",
+        "Asus2",
+        "Fsmin7",
+        "B7sus4",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "Csmin7",
+        "B/Ds",
+        "E",
+        "Asus2",
+        "Fsmin7",
+        "B7sus4",
+        "Csmin7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asus2",
+        "B7sus4",
+        "E",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "Csmin7",
+        "Fsmin7",
+        "B7sus4",
+        "B",
+        "E",
+        "Asus2",
+        "Fsmin7",
+        "B7sus4"
+      ],
+      "rawChords": [
+        "Asus2",
+        "B7sus4",
+        "E",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "Csmin7",
+        "Fsmin7",
+        "B7sus4",
+        "B",
+        "E",
+        "Asus2",
+        "Fsmin7",
+        "B7sus4"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-?-i-?-?-?-?-?-?-?-v-?-i-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "Csmin7",
+        "B/Ds",
+        "E",
+        "Asus2",
+        "Fsmin7",
+        "B7sus4",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "Csmin7",
+        "B/Ds",
+        "E",
+        "Asus2",
+        "Fsmin7",
+        "B7sus4",
+        "Csmin7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E/Gs",
+        "Asus2",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "E/Gs",
+        "Asus2",
+        "B7sus4",
+        "E/Gs",
+        "Asus2",
+        "Csmin7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin7",
+        "B/Ds",
+        "E",
+        "B/Ds",
+        "Csmin7",
+        "Bb/C",
+        "C7sus4",
+        "C/Bb"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "B/Ds",
+        "E",
+        "B/Ds",
+        "Csmin7",
+        "Bb/C",
+        "C7sus4",
+        "C/Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "Dmin7",
+        "C/E",
+        "F",
+        "Bbsus2",
+        "Gmin7",
+        "C7sus4"
+      ],
+      "rawChords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "Dmin7",
+        "C/E",
+        "F",
+        "Bbsus2",
+        "Gmin7",
+        "C7sus4"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "Dmin7",
+        "C/E",
+        "F",
+        "Bbsus2",
+        "Gmin7",
+        "C7sus4",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "Dmin7",
+        "C/E",
+        "F",
+        "Bbsus2",
+        "Gmin7",
+        "C7sus4",
+        "C",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:?-?-?-?-?-?-?-?-i-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4"
+      ],
+      "rawChords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C/Bb",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "C/Bb",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "C/Bb",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "C/Bb",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "Dmin7",
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "Dmin7",
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4",
+        "F/A",
+        "Bbsus2",
+        "Dmin7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4"
+      ],
+      "rawChords": [
+        "F/A",
+        "Bbsus2",
+        "C7sus4"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Instrumental",
+    "Chorus",
+    "Instrumental",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Forever Jolina",
+  "release_date": "2004-01-15",
+  "duration_ms": 260200
+}

@@ -1,0 +1,367 @@
+{
+  "songID": "entry_102903",
+  "title": "Dinge, die ich meinen Eltern nicht sag",
+  "artist": "Teesy",
+  "spotifyID": "6xOeUt0iOdCi7GLRaerOYu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G/Fs",
+        "Bmin",
+        "Emin",
+        "Asus4",
+        "A7",
+        "Amin7",
+        "G",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G/Fs",
+        "Bmin",
+        "Emin",
+        "Asus4",
+        "A7",
+        "Amin7",
+        "G",
+        "C",
+        "Cmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.49",
+        "progression:?-?-?-?-iii-?-?-ii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "G/Fs",
+        "Bmin",
+        "Emin7",
+        "Emin",
+        "Asus4",
+        "A7",
+        "Amin7",
+        "G",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "G/Fs",
+        "Bmin",
+        "Emin7",
+        "Emin",
+        "Asus4",
+        "A7",
+        "Amin7",
+        "G",
+        "C",
+        "Cmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:ii-?-?-?-?-?-?-iii-?-?-ii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "Bmin7",
+        "C",
+        "G",
+        "Emin",
+        "Bmin7",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Bmin7",
+        "C",
+        "G",
+        "Emin",
+        "Bmin7",
+        "C",
+        "Cmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "G/Fs",
+        "Bmin",
+        "Emin7",
+        "Asus4",
+        "A7",
+        "Amin7",
+        "G",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "G/Fs",
+        "Bmin",
+        "Emin7",
+        "Asus4",
+        "A7",
+        "Amin7",
+        "G",
+        "C",
+        "Cmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:ii-?-?-?-?-?-iii-?-?-ii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "G/Fs",
+        "B",
+        "B7",
+        "Emin",
+        "Emin7",
+        "A",
+        "A7",
+        "Amin7",
+        "G",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "G/Fs",
+        "B",
+        "B7",
+        "Emin",
+        "Emin7",
+        "A",
+        "A7",
+        "Amin7",
+        "G",
+        "C",
+        "Cmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:i-?-?-iii-?-iii-?-?-?-ii-?-ii-?-?-i-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "Bmin7",
+        "C",
+        "G",
+        "Emin",
+        "Bmin7",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Bmin7",
+        "C",
+        "G",
+        "Emin",
+        "Bmin7",
+        "C",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "Bmin7",
+        "Emin7",
+        "Emin",
+        "Bmin",
+        "C",
+        "B7"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "Bmin7",
+        "Emin7",
+        "Emin",
+        "Bmin",
+        "C",
+        "B7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.08",
+        "progression:?-iv-?-biii-?-?-?-?-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "Bmin",
+        "C",
+        "G",
+        "Emin",
+        "Bmin7",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Bmin",
+        "C",
+        "G",
+        "Emin",
+        "Bmin7",
+        "D",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-?-?-i-?-v-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Hallo Toni",
+  "release_date": "2021-04-23",
+  "duration_ms": 254744
+}

@@ -1,0 +1,345 @@
+{
+  "songID": "entry_101903",
+  "title": "Passive Aggressive",
+  "artist": "Placebo",
+  "spotifyID": "1OKCK7kcbnb7dfk5Dpwndx",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gb"
+      ],
+      "rawChords": [
+        "Gb"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Db",
+        "B",
+        "Db",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Db",
+        "B",
+        "Db",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "B"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Db",
+        "B",
+        "Db",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Db",
+        "B",
+        "Db",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "B"
+      ],
+      "length": 33,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:?-bbvi-?-?-?-?-bbvi-?-iv-?-bbvi-?-bbii-?-?-bbii-?-?-bbii-?-?-bbii-?-?-?-bbvi-?-?-?-?-bbvi-?-iv-?-bbvi-?-bbii-?-?-bbii-?-?-bbii-?-?-bbii-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gb",
+        "B",
+        "Gb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Gb",
+        "B",
+        "Gb",
+        "Bbmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:bbvi-?-i-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Db"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Db"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-bbvi-?-?-bbvi-?-?-bbvi-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Db",
+        "B",
+        "Db",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "B"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Db",
+        "B",
+        "Db",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "B"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-bbvi-?-?-?-?-bbvi-?-iv-?-bbvi-?-bbii-?-?-bbii-?-?-bbii-?-?-bbii-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gb",
+        "B",
+        "Gb",
+        "B",
+        "Gb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Gb",
+        "B",
+        "Gb",
+        "B",
+        "Gb",
+        "Bbmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:bbvi-?-i-?-bbvi-?-i-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gb",
+        "B",
+        "Gb",
+        "B",
+        "Gb"
+      ],
+      "rawChords": [
+        "Gb",
+        "B",
+        "Gb",
+        "B",
+        "Gb"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:bbvi-?-i-?-bbvi-?-i-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Bbmin",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Black Market Music",
+  "release_date": "2000-10-09",
+  "duration_ms": 324026
+}

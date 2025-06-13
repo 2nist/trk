@@ -1,0 +1,271 @@
+{
+  "songID": "entry_102895",
+  "title": "Kommer En Kwel",
+  "artist": "Meuris",
+  "spotifyID": "56mDt5MDL6TJOSEU9IGoBF",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb",
+        "Amin/C",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "Amin/C",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:ii-?-v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "Amin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "Amin",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-ii-?-i-?-ii-?-i-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:ii-?-v-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "Amin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:ii-?-v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Bb",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Bb",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-v-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Kommer En Kwel",
+  "release_date": "2015-01-02",
+  "duration_ms": 170066
+}

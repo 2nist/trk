@@ -1,0 +1,219 @@
+{
+  "songID": "entry_101806",
+  "title": "Burned By The Love",
+  "artist": "Juke Ross",
+  "spotifyID": "1Bs4rVL38Ca9zGnaBklM7W",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-?-i-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-i-?-?-i-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Burned By The Love (James Carter Remix)",
+  "release_date": "2019-07-26",
+  "duration_ms": 184520
+}

@@ -1,0 +1,401 @@
+{
+  "songID": "entry_100032",
+  "title": "Nikolai",
+  "artist": "Martin Phipps",
+  "spotifyID": "4RAsPaLr3nCAv46KEHBwL6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-iv-?-i-?-v-?-i-?-?-v-?-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-i-?-?-v-?-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "War & Peace (Original Soundtrack by Martin Phipps)",
+  "release_date": "2016-05-13",
+  "duration_ms": 129260
+}

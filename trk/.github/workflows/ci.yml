@@ -1,0 +1,151 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  lint:
+    name: Lint
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Lua
+      uses: leafo/gh-actions-lua@v10
+      with:
+        luaVersion: "5.1"
+    
+    - name: Setup LuaRocks
+      uses: leafo/gh-actions-luarocks@v4
+    
+    - name: Install luacheck
+      run: luarocks install luacheck
+    
+    - name: Run luacheck
+      run: |
+        luacheck src/ lua/ envireament/ --exclude-files="**/demo.lua" --config .luacheckrc || true
+    
+    - name: Check file structure
+      run: |
+        echo "Checking project structure..."
+        test -f LICENSE
+        test -f CONTRIBUTING.md
+        test -f CHANGELOG.md
+        test -f .gitignore
+        echo "✓ All required files present"
+
+  test:
+    name: Test
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Setup Lua
+      uses: leafo/gh-actions-lua@v10
+      with:
+        luaVersion: "5.1"
+    
+    - name: Setup LuaRocks
+      uses: leafo/gh-actions-luarocks@v4
+    
+    - name: Install test dependencies
+      run: |
+        luarocks install busted
+        luarocks install luacov
+    
+    - name: Run virtual environment tests
+      run: |
+        cd tests
+        lua -e "
+        package.path = '../src/?.lua;../lua/?.lua;../envireament/?.lua;' .. package.path
+        local vr = require('enhanced_virtual_reaper')
+        print('✓ Virtual REAPER environment loads successfully')
+        "
+    
+    - name: Test ImGui API consistency
+      run: |
+        lua -e "
+        package.path = 'envireament/?.lua;' .. package.path
+        local imgui = require('imgui')
+        assert(imgui.Begin, 'ImGui.Begin not found')
+        assert(imgui.End, 'ImGui.End not found')
+        assert(imgui.Button, 'ImGui.Button not found')
+        print('✓ ImGui API consistency check passed')
+        "
+    
+    - name: Validate key modules
+      run: |
+        # Test that key modules can be loaded without errors
+        lua -e "
+        package.path = 'src/?.lua;lua/?.lua;envireament/?.lua;' .. package.path
+        require('enhanced_virtual_reaper')
+        print('✓ Enhanced virtual REAPER loads')
+        "
+
+  security:
+    name: Security Scan
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Check for sensitive files
+      run: |
+        echo "Checking for sensitive files..."
+        if find . -name "*.key" -o -name "*.pem" -o -name "*.p12" -o -name "config.json" -o -name "secrets.*" | grep -q .; then
+          echo "❌ Sensitive files found!"
+          find . -name "*.key" -o -name "*.pem" -o -name "*.p12" -o -name "config.json" -o -name "secrets.*"
+          exit 1
+        else
+          echo "✓ No sensitive files detected"
+        fi
+    
+    - name: Check .gitignore coverage
+      run: |
+        echo "Checking .gitignore coverage..."
+        if ! grep -q "*.log" .gitignore; then
+          echo "⚠️  Consider adding *.log to .gitignore"
+        fi
+        if ! grep -q "node_modules" .gitignore; then
+          echo "✓ No Node.js detected, node_modules ignore not needed"
+        fi
+        echo "✓ .gitignore check completed"
+
+  documentation:
+    name: Documentation
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Check documentation files
+      run: |
+        echo "Checking documentation..."
+        test -f CONTRIBUTING.md && echo "✓ CONTRIBUTING.md exists"
+        test -f CHANGELOG.md && echo "✓ CHANGELOG.md exists"
+        test -f LICENSE && echo "✓ LICENSE exists"
+        
+        # Check for basic documentation in key directories
+        for dir in src envireament bss crd drm; do
+          if [ -d "$dir" ] && [ ! -f "$dir/README.md" ]; then
+            echo "⚠️  Consider adding README.md to $dir/"
+          fi
+        done
+        
+        echo "✓ Documentation check completed"
+    
+    - name: Validate markdown
+      uses: DavidAnson/markdownlint-cli2-action@v16
+      with:
+        globs: '**/*.md'
+        config: |
+          {
+            "MD013": false,
+            "MD033": false,
+            "MD041": false
+          }

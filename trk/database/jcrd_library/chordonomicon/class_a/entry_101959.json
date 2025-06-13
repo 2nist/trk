@@ -1,0 +1,361 @@
+{
+  "songID": "entry_101959",
+  "title": "don't make me come to Vegas (2023 Remaster)",
+  "artist": "Tori Amos",
+  "spotifyID": "78ooTgHdUvkvmKqm5bw293",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Gadd13",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "G7",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Gadd13",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "G7",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-v-?-i-?-iv-?-i-?-?-v-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gadd13",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "G7",
+        "G"
+      ],
+      "rawChords": [
+        "Gadd13",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "G7",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:?-v-?-i-?-iv-?-i-?-?-v-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "C",
+        "Emin",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "Emin",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.61",
+        "progression:ii-?-i-?-?-v-?-ii-?-i-?-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:iv-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gadd13",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "G7",
+        "G"
+      ],
+      "rawChords": [
+        "Gadd13",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "G7",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:?-v-?-i-?-iv-?-i-?-v-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gadd13",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "G7",
+        "G"
+      ],
+      "rawChords": [
+        "Gadd13",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "G7",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:?-v-?-i-?-iv-?-i-?-v-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "Emin",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "Emin",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:ii-?-i-?-v-?-ii-?-?-i-?-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:iv-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?-iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Scarlet's Walk (2023 Remaster)",
+  "release_date": "2002-10-28",
+  "duration_ms": 292120
+}

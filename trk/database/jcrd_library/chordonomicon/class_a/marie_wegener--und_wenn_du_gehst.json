@@ -1,0 +1,307 @@
+{
+  "songID": "entry_0192",
+  "title": "Und wenn du gehst",
+  "artist": "Marie Wegener",
+  "spotifyID": "4hlSAQPNmKGjwrcaMPrbRR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F",
+        "C",
+        "Gmin",
+        "Bb",
+        "F"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "K\u00f6niglich",
+  "release_date": "2018-06-01",
+  "duration_ms": 243946
+}

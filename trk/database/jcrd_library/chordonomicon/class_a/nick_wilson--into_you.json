@@ -1,0 +1,271 @@
+{
+  "songID": "entry_102901",
+  "title": "Into You",
+  "artist": "Nick Wilson",
+  "spotifyID": "3gF3MVkcnXsixfxu4NLBMK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "E",
+        "G",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "E",
+        "G",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-iii-?-v-?-i-?-v-?-i-?-?-v-?-i-?-v-?-i-?-v-?-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-v-?-i-?-iv-?-i-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "A",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "A",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:ii-?-v-?-i-?-v-?-i-?-?-vi-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Fs",
+        "D",
+        "G",
+        "C",
+        "B",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Fs",
+        "D",
+        "G",
+        "C",
+        "B",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-vii-?-v-?-i-?-iv-?-iii-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-ii-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-v-?-i-?-iv-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Into You",
+  "release_date": "2020-12-04",
+  "duration_ms": 286506
+}

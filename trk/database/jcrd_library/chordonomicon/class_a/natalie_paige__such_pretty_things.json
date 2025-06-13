@@ -1,0 +1,221 @@
+{
+  "songID": "entry_102869",
+  "title": "Such Pretty Things",
+  "artist": "Natalie Paige",
+  "spotifyID": "3x81ZSoFA8Jck9B6gTVxzN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "D",
+        "Emin",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "D",
+        "Emin",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "D",
+        "Emin",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "D",
+        "Emin",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "D",
+        "Emin",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "D",
+        "Emin",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Such Pretty Things",
+  "release_date": "2019-05-05",
+  "duration_ms": 167952
+}

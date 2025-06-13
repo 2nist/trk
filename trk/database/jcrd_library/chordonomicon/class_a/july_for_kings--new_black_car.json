@@ -1,0 +1,329 @@
+{
+  "songID": "entry_100304",
+  "title": "New Black Car",
+  "artist": "July For Kings",
+  "spotifyID": "5J7hJ0oc4gcj9AwgIOpiBv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B"
+      ],
+      "rawChords": [
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Csmin7"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Aadd9",
+        "B",
+        "Csmin7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B",
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B",
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-i-?-v-?-?-i-?-v-?-?-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Aadd9",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "Aadd9",
+        "Csmin7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B"
+      ],
+      "rawChords": [
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B",
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B",
+        "Csmin7",
+        "Aadd9",
+        "E",
+        "B",
+        "Csmin7",
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B",
+        "Fsmin",
+        "Gsmin",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B",
+        "Aadd9",
+        "E",
+        "B",
+        "Csmin7",
+        "Aadd9",
+        "E",
+        "B",
+        "Csmin7",
+        "Aadd9",
+        "Csmin7",
+        "Aadd9",
+        "Csmin7"
+      ],
+      "length": 28,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-i-?-v-?-?-i-?-v-?-?-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-?-i-?-v-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Swim",
+  "release_date": "2002-10-29",
+  "duration_ms": 255320
+}

@@ -1,0 +1,241 @@
+{
+  "songID": "entry_102107",
+  "title": "The Valley Song (Sing of Your Mercy)",
+  "artist": "Jars Of Clay",
+  "spotifyID": "5QFakkLrygT1zAjBZmlo5o",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7",
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "G/B",
+        "Amin7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Furthermore: From the Studio, From the Stage",
+  "release_date": "2003-02-04",
+  "duration_ms": 251853
+}

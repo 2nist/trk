@@ -1,0 +1,245 @@
+{
+  "songID": "entry_0089",
+  "title": "Long Come to Jesus",
+  "artist": "Hailey Whitters",
+  "spotifyID": "4BWt5HB83BL6NCppcneKGE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:i-?-v-?-ii-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:i-?-?-iv-?-biii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "D",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Dmin",
+        "D",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:?-v-?-i-?-v-?-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:i-?-?-iv-?-biii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "Dmin",
+        "F",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "Dmin",
+        "F",
+        "Emin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-?-?-v-?-iv-?-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "D",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "D",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:v-?-?-i-?-bvii-?-?-v-?-i-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Black Sheep",
+  "release_date": "2015-10-02",
+  "duration_ms": 273680
+}

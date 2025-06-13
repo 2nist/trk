@@ -1,0 +1,207 @@
+{
+  "songID": "entry_101168",
+  "title": "Unable (feat. Molly Bush)",
+  "artist": "Corey Kilgannon",
+  "spotifyID": "3kDr0x34hg906afMTafowt",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "Emin",
+        "Gmaj7",
+        "C",
+        "Amin",
+        "Gmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "Gmaj7",
+        "C",
+        "Amin",
+        "Gmaj7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "D/Fs",
+        "Emin",
+        "Amin",
+        "G",
+        "A",
+        "Amin",
+        "G",
+        "Gsus4",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "D/Fs",
+        "Emin",
+        "Amin",
+        "G",
+        "A",
+        "Amin",
+        "G",
+        "Gsus4",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-?-v-?-?-?-v-vi-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "I'll Be Here When the Moon Is Tired",
+  "release_date": "2016-10-14",
+  "duration_ms": 209386
+}

@@ -1,0 +1,331 @@
+{
+  "songID": "entry_101808",
+  "title": "Walk Away",
+  "artist": "SadBoyProlific",
+  "spotifyID": "6mhMFztI38c0CZr8CEnPrD",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-?-ii-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-ii-?-?-v-?-i-?-v-?-ii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-ii-?-?-v-?-i-?-v-?-ii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-ii-?-?-v-?-i-?-v-?-ii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Natsukashii",
+  "release_date": "2018-12-24",
+  "duration_ms": 120189
+}

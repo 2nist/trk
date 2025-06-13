@@ -1,0 +1,113 @@
+{
+  "songID": "entry_102528",
+  "title": "Real Friends",
+  "artist": "Kanye West",
+  "spotifyID": "66Q3fAmSX5eHamgbKa9alP",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "Emin",
+        "Bmin",
+        "G",
+        "A7"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "Emin",
+        "Bmin",
+        "G",
+        "A7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "A7",
+        "G",
+        "D",
+        "A",
+        "A7",
+        "Bmin",
+        "D",
+        "G",
+        "A7",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "A7",
+        "G",
+        "D",
+        "A",
+        "A7",
+        "Bmin",
+        "D",
+        "G",
+        "A7",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "A7",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:iv-?-i-?-v-?-v-?-iv-?-i-?-v-?-v-?-?-i-?-iv-?-v-?-i-?-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Life Of Pablo",
+  "release_date": "2016-06-10",
+  "duration_ms": 251573
+}

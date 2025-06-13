@@ -1,0 +1,209 @@
+{
+  "songID": "entry_101831",
+  "title": "La routine",
+  "artist": "Franck Monnet",
+  "spotifyID": "10kI2EAiNVOB0H6owh83Hr",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "Amin",
+        "Dmin",
+        "E7",
+        "Amin",
+        "Dmin",
+        "E7"
+      ],
+      "rawChords": [
+        "E7",
+        "Amin",
+        "Dmin",
+        "E7",
+        "Amin",
+        "Dmin",
+        "E7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "E7",
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "E7"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "E7",
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "E7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:v-?-i-?-iii-?-?-iii-?-v-?-i-?-iii-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "E7",
+        "Amin",
+        "Dmin",
+        "E7"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "E7",
+        "Amin",
+        "Dmin",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "E7",
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "E7"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "E7",
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "E7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:v-?-i-?-iii-?-?-iii-?-v-?-i-?-iii-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "C",
+        "E7",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "E7",
+        "Amin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.58",
+        "progression:?-v-?-i-?-iii-?-?-v-?-i-?-v-?-?-v-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Au grand jour",
+  "release_date": "2004-11-02",
+  "duration_ms": 173505
+}

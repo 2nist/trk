@@ -1,0 +1,309 @@
+{
+  "songID": "entry_100466",
+  "title": "The Other Side Of The Cross",
+  "artist": "The Statler Brothers",
+  "spotifyID": "2sZc9KqlNGKowDSsdwk1Al",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G7",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "D7",
+        "G",
+        "C",
+        "C7",
+        "F",
+        "C",
+        "G7",
+        "C",
+        "Cadd11",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "D7",
+        "G",
+        "C",
+        "C7",
+        "F",
+        "C",
+        "G7",
+        "C",
+        "Cadd11",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-i-?-vi-ii-v-v-i-v-ii-v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "D7",
+        "G",
+        "C",
+        "C7",
+        "F",
+        "C",
+        "G7",
+        "C",
+        "Cadd11",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "D7",
+        "G",
+        "C",
+        "C7",
+        "F",
+        "C",
+        "G7",
+        "C",
+        "Cadd11",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-i-?-vi-ii-v-v-i-v-ii-v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Cadd11",
+        "C",
+        "F",
+        "F7",
+        "C",
+        "Amin",
+        "D7",
+        "G7"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Cadd11",
+        "C",
+        "F",
+        "F7",
+        "C",
+        "Amin",
+        "D7",
+        "G7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-?-v-i-i-v-?-vi-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "Cadd11",
+        "C",
+        "C7",
+        "F",
+        "F7",
+        "C",
+        "A7",
+        "D7",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "Cadd11",
+        "C",
+        "C7",
+        "F",
+        "F7",
+        "C",
+        "A7",
+        "D7",
+        "G7",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-?-v-v-i-i-v-iii-vi-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Cadd11",
+        "C",
+        "F",
+        "F7",
+        "C",
+        "Amin",
+        "D7",
+        "G7"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Cadd11",
+        "C",
+        "F",
+        "F7",
+        "C",
+        "Amin",
+        "D7",
+        "G7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-?-v-i-i-v-?-vi-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "Cadd11",
+        "C",
+        "C7",
+        "F",
+        "F7",
+        "C",
+        "A7",
+        "D7",
+        "G7",
+        "C",
+        "F7",
+        "C",
+        "A7",
+        "D7",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "Cadd11",
+        "C",
+        "C7",
+        "F",
+        "F7",
+        "C",
+        "A7",
+        "D7",
+        "G7",
+        "C",
+        "F7",
+        "C",
+        "A7",
+        "D7",
+        "G7",
+        "C"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-?-v-v-i-i-v-iii-vi-ii-v-i-v-iii-vi-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "The Gospel Music Of The Statler Brothers Volume One",
+  "release_date": "2010-01-01",
+  "duration_ms": 250546
+}

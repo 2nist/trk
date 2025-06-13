@@ -1,0 +1,197 @@
+{
+  "songID": "entry_0810",
+  "title": "I've Made Up My Mind (feat. Alasdair Roberts)",
+  "artist": "Bill Callahan",
+  "spotifyID": "0RICDmtykWneVpFrLVY0Jz",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 26,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.47",
+        "progression:ii-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-ii-?-i-?-v-?-iv-?-i-?-v-?-ii-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-ii-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:i-?-v-?-ii-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Blind Date Party",
+  "release_date": "2021-12-10",
+  "duration_ms": 267880
+}

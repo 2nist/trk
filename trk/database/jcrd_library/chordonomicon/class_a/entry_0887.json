@@ -1,0 +1,245 @@
+{
+  "songID": "entry_0887",
+  "title": "Out With A Whimper",
+  "artist": "Laura Stevenson",
+  "spotifyID": "1QCzAi27CvhlfDZtkJhiVc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Esus4",
+        "E",
+        "Esus4"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "E",
+        "Esus4"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "B",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-i-v-ii-i-ii-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "E",
+        "Esus4",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-v-i-v-ii-?-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-i-v-i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Fsmin",
+        "Gs",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Gs",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-iv-i-v-?-iv-i-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Solo",
+    "Verse",
+    "Solo",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Cocksure (Commentary Version)",
+  "release_date": "2015-10-30",
+  "duration_ms": 276978
+}

@@ -1,0 +1,299 @@
+{
+  "songID": "entry_101312",
+  "title": "La Hora de Marina",
+  "artist": "Trio Ritm'o",
+  "spotifyID": "59KP4MXro3nZGm7W00mp1O",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:v-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:v-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:v-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Ritm'O",
+  "release_date": "2022-06-29",
+  "duration_ms": 157544
+}

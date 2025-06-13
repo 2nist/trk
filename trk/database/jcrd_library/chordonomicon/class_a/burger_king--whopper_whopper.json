@@ -1,0 +1,189 @@
+{
+  "songID": "entry_0509",
+  "title": "Whopper Whopper",
+  "artist": "Burger King",
+  "spotifyID": "4QEIx7L0dxINrkJLCuQZGS",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D7",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "D/G",
+        "E",
+        "D7",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "D/G",
+        "E"
+      ],
+      "rawChords": [
+        "D7",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "D/G",
+        "E",
+        "D7",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "D/G",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:ii-?-ii-?-v-?-?-?-?-iii-?-ii-?-ii-?-v-?-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "D",
+        "A",
+        "G",
+        "D7",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "D",
+        "A",
+        "G",
+        "D7",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-v-?-ii-?-i-?-v-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D7",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "D/G",
+        "E",
+        "D7",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "D/G",
+        "E"
+      ],
+      "rawChords": [
+        "D7",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "D/G",
+        "E",
+        "D7",
+        "D",
+        "G",
+        "Emin",
+        "Bmin",
+        "D/G",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:ii-?-ii-?-v-?-?-?-?-iii-?-ii-?-ii-?-v-?-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "D",
+        "A",
+        "G",
+        "D7",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "D",
+        "A",
+        "G",
+        "D7",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-v-?-ii-?-i-?-v-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "You Rule. Jingles",
+  "release_date": "2023-02-03",
+  "duration_ms": 60060
+}

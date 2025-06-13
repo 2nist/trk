@@ -1,0 +1,277 @@
+{
+  "songID": "entry_0408",
+  "title": "Noir",
+  "artist": "Christophe Willem",
+  "spotifyID": "3U4dbVgPQHwIr2XVH1eqZ7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "C",
+        "F",
+        "A7"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "F",
+        "A7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:iv-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "A7"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "A7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:?-iv-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "C",
+        "Gmin7",
+        "Bb",
+        "C7",
+        "F",
+        "A",
+        "Bb",
+        "C",
+        "Gmin7",
+        "Bb",
+        "C7",
+        "F",
+        "A7"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "Gmin7",
+        "Bb",
+        "C7",
+        "F",
+        "A",
+        "Bb",
+        "C",
+        "Gmin7",
+        "Bb",
+        "C7",
+        "F",
+        "A7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:iv-?-v-?-?-iv-?-v-?-i-?-iii-?-iv-?-v-?-?-iv-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "A7"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "A7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:?-iv-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "A7"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "A7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:?-iv-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "C",
+        "Gmin7",
+        "Bb",
+        "C7",
+        "F",
+        "A",
+        "Bb",
+        "C",
+        "Gmin7",
+        "Bb",
+        "C7",
+        "F",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "Gmin7",
+        "Bb",
+        "C7",
+        "F",
+        "A",
+        "Bb",
+        "C",
+        "Gmin7",
+        "Bb",
+        "C7",
+        "F",
+        "A7",
+        "Dmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:iv-?-v-?-?-iv-?-v-?-i-?-iii-?-iv-?-v-?-?-iv-?-v-?-i-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Bb",
+        "C",
+        "F",
+        "A",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "F",
+        "A",
+        "Dmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:iv-?-v-?-i-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Instrumental"
+  ],
+  "tags": [],
+  "album": "Panorama",
+  "release_date": "2023-10-27",
+  "duration_ms": 187333
+}

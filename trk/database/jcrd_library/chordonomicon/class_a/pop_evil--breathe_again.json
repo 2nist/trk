@@ -1,0 +1,303 @@
+{
+  "songID": "entry_101926",
+  "title": "Breathe Again",
+  "artist": "Pop Evil",
+  "spotifyID": "6gK6zSzCE6akJCJL1oTSgE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "A",
+        "Dmin",
+        "Bb",
+        "C",
+        "A",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "A",
+        "Dmin",
+        "Bb",
+        "C",
+        "A",
+        "Dmin",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:?-iv-?-iii-?-?-iv-?-v-?-iii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "A",
+        "Dmin",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "A",
+        "Dmin",
+        "Bb",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-biii-?-ii-?-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.05",
+        "progression:iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:iv-?-v-?-?-v-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Versatile",
+  "release_date": "2021-05-21",
+  "duration_ms": 191440
+}

@@ -1,0 +1,271 @@
+{
+  "songID": "entry_102008",
+  "title": "Put Me in My Place",
+  "artist": "Muscadine Bloodline",
+  "spotifyID": "4CEEBr79p52p9U7mkBfzUy",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Gadd13",
+        "Amin",
+        "Emin",
+        "G",
+        "Gadd13",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Gadd13",
+        "Amin",
+        "Emin",
+        "G",
+        "Gadd13",
+        "Amin",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Gadd13",
+        "Amin",
+        "Emin",
+        "G",
+        "Gadd13",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Gadd13",
+        "Amin",
+        "Emin",
+        "G",
+        "Gadd13",
+        "Amin",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "C",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Put Me in My Place",
+  "release_date": "2019-05-31",
+  "duration_ms": 189565
+}

@@ -1,0 +1,159 @@
+{
+  "songID": "entry_101099",
+  "title": "Running To Stand Still",
+  "artist": "Kodaline",
+  "spotifyID": "6Q0iXHUmh2hWgeLgBirTFq",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-ii-?-i-?-ii-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-ii-?-i-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-i-?-v-?-i-?-ii-?-i-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Stargazing",
+  "release_date": "2020-09-11",
+  "duration_ms": 236808
+}

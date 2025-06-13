@@ -1,0 +1,339 @@
+{
+  "songID": "entry_102879",
+  "title": "Keel Timing",
+  "artist": "Manchester Orchestra",
+  "spotifyID": "21zlhPcaOWty04NurXCMi7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "E",
+        "Fs",
+        "Db"
+      ],
+      "rawChords": [
+        "Db",
+        "E",
+        "Fs",
+        "Db"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:bbii-?-biii-?-iv-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Ebmin",
+        "Db"
+      ],
+      "rawChords": [
+        "E",
+        "Ebmin",
+        "Db"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-?-biv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Ab",
+        "Fs",
+        "Db",
+        "A",
+        "Ab",
+        "Fs",
+        "Db"
+      ],
+      "rawChords": [
+        "A",
+        "Ab",
+        "Fs",
+        "Db",
+        "A",
+        "Ab",
+        "Fs",
+        "Db"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.76",
+        "progression:biii-?-bbiii-?-i-?-bbvi-?-biii-?-bbiii-?-i-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Ebmin",
+        "Db"
+      ],
+      "rawChords": [
+        "E",
+        "Ebmin",
+        "Db"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-?-biv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Ab",
+        "Fs",
+        "Db",
+        "A",
+        "Ab",
+        "Fs"
+      ],
+      "rawChords": [
+        "A",
+        "Ab",
+        "Fs",
+        "Db",
+        "A",
+        "Ab",
+        "Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:biii-?-bbiii-?-i-?-bbvi-?-biii-?-bbiii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "E",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "E",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:i-?-iv-?-v-?-?-v-?-iv-?-i-?-iv-?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Dbno3d",
+        "Db",
+        "Dbmin",
+        "Db"
+      ],
+      "rawChords": [
+        "Db",
+        "Dbno3d",
+        "Db",
+        "Dbmin",
+        "Db"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:bbvi-?-?-bbvi-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Ab",
+        "Fs",
+        "Db",
+        "A",
+        "Ab",
+        "Fs"
+      ],
+      "rawChords": [
+        "A",
+        "Ab",
+        "Fs",
+        "Db",
+        "A",
+        "Ab",
+        "Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:biii-?-bbiii-?-i-?-bbvi-?-biii-?-bbiii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "E",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "Dbmin",
+        "Db"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "E",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "B",
+        "Dbmin",
+        "B",
+        "A",
+        "Dbmin",
+        "Db"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:i-?-iv-?-v-?-?-v-?-iv-?-i-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-?-bbvii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Million Masks Of God",
+  "release_date": "2021-04-30",
+  "duration_ms": 258186
+}

@@ -1,0 +1,1600 @@
+Quick Jump
+
+Table of Contents
+Button
+Color Edit
+Combo & List
+Context
+Drag & Drop
+Drag & Slider
+Draw List
+Font
+Function
+Image
+Item & Status
+Keyboard & Mouse
+Layout
+List Clipper
+Menu
+Plot
+Popup & Modal
+Style
+Tab Bar
+Table
+Text
+Text & Scalar Input
+Text Filter
+Tree Node
+Utility
+Viewport
+Window
+ReaImGui Documentation
+Generated for version 0.9.3.3 · API version 0.9.3
+
+Forum thread · Source repository · Issue tracker
+
+Table of Contents
+Button
+Cardinal Directions
+Flags
+Color Edit
+Flags
+User Options
+Combo & List
+Combo Box (Dropdown)
+List Boxes
+Selectables
+Context
+Flags
+Options
+Drag & Drop
+Flags
+Payload
+Source
+Drag & Slider
+Drag Sliders
+Flags
+Regular Sliders
+Draw List
+Primitives
+Splitter
+Stateful Path
+Font
+Function
+Image
+Image Set
+Item & Status
+Dimensions
+Focus & Activation
+Hovered Flags
+For IsItemHovered
+Mouse Hovering Delays
+For IsWindowHovered
+Item/Widgets Utilities and Query Functions
+Keyboard & Mouse
+Keyboard
+Named Keys
+Keyboard
+Modifiers
+Mouse Buttons
+Mouse
+Mouse Cursor
+Shortcuts
+Flags
+Routing policies
+Layout
+Clipping
+Layout Cursor Positioning
+List Clipper
+Menu
+Plot
+Popup & Modal
+Flags
+For BeginPopupContext*
+For IsPopupOpen
+For OpenPopup* and BeginPopupContext*
+Open+Begin Combined Helpers
+Tooltips
+Style
+Colors
+Variables
+Tab Bar
+Tab Item
+Table
+Background
+Header & Columns
+Column Flags
+Input Configuration
+Output Status
+Sorting
+Table Flags
+Clipping
+Decorations
+Features
+Miscellaneous
+Padding
+Scrolling
+Sizing Extra Options
+Sizing Policy
+Sorting
+Text
+Text & Scalar Input
+Flags
+Basic filters
+Callback features
+Inputs
+Other options
+InputText Callback
+Text Filter
+Tree Node
+Flags
+Utility
+Clipboard
+Color Conversion
+Conditions
+ID Stack/Scope
+Logging/Capture
+Viewport
+Work Area
+Window
+Child Windows
+Child Flags
+Content Region
+Debug Windows
+Docking
+Flags
+Properties
+Focused Flags
+Size Callback
+Scrolling
+Button
+Most widgets return true when the value has been changed or when pressed/selected.
+
+You may also use one of the many IsItem* functions (e.g. IsItemActive, IsItemHovered, etc.) to query widget state.
+
+Function: ArrowButton
+Function: Button
+Function: Checkbox
+Function: CheckboxFlags
+Function: InvisibleButton
+Function: PopButtonRepeat
+Function: PushButtonRepeat
+Function: RadioButton
+Function: RadioButtonEx
+Function: SmallButton
+Cardinal Directions
+For ArrowButton.
+
+Constant: Dir_Down
+Constant: Dir_Left
+Constant: Dir_None
+Constant: Dir_Right
+Constant: Dir_Up
+Flags
+For InvisibleButton.
+
+Constant: ButtonFlags_MouseButtonLeft
+Constant: ButtonFlags_MouseButtonMiddle
+Constant: ButtonFlags_MouseButtonRight
+Constant: ButtonFlags_None
+Color Edit
+Tip: the ColorEdit* functions have a little color square that can be left-clicked to open a picker, and right-clicked to open an option menu.
+
+Function: ColorButton
+Function: ColorEdit3
+Function: ColorEdit4
+Function: ColorPicker3
+Function: ColorPicker4
+Function: SetColorEditOptions
+Flags
+Constant: ColorEditFlags_NoAlpha
+Constant: ColorEditFlags_NoBorder
+Constant: ColorEditFlags_NoDragDrop
+Constant: ColorEditFlags_NoInputs
+Constant: ColorEditFlags_NoLabel
+Constant: ColorEditFlags_NoOptions
+Constant: ColorEditFlags_NoPicker
+Constant: ColorEditFlags_NoSidePreview
+Constant: ColorEditFlags_NoSmallPreview
+Constant: ColorEditFlags_NoTooltip
+Constant: ColorEditFlags_None
+User Options
+(right-click on widget to change some of them)
+
+Constant: ColorEditFlags_AlphaBar
+Constant: ColorEditFlags_AlphaPreview
+Constant: ColorEditFlags_AlphaPreviewHalf
+Constant: ColorEditFlags_DisplayHSV
+Constant: ColorEditFlags_DisplayHex
+Constant: ColorEditFlags_DisplayRGB
+Constant: ColorEditFlags_Float
+Constant: ColorEditFlags_InputHSV
+Constant: ColorEditFlags_InputRGB
+Constant: ColorEditFlags_PickerHueBar
+Constant: ColorEditFlags_PickerHueWheel
+Constant: ColorEditFlags_Uint8
+Combo & List
+Combo Box (Dropdown)
+Function: BeginCombo
+Function: Combo
+Constant: ComboFlags_HeightLarge
+Constant: ComboFlags_HeightLargest
+Constant: ComboFlags_HeightRegular
+Constant: ComboFlags_HeightSmall
+Constant: ComboFlags_NoArrowButton
+Constant: ComboFlags_NoPreview
+Constant: ComboFlags_None
+Constant: ComboFlags_PopupAlignLeft
+Constant: ComboFlags_WidthFitPreview
+Function: EndCombo
+List Boxes
+This is essentially a thin wrapper to using BeginChild/EndChild with the ChildFlags_FrameStyle flag for stylistic changes + displaying a label.
+
+Function: BeginListBox
+Function: EndListBox
+Function: ListBox
+Selectables
+A selectable highlights when hovered, and can display another color when selected. Neighbors selectable extend their highlight bounds in order to leave no gap between them. This is so a series of selected Selectable appear contiguous.
+
+Function: Selectable
+Constant: SelectableFlags_AllowDoubleClick
+Constant: SelectableFlags_AllowOverlap
+Constant: SelectableFlags_Disabled
+Constant: SelectableFlags_DontClosePopups
+Constant: SelectableFlags_None
+Constant: SelectableFlags_SpanAllColumns
+Context
+Function: Attach
+Function: CreateContext
+Function: Detach
+Function: GetDeltaTime
+Function: GetFrameCount
+Function: GetFramerate
+Function: GetTime
+Flags
+For CreateContext and SetConfigVar(ConfigVar_Flags()).
+
+Constant: ConfigFlags_DockingEnable
+Constant: ConfigFlags_NavEnableKeyboard
+Constant: ConfigFlags_NavEnableSetMousePos
+Constant: ConfigFlags_NavNoCaptureKeyboard
+Constant: ConfigFlags_NoKeyboard
+Constant: ConfigFlags_NoMouse
+Constant: ConfigFlags_NoMouseCursorChange
+Constant: ConfigFlags_NoSavedSettings
+Constant: ConfigFlags_None
+Options
+Constant: ConfigVar_DebugBeginReturnValueLoop
+Constant: ConfigVar_DebugBeginReturnValueOnce
+Constant: ConfigVar_DockingNoSplit
+Constant: ConfigVar_DockingTransparentPayload
+Constant: ConfigVar_DockingWithShift
+Constant: ConfigVar_DragClickToInputText
+Constant: ConfigVar_Flags
+Constant: ConfigVar_HoverDelayNormal
+Constant: ConfigVar_HoverDelayShort
+Constant: ConfigVar_HoverFlagsForTooltipMouse
+Constant: ConfigVar_HoverFlagsForTooltipNav
+Constant: ConfigVar_HoverStationaryDelay
+Constant: ConfigVar_InputTextCursorBlink
+Constant: ConfigVar_InputTextEnterKeepActive
+Constant: ConfigVar_InputTrickleEventQueue
+Constant: ConfigVar_KeyRepeatDelay
+Constant: ConfigVar_KeyRepeatRate
+Constant: ConfigVar_MacOSXBehaviors
+Constant: ConfigVar_MouseDoubleClickMaxDist
+Constant: ConfigVar_MouseDoubleClickTime
+Constant: ConfigVar_MouseDragThreshold
+Constant: ConfigVar_ViewportsNoDecoration
+Constant: ConfigVar_WindowsMoveFromTitleBarOnly
+Constant: ConfigVar_WindowsResizeFromEdges
+Function: GetConfigVar
+Function: SetConfigVar
+Drag & Drop
+On source items, call BeginDragDropSource(), if it returns true also call SetDragDropPayload() + EndDragDropSource().
+
+On target candidates, call BeginDragDropTarget(), if it returns true also call AcceptDragDropPayload() + EndDragDropTarget().
+
+An item can be both a drag source and a drop target.
+
+Function: AcceptDragDropPayload
+Function: AcceptDragDropPayloadFiles
+Function: AcceptDragDropPayloadRGB
+Function: AcceptDragDropPayloadRGBA
+Function: BeginDragDropSource
+Function: BeginDragDropTarget
+Function: EndDragDropSource
+Function: EndDragDropTarget
+Function: GetDragDropPayload
+Function: GetDragDropPayloadFile
+Function: SetDragDropPayload
+Flags
+Constant: DragDropFlags_None
+Payload
+For AcceptDragDropPayload
+
+Constant: DragDropFlags_AcceptBeforeDelivery
+Constant: DragDropFlags_AcceptNoDrawDefaultRect
+Constant: DragDropFlags_AcceptNoPreviewTooltip
+Constant: DragDropFlags_AcceptPeekOnly
+Source
+For BeginDragDropSource
+
+Constant: DragDropFlags_PayloadAutoExpire
+Constant: DragDropFlags_SourceAllowNullID
+Constant: DragDropFlags_SourceExtern
+Constant: DragDropFlags_SourceNoDisableHover
+Constant: DragDropFlags_SourceNoHoldToOpenOthers
+Constant: DragDropFlags_SourceNoPreviewTooltip
+Drag & Slider
+We use the same sets of flags for Drag*() and Slider*() functions as the features are the same and it makes it easier to swap them.
+
+CTRL+Click on any drag box or slider to turn them into an input box. Manually input values aren't clamped by default and can go off-bounds. Use SliderFlags_AlwaysClamp to always clamp.
+
+Adjust format string to decorate the value with a prefix, a suffix, or adapt the editing and display precision e.g. "%.3f" -> 1.234; "%5.2f secs" -> 01.23 secs; "Biscuit: %.0f" -> Biscuit: 1; etc.
+
+Format string may also be set to nil or use the default format ("%f" or "%d").
+
+Drag Sliders
+Speed are per-pixel of mouse movement (v_speed=0.2: mouse needs to move by 5 pixels to increase value by 1). For gamepad/keyboard navigation, minimum speed is Max(v_speed, minimum_step_at_given_precision).
+
+Use v_min < v_max to clamp edits to given limits. Note that CTRL+Click manual input can override those limits if SliderFlags_AlwaysClamp is not used. Use v_max = FLT_MAX / INT_MAX etc to avoid clamping to a maximum, same with v_min = -FLT_MAX / INT_MIN to avoid clamping to a minimum.
+
+Function: DragDouble
+Function: DragDouble2
+Function: DragDouble3
+Function: DragDouble4
+Function: DragDoubleN
+Function: DragFloatRange2
+Function: DragInt
+Function: DragInt2
+Function: DragInt3
+Function: DragInt4
+Function: DragIntRange2
+Flags
+For DragDouble, DragInt, SliderDouble, SliderInt etc. (Those are per-item flags. There are shared flags in SetConfigVar: ConfigVar_DragClickToInputText
+
+Constant: SliderFlags_AlwaysClamp
+Constant: SliderFlags_Logarithmic
+Constant: SliderFlags_NoInput
+Constant: SliderFlags_NoRoundToFormat
+Constant: SliderFlags_None
+Constant: SliderFlags_WrapAround
+Regular Sliders
+Function: SliderAngle
+Function: SliderDouble
+Function: SliderDouble2
+Function: SliderDouble3
+Function: SliderDouble4
+Function: SliderDoubleN
+Function: SliderInt
+Function: SliderInt2
+Function: SliderInt3
+Function: SliderInt4
+Function: VSliderDouble
+Function: VSliderInt
+Draw List
+This is the low-level list of polygons that ImGui functions are filling. At the end of the frame, all draw lists are passed to the GPU for rendering.
+
+Each dear imgui window contains its own Draw List. You can use GetWindowDrawList() to access the current window draw list and draw custom primitives.
+
+The Draw List API uses absolute coordinates (0,0 is the top-left corner of the primary monitor, not of your window!). See GetCursorScreenPos.
+
+Constant: DrawFlags_Closed
+Constant: DrawFlags_None
+Constant: DrawFlags_RoundCornersAll
+Constant: DrawFlags_RoundCornersBottom
+Constant: DrawFlags_RoundCornersBottomLeft
+Constant: DrawFlags_RoundCornersBottomRight
+Constant: DrawFlags_RoundCornersLeft
+Constant: DrawFlags_RoundCornersNone
+Constant: DrawFlags_RoundCornersRight
+Constant: DrawFlags_RoundCornersTop
+Constant: DrawFlags_RoundCornersTopLeft
+Constant: DrawFlags_RoundCornersTopRight
+Function: DrawList_PopClipRect
+Function: DrawList_PushClipRect
+Function: DrawList_PushClipRectFullScreen
+Function: GetBackgroundDrawList
+Function: GetForegroundDrawList
+Function: GetWindowDrawList
+Primitives
+Filled shapes must always use clockwise winding order! The anti-aliasing fringe depends on it. Counter-clockwise shapes will have "inward" anti-aliasing. So e.g. DrawList_PathArcTo(center, radius, PI * -0.5, PI) is ok, whereas DrawList_PathArcTo(center, radius, PI, PI * -0.5) won't have correct anti-aliasing when followed by DrawList_PathFillConvex.
+
+For rectangular primitives, "p_min" and "p_max" represent the upper-left and lower-right corners.
+
+For circle primitives, use "num_segments == 0" to automatically calculate tessellation (preferred).
+
+Function: DrawList_AddBezierCubic
+Function: DrawList_AddBezierQuadratic
+Function: DrawList_AddCircle
+Function: DrawList_AddCircleFilled
+Function: DrawList_AddConcavePolyFilled
+Function: DrawList_AddConvexPolyFilled
+Function: DrawList_AddEllipse
+Function: DrawList_AddEllipseFilled
+Function: DrawList_AddImage
+Function: DrawList_AddImageQuad
+Function: DrawList_AddImageRounded
+Function: DrawList_AddLine
+Function: DrawList_AddNgon
+Function: DrawList_AddNgonFilled
+Function: DrawList_AddPolyline
+Function: DrawList_AddQuad
+Function: DrawList_AddQuadFilled
+Function: DrawList_AddRect
+Function: DrawList_AddRectFilled
+Function: DrawList_AddRectFilledMultiColor
+Function: DrawList_AddText
+Function: DrawList_AddTextEx
+Function: DrawList_AddTriangle
+Function: DrawList_AddTriangleFilled
+Splitter
+Split/Merge functions are used to split the draw list into different layers which can be drawn into out of order (e.g. submit FG primitives before BG primitives).
+
+Use to minimize draw calls (e.g. if going back-and-forth between multiple clipping rectangles, prefer to append into separate channels then merge at the end).
+
+Usage:
+
+if not ImGui.ValidatePtr(splitter, 'ImGui_DrawListSplitter*') then
+  splitter = ImGui.CreateDrawListSplitter(draw_list)
+end
+ImGui.DrawListSplitter_Split(splitter, 2)
+ImGui.DrawListSplitter_SetCurrentChannel(splitter, 0)
+ImGui.DrawList_AddRectFilled(draw_list, ...) -- background
+ImGui.DrawListSplitter_SetCurrentChannel(splitter, 1)
+ImGui.DrawList_AddRectFilled(draw_list, ...) -- foreground
+ImGui.DrawListSplitter_SetCurrentChannel(splitter, 0)
+ImGui.DrawList_AddRectFilled(draw_list, ...) -- background
+ImGui.DrawListSplitter_Merge(splitter)
+Function: CreateDrawListSplitter
+Function: DrawListSplitter_Clear
+Function: DrawListSplitter_Merge
+Function: DrawListSplitter_SetCurrentChannel
+Function: DrawListSplitter_Split
+Stateful Path
+Stateful path API, add points then finish with PathFillConvex() or PathStroke().
+
+Function: DrawList_PathArcTo
+Function: DrawList_PathArcToFast
+Function: DrawList_PathBezierCubicCurveTo
+Function: DrawList_PathBezierQuadraticCurveTo
+Function: DrawList_PathClear
+Function: DrawList_PathEllipticalArcTo
+Function: DrawList_PathFillConcave
+Function: DrawList_PathFillConvex
+Function: DrawList_PathLineTo
+Function: DrawList_PathRect
+Function: DrawList_PathStroke
+Font
+Supports loading fonts from the system by family name or from a file. Glyphs may contain colors in COLR/CPAL format.
+
+This API currently has multiple limitations (v1.0 blockers):
+
+ReaImGui rasterizes glyphs only from the Basic Latin and Latin Supplement Unicode blocks (U+0020 to U+00FF). UTF-8 is fully supported internally, however characters outside those blocks are displayed as '?'. See issue #5.
+Dear ImGui does not support using new fonts in the middle of a frame. Because of this, fonts must first be registered using Attach before any other context functions are used in the same defer cycle. (Attaching a font is a heavy operation and should ideally be done outside of the defer loop.)
+Function: CreateFont
+Function: CreateFontFromMem
+Constant: FontFlags_Bold
+Constant: FontFlags_Italic
+Constant: FontFlags_None
+Function: GetFont
+Function: GetFontSize
+Function: PopFont
+Function: PushFont
+Function
+Create reusable programs that can passed to and called back from functions such as InputText* and SetNextWindowSizeConstraints.
+
+They can also be used standalone with Function_Execute (eg. faster-than-Lua DSP processing).
+
+Function: CreateFunctionFromEEL
+Function: Function_Execute
+Function: Function_GetValue
+Function: Function_GetValue_Array
+Function: Function_GetValue_String
+Function: Function_SetValue
+Function: Function_SetValue_Array
+Function: Function_SetValue_String
+Image
+ReaImGui currently supports loading PNG and JPEG bitmap images. Flat vector images may be loaded as fonts, see CreateFont.
+
+UV parameters are texture coordinates in a scale of 0.0 (top/left) to 1.0 (bottom/right). Use values below 0.0 or above 1.0 to tile the image.
+
+Width/height are limited to 8192 pixels.
+
+There are also image functions in the DrawList API such as DrawList_AddImageQuad and DrawList_AddImageRounded.
+
+Caching of image objects may be implemented like this:
+
+local images = {}
+local function imageFromCache(fn)
+  local img = images[fn]
+  if not img then
+    img = {}
+    images[fn] = img
+  end
+
+  if not ImGui.ValidatePtr(img.inst, 'ImGui_Image*') then
+    if img.inst then images[img.inst] = nil end
+    img.inst = ImGui.CreateImage(fn)
+    local prev = images[img.inst]
+    if prev and prev ~= img then prev.inst = nil end
+    images[img.inst] = img
+  end
+
+  return img.inst
+end
+Function: CreateImage
+Function: CreateImageFromLICE
+Function: CreateImageFromMem
+Function: Image
+Function: ImageButton
+Function: Image_GetSize
+Image Set
+Helper to automatically select and scale an image to the DPI scale of the current window upon usage.
+
+ImageSet objects may be used in any function that expect an image as parameter.
+
+Usage:
+
+local set = ImGui.CreateImageSet()
+ImGui.ImageSet_Add(set, 1.0, ImGui.CreateImage('32x32.png'))
+ImGui.ImageSet_Add(set, 2.0, ImGui.CreateImage('64x64.png'))
+
+local function frame()
+  ImGui.Image(ctx, set, ImGui.Image_GetSize(set))
+  -- ...
+end
+Function: CreateImageSet
+Function: ImageSet_Add
+Item & Status
+Function: BeginDisabled
+Function: DebugStartItemPicker
+Function: EndDisabled
+Function: SetNextItemAllowOverlap
+Dimensions
+Function: CalcItemWidth
+Function: GetItemRectMax
+Function: GetItemRectMin
+Function: GetItemRectSize
+Function: PopItemWidth
+Function: PushItemWidth
+Function: SetNextItemWidth
+Focus & Activation
+Prefer using "SetItemDefaultFocus()" over "if(IsWindowAppearing()) SetScrollHereY()" when applicable to signify "this is the default item".
+
+Function: PopTabStop
+Function: PushTabStop
+Function: SetItemDefaultFocus
+Function: SetKeyboardFocusHere
+Hovered Flags
+For IsItemHovered and IsWindowHovered.
+
+Constant: HoveredFlags_AllowWhenBlockedByActiveItem
+Constant: HoveredFlags_AllowWhenBlockedByPopup
+Constant: HoveredFlags_ForTooltip
+Constant: HoveredFlags_NoNavOverride
+Constant: HoveredFlags_None
+Constant: HoveredFlags_Stationary
+For IsItemHovered
+Constant: HoveredFlags_AllowWhenDisabled
+Constant: HoveredFlags_AllowWhenOverlapped
+Constant: HoveredFlags_AllowWhenOverlappedByItem
+Constant: HoveredFlags_AllowWhenOverlappedByWindow
+Constant: HoveredFlags_RectOnly
+Mouse Hovering Delays
+Generally you can use HoveredFlags_ForTooltip to use application-standardized flags. Use those if you need specific overrides. See also HoveredFlags_Stationary.
+
+Constant: HoveredFlags_DelayNone
+Constant: HoveredFlags_DelayNormal
+Constant: HoveredFlags_DelayShort
+Constant: HoveredFlags_NoSharedDelay
+For IsWindowHovered
+Constant: HoveredFlags_AnyWindow
+Constant: HoveredFlags_ChildWindows
+Constant: HoveredFlags_DockHierarchy
+Constant: HoveredFlags_NoPopupHierarchy
+Constant: HoveredFlags_RootAndChildWindows
+Constant: HoveredFlags_RootWindow
+Item/Widgets Utilities and Query Functions
+Most of the functions are referring to the previous Item that has been submitted.
+
+See Demo Window under "Widgets->Querying Item Status" for an interactive visualization of most of those functions.
+
+Function: IsAnyItemActive
+Function: IsAnyItemFocused
+Function: IsAnyItemHovered
+Function: IsItemActivated
+Function: IsItemActive
+Function: IsItemClicked
+Function: IsItemDeactivated
+Function: IsItemDeactivatedAfterEdit
+Function: IsItemEdited
+Function: IsItemFocused
+Function: IsItemHovered
+Function: IsItemVisible
+Keyboard & Mouse
+Keyboard
+Function: GetInputQueueCharacter
+Function: GetKeyDownDuration
+Function: GetKeyMods
+Function: GetKeyPressedAmount
+Function: IsKeyDown
+Function: IsKeyPressed
+Function: IsKeyReleased
+Function: SetNextFrameWantCaptureKeyboard
+Named Keys
+Keyboard
+Constant: Key_0
+Constant: Key_1
+Constant: Key_2
+Constant: Key_3
+Constant: Key_4
+Constant: Key_5
+Constant: Key_6
+Constant: Key_7
+Constant: Key_8
+Constant: Key_9
+Constant: Key_A
+Constant: Key_Apostrophe
+Constant: Key_AppBack
+Constant: Key_AppForward
+Constant: Key_B
+Constant: Key_Backslash
+Constant: Key_Backspace
+Constant: Key_C
+Constant: Key_CapsLock
+Constant: Key_Comma
+Constant: Key_D
+Constant: Key_Delete
+Constant: Key_DownArrow
+Constant: Key_E
+Constant: Key_End
+Constant: Key_Enter
+Constant: Key_Equal
+Constant: Key_Escape
+Constant: Key_F
+Constant: Key_F1
+Constant: Key_F10
+Constant: Key_F11
+Constant: Key_F12
+Constant: Key_F13
+Constant: Key_F14
+Constant: Key_F15
+Constant: Key_F16
+Constant: Key_F17
+Constant: Key_F18
+Constant: Key_F19
+Constant: Key_F2
+Constant: Key_F20
+Constant: Key_F21
+Constant: Key_F22
+Constant: Key_F23
+Constant: Key_F24
+Constant: Key_F3
+Constant: Key_F4
+Constant: Key_F5
+Constant: Key_F6
+Constant: Key_F7
+Constant: Key_F8
+Constant: Key_F9
+Constant: Key_G
+Constant: Key_GraveAccent
+Constant: Key_H
+Constant: Key_Home
+Constant: Key_I
+Constant: Key_Insert
+Constant: Key_J
+Constant: Key_K
+Constant: Key_Keypad0
+Constant: Key_Keypad1
+Constant: Key_Keypad2
+Constant: Key_Keypad3
+Constant: Key_Keypad4
+Constant: Key_Keypad5
+Constant: Key_Keypad6
+Constant: Key_Keypad7
+Constant: Key_Keypad8
+Constant: Key_Keypad9
+Constant: Key_KeypadAdd
+Constant: Key_KeypadDecimal
+Constant: Key_KeypadDivide
+Constant: Key_KeypadEnter
+Constant: Key_KeypadEqual
+Constant: Key_KeypadMultiply
+Constant: Key_KeypadSubtract
+Constant: Key_L
+Constant: Key_LeftAlt
+Constant: Key_LeftArrow
+Constant: Key_LeftBracket
+Constant: Key_LeftCtrl
+Constant: Key_LeftShift
+Constant: Key_LeftSuper
+Constant: Key_M
+Constant: Key_Menu
+Constant: Key_Minus
+Constant: Key_N
+Constant: Key_NumLock
+Constant: Key_O
+Constant: Key_P
+Constant: Key_PageDown
+Constant: Key_PageUp
+Constant: Key_Pause
+Constant: Key_Period
+Constant: Key_PrintScreen
+Constant: Key_Q
+Constant: Key_R
+Constant: Key_RightAlt
+Constant: Key_RightArrow
+Constant: Key_RightBracket
+Constant: Key_RightCtrl
+Constant: Key_RightShift
+Constant: Key_RightSuper
+Constant: Key_S
+Constant: Key_ScrollLock
+Constant: Key_Semicolon
+Constant: Key_Slash
+Constant: Key_Space
+Constant: Key_T
+Constant: Key_Tab
+Constant: Key_U
+Constant: Key_UpArrow
+Constant: Key_V
+Constant: Key_W
+Constant: Key_X
+Constant: Key_Y
+Constant: Key_Z
+Modifiers
+Constant: Mod_Alt
+Constant: Mod_Ctrl
+Constant: Mod_None
+Constant: Mod_Shift
+Constant: Mod_Super
+Mouse Buttons
+This is mirroring the data also written accessible via IsMouseDown, GetMouseWheel etc, in a format allowing them to be accessed via standard key API.
+
+Constant: Key_MouseLeft
+Constant: Key_MouseMiddle
+Constant: Key_MouseRight
+Constant: Key_MouseWheelX
+Constant: Key_MouseWheelY
+Constant: Key_MouseX1
+Constant: Key_MouseX2
+Mouse
+To refer to a mouse button, you may use named enums in your code e.g. MouseButton_Left, MouseButton_Right.
+
+You can also use regular integer: it is forever guaranteed that 0=Left, 1=Right, 2=Middle. Buttons 3 and 4 do not have a named enum.
+
+Dragging operations are only reported after mouse has moved a certain distance away from the initial clicking position (see 'lock_threshold' parameters and 'ConfigVar_MouseDragThreshold').
+
+Function: GetMouseClickedCount
+Function: GetMouseClickedPos
+Function: GetMouseDelta
+Function: GetMouseDownDuration
+Function: GetMouseDragDelta
+Function: GetMousePos
+Function: GetMousePosOnOpeningCurrentPopup
+Function: GetMouseWheel
+Function: IsAnyMouseDown
+Function: IsMouseClicked
+Function: IsMouseDoubleClicked
+Function: IsMouseDown
+Function: IsMouseDragging
+Function: IsMouseHoveringRect
+Function: IsMousePosValid
+Function: IsMouseReleased
+Constant: MouseButton_Left
+Constant: MouseButton_Middle
+Constant: MouseButton_Right
+Function: ResetMouseDragDelta
+Mouse Cursor
+Function: GetMouseCursor
+Constant: MouseCursor_Arrow
+Constant: MouseCursor_Hand
+Constant: MouseCursor_None
+Constant: MouseCursor_NotAllowed
+Constant: MouseCursor_ResizeAll
+Constant: MouseCursor_ResizeEW
+Constant: MouseCursor_ResizeNESW
+Constant: MouseCursor_ResizeNS
+Constant: MouseCursor_ResizeNWSE
+Constant: MouseCursor_TextInput
+Function: SetMouseCursor
+Shortcuts
+Key chords can combine a Key_* and a Mod_* value. For example: Mod_Ctrl | Key_C. Only Mod_* values can be combined a Key_* value. Another Key_* value cannot be combined.
+
+Several callers may register interest in a shortcut, and only one owner gets it.
+
+Parent -> call Shortcut(Ctrl+S) // When Parent is focused, Parent gets the shortcut.
+Child1 -> call Shortcut(Ctrl+S) // When Child1 is focused, Child1 gets the shortcut (Child1 overrides Parent shortcuts)
+Child2 -> no call               // When Child2 is focused, Parent gets the shortcut.
+The whole system is order independent, so if Child1 makes its calls before Parent, results will be identical. This is an important property as it facilitate working with foreign code or larger codebase.
+
+To understand the difference:
+
+IsKeyChordPressed compares modifiers and calls IsKeyPressed -> function has no side-effect.
+Shortcut submits a route, routes are resolved, if it currently can be routed it calls IsKeyChordPressed -> function has (desirable) side-effects as it can prevents another call from getting the route.
+Registered routes may be visualized via Metrics/Debugger > Inputs (ShowMetricsWindow).
+
+Function: IsKeyChordPressed
+Function: SetNextItemShortcut
+Function: Shortcut
+Flags
+Constant: InputFlags_None
+Constant: InputFlags_Repeat
+Constant: InputFlags_RouteFromRootWindow
+Constant: InputFlags_RouteOverActive
+Constant: InputFlags_RouteOverFocused
+Constant: InputFlags_RouteUnlessBgFocused
+Constant: InputFlags_Tooltip
+Routing policies
+RouteGlobal+OverActive >> RouteActive or RouteFocused (if owner is active item) >> RouteGlobal+OverFocused >> RouteFocused (if in focused window stack) >> RouteGlobal.
+
+Default policy is RouteFocused. Can select only one policy among all available.
+
+Constant: InputFlags_RouteActive
+Constant: InputFlags_RouteAlways
+Constant: InputFlags_RouteFocused
+Constant: InputFlags_RouteGlobal
+Layout
+Function: BeginGroup
+Function: Dummy
+Function: EndGroup
+Function: Indent
+Function: NewLine
+Function: SameLine
+Function: Separator
+Function: SeparatorText
+Function: Spacing
+Function: Unindent
+Clipping
+Mouse hovering is affected by PushClipRect() calls, unlike direct calls to DrawList_PushClipRect() which are render only. Coordinates are in screen space.
+
+Function: IsRectVisible
+Function: IsRectVisibleEx
+Function: PopClipRect
+Function: PushClipRect
+Layout Cursor Positioning
+By "cursor" we mean the current output position. The typical widget behavior is to output themselves at the current cursor position, then move the cursor one line down.
+
+You can call SameLine() between widgets to undo the last carriage return and output at the right of the preceding widget.
+
+Function: GetCursorPos
+Function: GetCursorPosX
+Function: GetCursorPosY
+Function: GetCursorScreenPos
+Function: GetCursorStartPos
+Function: SetCursorPos
+Function: SetCursorPosX
+Function: SetCursorPosY
+Function: SetCursorScreenPos
+List Clipper
+Helper to manually clip large list of items.
+
+If you have lots evenly spaced items and you have random access to the list, you can perform coarse clipping based on visibility to only submit items that are in view.
+
+The clipper calculates the range of visible items and advance the cursor to compensate for the non-visible items we have skipped. (Dear ImGui already clip items based on their bounds but: it needs to first layout the item to do so, and generally fetching/submitting your own data incurs additional cost. Coarse clipping using a list clipper allows you to easily scale using lists with tens of thousands of items without a problem.)
+
+Usage:
+
+if not ImGui.ValidatePtr(clipper, 'ImGui_ListClipper*') then
+  clipper = ImGui.CreateListClipper(ctx)
+end
+ImGui.ListClipper_Begin(clipper, 1000) -- We have 1000 elements, evenly spaced
+while ImGui.ListClipper_Step(clipper) do
+  local display_start, display_end = ImGui.ListClipper_GetDisplayRange(clipper)
+  for row = display_start, display_end - 1 do
+    ImGui.Text(ctx, ("line number %d"):format(row))
+  end
+end
+Generally what happens is:
+
+Clipper lets you process the first element (DisplayStart = 0, DisplayEnd = 1) regardless of it being visible or not.
+User code submit that one element.
+Clipper can measure the height of the first element
+Clipper calculate the actual range of elements to display based on the current clipping rectangle, position the cursor before the first visible element.
+User code submit visible elements.
+The clipper also handles various subtleties related to keyboard/gamepad navigation, wrapping etc.
+Function: CreateListClipper
+Function: ListClipper_Begin
+Function: ListClipper_End
+Function: ListClipper_GetDisplayRange
+Function: ListClipper_IncludeItemByIndex
+Function: ListClipper_IncludeItemsByIndex
+Function: ListClipper_Step
+Menu
+Function: BeginMenu
+Function: BeginMenuBar
+Function: EndMenu
+Function: EndMenuBar
+Function: MenuItem
+Plot
+Simple data plotting using reaper_array as data source.
+
+Function: PlotHistogram
+Function: PlotLines
+Popup & Modal
+They block normal mouse hovering detection (and therefore most mouse interactions) behind them.
+If not modal: they can be closed by clicking anywhere outside them, or by pressing ESCAPE.
+Their visibility state (~bool) is held internally instead of being held by the programmer as we are used to with regular Begin*() calls.
+The 3 properties above are related: we need to retain popup visibility state in the library because popups may be closed as any time.
+
+You can bypass the hovering restriction by using HoveredFlags_AllowWhenBlockedByPopup when calling IsItemHovered or IsWindowHovered.
+
+IMPORTANT: Popup identifiers are relative to the current ID stack, so OpenPopup and BeginPopup generally needs to be at the same level of the stack.
+
+Function: BeginPopup
+Function: BeginPopupModal
+Function: CloseCurrentPopup
+Function: EndPopup
+Function: IsPopupOpen
+Function: OpenPopup
+Function: OpenPopupOnItemClick
+Flags
+Constant: PopupFlags_None
+For BeginPopupContext*
+Constant: PopupFlags_MouseButtonLeft
+Constant: PopupFlags_MouseButtonMiddle
+Constant: PopupFlags_MouseButtonRight
+Constant: PopupFlags_NoOpenOverItems
+For IsPopupOpen
+Constant: PopupFlags_AnyPopup
+Constant: PopupFlags_AnyPopupId
+Constant: PopupFlags_AnyPopupLevel
+For OpenPopup* and BeginPopupContext*
+Constant: PopupFlags_NoOpenOverExistingPopup
+Constant: PopupFlags_NoReopen
+Open+Begin Combined Helpers
+Helpers to do OpenPopup+BeginPopup where the Open action is triggered by e.g. hovering an item and right-clicking. They are convenient to easily create context menus, hence the name.
+
+Notice that BeginPopupContext* takes PopupFlags_* just like OpenPopup and unlike BeginPopup.
+
+We exceptionally default their flags to 1 (== PopupFlags_MouseButtonRight) for backward compatibility with older API taking 'int mouse_button = 1' parameter, so if you add other flags remember to re-add the PopupFlags_MouseButtonRight.
+
+Function: BeginPopupContextItem
+Function: BeginPopupContextWindow
+Tooltips
+Tooltips are windows following the mouse. They do not take focus away. A tooltip window can contain items of any type.
+
+Function: BeginItemTooltip
+Function: BeginTooltip
+Function: EndTooltip
+Function: SetItemTooltip
+Function: SetTooltip
+Style
+Colors
+Constant: Col_Border
+Constant: Col_BorderShadow
+Constant: Col_Button
+Constant: Col_ButtonActive
+Constant: Col_ButtonHovered
+Constant: Col_CheckMark
+Constant: Col_ChildBg
+Constant: Col_DockingEmptyBg
+Constant: Col_DockingPreview
+Constant: Col_DragDropTarget
+Constant: Col_FrameBg
+Constant: Col_FrameBgActive
+Constant: Col_FrameBgHovered
+Constant: Col_Header
+Constant: Col_HeaderActive
+Constant: Col_HeaderHovered
+Constant: Col_MenuBarBg
+Constant: Col_ModalWindowDimBg
+Constant: Col_NavHighlight
+Constant: Col_NavWindowingDimBg
+Constant: Col_NavWindowingHighlight
+Constant: Col_PlotHistogram
+Constant: Col_PlotHistogramHovered
+Constant: Col_PlotLines
+Constant: Col_PlotLinesHovered
+Constant: Col_PopupBg
+Constant: Col_ResizeGrip
+Constant: Col_ResizeGripActive
+Constant: Col_ResizeGripHovered
+Constant: Col_ScrollbarBg
+Constant: Col_ScrollbarGrab
+Constant: Col_ScrollbarGrabActive
+Constant: Col_ScrollbarGrabHovered
+Constant: Col_Separator
+Constant: Col_SeparatorActive
+Constant: Col_SeparatorHovered
+Constant: Col_SliderGrab
+Constant: Col_SliderGrabActive
+Constant: Col_Tab
+Constant: Col_TabDimmed
+Constant: Col_TabDimmedSelected
+Constant: Col_TabDimmedSelectedOverline
+Constant: Col_TabHovered
+Constant: Col_TabSelected
+Constant: Col_TabSelectedOverline
+Constant: Col_TableBorderLight
+Constant: Col_TableBorderStrong
+Constant: Col_TableHeaderBg
+Constant: Col_TableRowBg
+Constant: Col_TableRowBgAlt
+Constant: Col_Text
+Constant: Col_TextDisabled
+Constant: Col_TextSelectedBg
+Constant: Col_TitleBg
+Constant: Col_TitleBgActive
+Constant: Col_TitleBgCollapsed
+Constant: Col_WindowBg
+Function: DebugFlashStyleColor
+Function: GetColor
+Function: GetColorEx
+Function: GetStyleColor
+Function: PopStyleColor
+Function: PushStyleColor
+Variables
+Function: GetStyleVar
+Function: PopStyleVar
+Function: PushStyleVar
+Constant: StyleVar_Alpha
+Constant: StyleVar_ButtonTextAlign
+Constant: StyleVar_CellPadding
+Constant: StyleVar_ChildBorderSize
+Constant: StyleVar_ChildRounding
+Constant: StyleVar_DisabledAlpha
+Constant: StyleVar_FrameBorderSize
+Constant: StyleVar_FramePadding
+Constant: StyleVar_FrameRounding
+Constant: StyleVar_GrabMinSize
+Constant: StyleVar_GrabRounding
+Constant: StyleVar_IndentSpacing
+Constant: StyleVar_ItemInnerSpacing
+Constant: StyleVar_ItemSpacing
+Constant: StyleVar_PopupBorderSize
+Constant: StyleVar_PopupRounding
+Constant: StyleVar_ScrollbarRounding
+Constant: StyleVar_ScrollbarSize
+Constant: StyleVar_SelectableTextAlign
+Constant: StyleVar_SeparatorTextAlign
+Constant: StyleVar_SeparatorTextBorderSize
+Constant: StyleVar_SeparatorTextPadding
+Constant: StyleVar_TabBarBorderSize
+Constant: StyleVar_TabBorderSize
+Constant: StyleVar_TabRounding
+Constant: StyleVar_TableAngledHeadersAngle
+Constant: StyleVar_TableAngledHeadersTextAlign
+Constant: StyleVar_WindowBorderSize
+Constant: StyleVar_WindowMinSize
+Constant: StyleVar_WindowPadding
+Constant: StyleVar_WindowRounding
+Constant: StyleVar_WindowTitleAlign
+Tab Bar
+Function: BeginTabBar
+Function: EndTabBar
+Constant: TabBarFlags_AutoSelectNewTabs
+Constant: TabBarFlags_DrawSelectedOverline
+Constant: TabBarFlags_FittingPolicyResizeDown
+Constant: TabBarFlags_FittingPolicyScroll
+Constant: TabBarFlags_NoCloseWithMiddleMouseButton
+Constant: TabBarFlags_NoTabListScrollingButtons
+Constant: TabBarFlags_NoTooltip
+Constant: TabBarFlags_None
+Constant: TabBarFlags_Reorderable
+Constant: TabBarFlags_TabListPopupButton
+Tab Item
+Function: BeginTabItem
+Function: EndTabItem
+Function: SetTabItemClosed
+Function: TabItemButton
+Constant: TabItemFlags_Leading
+Constant: TabItemFlags_NoAssumedClosure
+Constant: TabItemFlags_NoCloseWithMiddleMouseButton
+Constant: TabItemFlags_NoPushId
+Constant: TabItemFlags_NoReorder
+Constant: TabItemFlags_NoTooltip
+Constant: TabItemFlags_None
+Constant: TabItemFlags_SetSelected
+Constant: TabItemFlags_Trailing
+Constant: TabItemFlags_UnsavedDocument
+Table
+See top of imgui_tables.cpp for general commentary.
+
+See TableFlags* and TableColumnFlags* enums for a description of available flags.
+
+The typical call flow is:
+
+Call BeginTable.
+Optionally call TableSetupColumn to submit column name/flags/defaults.
+Optionally call TableSetupScrollFreeze to request scroll freezing of columns/rows.
+Optionally call TableHeadersRow to submit a header row. Names are pulled from TableSetupColumn data.
+Populate contents:
+In most situations you can use TableNextRow + TableSetColumnIndex(N) to start appending into a column.
+If you are using tables as a sort of grid, where every column is holding the same type of contents, you may prefer using TableNextColumn instead of TableNextRow + TableSetColumnIndex. TableNextColumn will automatically wrap-around into the next row if needed.
+Summary of possible call flow:
+TableNextRow() -> TableSetColumnIndex(0) -> Text("Hello 0") -> TableSetColumnIndex(1) -> Text("Hello 1")  // OK
+TableNextRow() -> TableNextColumn()      -> Text("Hello 0") -> TableNextColumn()      -> Text("Hello 1")  // OK
+                  TableNextColumn()      -> Text("Hello 0") -> TableNextColumn()      -> Text("Hello 1")  // OK: TableNextColumn() automatically gets to next row!
+TableNextRow()                           -> Text("Hello 0")                                               // Not OK! Missing TableSetColumnIndex() or TableNextColumn()! Text will not appear!
+Call EndTable.
+Function: BeginTable
+Function: EndTable
+Function: TableGetColumnCount
+Function: TableGetColumnIndex
+Function: TableGetRowIndex
+Function: TableNextColumn
+Function: TableNextRow
+Constant: TableRowFlags_Headers
+Constant: TableRowFlags_None
+Function: TableSetColumnIndex
+Background
+Background colors are rendering in 3 layers:
+
+Layer 0: draw with RowBg0 color if set, otherwise draw with ColumnBg0 if set.
+Layer 1: draw with RowBg1 color if set, otherwise draw with ColumnBg1 if set.
+Layer 2: draw with CellBg color if set.
+The purpose of the two row/columns layers is to let you decide if a background color change should override or blend with the existing color. When using TableFlags_RowBg on the table, each row has the RowBg0 color automatically set for odd/even rows. If you set the color of RowBg0 target, your color will override the existing RowBg0 color. If you set the color of RowBg1 or ColumnBg1 target, your color will blend over the RowBg0 color.
+
+Constant: TableBgTarget_CellBg
+Constant: TableBgTarget_None
+Constant: TableBgTarget_RowBg0
+Constant: TableBgTarget_RowBg1
+Function: TableSetBgColor
+Header & Columns
+Use TableSetupColumn() to specify label, resizing policy, default width/weight, id, various other flags etc.
+
+Use TableHeadersRow() to create a header row and automatically submit a TableHeader() for each column. Headers are required to perform: reordering, sorting, and opening the context menu. The context menu can also be made available in columns body using TableFlags_ContextMenuInBody.
+
+You may manually submit headers using TableNextRow() + TableHeader() calls, but this is only useful in some advanced use cases (e.g. adding custom widgets in header row).
+
+Use TableSetupScrollFreeze() to lock columns/rows so they stay visible when scrolled.
+
+Function: TableAngledHeadersRow
+Function: TableGetColumnFlags
+Function: TableGetColumnName
+Function: TableGetHoveredColumn
+Function: TableHeader
+Function: TableHeadersRow
+Function: TableSetColumnEnabled
+Function: TableSetupColumn
+Function: TableSetupScrollFreeze
+Column Flags
+For TableSetupColumn.
+
+Constant: TableColumnFlags_None
+Input Configuration
+Constant: TableColumnFlags_AngledHeader
+Constant: TableColumnFlags_DefaultHide
+Constant: TableColumnFlags_DefaultSort
+Constant: TableColumnFlags_Disabled
+Constant: TableColumnFlags_IndentDisable
+Constant: TableColumnFlags_IndentEnable
+Constant: TableColumnFlags_NoClip
+Constant: TableColumnFlags_NoHeaderLabel
+Constant: TableColumnFlags_NoHeaderWidth
+Constant: TableColumnFlags_NoHide
+Constant: TableColumnFlags_NoReorder
+Constant: TableColumnFlags_NoResize
+Constant: TableColumnFlags_NoSort
+Constant: TableColumnFlags_NoSortAscending
+Constant: TableColumnFlags_NoSortDescending
+Constant: TableColumnFlags_PreferSortAscending
+Constant: TableColumnFlags_PreferSortDescending
+Constant: TableColumnFlags_WidthFixed
+Constant: TableColumnFlags_WidthStretch
+Output Status
+Read-only via TableGetColumnFlags
+
+Constant: TableColumnFlags_IsEnabled
+Constant: TableColumnFlags_IsHovered
+Constant: TableColumnFlags_IsSorted
+Constant: TableColumnFlags_IsVisible
+Sorting
+Constant: SortDirection_Ascending
+Constant: SortDirection_Descending
+Constant: SortDirection_None
+Function: TableGetColumnSortSpecs
+Function: TableNeedSort
+Table Flags
+For BeginTable.
+
+Important! Sizing policies have complex and subtle side effects, more so than you would expect. Read comments/demos carefully + experiment with live demos to get acquainted with them.
+The DEFAULT sizing policies are:
+Default to TableFlags_SizingFixedFit if ScrollX is on, or if host window has WindowFlags_AlwaysAutoResize.
+Default to TableFlags_SizingStretchSame if ScrollX is off.
+When ScrollX is off:
+Table defaults to TableFlags_SizingStretchSame -> all Columns defaults to TableColumnFlags_WidthStretch with same weight.
+Columns sizing policy allowed: Stretch (default), Fixed/Auto.
+Fixed Columns will generally obtain their requested width (unless the table cannot fit them all).
+Stretch Columns will share the remaining width.
+Mixed Fixed/Stretch columns is possible but has various side-effects on resizing behaviors. The typical use of mixing sizing policies is: any number of LEADING Fixed columns, followed by one or two TRAILING Stretch columns. (this is because the visible order of columns have subtle but necessary effects on how they react to manual resizing).
+When ScrollX is on:
+Table defaults to TableFlags_SizingFixedFit -> all Columns defaults to TableColumnFlags_WidthFixed
+Columns sizing policy allowed: Fixed/Auto mostly.
+Fixed Columns can be enlarged as needed. Table will show a horizontal scrollbar if needed.
+When using auto-resizing (non-resizable) fixed columns, querying the content width to use item right-alignment e.g. SetNextItemWidth(-FLT_MIN) doesn't make sense, would create a feedback loop.
+Using Stretch columns OFTEN DOES NOT MAKE SENSE if ScrollX is on, UNLESS you have specified a value for 'inner_width' in BeginTable(). If you specify a value for 'inner_width' then effectively the scrolling space is known and Stretch or mixed Fixed/Stretch columns become meaningful again.
+Read on documentation at the top of imgui_tables.cpp for details.
+Constant: TableFlags_None
+Clipping
+Constant: TableFlags_NoClip
+Decorations
+Constant: TableFlags_Borders
+Constant: TableFlags_BordersH
+Constant: TableFlags_BordersInner
+Constant: TableFlags_BordersInnerH
+Constant: TableFlags_BordersInnerV
+Constant: TableFlags_BordersOuter
+Constant: TableFlags_BordersOuterH
+Constant: TableFlags_BordersOuterV
+Constant: TableFlags_BordersV
+Constant: TableFlags_RowBg
+Features
+Constant: TableFlags_ContextMenuInBody
+Constant: TableFlags_Hideable
+Constant: TableFlags_NoSavedSettings
+Constant: TableFlags_Reorderable
+Constant: TableFlags_Resizable
+Constant: TableFlags_Sortable
+Miscellaneous
+Constant: TableFlags_HighlightHoveredColumn
+Padding
+Constant: TableFlags_NoPadInnerX
+Constant: TableFlags_NoPadOuterX
+Constant: TableFlags_PadOuterX
+Scrolling
+Constant: TableFlags_ScrollX
+Constant: TableFlags_ScrollY
+Sizing Extra Options
+Constant: TableFlags_NoHostExtendX
+Constant: TableFlags_NoHostExtendY
+Constant: TableFlags_NoKeepColumnsVisible
+Constant: TableFlags_PreciseWidths
+Sizing Policy
+(read above for defaults)
+
+Constant: TableFlags_SizingFixedFit
+Constant: TableFlags_SizingFixedSame
+Constant: TableFlags_SizingStretchProp
+Constant: TableFlags_SizingStretchSame
+Sorting
+Constant: TableFlags_SortMulti
+Constant: TableFlags_SortTristate
+Text
+Function: AlignTextToFramePadding
+Function: Bullet
+Function: BulletText
+Function: CalcTextSize
+Function: DebugTextEncoding
+Function: GetFrameHeight
+Function: GetFrameHeightWithSpacing
+Function: GetTextLineHeight
+Function: GetTextLineHeightWithSpacing
+Function: LabelText
+Function: PopTextWrapPos
+Function: PushTextWrapPos
+Function: Text
+Function: TextColored
+Function: TextDisabled
+Function: TextWrapped
+Text & Scalar Input
+Function: InputDouble
+Function: InputDouble2
+Function: InputDouble3
+Function: InputDouble4
+Function: InputDoubleN
+Function: InputInt
+Function: InputInt2
+Function: InputInt3
+Function: InputInt4
+Function: InputText
+Function: InputTextMultiline
+Function: InputTextWithHint
+Flags
+Most of these are only useful for InputText*() and not for InputDoubleX, InputIntX etc.
+
+(Those are per-item flags. There are shared flags in SetConfigVar: ConfigVar_InputTextCursorBlink and ConfigVar_InputTextEnterKeepActive.)
+
+Constant: InputTextFlags_None
+Basic filters
+See also InputTextFlags_CallbackCharFilter.
+
+Constant: InputTextFlags_CharsDecimal
+Constant: InputTextFlags_CharsHexadecimal
+Constant: InputTextFlags_CharsNoBlank
+Constant: InputTextFlags_CharsScientific
+Constant: InputTextFlags_CharsUppercase
+Callback features
+Constant: InputTextFlags_CallbackAlways
+Constant: InputTextFlags_CallbackCharFilter
+Constant: InputTextFlags_CallbackCompletion
+Constant: InputTextFlags_CallbackEdit
+Constant: InputTextFlags_CallbackHistory
+Inputs
+Constant: InputTextFlags_AllowTabInput
+Constant: InputTextFlags_CtrlEnterForNewLine
+Constant: InputTextFlags_EnterReturnsTrue
+Constant: InputTextFlags_EscapeClearsAll
+Other options
+Constant: InputTextFlags_AlwaysOverwrite
+Constant: InputTextFlags_AutoSelectAll
+Constant: InputTextFlags_DisplayEmptyRefVal
+Constant: InputTextFlags_NoHorizontalScroll
+Constant: InputTextFlags_NoUndoRedo
+Constant: InputTextFlags_ParseEmptyRefVal
+Constant: InputTextFlags_Password
+Constant: InputTextFlags_ReadOnly
+InputText Callback
+The functions and variables documented in this section are only available within the callbacks given to the InputText* functions. See CreateFunctionFromEEL.
+
+local reverseAlphabet = ImGui.CreateFunctionFromEEL([[
+  EventChar >= 'a' && EventChar <= 'z' ? EventChar = 'z' - (EventChar - 'a');
+]])
+
+local function frame()
+  rv, text = ImGui.InputText(ctx, 'Lowercase reversed', text,
+    ImGui.InputTextFlags_CallbackCharFilter, reverseAlphabet)
+end
+Variable access table (R = updated for reading, W = writes are applied, - = unmodified):
+
+Always	CharFilter	Completion	Edit	History
+EventFlag	R/-	R/-	R/-	R/-	R/-
+Flags	R/-	R/-	R/-	R/-	R/-
+EventChar	-/-	R/W	-/-	-/-	-/-
+EventKey	-/-	-/-	R/-	-/-	R/-
+Buf	R/-	-/-	R/-	R/-	R/-
+CursorPos	R/W	-/-	R/W	R/W	R/W
+SelectionStart	R/W	-/-	R/W	R/W	R/W
+SelectionEnd	R/W	-/-	R/W	R/W	R/W
+The InputTextCallback_* functions should only be used when EventFlag is one of InputTextFlags_CallbackAlways/Completion/Edit/History.
+
+Variable: Buf
+Variable: CursorPos
+Variable: EventChar
+Variable: EventFlag
+Variable: EventKey
+Variable: Flags
+Function: InputTextCallback_ClearSelection
+Function: InputTextCallback_DeleteChars
+Function: InputTextCallback_HasSelection
+Function: InputTextCallback_InsertChars
+Function: InputTextCallback_SelectAll
+Variable: SelectionEnd
+Variable: SelectionStart
+Text Filter
+Helper to perform simple filtering on text strings. In format "aaaaa[,bbbb][,ccccc]".
+
+Filter usage:
+
+"" display all lines
+"xxx" display lines containing "xxx"
+"xxx,yyy" display lines containing "xxx" or "yyy"
+"-xxx" hide lines containing "xxx"
+Function: CreateTextFilter
+Function: TextFilter_Clear
+Function: TextFilter_Draw
+Function: TextFilter_Get
+Function: TextFilter_IsActive
+Function: TextFilter_PassFilter
+Function: TextFilter_Set
+Tree Node
+Function: CollapsingHeader
+Function: GetTreeNodeToLabelSpacing
+Function: IsItemToggledOpen
+Function: SetNextItemOpen
+Function: TreeNode
+Function: TreeNodeEx
+Function: TreePop
+Function: TreePush
+Flags
+For TreeNode, TreeNodeEx and CollapsingHeader.
+
+Constant: TreeNodeFlags_AllowOverlap
+Constant: TreeNodeFlags_Bullet
+Constant: TreeNodeFlags_CollapsingHeader
+Constant: TreeNodeFlags_DefaultOpen
+Constant: TreeNodeFlags_FramePadding
+Constant: TreeNodeFlags_Framed
+Constant: TreeNodeFlags_Leaf
+Constant: TreeNodeFlags_NoAutoOpenOnLog
+Constant: TreeNodeFlags_NoTreePushOnOpen
+Constant: TreeNodeFlags_None
+Constant: TreeNodeFlags_OpenOnArrow
+Constant: TreeNodeFlags_OpenOnDoubleClick
+Constant: TreeNodeFlags_Selected
+Constant: TreeNodeFlags_SpanAllColumns
+Constant: TreeNodeFlags_SpanAvailWidth
+Constant: TreeNodeFlags_SpanFullWidth
+Constant: TreeNodeFlags_SpanTextWidth
+Utility
+Function: GetBuiltinPath
+Function: GetVersion
+Function: NumericLimits_Double
+Function: NumericLimits_Float
+Function: NumericLimits_Int
+Function: PointConvertNative
+Function: ProgressBar
+Function: ValidatePtr
+Clipboard
+Function: GetClipboardText
+Function: SetClipboardText
+Color Conversion
+Function: ColorConvertDouble4ToU32
+Function: ColorConvertHSVtoRGB
+Function: ColorConvertNative
+Function: ColorConvertRGBtoHSV
+Function: ColorConvertU32ToDouble4
+Conditions
+Used for SetNextWindow*(), SetWindow*() and SetNextItem*() functions.
+
+Constant: Cond_Always
+Constant: Cond_Appearing
+Constant: Cond_FirstUseEver
+Constant: Cond_Once
+ID Stack/Scope
+Read the FAQ for more details about how IDs are handled in dear imgui.
+
+Those questions are answered and impacted by understanding of the ID stack system:
+"Q: Why is my widget not reacting when I click on it?"
+"Q: How can I have widgets with an empty label?"
+"Q: How can I have multiple widgets with the same label?"
+Short version: ID are hashes of the entire ID stack. If you are creating widgets in a loop you most likely want to push a unique identifier (e.g. object pointer, loop index) to uniquely differentiate them.
+You can also use the "Label##foobar" syntax within widget label to distinguish them from each others.
+We use the "label"/"name" terminology to denote a string that will be displayed + used as an ID, whereas "str_id" denote a string that is only used as an ID and not normally displayed.
+Function: PopID
+Function: PushID
+Logging/Capture
+All text output from the interface can be captured into tty/file/clipboard. By default, tree nodes are automatically opened during logging.
+
+Function: LogFinish
+Function: LogText
+Function: LogToClipboard
+Function: LogToFile
+Function: LogToTTY
+Viewport
+Function: GetMainViewport
+Function: GetWindowViewport
+Function: Viewport_GetCenter
+Function: Viewport_GetPos
+Function: Viewport_GetSize
+Work Area
+Viewport minus task bars, menu bars, status bars
+
+Function: Viewport_GetWorkCenter
+Function: Viewport_GetWorkPos
+Function: Viewport_GetWorkSize
+Window
+Functions for creating and manipulating windows. Note that the bottom of the window stack always contains a window called "Debug".
+
+Function: Begin
+Function: End
+Child Windows
+Use child windows to begin into a self-contained independent scrolling/clipping regions within a host window. Child windows can embed their own child.
+
+Function: BeginChild
+Function: EndChild
+Child Flags
+About using AutoResizeX/AutoResizeY flags:
+
+May be combined with SetNextWindowSizeConstraints to set a min/max size for each axis (see Demo > Child > Auto-resize with Constraints).
+Size measurement for a given axis is only performed when the child window is within visible boundaries, or is just appearing.
+This allows BeginChild to return false when not within boundaries (e.g. when scrolling), which is more optimal. BUT it won't update its auto-size while clipped. While not perfect, it is a better default behavior as the always-on performance gain is more valuable than the occasional "resizing after becoming visible again" glitch.
+You may also use ChildFlags_AlwaysAutoResize to force an update even when child window is not in view. HOWEVER PLEASE UNDERSTAND THAT DOING SO WILL PREVENT BeginChild FROM EVER RETURNING FALSE, disabling benefits of coarse clipping.
+Constant: ChildFlags_AlwaysAutoResize
+Constant: ChildFlags_AlwaysUseWindowPadding
+Constant: ChildFlags_AutoResizeX
+Constant: ChildFlags_AutoResizeY
+Constant: ChildFlags_Border
+Constant: ChildFlags_FrameStyle
+Constant: ChildFlags_NavFlattened
+Constant: ChildFlags_None
+Constant: ChildFlags_ResizeX
+Constant: ChildFlags_ResizeY
+Content Region
+Retrieve available space from a given point. GetContentRegionAvail() is frequently useful.
+
+Function: GetContentRegionAvail
+Function: GetContentRegionMax
+Function: GetWindowContentRegionMax
+Function: GetWindowContentRegionMin
+Debug Windows
+Function: ShowAboutWindow
+Function: ShowDebugLogWindow
+Function: ShowIDStackToolWindow
+Function: ShowMetricsWindow
+Docking
+Dock windows into other windows or in REAPER dockers.
+
+Dock IDs are:
+
+0 = undocked
+-1 to -16 = REAPER docker index
+> 0 = Dear ImGui dockspace ID (when the user docked the window into another one).
+Drag from window title bar or their tab to dock/undock. Hold SHIFT to disable docking. Drag from window menu button (upper-left button) to undock an entire node (all windows). DockingWithShift == true, you instead need to hold SHIFT to enable docking.
+
+Function: GetWindowDockID
+Function: IsWindowDocked
+Function: SetNextWindowDockID
+Flags
+For Begin and BeginChild.
+
+(Those are per-window flags. There are shared flags in SetConfigVar: ConfigVar_WindowsResizeFromEdges and ConfigVar_WindowsMoveFromTitleBarOnly)
+
+Constant: WindowFlags_AlwaysAutoResize
+Constant: WindowFlags_AlwaysHorizontalScrollbar
+Constant: WindowFlags_AlwaysVerticalScrollbar
+Constant: WindowFlags_HorizontalScrollbar
+Constant: WindowFlags_MenuBar
+Constant: WindowFlags_NoBackground
+Constant: WindowFlags_NoCollapse
+Constant: WindowFlags_NoDecoration
+Constant: WindowFlags_NoDocking
+Constant: WindowFlags_NoFocusOnAppearing
+Constant: WindowFlags_NoInputs
+Constant: WindowFlags_NoMouseInputs
+Constant: WindowFlags_NoMove
+Constant: WindowFlags_NoNav
+Constant: WindowFlags_NoNavFocus
+Constant: WindowFlags_NoNavInputs
+Constant: WindowFlags_NoResize
+Constant: WindowFlags_NoSavedSettings
+Constant: WindowFlags_NoScrollWithMouse
+Constant: WindowFlags_NoScrollbar
+Constant: WindowFlags_NoTitleBar
+Constant: WindowFlags_None
+Constant: WindowFlags_TopMost
+Constant: WindowFlags_UnsavedDocument
+Properties
+Prefer using SetNextWindow* functions (before Begin) rather that SetWindow* functions (after Begin).
+
+'Current window' = the window we are appending into while inside a Begin()/End() block. 'Next window' = next window we will Begin() into.
+
+Function: GetWindowDpiScale
+Function: GetWindowHeight
+Function: GetWindowPos
+Function: GetWindowSize
+Function: GetWindowWidth
+Function: IsWindowAppearing
+Function: IsWindowFocused
+Function: IsWindowHovered
+Function: SetNextWindowBgAlpha
+Function: SetNextWindowCollapsed
+Function: SetNextWindowContentSize
+Function: SetNextWindowFocus
+Function: SetNextWindowPos
+Function: SetNextWindowScroll
+Function: SetNextWindowSize
+Function: SetNextWindowSizeConstraints
+Function: SetWindowCollapsed
+Function: SetWindowCollapsedEx
+Function: SetWindowFocus
+Function: SetWindowFocusEx
+Function: SetWindowPos
+Function: SetWindowPosEx
+Function: SetWindowSize
+Function: SetWindowSizeEx
+Focused Flags
+For IsWindowFocused.
+
+Constant: FocusedFlags_AnyWindow
+Constant: FocusedFlags_ChildWindows
+Constant: FocusedFlags_DockHierarchy
+Constant: FocusedFlags_NoPopupHierarchy
+Constant: FocusedFlags_None
+Constant: FocusedFlags_RootAndChildWindows
+Constant: FocusedFlags_RootWindow
+Size Callback
+For SetNextWindowSizeConstraints.
+
+Variable: CurrentSize
+Variable: DesiredSize
+Variable: Pos
+Scrolling
+Any change of Scroll will be applied at the beginning of next frame in the first call to Begin().
+
+You may instead use SetNextWindowScroll() prior to calling Begin() to avoid this delay, as an alternative to using SetScrollX()/SetScrollY().
+
+Function: GetScrollMaxX
+Function: GetScrollMaxY
+Function: GetScrollX
+Function: GetScrollY
+Function: SetScrollFromPosX
+Function: SetScrollFromPosY
+Function: SetScrollHereX
+Function: SetScrollHereY
+Function: SetScrollX
+Function: SetScrollY
+EOF

@@ -1,0 +1,24 @@
+{
+  "total_patterns": 1,
+  "styles": {
+    "funk": {
+      "count": 1,
+      "tempo_ranges": {
+        "fast_120_to_140bpm": {
+          "count": 1,
+          "patterns": [
+            {
+              "filename": "drummer1_137bpm_beat_1_funk-groove1_138_beat_4-4.mid",
+              "path": "C:\\Users\\CraftAuto-Sales\\AppData\\Roaming\\REAPER\\Scripts\\songbase\\data\\midi\\groove_midi\\funk\\fast_120_to_140bpm\\drummer1_137bpm_beat_1_funk-groove1_138_beat_4-4.mid",
+              "drummer": "drummer1",
+              "tempo": 137,
+              "beat_type": "beat",
+              "time_signature": "4/4",
+              "duration": 27.87230769375
+            }
+          ]
+        }
+      }
+    }
+  }
+}

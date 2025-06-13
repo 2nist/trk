@@ -1,0 +1,301 @@
+{
+  "songID": "entry_101388",
+  "title": "Unbelievable",
+  "artist": "Texas",
+  "spotifyID": "4g7EVpCLv5c3xHV0rO6uyI",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Gsus4",
+        "Amin",
+        "F",
+        "C",
+        "Gsus4",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Gsus4",
+        "Amin",
+        "F",
+        "C",
+        "Gsus4",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Gsus4",
+        "Amin",
+        "F",
+        "C",
+        "Gsus4",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Gsus4",
+        "Amin",
+        "F",
+        "C",
+        "Gsus4",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "Amin",
+        "F",
+        "C",
+        "Gsus4",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "F",
+        "Dmin7",
+        "Amin",
+        "F",
+        "C",
+        "Gsus4",
+        "Amin",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:?-v-?-?-?-v-?-ii-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Gsus4",
+        "Amin",
+        "F",
+        "C",
+        "Gsus4",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Gsus4",
+        "Amin",
+        "F",
+        "C",
+        "Gsus4",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Gsus4",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Gsus4",
+        "Amin",
+        "F",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Hi (Deluxe)",
+  "release_date": "2021-05-28",
+  "duration_ms": 211293
+}

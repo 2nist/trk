@@ -1,0 +1,415 @@
+{
+  "songID": "entry_100802",
+  "title": "Over You",
+  "artist": "Meghan Tonjes",
+  "spotifyID": "30D2bGKHcu1q5n9XngzC6m",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:?-iv-?-i-?-ii-?-iii-?-?-iv-?-i-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:?-iv-?-i-?-ii-?-iii-?-?-iv-?-i-?-ii-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:iv-?-i-?-ii-?-iii-?-?-iv-?-i-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:?-iv-?-i-?-ii-?-iii-?-?-iv-?-i-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:?-iv-?-i-?-ii-?-iii-?-?-iv-?-i-?-ii-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:iv-?-i-?-ii-?-iii-?-?-iv-?-i-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:?-iv-?-i-?-ii-?-iii-?-?-iv-?-i-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "F",
+        "G",
+        "Bb",
+        "F",
+        "G",
+        "Bb",
+        "F",
+        "G",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "G",
+        "Bb",
+        "F",
+        "G",
+        "Bb",
+        "F",
+        "G",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-ii-?-iii-?-v-?-ii-?-iii-?-v-?-ii-?-iii-?-?-v-?-ii-?-iii-?-#iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "G",
+        "A",
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.57",
+        "progression:?-iv-?-v-?-ii-?-iii-?-?-iv-?-i-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:?-iv-?-i-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "This Year",
+  "release_date": "2011-07-26",
+  "duration_ms": 244506
+}

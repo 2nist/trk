@@ -1,0 +1,253 @@
+{
+  "songID": "entry_100718",
+  "title": "Blue Nights",
+  "artist": "Radio Heart",
+  "spotifyID": "7xxPNev9XmERrw5sDyOn3i",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "F",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "F",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:i-?-iv-?-v-?-iv-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "F",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "F",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:i-?-iv-?-v-?-iv-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "F",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "Dmin",
+        "C",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "Dmin",
+        "C",
+        "G",
+        "Amin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:v-?-iv-?-?-?-v-?-iv-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "F",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "F",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:i-?-iv-?-v-?-iv-?-?-?-v-?-?-i-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Radio Heart",
+  "release_date": "1999-05-10",
+  "duration_ms": 279386
+}

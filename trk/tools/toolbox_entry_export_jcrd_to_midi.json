@@ -1,0 +1,19 @@
+{
+  "script": "export_jcrd_to_midi.py",
+  "name": "Export .jcrd to MIDI",
+  "description": "Converts chords in each section to a MIDI file using PrettyMIDI.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Folder containing .jcrd files (default: mcgill_jcrd/)"
+    },
+    {
+      "name": "--output",
+      "required": false,
+      "type": "text",
+      "help": "Folder to save generated MIDI files (default: export/midi/)"
+    }
+  ]
+}

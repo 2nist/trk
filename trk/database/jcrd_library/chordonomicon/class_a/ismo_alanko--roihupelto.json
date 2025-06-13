@@ -1,0 +1,193 @@
+{
+  "songID": "entry_0256",
+  "title": "Roihupelto",
+  "artist": "Ismo Alanko",
+  "spotifyID": "3RDAtRpUJDMWMAqWWPhLM5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Db",
+        "Dbmin",
+        "Fmin",
+        "Cmin",
+        "A",
+        "Gb",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Ab",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Db",
+        "Dbmin",
+        "Fmin",
+        "Cmin",
+        "A",
+        "Gb",
+        "Db"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.24",
+        "progression:bbiii-?-bbiii-?-bbiii-?-biv-?-?-bbvi-?-?-?-?-biii-?-bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Db",
+        "Emin",
+        "Fmin",
+        "Cmin",
+        "Ebmin",
+        "Cmin",
+        "A",
+        "Bbmin",
+        "Gb",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Db",
+        "Emin",
+        "Fmin",
+        "Cmin",
+        "Ebmin",
+        "Cmin",
+        "A",
+        "Bbmin",
+        "Gb",
+        "Db"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:bbiii-?-biv-?-?-bbvi-?-?-?-?-?-?-biii-?-?-bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gbmin",
+        "Ab",
+        "Gbmin",
+        "Ab",
+        "Db",
+        "Gb",
+        "Fmin",
+        "Gb",
+        "Db",
+        "Fmin",
+        "Gb",
+        "Gbmin",
+        "Db",
+        "Gb",
+        "Db"
+      ],
+      "rawChords": [
+        "Gbmin",
+        "Ab",
+        "Gbmin",
+        "Ab",
+        "Db",
+        "Gb",
+        "Fmin",
+        "Gb",
+        "Db",
+        "Fmin",
+        "Gb",
+        "Gbmin",
+        "Db",
+        "Gb",
+        "Db"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:?-bbiii-?-?-bbiii-?-bbvi-?-bbii-?-?-bbii-?-bbvi-?-?-bbii-?-?-bbvi-?-bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gb",
+        "Ab",
+        "Gb",
+        "Ab",
+        "Gb",
+        "Ab",
+        "Gb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Gb",
+        "Ab",
+        "Gb",
+        "Ab",
+        "Gb",
+        "Ab",
+        "Gb",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:bbv-?-bbvi-?-bbv-?-bbvi-?-bbv-?-bbvi-?-bbv-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude"
+  ],
+  "tags": [],
+  "album": "Me olemme ihme",
+  "release_date": "2023-02-10",
+  "duration_ms": 242502
+}

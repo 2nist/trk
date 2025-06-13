@@ -1,0 +1,391 @@
+{
+  "songID": "entry_10232",
+  "title": "Frosty the Snowman",
+  "artist": "America",
+  "spotifyID": "6UChyrZDTWfLVmFus9pBix",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G7sus4",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "G7sus4",
+        "G7",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.54",
+        "progression:iv-?-i-?-iv-?-i-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin7",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin7",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-i-?-v-?-i-?-v-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Emin7",
+        "Dmin7",
+        "G7",
+        "C",
+        "G",
+        "Emin",
+        "Amin7",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Emin7",
+        "Dmin7",
+        "G7",
+        "C",
+        "G",
+        "Emin",
+        "Amin7",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:iv-?-?-?-v-?-i-?-v-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin7",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin7",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-i-?-v-?-i-?-v-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Db"
+      ],
+      "rawChords": [
+        "Db"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "Ab",
+        "Db"
+      ],
+      "rawChords": [
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Ebmin",
+        "Ab",
+        "Db"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:bbii-?-bbvi-?-bbii-?-bbvi-?-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Db",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "Db"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Db",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Ebmin",
+        "Ab",
+        "Db"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:?-bbvi-?-bbii-?-bbvi-?-?-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gb",
+        "Fmin",
+        "Ebmin7",
+        "Ab7",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Gb",
+        "Fmin",
+        "Ebmin7",
+        "Ab7",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Ab"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:bbv-?-?-?-bbvi-?-bbii-?-bbvi-?-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Ebmin7",
+        "Ab",
+        "Db"
+      ],
+      "rawChords": [
+        "Db",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Ebmin7",
+        "Ab",
+        "Db"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:bbvi-?-bbii-?-bbvi-?-bbii-?-bbvi-?-?-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Ebmin7",
+        "Ab",
+        "Db",
+        "Gb",
+        "Db"
+      ],
+      "rawChords": [
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Ebmin7",
+        "Ab",
+        "Db",
+        "Gb",
+        "Db"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:bbii-?-bbvi-?-?-?-bbiii-?-bbvi-?-bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Holiday Harmony",
+  "release_date": "2018-11-02",
+  "duration_ms": 151440
+}

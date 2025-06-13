@@ -1,0 +1,219 @@
+{
+  "songID": "entry_102490",
+  "title": "Liar Liar - Recorded at Spotify Studios NYC",
+  "artist": "Aubrie Sellers",
+  "spotifyID": "54whmtPE736Lh8t0cjrihv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Spotify Singles",
+  "release_date": "2017-06-21",
+  "duration_ms": 257787
+}

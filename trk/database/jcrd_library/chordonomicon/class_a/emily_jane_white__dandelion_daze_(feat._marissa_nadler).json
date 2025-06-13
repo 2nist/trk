@@ -1,0 +1,395 @@
+{
+  "songID": "entry_10222",
+  "title": "Dandelion Daze (feat. Marissa Nadler)",
+  "artist": "Emily Jane White",
+  "spotifyID": "0SX6qUaU81lNg9R54jRQPN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:v-?-?-v-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-?-v-?-?-i-?-v-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:i-?-v-?-?-i-?-v-?-?-iv-?-i-?-v-?-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-v-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:v-?-ii-?-?-v-?-ii-?-?-?-v-?-ii-?-?-v-?-ii-?-?-i-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F",
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:i-?-v-?-?-i-?-v-?-?-iv-?-i-?-v-?-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-v-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "Amin",
+        "C",
+        "G",
+        "Dmin",
+        "C",
+        "G",
+        "Dmin",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-?-i-?-v-?-?-?-i-?-v-?-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Blood / Lines",
+  "release_date": "2013-11-01",
+  "duration_ms": 202760
+}

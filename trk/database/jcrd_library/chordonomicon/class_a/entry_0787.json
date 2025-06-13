@@ -1,0 +1,279 @@
+{
+  "songID": "entry_0787",
+  "title": "CENERE",
+  "artist": "Lazza",
+  "spotifyID": "0mHC3BK9vFGoEU0EcGPWRZ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Bbmaj7",
+        "Cadd13"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Bbmaj7",
+        "Cadd13"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Bbmaj7",
+        "Cadd13",
+        "Dmin",
+        "Amin",
+        "Bbmaj7",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Bbmaj7",
+        "Cadd13",
+        "Dmin",
+        "Amin",
+        "Bbmaj7",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-v-i-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13",
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13",
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-v-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bbmaj7",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Gmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Bbmaj7",
+        "Gmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Gmin",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-?-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13",
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13",
+        "Dmin",
+        "Amin",
+        "Bb",
+        "Cadd13",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-v-?-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "SIRIO",
+  "release_date": "2022-04-07",
+  "duration_ms": 208323
+}

@@ -1,0 +1,385 @@
+{
+  "songID": "entry_102917",
+  "title": "Als Ik Bij Jou Ben",
+  "artist": "BRAM",
+  "spotifyID": "283LhJvIMoyf60qvBwGBKQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "Amin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Amin",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "D11",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "D11",
+        "Amin",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-?-?-i-?-v-?-iv-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "D/Fs",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "D/Fs",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.44",
+        "progression:i-?-v-?-ii-?-?-i-?-v-?-ii-?-i-?-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "D11",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "D11",
+        "Amin",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-?-?-i-?-v-?-iv-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "D/Fs",
+        "Amin",
+        "C",
+        "Ds"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "D/Fs",
+        "Amin",
+        "C",
+        "Ds"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.56",
+        "progression:i-?-v-?-ii-?-?-i-?-v-?-ii-?-i-?-?-?-?-i-?-#ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Ds",
+        "F",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "Ds",
+        "F",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-#ii-?-iv-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "D/Fs",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "Amin",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin",
+        "D/Fs",
+        "Amin",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-ii-?-?-i-?-v-?-ii-?-i-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "80's KID",
+  "release_date": "2022-10-06",
+  "duration_ms": 196709
+}

@@ -1,0 +1,279 @@
+{
+  "songID": "entry_102519",
+  "title": "Tchaye (traditionnel)",
+  "artist": "Les Yeux Noirs",
+  "spotifyID": "3MAF1rU3VnBe70MVbKb1R9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bmin",
+        "A",
+        "Dmin",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bmin",
+        "A",
+        "Dmin",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-v-?-?-iii-?-?-v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Dmin",
+        "F",
+        "G",
+        "C",
+        "Bb",
+        "A",
+        "Dmin",
+        "F",
+        "Dmin",
+        "C",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "G",
+        "C",
+        "Bb",
+        "A",
+        "Dmin",
+        "F",
+        "Dmin",
+        "C",
+        "Bb",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.80",
+        "progression:?-i-?-ii-?-v-?-iv-?-iii-?-?-i-?-?-v-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bmin",
+        "A",
+        "Dmin",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bmin",
+        "A",
+        "Dmin",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-v-?-?-iii-?-?-v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bmin",
+        "A",
+        "Dmin",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bmin",
+        "A",
+        "Dmin",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-v-?-?-iii-?-?-v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "balamouk",
+  "release_date": "2000-02-24",
+  "duration_ms": 237413
+}

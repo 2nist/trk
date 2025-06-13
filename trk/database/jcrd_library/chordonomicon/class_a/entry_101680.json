@@ -1,0 +1,149 @@
+{
+  "songID": "entry_101680",
+  "title": "In the Night",
+  "artist": "Emmy Law",
+  "spotifyID": "5bRcTasDJl01vLTKuwdYur",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-v-?-?-?-ii-?-i-?-?-ii-?-i-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9",
+        "Bb",
+        "Bbadd9"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-?-v-?-?-?-ii-?-i-?-?-ii-?-i-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Bitter Heart",
+  "release_date": "2021-05-21",
+  "duration_ms": 126333
+}

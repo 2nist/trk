@@ -1,0 +1,199 @@
+{
+  "songID": "entry_100992",
+  "title": "If I Could See The World (Through The Eyes Of A Child)",
+  "artist": "Patsy Cline",
+  "spotifyID": "5jE7dpGqFxP84IEY5cfbon",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-v-i-v-ii-v-v-i-v-ii-v-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "E7",
+        "A7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-i-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-v-i-v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Intro",
+      "chords": [
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-ii-v-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "E7",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "E7",
+        "A7",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "A7",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-vi-ii-v-v-i-v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Intro",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Here's Patsy Cline",
+  "release_date": "1965-07-05",
+  "duration_ms": 173760
+}

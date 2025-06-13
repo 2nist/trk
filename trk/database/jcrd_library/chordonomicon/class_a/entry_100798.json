@@ -1,0 +1,277 @@
+{
+  "songID": "entry_100798",
+  "title": "Don\u2019t Cry Me A River",
+  "artist": "Nona",
+  "spotifyID": "2ETcHxfcoUZDfks1wwCUhH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B7",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "B7",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:ii-i-v-ii-i-v-?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-i-v-?-i-v-?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "A",
+        "E",
+        "Bmin7",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "No Tears In My Champagne",
+  "release_date": "2022-06-17",
+  "duration_ms": 197162
+}

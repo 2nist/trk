@@ -1,0 +1,191 @@
+{
+  "songID": "entry_0291",
+  "title": "What Happened to Ryan",
+  "artist": "Jessie Murph",
+  "spotifyID": "0UYNa7reQKIbADXr8iN28w",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "Emin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-i-v-?-ii-i-?-ii-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "Emin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-i-v-?-ii-i-?-ii-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-i-v-?-ii-i-?-ii-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "drowning",
+  "release_date": "2023-02-10",
+  "duration_ms": 155591
+}

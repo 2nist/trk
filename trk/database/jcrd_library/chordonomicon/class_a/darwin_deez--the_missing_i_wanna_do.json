@@ -1,0 +1,249 @@
+{
+  "songID": "entry_102873",
+  "title": "The Missing I Wanna Do",
+  "artist": "Darwin Deez",
+  "spotifyID": "4RDDUZN4pw41sbOgANUveN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "As",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "As",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:v-?-#ii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "As",
+        "A",
+        "G",
+        "As",
+        "A",
+        "G",
+        "As",
+        "A",
+        "G",
+        "As",
+        "A",
+        "G",
+        "E",
+        "G"
+      ],
+      "rawChords": [
+        "As",
+        "A",
+        "G",
+        "As",
+        "A",
+        "G",
+        "As",
+        "A",
+        "G",
+        "As",
+        "A",
+        "G",
+        "E",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:#ii-?-ii-?-i-?-#ii-?-ii-?-i-?-#ii-?-ii-?-i-?-#ii-?-ii-?-i-?-vi-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "E",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "E",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:ii-?-v-?-iii-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "As",
+        "A",
+        "G",
+        "As",
+        "A",
+        "G",
+        "E",
+        "G"
+      ],
+      "rawChords": [
+        "As",
+        "A",
+        "G",
+        "As",
+        "A",
+        "G",
+        "E",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:#ii-?-ii-?-i-?-#ii-?-ii-?-i-?-vi-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "E",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "E",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.53",
+        "progression:ii-?-v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cs",
+        "Fsmin",
+        "Emin",
+        "As"
+      ],
+      "rawChords": [
+        "Cs",
+        "Fsmin",
+        "Emin",
+        "As"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "E",
+        "G",
+        "D",
+        "G",
+        "E",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "E",
+        "G",
+        "D",
+        "G",
+        "E",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.53",
+        "progression:ii-?-v-?-iii-?-v-?-ii-?-v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Double Down",
+  "release_date": "2015-09-18",
+  "duration_ms": 234025
+}

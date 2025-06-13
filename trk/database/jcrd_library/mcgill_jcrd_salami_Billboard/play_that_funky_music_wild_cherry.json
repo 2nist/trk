@@ -1,0 +1,257 @@
+{
+  "title": "Play That Funky Music",
+  "artist": "Wild Cherry",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 232,
+      "duration_ms": 17675,
+      "chords": [
+        "E:1/1",
+        "E:1/1",
+        "E:1/1",
+        "E:1/1",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 17907,
+      "duration_ms": 35545,
+      "chords": [
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 53452,
+      "duration_ms": 8657,
+      "chords": [
+        "E:7",
+        "E:7",
+        "E:7",
+        "E:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 62110,
+      "duration_ms": 26267,
+      "chords": [
+        "G:9",
+        "G:9",
+        "G:9",
+        "G:9",
+        "G:9",
+        "Bb:9",
+        "B:7(#9)",
+        "B:7(#9)",
+        "B:7(#9)",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 88377,
+      "duration_ms": 17482,
+      "chords": [
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 105860,
+      "duration_ms": 35272,
+      "chords": [
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 141132,
+      "duration_ms": 8674,
+      "chords": [
+        "E:9",
+        "E:7",
+        "E:7",
+        "E:7",
+        "E:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_2",
+      "start_ms": 149806,
+      "duration_ms": 26345,
+      "chords": [
+        "G:9",
+        "G:9",
+        "G:9",
+        "G:9",
+        "G:9",
+        "Bb:9",
+        "B:7(#9)",
+        "B:7(#9)",
+        "B:7(#9)",
+        "E:9",
+        "E:9",
+        "E:9",
+        "E:9"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_3",
+      "start_ms": 176152,
+      "duration_ms": 8561,
+      "chords": [
+        "G:9",
+        "G:9",
+        "G:9",
+        "G:9"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 184714,
+      "duration_ms": 13921,
+      "chords": [
+        "G:9",
+        "G:9",
+        "G:9",
+        "G:9",
+        "G:9",
+        "G:9",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

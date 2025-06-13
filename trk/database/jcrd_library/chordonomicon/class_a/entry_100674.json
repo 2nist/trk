@@ -1,0 +1,267 @@
+{
+  "songID": "entry_100674",
+  "title": "Don't Touch Me",
+  "artist": "Carmela",
+  "spotifyID": "53Z9ocAcaCW10kqrKvBvyn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-?-?-vi-v-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs",
+        "Bmin",
+        "D",
+        "Cs",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs",
+        "Bmin",
+        "D",
+        "Cs",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-i-?-?-ii-i-?-?-i-?-?-i-?-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Cs",
+        "Fsmin",
+        "E",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Cs",
+        "Fsmin",
+        "E",
+        "Bmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs",
+        "Bmin",
+        "D",
+        "Cs",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs",
+        "Bmin",
+        "D",
+        "Cs",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-i-?-?-ii-i-?-?-i-?-?-i-?-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "E",
+        "Bmin",
+        "Cs",
+        "Fsmin",
+        "E",
+        "Bmin",
+        "Cs",
+        "E",
+        "F",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "E",
+        "Bmin",
+        "Cs",
+        "Fsmin",
+        "E",
+        "Bmin",
+        "Cs",
+        "E",
+        "F",
+        "Fsmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-iii-?-?-?-iii-?-?-iii-iv-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin",
+        "E",
+        "D",
+        "Cs",
+        "Fsmin",
+        "D",
+        "Cs",
+        "Fsmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-?-?-ii-i-?-?-i-?-?-ii-i-?-?-i-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Vital Fidelity",
+  "release_date": "2020-05-01",
+  "duration_ms": 188362
+}

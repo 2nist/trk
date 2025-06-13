@@ -1,0 +1,391 @@
+{
+  "songID": "entry_102541",
+  "title": "The Professional",
+  "artist": "Pulp",
+  "spotifyID": "2k2AnJVTcaA6qNtHA8aDWr",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-?-?-biii-?-ii-?-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-?-?-biii-?-ii-?-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-biii-?-ii-?-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-?-?-biii-?-ii-?-?-?-biii-?-ii-?-?-?-biii-?-ii-?-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d",
+        "Ano3d",
+        "Fno3d",
+        "Eno3d"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-?-?-biii-?-ii-?-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F",
+        "E",
+        "Emin",
+        "Amin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-?-?-biii-?-ii-?-?-?-biii-?-ii-?-?-?-biii-?-ii-?-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "This Is Hardcore (Deluxe Edition)",
+  "release_date": "1998-03-30",
+  "duration_ms": 309493
+}

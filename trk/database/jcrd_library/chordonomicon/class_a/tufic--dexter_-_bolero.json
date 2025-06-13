@@ -1,0 +1,259 @@
+{
+  "songID": "entry_1023",
+  "title": "Dexter - Bolero",
+  "artist": "Tufic",
+  "spotifyID": "4feXoNIMVywJSaiMNXfFgk",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Gmin7",
+        "C7",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Gmin7",
+        "C7",
+        "D7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Bmin7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "D7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7",
+        "G",
+        "Bmin7",
+        "Amin7",
+        "Cmin",
+        "D7"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-?-v-?-i-?-?-?-?-v-?-i-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Dexter (Bolero)",
+  "release_date": "2023-06-02",
+  "duration_ms": 230097
+}

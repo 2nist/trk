@@ -1,0 +1,365 @@
+{
+  "songID": "entry_100941",
+  "title": "Dorul",
+  "artist": "Aurelian Andreescu",
+  "spotifyID": "53hEt49Y9o5bxuYhhnPgxU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "E",
+        "E7",
+        "D",
+        "Gmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "E",
+        "E7",
+        "D",
+        "Gmin",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-iv-?-i-?-ii-?-ii-?-i-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "E",
+        "E7",
+        "D",
+        "Gmin",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "E",
+        "E7",
+        "D",
+        "Gmin",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:i-?-iv-?-i-?-ii-?-ii-?-i-?-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:iv-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "E",
+        "E7",
+        "D",
+        "Gmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "E",
+        "E7",
+        "D",
+        "Gmin",
+        "D",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:iv-?-i-?-ii-?-ii-?-i-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "E",
+        "D",
+        "Gmin",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "E",
+        "D",
+        "Gmin",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:v-?-i-?-v-?-vi-?-v-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:iv-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Aurelian Andreescu",
+  "release_date": "2001-01-01",
+  "duration_ms": 210600
+}

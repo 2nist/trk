@@ -1,0 +1,151 @@
+{
+  "songID": "entry_102069",
+  "title": "It Ain't You",
+  "artist": "The Black Mamba",
+  "spotifyID": "0JZxTZtkTifGrRpE81jIik",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Gmin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Gmin",
+        "Dmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Dmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Dmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Dmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Dmin",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Dbmin",
+        "Cmin",
+        "Dmin",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-?-?-?-i-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Black Mamba",
+  "release_date": "2012-05-07",
+  "duration_ms": 267720
+}

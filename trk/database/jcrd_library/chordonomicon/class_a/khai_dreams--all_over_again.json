@@ -1,0 +1,169 @@
+{
+  "songID": "entry_102493",
+  "title": "All Over Again",
+  "artist": "khai dreams",
+  "spotifyID": "3vTOi1xPfOIFWvz4WHWWVx",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gsus2",
+        "Dadd9/Fs",
+        "Gsus2",
+        "Dadd9/Fs",
+        "D/Fs",
+        "Gsus2",
+        "Dadd9/Fs",
+        "Bmin7",
+        "A",
+        "Gmin7"
+      ],
+      "rawChords": [
+        "Gsus2",
+        "Dadd9/Fs",
+        "Gsus2",
+        "Dadd9/Fs",
+        "D/Fs",
+        "Gsus2",
+        "Dadd9/Fs",
+        "Bmin7",
+        "A",
+        "Gmin7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E9",
+        "Dadd9/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "D/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "Gmaj9"
+      ],
+      "rawChords": [
+        "E9",
+        "Dadd9/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "D/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "Gmaj9"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gsus2",
+        "Dadd9/Fs",
+        "Gsus2",
+        "Dadd9/Fs",
+        "D/Fs",
+        "Gsus2",
+        "Dadd9/Fs",
+        "Bmin7",
+        "A",
+        "Gmin7"
+      ],
+      "rawChords": [
+        "Gsus2",
+        "Dadd9/Fs",
+        "Gsus2",
+        "Dadd9/Fs",
+        "D/Fs",
+        "Gsus2",
+        "Dadd9/Fs",
+        "Bmin7",
+        "A",
+        "Gmin7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E9",
+        "Dadd9/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "D/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "Gmaj9",
+        "E9",
+        "Dadd9/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "D/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "Gmaj9"
+      ],
+      "rawChords": [
+        "E9",
+        "Dadd9/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "D/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "Gmaj9",
+        "E9",
+        "Dadd9/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "D/Fs",
+        "E9",
+        "Dadd9/Fs",
+        "Gmaj9"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-?-v-?-?-?-v-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "All Over Again",
+  "release_date": "2018-12-11",
+  "duration_ms": 126000
+}

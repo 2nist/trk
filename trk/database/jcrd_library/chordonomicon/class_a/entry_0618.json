@@ -1,0 +1,279 @@
+{
+  "songID": "entry_0618",
+  "title": "The Drum",
+  "artist": "Josef Salvat",
+  "spotifyID": "4RzZc87VNZinruOF7vVvun",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dsmin"
+      ],
+      "rawChords": [
+        "Dsmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cs",
+        "B",
+        "Gsmin",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "Cs",
+        "B",
+        "Gsmin",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Gsmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin"
+      ],
+      "rawChords": [
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-v-?-?-?-v-?-?-v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cs",
+        "B",
+        "Gsmin",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Ds",
+        "Fs",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Cs",
+        "B",
+        "Gsmin",
+        "Dsmin",
+        "B",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Ds",
+        "Fs",
+        "E",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-?-v-?-?-i-?-?-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin"
+      ],
+      "rawChords": [
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-v-?-?-?-v-?-?-v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin"
+      ],
+      "rawChords": [
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Dsmin",
+        "Cs",
+        "B",
+        "Fs",
+        "Dsmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-v-?-?-?-v-?-?-v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Islands",
+  "release_date": "2022-02-18",
+  "duration_ms": 190473
+}

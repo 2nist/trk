@@ -1,0 +1,237 @@
+{
+  "songID": "entry_0143",
+  "title": "Move Like a Ghost",
+  "artist": "Saint Agnes",
+  "spotifyID": "1TnTckQFXBub2kiOG56U2w",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "B",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "B",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "B",
+        "Amin",
+        "C",
+        "B"
+      ],
+      "rawChords": [
+        "C",
+        "B",
+        "Amin",
+        "C",
+        "B"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-ii-?-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "B",
+        "Amin",
+        "Gs"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "B",
+        "Amin",
+        "Gs"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-bvi-?-v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "Gs",
+        "Amin",
+        "Gs",
+        "Amin",
+        "Gs",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Gs",
+        "Amin",
+        "Gs",
+        "Amin",
+        "Gs",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gs",
+        "Amin",
+        "Gs",
+        "Amin",
+        "Gs",
+        "Amin",
+        "Gs"
+      ],
+      "rawChords": [
+        "Gs",
+        "Amin",
+        "Gs",
+        "Amin",
+        "Gs",
+        "Amin",
+        "Gs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "B"
+      ],
+      "rawChords": [
+        "C",
+        "B"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Bridge",
+    "Interlude",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Move Like a Ghost",
+  "release_date": "2019-03-29",
+  "duration_ms": 198586
+}

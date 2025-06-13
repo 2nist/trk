@@ -1,0 +1,379 @@
+{
+  "songID": "entry_102731",
+  "title": "Kill The Lights",
+  "artist": "Silverstein",
+  "spotifyID": "2FGZtP0FaIVwCorm0zPh7E",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Fmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Ab",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Fmin",
+        "Eb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:bbv-?-bbii-?-bbv-?-bbii-?-?-bbvi-?-?-bbvi-?-bbv-?-bbii-?-bbv-?-bbii-?-?-bbvi-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "rawChords": [
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:bbii-?-?-bbvi-?-bbii-?-?-bbvi-?-bbv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Gb",
+        "Db/F",
+        "Ab",
+        "Bbmin",
+        "Db",
+        "Db/F",
+        "Eb"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gb",
+        "Db/F",
+        "Ab",
+        "Bbmin",
+        "Db",
+        "Db/F",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:?-bbv-?-?-bbvi-?-?-bbii-?-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "rawChords": [
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:bbii-?-?-bbvi-?-bbii-?-?-bbvi-?-bbii-?-?-bbvi-?-bbii-?-?-bbvi-?-bbv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Gb",
+        "Db/F",
+        "Ab",
+        "Bbmin",
+        "Db",
+        "Db/F",
+        "Eb"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gb",
+        "Db/F",
+        "Ab",
+        "Bbmin",
+        "Db",
+        "Db/F",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:?-bbv-?-?-bbvi-?-?-bbii-?-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Db",
+        "Fmin",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Db",
+        "Fmin",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Db",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Bbmin"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.32",
+        "progression:bbii-?-?-bbii-?-?-bbiii-?-bbii-?-?-bbii-?-?-bbiii-?-?-bbvi-?-bbii-?-?-bbvi-?-bbii-?-?-bbvi-?-bbii-?-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Ab",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:bbvi-?-bbv-?-?-bbvi-?-bbv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmin",
+        "Gb",
+        "Db/F",
+        "Ab",
+        "Bbmin",
+        "Db",
+        "Db/F",
+        "Eb"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gb",
+        "Db/F",
+        "Ab",
+        "Bbmin",
+        "Db",
+        "Db/F",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:?-bbv-?-?-bbvi-?-?-bbii-?-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Db",
+        "Fmin",
+        "Db",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Db",
+        "Fmin",
+        "Db",
+        "Fmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:bbvi-?-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "This Is How The Wind Shifts: Addendum",
+  "release_date": "2013-10-15",
+  "duration_ms": 231769
+}

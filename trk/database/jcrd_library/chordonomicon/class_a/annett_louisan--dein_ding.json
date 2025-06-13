@@ -1,0 +1,221 @@
+{
+  "songID": "entry_100551",
+  "title": "Dein Ding",
+  "artist": "Annett Louisan",
+  "spotifyID": "1D1LaJm0sw7C0jXKzUKEmD",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "A7",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "A7",
+        "D7",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.45",
+        "progression:v-?-v-?-i-?-v-?-v-?-i-?-iv-?-i-?-v-?-iv-?-i-?-vi-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "D",
+        "C",
+        "A7",
+        "D7",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "D",
+        "C",
+        "A7",
+        "D7",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:v-?-ii-?-i-?-vi-?-v-?-iii-?-vi-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "F",
+        "D",
+        "C",
+        "A7",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "F",
+        "D",
+        "C",
+        "A7",
+        "D7",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.52",
+        "progression:v-?-i-?-v-?-i-?-iv-?-i-?-v-?-iv-?-ii-?-i-?-vi-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "G7",
+        "F",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "C",
+        "G",
+        "A7",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "G7",
+        "F",
+        "C",
+        "A",
+        "D7",
+        "G",
+        "C",
+        "G",
+        "A7",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.53",
+        "progression:i-?-v-?-v-?-iv-?-i-?-vi-?-ii-?-v-?-i-?-v-?-vi-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Zu viel Information",
+  "release_date": "2014-02-17",
+  "duration_ms": 147186
+}

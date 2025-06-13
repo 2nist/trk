@@ -1,0 +1,123 @@
+{
+  "songID": "entry_100296",
+  "title": "Une fleur rien qu'une rose",
+  "artist": "Crazy Horse",
+  "spotifyID": "5GfxXuNrsdkNGQuSjwp48H",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Emin/A",
+        "D",
+        "A",
+        "Emin/A",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "Emin/A",
+        "D",
+        "A",
+        "Emin/A",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-?-i-v-?-i-iv-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Emin/A",
+        "D",
+        "A",
+        "Emin/A",
+        "D",
+        "G",
+        "D",
+        "Dsus4",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Emin/A",
+        "D",
+        "A",
+        "Emin/A",
+        "D",
+        "G",
+        "D",
+        "Dsus4",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-i-v-ii-?-v-ii-?-v-i-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Crazy Horse : My Best Songs",
+  "release_date": "2011-03-07",
+  "duration_ms": 141000
+}

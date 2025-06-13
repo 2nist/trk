@@ -1,0 +1,387 @@
+{
+  "songID": "entry_0376",
+  "title": "Glastraum",
+  "artist": "City",
+  "spotifyID": "4ebpwv177t0YrP2f2rCbu2",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-?-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Fsmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Fmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G/B",
+        "Amin",
+        "G/B",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Best Of City",
+  "release_date": "1992-06-29",
+  "duration_ms": 302533
+}

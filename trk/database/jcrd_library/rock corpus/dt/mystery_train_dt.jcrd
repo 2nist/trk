@@ -1,0 +1,695 @@
+{
+  "metadata": {
+    "title": "Mystery Train",
+    "artist": "Unknown",
+    "key": "E",
+    "tempo": 31,
+    "source_format": "Rock Corpus Harmony (.har)",
+    "source_file": "mystery_train_dt.har"
+  },
+  "chords": [
+    {
+      "time": 0.942,
+      "duration": 2.26,
+      "chord": "[2/4]"
+    },
+    {
+      "time": 3.202,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 5.462,
+      "duration": 2.26,
+      "chord": "[4/4]"
+    },
+    {
+      "time": 7.723,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 9.983,
+      "duration": 2.26,
+      "chord": "[2/4]"
+    },
+    {
+      "time": 12.243,
+      "duration": 2.26,
+      "chord": "[4/4]"
+    },
+    {
+      "time": 14.503,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 16.764,
+      "duration": 2.26,
+      "chord": "[2/4]"
+    },
+    {
+      "time": 19.024,
+      "duration": 2.26,
+      "chord": "[4/4]"
+    },
+    {
+      "time": 21.284,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 23.544,
+      "duration": 2.26,
+      "chord": "[2/4]"
+    },
+    {
+      "time": 25.805,
+      "duration": 2.26,
+      "chord": "[4/4]"
+    },
+    {
+      "time": 28.065,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 30.325,
+      "duration": 2.26,
+      "chord": "V"
+    },
+    {
+      "time": 32.585,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 34.846,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 37.106,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 39.366,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 41.626,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 43.887,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 46.147,
+      "duration": 2.26,
+      "chord": "V"
+    },
+    {
+      "time": 48.407,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 50.667,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 52.927,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 55.188,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 57.448,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 59.708,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 61.968,
+      "duration": 2.26,
+      "chord": "V"
+    },
+    {
+      "time": 64.229,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 66.489,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 68.749,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 71.009,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 73.27,
+      "duration": 2.26,
+      "chord": "V"
+    },
+    {
+      "time": 75.53,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 77.79,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 80.05,
+      "duration": 2.26,
+      "chord": "[2/4]"
+    },
+    {
+      "time": 82.311,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 84.571,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 86.831,
+      "duration": 2.26,
+      "chord": "[2/4]"
+    },
+    {
+      "time": 89.091,
+      "duration": 2.26,
+      "chord": "[4/4]"
+    },
+    {
+      "time": 91.351,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 93.612,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 95.872,
+      "duration": 2.26,
+      "chord": "V"
+    },
+    {
+      "time": 98.132,
+      "duration": 2.26,
+      "chord": "IV"
+    },
+    {
+      "time": 100.392,
+      "duration": 2.26,
+      "chord": "I"
+    },
+    {
+      "time": 102.653,
+      "duration": 2.26,
+      "chord": "%"
+    },
+    {
+      "time": 104.913,
+      "duration": 2.26,
+      "chord": "After"
+    },
+    {
+      "time": 107.173,
+      "duration": 2.26,
+      "chord": "last"
+    },
+    {
+      "time": 109.433,
+      "duration": 2.26,
+      "chord": "verse,"
+    },
+    {
+      "time": 111.694,
+      "duration": 2.26,
+      "chord": "fadeout"
+    },
+    {
+      "time": 113.954,
+      "duration": 2.26,
+      "chord": "on"
+    },
+    {
+      "time": 116.214,
+      "duration": 2.26,
+      "chord": "what"
+    },
+    {
+      "time": 118.474,
+      "duration": 2.26,
+      "chord": "sounds"
+    },
+    {
+      "time": 120.735,
+      "duration": 2.26,
+      "chord": "like"
+    },
+    {
+      "time": 122.995,
+      "duration": 2.26,
+      "chord": "a"
+    },
+    {
+      "time": 125.255,
+      "duration": 2.26,
+      "chord": "repeat"
+    },
+    {
+      "time": 127.515,
+      "duration": 2.26,
+      "chord": "of"
+    },
+    {
+      "time": 129.776,
+      "duration": 2.26,
+      "chord": "the"
+    },
+    {
+      "time": 132.036,
+      "duration": 2.26,
+      "chord": "instrumental."
+    }
+  ],
+  "beats": [
+    {
+      "time": 0.942,
+      "beat": 1
+    },
+    {
+      "time": 1.952,
+      "beat": 2
+    },
+    {
+      "time": 4.016,
+      "beat": 3
+    },
+    {
+      "time": 6.065,
+      "beat": 4
+    },
+    {
+      "time": 8.087,
+      "beat": 5
+    },
+    {
+      "time": 10.125,
+      "beat": 6
+    },
+    {
+      "time": 12.143,
+      "beat": 7
+    },
+    {
+      "time": 13.174,
+      "beat": 8
+    },
+    {
+      "time": 15.13,
+      "beat": 9
+    },
+    {
+      "time": 17.116,
+      "beat": 10
+    },
+    {
+      "time": 18.128,
+      "beat": 11
+    },
+    {
+      "time": 20.13,
+      "beat": 12
+    },
+    {
+      "time": 22.154,
+      "beat": 13
+    },
+    {
+      "time": 23.14,
+      "beat": 14
+    },
+    {
+      "time": 25.153,
+      "beat": 15
+    },
+    {
+      "time": 27.175,
+      "beat": 16
+    },
+    {
+      "time": 29.182,
+      "beat": 17
+    },
+    {
+      "time": 31.138,
+      "beat": 18
+    },
+    {
+      "time": 33.162,
+      "beat": 19
+    },
+    {
+      "time": 35.146,
+      "beat": 20
+    },
+    {
+      "time": 37.178,
+      "beat": 21
+    },
+    {
+      "time": 39.174,
+      "beat": 22
+    },
+    {
+      "time": 41.167,
+      "beat": 23
+    },
+    {
+      "time": 43.183,
+      "beat": 24
+    },
+    {
+      "time": 45.18,
+      "beat": 25
+    },
+    {
+      "time": 47.189,
+      "beat": 26
+    },
+    {
+      "time": 49.197,
+      "beat": 27
+    },
+    {
+      "time": 51.213,
+      "beat": 28
+    },
+    {
+      "time": 53.198,
+      "beat": 29
+    },
+    {
+      "time": 55.18,
+      "beat": 30
+    },
+    {
+      "time": 57.153,
+      "beat": 31
+    },
+    {
+      "time": 59.12,
+      "beat": 32
+    },
+    {
+      "time": 61.099,
+      "beat": 33
+    },
+    {
+      "time": 63.111,
+      "beat": 34
+    },
+    {
+      "time": 65.141,
+      "beat": 35
+    },
+    {
+      "time": 67.149,
+      "beat": 36
+    },
+    {
+      "time": 69.141,
+      "beat": 37
+    },
+    {
+      "time": 71.131,
+      "beat": 38
+    },
+    {
+      "time": 73.124,
+      "beat": 39
+    },
+    {
+      "time": 75.131,
+      "beat": 40
+    },
+    {
+      "time": 77.14,
+      "beat": 41
+    },
+    {
+      "time": 79.124,
+      "beat": 42
+    },
+    {
+      "time": 81.11,
+      "beat": 43
+    },
+    {
+      "time": 83.091,
+      "beat": 44
+    },
+    {
+      "time": 85.086,
+      "beat": 45
+    },
+    {
+      "time": 87.069,
+      "beat": 46
+    },
+    {
+      "time": 89.0,
+      "beat": 47
+    },
+    {
+      "time": 91.006,
+      "beat": 48
+    },
+    {
+      "time": 92.967,
+      "beat": 49
+    },
+    {
+      "time": 94.921,
+      "beat": 50
+    },
+    {
+      "time": 96.886,
+      "beat": 51
+    },
+    {
+      "time": 98.815,
+      "beat": 52
+    },
+    {
+      "time": 100.782,
+      "beat": 53
+    },
+    {
+      "time": 102.717,
+      "beat": 54
+    },
+    {
+      "time": 104.686,
+      "beat": 55
+    },
+    {
+      "time": 106.661,
+      "beat": 56
+    },
+    {
+      "time": 107.67,
+      "beat": 57
+    },
+    {
+      "time": 109.621,
+      "beat": 58
+    },
+    {
+      "time": 111.598,
+      "beat": 59
+    },
+    {
+      "time": 113.552,
+      "beat": 60
+    },
+    {
+      "time": 115.549,
+      "beat": 61
+    },
+    {
+      "time": 116.514,
+      "beat": 62
+    },
+    {
+      "time": 118.501,
+      "beat": 63
+    },
+    {
+      "time": 120.477,
+      "beat": 64
+    },
+    {
+      "time": 122.47,
+      "beat": 65
+    },
+    {
+      "time": 124.45,
+      "beat": 66
+    },
+    {
+      "time": 126.424,
+      "beat": 67
+    },
+    {
+      "time": 128.415,
+      "beat": 68
+    },
+    {
+      "time": 130.365,
+      "beat": 69
+    },
+    {
+      "time": 132.348,
+      "beat": 70
+    },
+    {
+      "time": 134.296,
+      "beat": 71
+    }
+  ],
+  "sections": [
+    {
+      "time": 0.942,
+      "duration": 6.781,
+      "label": "In"
+    },
+    {
+      "time": 7.723,
+      "duration": 29.383,
+      "label": "Vr1"
+    },
+    {
+      "time": 37.106,
+      "duration": 15.822,
+      "label": "Vr2"
+    },
+    {
+      "time": 52.927,
+      "duration": 15.822,
+      "label": "Vr2"
+    },
+    {
+      "time": 68.749,
+      "duration": 13.561,
+      "label": "Inst"
+    },
+    {
+      "time": 82.311,
+      "duration": 20.342,
+      "label": "Vr3"
+    },
+    {
+      "time": 102.653,
+      "duration": 2.26,
+      "label": "%"
+    },
+    {
+      "time": 104.913,
+      "duration": 2.26,
+      "label": "After"
+    },
+    {
+      "time": 107.173,
+      "duration": 2.26,
+      "label": "last"
+    },
+    {
+      "time": 109.433,
+      "duration": 2.26,
+      "label": "verse,"
+    },
+    {
+      "time": 111.694,
+      "duration": 2.26,
+      "label": "fadeout"
+    },
+    {
+      "time": 113.954,
+      "duration": 2.26,
+      "label": "on"
+    },
+    {
+      "time": 116.214,
+      "duration": 2.26,
+      "label": "what"
+    },
+    {
+      "time": 118.474,
+      "duration": 2.26,
+      "label": "sounds"
+    },
+    {
+      "time": 120.735,
+      "duration": 2.26,
+      "label": "like"
+    },
+    {
+      "time": 122.995,
+      "duration": 2.26,
+      "label": "a"
+    },
+    {
+      "time": 125.255,
+      "duration": 2.26,
+      "label": "repeat"
+    },
+    {
+      "time": 127.515,
+      "duration": 2.26,
+      "label": "of"
+    },
+    {
+      "time": 129.776,
+      "duration": 2.26,
+      "label": "the"
+    },
+    {
+      "time": 132.036,
+      "duration": 2.26,
+      "label": "instrumental."
+    }
+  ]
+}

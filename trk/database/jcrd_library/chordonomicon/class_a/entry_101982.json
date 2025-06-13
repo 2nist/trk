@@ -1,0 +1,453 @@
+{
+  "songID": "entry_101982",
+  "title": "Everybody's Opium",
+  "artist": "VENICE",
+  "spotifyID": "5ncDqMkKXLZVZCfWaExMul",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmaj7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "Dmaj7",
+        "Csmin7",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "Dmaj7",
+        "Csmin7",
+        "E",
+        "Fsmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin7",
+        "C",
+        "D",
+        "G",
+        "Amin7",
+        "C",
+        "D",
+        "G",
+        "Bb",
+        "Amin7",
+        "G",
+        "C",
+        "Bmin",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "C",
+        "D",
+        "G",
+        "Amin7",
+        "C",
+        "D",
+        "G",
+        "Bb",
+        "Amin7",
+        "G",
+        "C",
+        "Bmin",
+        "Esus4",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:v-?-?-i-?-ii-?-v-?-?-i-?-ii-?-v-?-bvii-?-?-v-?-i-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:iv-?-?-v-?-?-iv-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin7",
+        "C",
+        "D",
+        "G",
+        "Amin7",
+        "C",
+        "D",
+        "G",
+        "Bb",
+        "Amin7",
+        "G",
+        "C",
+        "Bmin",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "C",
+        "D",
+        "G",
+        "Amin7",
+        "C",
+        "D",
+        "G",
+        "Bb",
+        "Amin7",
+        "G",
+        "C",
+        "Bmin",
+        "Esus4",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:v-?-?-i-?-ii-?-v-?-?-i-?-ii-?-v-?-bvii-?-?-v-?-i-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:iv-?-?-v-?-?-iv-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.05",
+        "progression:iv-?-?-v-?-?-v-?-iv-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "Amin7",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "Amin7",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Amin7",
+        "G",
+        "C",
+        "Bmin",
+        "Esus4",
+        "E"
+      ],
+      "rawChords": [
+        "Bb",
+        "Amin7",
+        "G",
+        "C",
+        "Bmin",
+        "Esus4",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.15",
+        "progression:bvii-?-?-v-?-i-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:iv-?-?-v-?-?-iv-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E",
+        "D7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.05",
+        "progression:iv-?-?-v-?-?-v-?-iv-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmaj7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "Dmaj7",
+        "Csmin7",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Csmin7",
+        "E",
+        "Fsmin",
+        "Dmaj7",
+        "Csmin7",
+        "E",
+        "Fsmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Pacific Standard Time",
+  "release_date": "2004-01-01",
+  "duration_ms": 254533
+}

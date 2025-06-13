@@ -1,0 +1,187 @@
+{
+  "songID": "entry_100323",
+  "title": "Today is Gonna be a Great Day - Theme Song to Phineas and Ferb",
+  "artist": "Bowling For Soup",
+  "spotifyID": "2monU2EJfR5m53ciaHNE6z",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "Ebmin7",
+        "Gs",
+        "Fs",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "Ebmin7",
+        "Gs",
+        "Fs",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:ii-?-v-?-ii-?-v-?-?-#ii-?-#i-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Phineas and Ferb",
+  "release_date": "2009-01-01",
+  "duration_ms": 181026
+}

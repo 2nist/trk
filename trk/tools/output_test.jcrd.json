@@ -1,0 +1,79 @@
+{
+  "title": "Johnny B. Goode",
+  "artist": "Chuck Berry",
+  "bpm": 120,
+  "key": "",
+  "source": "JAMS Dataset",
+  "beat_times": [],
+  "sections": [
+    {
+      "id": "chord_1",
+      "start_ms": 65000,
+      "duration_ms": 4000,
+      "chords": [
+        "B-9"
+      ],
+      "sectionLabel": "chord_1",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_2",
+      "start_ms": 67000,
+      "duration_ms": 4000,
+      "chords": [
+        "F6"
+      ],
+      "sectionLabel": "chord_2",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_3",
+      "start_ms": 69000,
+      "duration_ms": 4000,
+      "chords": [
+        "C7"
+      ],
+      "sectionLabel": "chord_3",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_4",
+      "start_ms": 70350,
+      "duration_ms": 500,
+      "chords": [
+        "F6"
+      ],
+      "sectionLabel": "chord_4",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_5",
+      "start_ms": 72000,
+      "duration_ms": 4000,
+      "chords": [
+        "F"
+      ],
+      "sectionLabel": "chord_5",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    }
+  ],
+  "tags": [],
+  "source_file": "c:\\Users\\CraftAuto-Sales\\AppData\\Roaming\\REAPER\\Scripts\\songbase\\datasets\\choco\\choco-main\\partitions\\wikifonia\\test\\wikifonia_5609_silver.jams",
+  "conversion_date": "2025-05-24T21:05:11.055893",
+  "partition": "wikifonia"
+}

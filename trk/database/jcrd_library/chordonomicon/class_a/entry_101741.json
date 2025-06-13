@@ -1,0 +1,299 @@
+{
+  "songID": "entry_101741",
+  "title": "Your Best Friend",
+  "artist": "Boyish",
+  "spotifyID": "5izJM0QAMbf0jKdXno5Ysx",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Gsmin",
+        "B",
+        "Emaj7"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Gsmin",
+        "B",
+        "Emaj7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Emaj7",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Gsmin",
+        "B",
+        "E",
+        "Emaj7",
+        "Csmin7",
+        "Csmin",
+        "E",
+        "Csmin7",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "Csmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Emaj7",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Gsmin",
+        "B",
+        "E",
+        "Emaj7",
+        "Csmin7",
+        "Csmin",
+        "E",
+        "Csmin7",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "Csmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "Csmin",
+        "E"
+      ],
+      "length": 27,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-?-v-?-i-?-v-?-i-?-?-v-?-i-?-?-?-?-i-?-?-i-?-v-?-ii-?-?-ii-?-?-i-?-v-?-ii-?-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "Emaj7",
+        "E",
+        "Gsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Emaj7",
+        "Csmin",
+        "E",
+        "B",
+        "Gsmin",
+        "Fs",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "Emaj7",
+        "E",
+        "Gsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Emaj7",
+        "Csmin",
+        "E",
+        "B",
+        "Gsmin",
+        "Fs",
+        "Csmin",
+        "E"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-v-?-?-i-?-?-v-?-i-?-?-?-?-i-?-v-?-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Gsmin",
+        "Fs",
+        "Csmin",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Gsmin",
+        "Fs",
+        "Csmin",
+        "E",
+        "B"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "E"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "B",
+        "Emaj7",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Your Best Friend",
+  "release_date": "2021-04-16",
+  "duration_ms": 182268
+}

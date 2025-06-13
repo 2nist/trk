@@ -1,0 +1,403 @@
+{
+  "songID": "entry_0449",
+  "title": "Resilience",
+  "artist": "Pierce The Veil",
+  "spotifyID": "08vqJRf0PuLF1YACmIG3o8",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin7",
+        "G",
+        "C",
+        "F",
+        "Dmin7",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "G",
+        "C",
+        "F",
+        "Dmin7",
+        "G",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:?-v-?-i-?-iv-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin7",
+        "G",
+        "C",
+        "F",
+        "Dmin7",
+        "G"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "G",
+        "C",
+        "F",
+        "Dmin7",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Emin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Emin",
+        "F",
+        "G",
+        "Emin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "F",
+        "G",
+        "Emin",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:v-?-?-iv-?-v-?-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin7",
+        "G",
+        "C",
+        "F",
+        "Dmin7",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "G",
+        "C",
+        "F",
+        "Dmin7",
+        "G",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-v-?-i-?-iv-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:v-?-iv-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Instrumental",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Jaws Of Life",
+  "release_date": "2023-02-10",
+  "duration_ms": 220360
+}

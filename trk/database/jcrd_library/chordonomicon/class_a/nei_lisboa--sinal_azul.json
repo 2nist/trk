@@ -1,0 +1,133 @@
+{
+  "songID": "entry_102067",
+  "title": "Sinal Azul",
+  "artist": "Nei Lisboa",
+  "spotifyID": "4ccpi9SGXdgxi8vsGSmfKt",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "Fs11",
+        "Bmin",
+        "D",
+        "G",
+        "Fs11",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Fs11",
+        "Bmin",
+        "D",
+        "G",
+        "Fs11",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin7",
+        "Emin9",
+        "Bmin7",
+        "Emin9",
+        "Cmaj7/G"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "Emin9",
+        "Bmin7",
+        "Emin9",
+        "Cmaj7/G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "Fs11",
+        "Bmin",
+        "D",
+        "G",
+        "Fs11",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Fs11",
+        "Bmin",
+        "D",
+        "G",
+        "Fs11",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin7",
+        "Emin9",
+        "Bmin7",
+        "Emin9",
+        "Cmaj7/G"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "Emin9",
+        "Bmin7",
+        "Emin9",
+        "Cmaj7/G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Eu Visito Estrelas",
+  "release_date": "1992-05-13",
+  "duration_ms": 218333
+}

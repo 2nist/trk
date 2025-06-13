@@ -1,0 +1,313 @@
+{
+  "songID": "entry_100398",
+  "title": "Nelsonwood Lane",
+  "artist": "Matt Maeson",
+  "spotifyID": "4yiERodyPsSebBsNtLy1pT",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:i-?-v-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-ii-?-v-?-i-?-v-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-ii-?-v-?-i-?-v-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-v-?-i-?-iv-?-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Outro",
+    "Instrumental"
+  ],
+  "tags": [],
+  "album": "Never Had to Leave",
+  "release_date": "2022-08-26",
+  "duration_ms": 268200
+}

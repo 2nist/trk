@@ -1,0 +1,243 @@
+{
+  "songID": "entry_0217",
+  "title": "Lucifer",
+  "artist": "SHINee",
+  "spotifyID": "7xAACq6jlGqXw4bNCTYcm6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "Csmin",
+        "E",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Csmin",
+        "E",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-vii-?-?-v-?-?-v-?-ii-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "A",
+        "Amin",
+        "E",
+        "A",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "Amin",
+        "E",
+        "A",
+        "E",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-?-i-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "Csmin",
+        "E",
+        "B",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Csmin",
+        "E",
+        "B",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:i-?-iii-?-?-i-?-v-?-?-i-?-v-?-iv-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Gs",
+        "Csmin",
+        "B",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "Gs",
+        "Csmin",
+        "B",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.62",
+        "progression:iii-?-?-v-?-?-i-?-v-?-iv-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gs",
+        "Csmin",
+        "B",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "Gs",
+        "Csmin",
+        "B",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:iii-?-?-v-?-?-i-?-v-?-iv-?-?-i-?-v-?-iv-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Lucifer - The 2nd Album",
+  "release_date": "2010-07-19",
+  "duration_ms": 233986
+}

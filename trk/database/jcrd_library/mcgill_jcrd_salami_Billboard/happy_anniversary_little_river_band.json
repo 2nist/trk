@@ -1,0 +1,314 @@
+{
+  "title": "Happy Anniversary",
+  "artist": "Little River Band",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 232,
+      "duration_ms": 15650,
+      "chords": [
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "A:13"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 15882,
+      "duration_ms": 14966,
+      "chords": [
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "A:13"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 30848,
+      "duration_ms": 29584,
+      "chords": [
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 60432,
+      "duration_ms": 14861,
+      "chords": [
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 75294,
+      "duration_ms": 22139,
+      "chords": [
+        "A:13",
+        "D:maj7",
+        "G:maj7",
+        "D:maj7",
+        "E:min7/b3",
+        "D:maj7",
+        "G:maj7",
+        "D:maj7",
+        "C#:min7",
+        "F#:7",
+        "B:min7",
+        "E:7",
+        "E:min/4",
+        "A:7",
+        "A:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 97433,
+      "duration_ms": 29659,
+      "chords": [
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "A:13"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_6",
+      "start_ms": 127093,
+      "duration_ms": 15185,
+      "chords": [
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_7",
+      "start_ms": 142279,
+      "duration_ms": 29453,
+      "chords": [
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_8",
+      "start_ms": 171732,
+      "duration_ms": 14783,
+      "chords": [
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_9",
+      "start_ms": 186515,
+      "duration_ms": 14800,
+      "chords": [
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "A:13"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_10",
+      "start_ms": 201316,
+      "duration_ms": 39323,
+      "chords": [
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "E:min7",
+        "A:13",
+        "A:13",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

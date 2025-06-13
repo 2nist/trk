@@ -1,0 +1,206 @@
+{
+  "title": "Amor",
+  "artist": "Ben E. King",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 325,
+      "duration_ms": 9684,
+      "chords": [
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 10009,
+      "duration_ms": 37920,
+      "chords": [
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "F:maj/5",
+        "F:maj/5",
+        "C:min",
+        "C:min",
+        "C:min",
+        "F:maj(9)/5",
+        "F:maj",
+        "F:maj",
+        "Bb:maj6",
+        "Bb:maj6",
+        "A:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 47930,
+      "duration_ms": 18794,
+      "chords": [
+        "A:7",
+        "D:min",
+        "A:7",
+        "A:7",
+        "D:min",
+        "F:maj",
+        "F#:dim",
+        "G:min7",
+        "C:7",
+        "C:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 66724,
+      "duration_ms": 37906,
+      "chords": [
+        "F:7",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "F:maj/5",
+        "F:maj/5",
+        "C:min",
+        "C:min",
+        "C:min",
+        "F:maj(9)/5",
+        "F:maj",
+        "F:maj",
+        "Bb:maj6",
+        "Bb:maj6",
+        "A:7",
+        "A:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 104630,
+      "duration_ms": 19053,
+      "chords": [
+        "A:7",
+        "D:min",
+        "A:7",
+        "A:7",
+        "D:min",
+        "F:maj",
+        "F#:dim",
+        "G:min7",
+        "C:7",
+        "C:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 123683,
+      "duration_ms": 33328,
+      "chords": [
+        "F:7",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "Bb:maj6",
+        "F:maj/5",
+        "F:maj/5",
+        "C:min",
+        "C:minmaj7",
+        "C:min7",
+        "F:maj(9)/5",
+        "F:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 157012,
+      "duration_ms": 28352,
+      "chords": [
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "Bb:7(#11)",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

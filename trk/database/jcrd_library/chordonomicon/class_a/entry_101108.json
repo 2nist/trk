@@ -1,0 +1,323 @@
+{
+  "songID": "entry_101108",
+  "title": "Udah Teleba",
+  "artist": "Hairee Francis",
+  "spotifyID": "3iRXZRCmGN2DtP0xeX5fOU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "As",
+        "Dmin",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds"
+      ],
+      "rawChords": [
+        "As",
+        "Dmin",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "As",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds",
+        "As",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds"
+      ],
+      "rawChords": [
+        "As",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds",
+        "As",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gmin",
+        "Fs",
+        "F",
+        "E/C",
+        "Cmin",
+        "F",
+        "Gmin",
+        "Fs",
+        "F",
+        "E/C",
+        "Cmin",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Fs",
+        "F",
+        "E/C",
+        "Cmin",
+        "F",
+        "Gmin",
+        "Fs",
+        "F",
+        "E/C",
+        "Cmin",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-v-?-?-v-?-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "As",
+        "Ds",
+        "Cmin",
+        "F",
+        "As",
+        "Ds",
+        "Cmin",
+        "F",
+        "As",
+        "Ds",
+        "Dsmin"
+      ],
+      "rawChords": [
+        "As",
+        "Ds",
+        "Cmin",
+        "F",
+        "As",
+        "Ds",
+        "Cmin",
+        "F",
+        "As",
+        "Ds",
+        "Dsmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "As",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds",
+        "As",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds"
+      ],
+      "rawChords": [
+        "As",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds",
+        "As",
+        "Ds",
+        "Gmin",
+        "F",
+        "Ds"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gmin",
+        "Fs",
+        "F",
+        "E/C",
+        "Cmin",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Fs",
+        "F",
+        "E/C",
+        "Cmin",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "As",
+        "Assus4",
+        "Gmin",
+        "F",
+        "Ds",
+        "Cmin",
+        "F",
+        "As"
+      ],
+      "rawChords": [
+        "As",
+        "Assus4",
+        "Gmin",
+        "F",
+        "Ds",
+        "Cmin",
+        "F",
+        "As"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-v-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ds",
+        "Cmin",
+        "F",
+        "As",
+        "Ds",
+        "Cmin",
+        "F",
+        "As",
+        "Ds",
+        "Cmin",
+        "F"
+      ],
+      "rawChords": [
+        "Ds",
+        "Cmin",
+        "F",
+        "As",
+        "Ds",
+        "Cmin",
+        "F",
+        "As",
+        "Ds",
+        "Cmin",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-v-?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "As"
+      ],
+      "rawChords": [
+        "As"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Solo",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Udah Teleba",
+  "release_date": "2019-05-13",
+  "duration_ms": 251115
+}

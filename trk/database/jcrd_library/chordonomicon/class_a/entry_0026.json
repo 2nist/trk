@@ -1,0 +1,365 @@
+{
+  "songID": "entry_0026",
+  "title": "Iemand Die Om Je Geeft",
+  "artist": "Sabien Tiels",
+  "spotifyID": "18LxaMSPBlOoy527QgoOPP",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B",
+        "Amin",
+        "G",
+        "Amin",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B",
+        "Amin",
+        "G",
+        "Amin",
+        "Bsus4",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-?-?-v-?-biii-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B",
+        "Amin",
+        "G",
+        "Amin",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B",
+        "Amin",
+        "G",
+        "Amin",
+        "Bsus4",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-?-?-v-?-biii-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "D7",
+        "G",
+        "C",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "D7",
+        "G",
+        "C",
+        "Bsus4",
+        "B"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-iv-v-iii-?-iv-v-iii-?-v-i-iv-?-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B",
+        "Amin",
+        "G",
+        "Amin",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B",
+        "Amin",
+        "G",
+        "Amin",
+        "Bsus4",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-?-?-v-?-biii-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "D7",
+        "G",
+        "C",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "D7",
+        "G",
+        "C",
+        "Bsus4",
+        "B"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-iv-v-iii-?-iv-v-iii-?-v-i-iv-?-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B",
+        "Amin",
+        "G",
+        "Amin",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "Cmaj7",
+        "Bsus4",
+        "B",
+        "Amin",
+        "G",
+        "Amin",
+        "Bsus4",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-?-?-v-?-biii-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "D7",
+        "G",
+        "C",
+        "Bsus4",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "C",
+        "D",
+        "B7",
+        "Emin",
+        "D7",
+        "G",
+        "C",
+        "Bsus4",
+        "B"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-iv-v-iii-?-iv-v-iii-?-v-i-iv-?-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "C",
+        "Bsus4",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "C",
+        "Bsus4",
+        "B",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-biii-?-ii-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Iemand die om je geeft",
+  "release_date": "1995",
+  "duration_ms": 236133
+}

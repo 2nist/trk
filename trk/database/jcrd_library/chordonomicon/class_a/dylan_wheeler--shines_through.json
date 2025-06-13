@@ -1,0 +1,277 @@
+{
+  "songID": "entry_10102",
+  "title": "Shines Through",
+  "artist": "Dylan Wheeler",
+  "spotifyID": "2GrVTTzKbgxQcE4OrIqcHI",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Emin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Times Are Changing",
+  "release_date": "2022-02-03",
+  "duration_ms": 219481
+}

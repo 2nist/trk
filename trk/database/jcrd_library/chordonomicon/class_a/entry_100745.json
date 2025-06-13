@@ -1,0 +1,217 @@
+{
+  "songID": "entry_100745",
+  "title": "Earth",
+  "artist": "Sarah Juers",
+  "spotifyID": "5EKluLhODIgO1dLVsRRwaj",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Dmaj7",
+        "G",
+        "D",
+        "Dmaj7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Dmaj7",
+        "G",
+        "D",
+        "Dmaj7",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin7",
+        "G",
+        "D",
+        "Bmin7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "G",
+        "D",
+        "Bmin7",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmaj7",
+        "G",
+        "D",
+        "Dmaj7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "G",
+        "D",
+        "Dmaj7",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin7",
+        "G",
+        "D",
+        "Bmin7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "G",
+        "D",
+        "Bmin7",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bmin7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmaj7",
+        "G",
+        "D",
+        "Dmaj7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "G",
+        "D",
+        "Dmaj7",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmaj7",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Cyberspace",
+  "release_date": "2021-05-28",
+  "duration_ms": 222500
+}

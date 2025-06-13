@@ -1,0 +1,139 @@
+{
+  "songID": "entry_101967",
+  "title": "Prys Die Heer",
+  "artist": "Oase Gemeente",
+  "spotifyID": "1mlIUMOBjU9G3n1vnArShx",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin",
+        "D",
+        "Bmin7",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "D",
+        "Bmin7",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "Bmin7",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "Bmin7",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A/Cs",
+        "E",
+        "D",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A/Cs",
+        "E",
+        "D",
+        "Fsmin",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Ons Vader",
+  "release_date": "2015-05-01",
+  "duration_ms": 235506
+}

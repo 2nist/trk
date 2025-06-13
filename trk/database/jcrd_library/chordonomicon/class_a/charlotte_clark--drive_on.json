@@ -1,0 +1,315 @@
+{
+  "songID": "entry_100456",
+  "title": "Drive On",
+  "artist": "Charlotte Clark",
+  "spotifyID": "7iujjd8pXgY3UQ3UD5ngBJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "D",
+        "E",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "D",
+        "E",
+        "G"
+      ],
+      "length": 25,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.18",
+        "progression:iv-?-v-?-?-v-?-iv-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-?-v-?-iv-?-v-?-?-v-?-?-v-?-ii-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "D",
+        "E",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "D",
+        "E",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-?-v-?-iv-?-v-?-?-iv-?-v-?-?-ii-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:v-?-?-vi-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F",
+        "D",
+        "E"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.20",
+        "progression:v-?-iv-?-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "F",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F",
+        "G",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-v-?-iv-?-?-v-?-iv-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Drive On",
+  "release_date": "2020-12-04",
+  "duration_ms": 182343
+}

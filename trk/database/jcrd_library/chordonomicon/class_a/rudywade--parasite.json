@@ -1,0 +1,199 @@
+{
+  "songID": "entry_0453",
+  "title": "Parasite",
+  "artist": "RudyWade",
+  "spotifyID": "2xQ84kai9N4tomkesqL0yt",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "Csmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Parasite",
+  "release_date": "2022-07-08",
+  "duration_ms": 196000
+}

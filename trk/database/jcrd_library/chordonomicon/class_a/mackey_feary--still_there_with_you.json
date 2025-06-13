@@ -1,0 +1,227 @@
+{
+  "songID": "entry_10177",
+  "title": "Still There With You",
+  "artist": "Mackey Feary",
+  "spotifyID": "1FNjNrkj7rjgHbk2Qoqx1a",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "B7",
+        "Bmin7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "B7",
+        "Bmin7",
+        "E7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:?-v-?-?-v-?-?-ii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "Bb",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "Bb",
+        "Bmin7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "Bb",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "Bb",
+        "Bmin7",
+        "E7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-v-?-?-v-?-?-bii-?-?-v-?-?-v-?-?-v-?-?-bii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amaj7",
+        "A7",
+        "Dmaj7",
+        "B7",
+        "Bmin7",
+        "Bb",
+        "Amaj7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "A7",
+        "Dmaj7",
+        "B7",
+        "Bmin7",
+        "Bb",
+        "Amaj7",
+        "E7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-i-?-?-ii-?-?-bii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "Bb",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "Bb",
+        "Bmin7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "Bb",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "E",
+        "Amaj7",
+        "E",
+        "Dmaj7",
+        "Bb",
+        "Bmin7",
+        "E7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-v-?-?-v-?-?-bii-?-?-v-?-?-v-?-?-v-?-?-bii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amaj7",
+        "A7",
+        "Dmaj7",
+        "B7",
+        "Bmin7",
+        "Bb",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "A7",
+        "Dmaj7",
+        "B7",
+        "Bmin7",
+        "Bb",
+        "Amaj7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-iv-?-?-v-?-?-bv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "From the Heart",
+  "release_date": "1979",
+  "duration_ms": 117813
+}

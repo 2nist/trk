@@ -1,0 +1,293 @@
+{
+  "songID": "entry_0292",
+  "title": "They Leave",
+  "artist": "Jessie Murph",
+  "spotifyID": "7lF1wextYUfNFP5xy7DH4m",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "G/B",
+        "C",
+        "Emin",
+        "F",
+        "Amin",
+        "G/B",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "G/B",
+        "C",
+        "Emin",
+        "F",
+        "Amin",
+        "G/B",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-?-v-?-?-i-?-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "G/B",
+        "C",
+        "Emin",
+        "F",
+        "Amin",
+        "G/B",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "G/B",
+        "C",
+        "Emin",
+        "F",
+        "Amin",
+        "G/B",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:iii-?-v-?-i-?-?-v-?-i-?-?-?-v-?-?-i-?-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "drowning",
+  "release_date": "2023-02-10",
+  "duration_ms": 163723
+}

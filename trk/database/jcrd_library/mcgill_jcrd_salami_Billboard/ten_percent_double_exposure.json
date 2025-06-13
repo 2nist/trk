@@ -1,0 +1,234 @@
+{
+  "title": "Ten Percent",
+  "artist": "Double Exposure",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 394,
+      "duration_ms": 8166,
+      "chords": [
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 8561,
+      "duration_ms": 15603,
+      "chords": [
+        "N",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "Ab:maj9",
+        "Bb:maj",
+        "C:maj7",
+        "C:maj7",
+        "C:maj7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 24164,
+      "duration_ms": 31134,
+      "chords": [
+        "C:maj7",
+        "C:maj/5",
+        "G:maj",
+        "C:maj7",
+        "C:maj7",
+        "C:maj/5",
+        "G:maj",
+        "C:maj7",
+        "C:7",
+        "F:maj7",
+        "E:min7",
+        "F:maj7",
+        "E:min7",
+        "F:maj7",
+        "D:7",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 55298,
+      "duration_ms": 31314,
+      "chords": [
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "Ab:maj9",
+        "Bb:maj",
+        "C:maj7",
+        "C:maj7",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "Ab:maj9",
+        "Bb:maj",
+        "C:maj7",
+        "C:maj7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 86612,
+      "duration_ms": 31258,
+      "chords": [
+        "C:maj7",
+        "C:maj/5",
+        "G:maj",
+        "C:maj7",
+        "C:maj7",
+        "C:maj/5",
+        "G:maj",
+        "C:maj7",
+        "C:7",
+        "F:maj7",
+        "E:min7",
+        "F:maj7",
+        "E:min7",
+        "F:maj7",
+        "D:7",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 117870,
+      "duration_ms": 31294,
+      "chords": [
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "Ab:maj9",
+        "Bb:maj",
+        "C:maj7",
+        "C:maj7",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "Ab:maj9",
+        "Bb:maj",
+        "C:maj7",
+        "C:maj7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 149165,
+      "duration_ms": 31345,
+      "chords": [
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "Ab:maj9",
+        "Bb:maj",
+        "C:maj7",
+        "C:maj7",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "Ab:maj9",
+        "Bb:maj",
+        "C:maj7",
+        "C:maj7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 180510,
+      "duration_ms": 15877,
+      "chords": [
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "G:sus4(b7,9)",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "B",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

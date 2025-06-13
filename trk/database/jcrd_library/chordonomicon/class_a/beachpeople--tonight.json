@@ -1,0 +1,181 @@
+{
+  "songID": "entry_0501",
+  "title": "tonight",
+  "artist": "BEACHPEOPLE",
+  "spotifyID": "5ekn0rTXRpR5M99v64inDc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "F",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "F",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:?-v-?-?-v-?-?-v-?-?-i-?-ii-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "F",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "F",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:?-v-?-?-v-?-?-v-?-?-i-?-ii-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "tonight",
+  "release_date": "2022-02-04",
+  "duration_ms": 164477
+}

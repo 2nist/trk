@@ -1,0 +1,105 @@
+{
+  "songID": "entry_101541",
+  "title": "Happening '68",
+  "artist": "Paul Revere & The Raiders",
+  "spotifyID": "1mzLvt0NNu9Dm4bQRNPLbH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:iv-?-v-?-i-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "E"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:iv-?-v-?-i-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Something Happening",
+  "release_date": "1968-08-07",
+  "duration_ms": 144466
+}

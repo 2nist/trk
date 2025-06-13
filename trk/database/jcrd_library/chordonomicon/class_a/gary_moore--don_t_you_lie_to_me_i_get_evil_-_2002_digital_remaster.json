@@ -1,0 +1,235 @@
+{
+  "songID": "entry_100211",
+  "title": "Don't You Lie To Me (I Get Evil) - 2002 Digital Remaster",
+  "artist": "Gary Moore",
+  "spotifyID": "49HpLbZHUWi24SeTZKRksQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "E",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-v-?-i-?-ii-?-i-?-v-?-ii-?-i-?-v-?-i-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "B7"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "B",
+        "B7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Solo",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "After Hours",
+  "release_date": "1992",
+  "duration_ms": 150400
+}

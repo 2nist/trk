@@ -1,0 +1,271 @@
+{
+  "songID": "entry_101031",
+  "title": "Ghoozak-E Pa",
+  "artist": "Fereidoon Foroughi",
+  "spotifyID": "7zEZiBNiPIkwJaLQSLwwFn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:iii-?-iv-?-v-?-?-iii-?-iv-?-v-?-?-iii-?-iv-?-v-?-?-iii-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "A",
+        "Gs",
+        "Csmin",
+        "B",
+        "A",
+        "Gs"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "Gs",
+        "Csmin",
+        "B",
+        "A",
+        "Gs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:v-?-iv-?-iii-?-?-v-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:iv-?-v-?-?-iii-?-iv-?-v-?-?-iii-?-iv-?-v-?-?-iii-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "A",
+        "Gs",
+        "Csmin",
+        "B",
+        "A",
+        "Gs"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "Gs",
+        "Csmin",
+        "B",
+        "A",
+        "Gs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:v-?-iv-?-iii-?-?-v-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "Gs",
+        "A",
+        "B",
+        "Csmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:iv-?-v-?-?-iii-?-iv-?-v-?-?-iii-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "B",
+        "A",
+        "Gs",
+        "Csmin",
+        "B",
+        "A",
+        "Gs"
+      ],
+      "rawChords": [
+        "Gs",
+        "A",
+        "B",
+        "Csmin",
+        "B",
+        "A",
+        "Gs",
+        "Csmin",
+        "B",
+        "A",
+        "Gs"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:iii-?-iv-?-v-?-?-v-?-iv-?-iii-?-?-v-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Zendoone Del",
+  "release_date": "1992-02-01",
+  "duration_ms": 240226
+}

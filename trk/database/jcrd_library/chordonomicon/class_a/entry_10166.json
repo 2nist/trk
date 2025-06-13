@@ -1,0 +1,341 @@
+{
+  "songID": "entry_10166",
+  "title": "Pancake Blues",
+  "artist": "Kitty Barber",
+  "spotifyID": "3dll83cJHRXHAYwEcE3bS7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "E",
+        "G",
+        "D",
+        "G",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "E",
+        "G",
+        "D",
+        "G",
+        "D7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.40",
+        "progression:v-?-vii-?-i-?-v-?-iii-?-v-?-ii-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.64",
+        "progression:v-?-vii-?-i-?-v-?-i-?-v-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.64",
+        "progression:v-?-vii-?-i-?-v-?-i-?-v-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.75",
+        "progression:i-?-v-?-v-?-i-?-v-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D",
+        "G",
+        "G7"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D",
+        "G",
+        "G7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.55",
+        "progression:v-?-vii-?-i-?-v-?-i-?-v-?-iii-?-vi-?-ii-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.79",
+        "progression:i-?-v-?-i-?-v-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.64",
+        "progression:v-?-vii-?-i-?-v-?-i-?-v-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D",
+        "G",
+        "E",
+        "A",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "C",
+        "G",
+        "E",
+        "A",
+        "D",
+        "G",
+        "E",
+        "A",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.67",
+        "progression:v-?-vii-?-i-?-v-?-i-?-v-?-iii-?-vi-?-ii-?-v-?-iii-?-vi-?-ii-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Gay and Straight Together",
+  "release_date": "1980-01-01",
+  "duration_ms": 184546
+}

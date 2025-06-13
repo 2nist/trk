@@ -1,0 +1,253 @@
+{
+  "songID": "entry_101504",
+  "title": "Bonnie & Clyde",
+  "artist": "YUQI",
+  "spotifyID": "21aIsunB7PfZI0vlIoaJPh",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:?-?-?-v-?-iii-?-?-?-?-v-?-?-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-?-?-v-?-iii-?-?-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-?-?-v-?-iii-?-?-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:?-?-?-iii-?-?-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E",
+        "Amin",
+        "Fmaj7",
+        "Dmin",
+        "G",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:?-?-?-v-?-iii-?-?-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "A Page",
+  "release_date": "2021-05-13",
+  "duration_ms": 174639
+}

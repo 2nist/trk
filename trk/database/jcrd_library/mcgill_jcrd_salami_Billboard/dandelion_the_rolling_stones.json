@@ -1,0 +1,246 @@
+{
+  "title": "Dandelion",
+  "artist": "The Rolling Stones",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 232,
+      "duration_ms": 33359,
+      "chords": [
+        "Bb:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:7/3",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:7/3"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 33591,
+      "duration_ms": 37540,
+      "chords": [
+        "C:7/3",
+        "Bb:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:7/3",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:7/3",
+        "Eb:maj",
+        "G:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 71132,
+      "duration_ms": 14265,
+      "chords": [
+        "C:maj",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 85397,
+      "duration_ms": 37449,
+      "chords": [
+        "F:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:7/3",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:7/3",
+        "Eb:maj",
+        "G:maj",
+        "G:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 122846,
+      "duration_ms": 14309,
+      "chords": [
+        "C:maj",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 137156,
+      "duration_ms": 35309,
+      "chords": [
+        "Bb:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:7/3",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:7/3",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 172465,
+      "duration_ms": 43184,
+      "chords": [
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "prechorus_1",
+      "start_ms": 215650,
+      "duration_ms": 12372,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "N",
+        "N"
+      ],
+      "sectionType": "PreChorus",
+      "sectionLetter": "F",
+      "sectionFunction": "Build",
+      "sectionLabel": "F",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

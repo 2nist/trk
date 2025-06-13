@@ -1,0 +1,65 @@
+{
+  "songID": "entry_1010",
+  "title": "Open The Eyes Of My Heart - Live",
+  "artist": "Michael W. Smith",
+  "spotifyID": "4um6ZMnib1I7VuG3c6jGm5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "A",
+        "E/Gs",
+        "Fsmin",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A",
+        "E/Gs",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "A",
+        "E/Gs",
+        "Fsmin",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A",
+        "E/Gs",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-v-i-?-?-iv-v-i-iv-v-i-?-iv-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Worship",
+  "release_date": "2001",
+  "duration_ms": 321933
+}

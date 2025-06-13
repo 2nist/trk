@@ -1,0 +1,323 @@
+{
+  "songID": "entry_101946",
+  "title": "Landas",
+  "artist": "Skip Saturday",
+  "spotifyID": "6Eh81l8FsCLbLOV9LjSY4Z",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-i-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-i-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "Emin7",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "Emin7",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin7",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Cadd9",
+        "Emin7",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin7",
+        "Cadd9"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Solo",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Landas",
+  "release_date": "2019-05-25",
+  "duration_ms": 252951
+}

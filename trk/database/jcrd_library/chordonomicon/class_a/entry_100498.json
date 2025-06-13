@@ -1,0 +1,313 @@
+{
+  "songID": "entry_100498",
+  "title": "Radio Silence",
+  "artist": "Frightened Rabbit",
+  "spotifyID": "0Ct1kN8F477bWiEYxHaK56",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Esus2",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "Esus2",
+        "E",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-v-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Esus2",
+        "E",
+        "D",
+        "Esus2",
+        "E",
+        "D",
+        "Esus2",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "Esus2",
+        "E",
+        "D",
+        "Esus2",
+        "E",
+        "D",
+        "Esus2",
+        "E",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-v-iv-?-v-iv-?-v-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "E",
+        "D",
+        "A",
+        "Csmin",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "E",
+        "D",
+        "A",
+        "Csmin",
+        "E",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-?-v-iv-i-?-v-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "Esus2",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "Esus2",
+        "E",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-?-v-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Esus2",
+        "E",
+        "Fsmin",
+        "Esus2",
+        "E",
+        "Fsmin",
+        "Esus2",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "Esus2",
+        "E",
+        "Fsmin",
+        "Esus2",
+        "E",
+        "Fsmin",
+        "Esus2",
+        "E",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v-?-?-v-?-?-v-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "E",
+        "D",
+        "A",
+        "Csmin",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "E",
+        "D",
+        "A",
+        "Csmin",
+        "E",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-?-v-iv-i-?-v-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "A",
+        "E",
+        "A",
+        "E",
+        "Fsmin",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "A",
+        "E",
+        "A",
+        "E",
+        "Fsmin",
+        "A",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-i-v-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "E",
+        "D",
+        "A",
+        "Csmin",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "E",
+        "D",
+        "A",
+        "Csmin",
+        "E",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-?-v-iv-i-?-v-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "Csmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "Fsmin",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "E",
+        "D",
+        "Fsmin",
+        "E",
+        "Fsmin",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-?-v-iv-?-v-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Late March, Death March",
+  "release_date": "2013-09-10",
+  "duration_ms": 256726
+}

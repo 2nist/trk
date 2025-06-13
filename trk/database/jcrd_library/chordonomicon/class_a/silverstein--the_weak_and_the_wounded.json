@@ -1,0 +1,257 @@
+{
+  "songID": "entry_101984",
+  "title": "The Weak And The Wounded",
+  "artist": "Silverstein",
+  "spotifyID": "5Ac32YtYQnKePrYtS9UhL9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 30,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude"
+  ],
+  "tags": [],
+  "album": "When Broken Is Easily Fixed",
+  "release_date": "2003-05-20",
+  "duration_ms": 195320
+}

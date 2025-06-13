@@ -1,0 +1,345 @@
+{
+  "songID": "entry_100452",
+  "title": "Today is Gonna be a Great Day - Theme Song to Phineas and Ferb",
+  "artist": "Bowling For Soup",
+  "spotifyID": "2monU2EJfR5m53ciaHNE6z",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-i-v-i-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-i-v-i-iv-i-v-i-v-i-v-i-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-iv-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-i-v-i-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Csmin",
+        "D",
+        "G",
+        "B7",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "Csmin",
+        "D",
+        "G",
+        "B7",
+        "E",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-i-iii-vi-ii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-i-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-i-v-i-iv-i-v-i-v-i-v-i-iv-bvii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "D",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-i-v-i-iv-i-v-i-v-i-v-i-iv-bvii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Phineas and Ferb",
+  "release_date": "2009-01-01",
+  "duration_ms": 181026
+}

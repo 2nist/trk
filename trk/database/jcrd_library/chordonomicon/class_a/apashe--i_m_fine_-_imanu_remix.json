@@ -1,0 +1,223 @@
+{
+  "songID": "entry_101848",
+  "title": "I'm Fine - IMANU Remix",
+  "artist": "Apashe",
+  "spotifyID": "4DHATlv5A1Gs9pMaWSHDMb",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "C",
+        "Emin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:v-?-?-i-?-?-i-?-v-?-ii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-?-v-?-i-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:?-i-?-?-i-?-v-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-?-v-?-i-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Emin",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.18",
+        "progression:v-?-?-i-?-?-i-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I'm Fine (IMANU Remix)",
+  "release_date": "2021-02-04",
+  "duration_ms": 243977
+}

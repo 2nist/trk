@@ -1,0 +1,364 @@
+{
+  "title": "Frankenstein",
+  "artist": "Edgar Winter",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 278,
+      "duration_ms": 10836,
+      "chords": [
+        "G:5",
+        "Bb:maj",
+        "G:5",
+        "G:5",
+        "Bb:maj",
+        "G:5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 11115,
+      "duration_ms": 20087,
+      "chords": [
+        "G:5",
+        "G:min7",
+        "G:min7",
+        "Bb:7(#9)",
+        "Eb:7",
+        "D:min(11)",
+        "G:7(#9)",
+        "C:7(#9)",
+        "F:maj/5",
+        "C:7(#9)",
+        "F:maj/5",
+        "G:min7/5",
+        "D:min7",
+        "G:min7/5",
+        "D:min9"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 31203,
+      "duration_ms": 10116,
+      "chords": [
+        "D:min9",
+        "G:min7",
+        "G:min7",
+        "C:7",
+        "Eb:maj/b7",
+        "G:min/5",
+        "Eb:maj(9,#11)",
+        "C:7/3",
+        "C:7/3"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 41319,
+      "duration_ms": 10106,
+      "chords": [
+        "G:5",
+        "Bb:maj",
+        "G:5",
+        "G:5",
+        "Bb:maj",
+        "G:5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 51425,
+      "duration_ms": 10068,
+      "chords": [
+        "G:min7",
+        "C:maj",
+        "G:min9",
+        "C:7",
+        "G:min7",
+        "C:7",
+        "G:min7",
+        "C:7",
+        "C:7"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "transition_1",
+      "start_ms": 61494,
+      "duration_ms": 15199,
+      "chords": [
+        "C:7",
+        "G:min7",
+        "C:7",
+        "G:min7",
+        "C:7",
+        "G:min7",
+        "C:7",
+        "G:min7",
+        "C:7",
+        "G:min7",
+        "A:min7",
+        "Bb:maj",
+        "B:dim",
+        "C:maj6",
+        "C:9"
+      ],
+      "sectionType": "Transition",
+      "sectionLetter": "E",
+      "sectionFunction": "Transition",
+      "sectionLabel": "E",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 76693,
+      "duration_ms": 5051,
+      "chords": [
+        "C:9",
+        "G:sus4(b7)",
+        "A:min7",
+        "Bb:maj6",
+        "C:7(#9)",
+        "D:min7",
+        "C:maj6/3",
+        "F:maj",
+        "G:sus4(b7,9)",
+        "C:maj6",
+        "N",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "g",
+      "sectionFunction": "Development",
+      "sectionLabel": "guitar)",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "prechorus_1",
+      "start_ms": 81745,
+      "duration_ms": 20214,
+      "chords": [
+        "N",
+        "G:min7",
+        "G:min7",
+        "G:min7",
+        "G:min7",
+        "G:min7",
+        "G:min7",
+        "G:min7",
+        "C:maj/5",
+        "G:min",
+        "C:maj/5",
+        "C:maj/5"
+      ],
+      "sectionType": "PreChorus",
+      "sectionLetter": "F",
+      "sectionFunction": "Build",
+      "sectionLabel": "F",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "instrumental_1",
+      "start_ms": 101960,
+      "duration_ms": 13349,
+      "chords": [
+        "C:maj/5",
+        "G:min7",
+        "C:maj/5",
+        "G:min",
+        "C:maj/5",
+        "G:min7",
+        "C:maj/5",
+        "G:min",
+        "C:maj/5",
+        "G:min7",
+        "G:min7"
+      ],
+      "sectionType": "Instrumental",
+      "sectionLetter": "G",
+      "sectionFunction": "Development",
+      "sectionLabel": "G",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "solo_1",
+      "start_ms": 115310,
+      "duration_ms": 26833,
+      "chords": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "G:1/1",
+        "N",
+        "G:1/1",
+        "N",
+        "G:1/1",
+        "N",
+        "G:1/1",
+        "N",
+        "G:1/1",
+        "Bb:1/1",
+        "N",
+        "G:1/1",
+        "F:1/1",
+        "N",
+        "G:1/1",
+        "Bb:1/1",
+        "N",
+        "G:1/1",
+        "F:1/1",
+        "F:1/1"
+      ],
+      "sectionType": "Solo",
+      "sectionLetter": "H",
+      "sectionFunction": "Development",
+      "sectionLabel": "H",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "interlude_1",
+      "start_ms": 142143,
+      "duration_ms": 21318,
+      "chords": [
+        "G:min7",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Interlude",
+      "sectionLetter": "I",
+      "sectionFunction": "Development",
+      "sectionLabel": "I",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 163462,
+      "duration_ms": 10066,
+      "chords": [
+        "G:5",
+        "Bb:maj",
+        "G:5",
+        "G:5",
+        "Bb:maj",
+        "G:5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 173528,
+      "duration_ms": 5068,
+      "chords": [
+        "G:5",
+        "G:min7",
+        "G:min7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_2",
+      "start_ms": 178597,
+      "duration_ms": 29546,
+      "chords": [
+        "G:min7",
+        "G:min7",
+        "Bb:7",
+        "G:min7",
+        "G:min7",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "o",
+      "sectionFunction": "Development",
+      "sectionLabel": "outro",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

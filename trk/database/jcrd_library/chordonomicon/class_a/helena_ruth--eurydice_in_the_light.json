@@ -1,0 +1,237 @@
+{
+  "songID": "entry_101512",
+  "title": "Eurydice in the Light",
+  "artist": "Helena Ruth",
+  "spotifyID": "3Ls606iTGBKKBpD07eQ7zJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D/A",
+        "Bmin",
+        "G",
+        "D",
+        "D/A",
+        "Emin",
+        "G",
+        "D",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "D/A",
+        "Bmin",
+        "G",
+        "D",
+        "D/A",
+        "Emin",
+        "G",
+        "D",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:iv-?-v-?-i-?-?-?-v-?-iv-?-v-?-i-?-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D/A",
+        "Bmin",
+        "G",
+        "D",
+        "D/A",
+        "Emin",
+        "G",
+        "D",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D/A",
+        "Bmin",
+        "G",
+        "D",
+        "D/A",
+        "Emin",
+        "G",
+        "D",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-?-i-?-v-?-?-?-i-?-v-?-?-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Inherited Branches",
+  "release_date": "2016-06-01",
+  "duration_ms": 169615
+}

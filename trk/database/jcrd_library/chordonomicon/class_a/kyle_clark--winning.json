@@ -1,0 +1,315 @@
+{
+  "songID": "entry_101361",
+  "title": "Winning",
+  "artist": "Kyle Clark",
+  "spotifyID": "5qEb5GTv9yy7Y7kLJCSMFN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Emin7",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Cadd9"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-?-?-v-?-?-v-?-i-?-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-?-v-?-i-?-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "Emin7",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Cadd9"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-?-v-?-i-?-?-?-v-?-?-v-?-i-?-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "D",
+        "Cadd9",
+        "D",
+        "G"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:i-?-?-?-v-?-?-v-?-i-?-?-?-v-?-?-v-?-i-?-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Winning",
+  "release_date": "2021-03-31",
+  "duration_ms": 176597
+}

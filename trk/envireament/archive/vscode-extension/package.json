@@ -1,0 +1,140 @@
+{
+    "name": "envireament-vscode",
+    "displayName": "EnviREAment",
+    "description": "Virtual REAPER Environment for VS Code - Test REAPER scripts without REAPER",
+    "version": "1.0.0",
+    "publisher": "songbase",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": [
+        "Testing",
+        "Other"
+    ],
+    "keywords": [
+        "reaper",
+        "lua",
+        "testing",
+        "virtual-environment",
+        "music-production"
+    ],
+    "activationEvents": [
+        "onLanguage:lua",
+        "onCommand:envireament.runTests",
+        "onCommand:envireament.runDemo",
+        "workspaceContains:**/*.lua"
+    ],
+    "main": "./out/extension.js",
+    "contributes": {
+        "commands": [
+            {
+                "command": "envireament.runTests",
+                "title": "Run EnviREAment Tests",
+                "category": "EnviREAment"
+            },
+            {
+                "command": "envireament.runDemo",
+                "title": "Run EnviREAment Demo",
+                "category": "EnviREAment"
+            },
+            {
+                "command": "envireament.showStatus",
+                "title": "Show EnviREAment Status",
+                "category": "EnviREAment"
+            },
+            {
+                "command": "envireament.openDocs",
+                "title": "Open Documentation",
+                "category": "EnviREAment"
+            }
+        ],
+        "menus": {
+            "explorer/context": [
+                {
+                    "when": "resourceExtname == .lua",
+                    "command": "envireament.runTests",
+                    "group": "envireament"
+                }
+            ],
+            "editor/context": [
+                {
+                    "when": "editorLangId == lua",
+                    "command": "envireament.runTests",
+                    "group": "envireament"
+                }
+            ],
+            "commandPalette": [
+                {
+                    "command": "envireament.runTests"
+                },
+                {
+                    "command": "envireament.runDemo"
+                },
+                {
+                    "command": "envireament.showStatus"
+                },
+                {
+                    "command": "envireament.openDocs"
+                }
+            ]
+        },
+        "configuration": {
+            "title": "EnviREAment",
+            "properties": {
+                "envireament.autoRunTests": {
+                    "type": "boolean",
+                    "default": false,
+                    "description": "Automatically run tests when Lua files are saved"
+                },
+                "envireament.verboseOutput": {
+                    "type": "boolean",
+                    "default": false,
+                    "description": "Enable verbose output in test results"
+                },
+                "envireament.luaPath": {
+                    "type": "string",
+                    "default": "lua",
+                    "description": "Path to Lua interpreter"
+                }
+            }
+        },
+        "languages": [
+            {
+                "id": "lua",
+                "extensions": [
+                    ".lua"
+                ],
+                "aliases": [
+                    "Lua",
+                    "lua"
+                ]
+            }
+        ],
+        "grammars": [
+            {
+                "language": "lua",
+                "scopeName": "source.lua",
+                "path": "./syntaxes/lua.tmLanguage.json"
+            }
+        ]
+    },
+    "scripts": {
+        "vscode:prepublish": "npm run compile",
+        "compile": "tsc -p ./",
+        "watch": "tsc -watch -p ./"
+    },
+    "devDependencies": {
+        "@types/vscode": "^1.74.0",
+        "@types/node": "16.x",
+        "typescript": "^4.9.4"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/your-username/EnviREAment.git"
+    },
+    "bugs": {
+        "url": "https://github.com/your-username/EnviREAment/issues"
+    },
+    "homepage": "https://github.com/your-username/EnviREAment#readme"
+}

@@ -1,0 +1,151 @@
+{
+  "songID": "entry_101703",
+  "title": "Shame The Devil",
+  "artist": "Robin Trower",
+  "spotifyID": "24Dh8cOc93ZjjsCLGD2i3J",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin7",
+        "F",
+        "D7",
+        "Amin7",
+        "F",
+        "D7",
+        "Amin7",
+        "F",
+        "D7"
+      ],
+      "rawChords": [
+        "Amin7",
+        "F",
+        "D7",
+        "Amin7",
+        "F",
+        "D7",
+        "Amin7",
+        "F",
+        "D7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-v-?-iii-?-?-v-?-iii-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin7",
+        "E7",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Amin7",
+        "E7",
+        "Amin7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "D7",
+        "Amin7",
+        "F",
+        "D7",
+        "Amin7",
+        "F",
+        "D7"
+      ],
+      "rawChords": [
+        "F",
+        "D7",
+        "Amin7",
+        "F",
+        "D7",
+        "Amin7",
+        "F",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-iii-?-?-v-?-iii-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin7",
+        "E7",
+        "Amin7",
+        "E7",
+        "F7",
+        "D7",
+        "Amin7",
+        "E7",
+        "F7",
+        "D7",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Amin7",
+        "E7",
+        "Amin7",
+        "E7",
+        "F7",
+        "D7",
+        "Amin7",
+        "E7",
+        "F7",
+        "D7",
+        "Amin7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:?-ii-?-?-ii-?-biii-?-i-?-?-ii-?-biii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "For Earth Below",
+  "release_date": "1975-02-01",
+  "duration_ms": 219426
+}

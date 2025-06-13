@@ -1,0 +1,199 @@
+{
+  "songID": "entry_0228",
+  "title": "The Comeback",
+  "artist": "Jimmy Reed",
+  "spotifyID": "5QGhRNAX13URAp4F6I576r",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-v-?-i-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Jimmy Reed Sings The Best Of The Blues",
+  "release_date": "1963-01-01",
+  "duration_ms": 188287
+}

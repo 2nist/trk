@@ -1,0 +1,147 @@
+{
+  "songID": "entry_100161",
+  "title": "Rip up the Streets",
+  "artist": "The Spits",
+  "spotifyID": "4jpXzwObZcpoKOtUNLdjO0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "C",
+        "G",
+        "Bmin"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "G",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iii-v-ii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A",
+        "C",
+        "G",
+        "Bmin"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "G",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iii-v-ii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-iv-v-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "C",
+        "G",
+        "Bmin"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "G",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iii-v-ii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Kill the Kool",
+  "release_date": "2010-10-30",
+  "duration_ms": 62146
+}

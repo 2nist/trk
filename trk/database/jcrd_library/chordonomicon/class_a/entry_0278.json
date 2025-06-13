@@ -1,0 +1,287 @@
+{
+  "songID": "entry_0278",
+  "title": "Here She Goes",
+  "artist": "The Steeldrivers",
+  "spotifyID": "091rvkAK1JaGzoRPiYyhiM",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fmin",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Bb"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Bb"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-?-?-ii-i-v-?-?-?-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Cmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Cmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-?-?-?-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-v-i-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Cmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Cmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-?-?-?-i-?-?-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-v-i-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-?-iv-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:i-?-v-iv-i-v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin",
+        "F",
+        "C7",
+        "Bbmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin7",
+        "C",
+        "F",
+        "Dmin7",
+        "C",
+        "Gmin",
+        "F",
+        "C7",
+        "Bbmin",
+        "Gmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-?-v-i-?-v-?-i-v-?-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Muscle Shoals Recordings",
+  "release_date": "2015-06-16",
+  "duration_ms": 205720
+}

@@ -1,0 +1,259 @@
+{
+  "songID": "entry_0021",
+  "title": "Cedar Tree",
+  "artist": "Indigo Girls",
+  "spotifyID": "5Lp3jYkxzIm9ZkUJ4jeH8P",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-v-?-v-ii-v-ii-v-i-v-ii-v-ii-v-i-v-i-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Rites Of Passage (Expanded Edition)",
+  "release_date": "1992-06-03",
+  "duration_ms": 226400
+}

@@ -1,0 +1,261 @@
+{
+  "title": "Goodbye Yellow Brick Road",
+  "artist": "Elton John",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "bridge_1",
+      "start_ms": 232,
+      "duration_ms": 7733,
+      "chords": [
+        "F:maj",
+        "C:maj/3",
+        "D:min",
+        "D:min/b7",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 7965,
+      "duration_ms": 31447,
+      "chords": [
+        "F:maj",
+        "G:min7",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/3",
+        "Bb:maj",
+        "Eb:maj",
+        "C:7/3",
+        "F:maj",
+        "G:min7",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/3",
+        "Bb:maj",
+        "Eb:maj",
+        "C:7/3",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 39413,
+      "duration_ms": 11912,
+      "chords": [
+        "F:maj",
+        "Bb:min",
+        "Eb:maj",
+        "Ab:maj",
+        "Db:maj",
+        "Bb:min",
+        "C:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_2",
+      "start_ms": 51325,
+      "duration_ms": 31485,
+      "chords": [
+        "C:7",
+        "F:maj",
+        "A:7",
+        "Bb:maj",
+        "F:maj",
+        "D:7",
+        "G:min7",
+        "C:maj",
+        "F:maj",
+        "C:maj/3",
+        "D:min7",
+        "A:7",
+        "Bb:maj",
+        "Db:maj",
+        "F:maj",
+        "C:maj/3",
+        "D:min",
+        "D:min/b7",
+        "Bb:maj",
+        "C:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 82810,
+      "duration_ms": 15889,
+      "chords": [
+        "Bb:min",
+        "Eb:maj",
+        "Ab:maj",
+        "Db:maj",
+        "Bb:min",
+        "C:7",
+        "F:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 98700,
+      "duration_ms": 32000,
+      "chords": [
+        "G:min7",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/3",
+        "Bb:maj",
+        "Eb:maj",
+        "C:7/3",
+        "F:maj",
+        "G:min7",
+        "Bb:maj",
+        "C:maj",
+        "F:maj",
+        "F:maj/3",
+        "Bb:maj",
+        "Eb:maj",
+        "C:7/3",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 130701,
+      "duration_ms": 12105,
+      "chords": [
+        "F:maj",
+        "Bb:min",
+        "Eb:maj",
+        "Ab:maj",
+        "Db:maj",
+        "Bb:min",
+        "C:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_3",
+      "start_ms": 142807,
+      "duration_ms": 31545,
+      "chords": [
+        "C:7",
+        "F:maj",
+        "A:7",
+        "Bb:maj",
+        "F:maj",
+        "D:7",
+        "G:min7",
+        "C:maj",
+        "F:maj",
+        "C:maj/3",
+        "D:min7",
+        "A:7",
+        "Bb:maj",
+        "Db:maj",
+        "F:maj",
+        "C:maj/3",
+        "D:min",
+        "D:min/b7",
+        "Bb:maj",
+        "C:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 174352,
+      "duration_ms": 20390,
+      "chords": [
+        "C:maj",
+        "Bb:min",
+        "Eb:maj",
+        "Ab:maj",
+        "Db:maj",
+        "Bb:min",
+        "C:7",
+        "F:maj",
+        "F:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

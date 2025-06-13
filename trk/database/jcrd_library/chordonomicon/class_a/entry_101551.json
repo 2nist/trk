@@ -1,0 +1,283 @@
+{
+  "songID": "entry_101551",
+  "title": "So erheben wir das Glas",
+  "artist": "Eizbrand",
+  "spotifyID": "4mD7UrgqLg1us0v3bqGoDB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Emin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Fs",
+        "E",
+        "Fs",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "E",
+        "Fs",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "Dsmin",
+        "A",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fs",
+        "Dsmin",
+        "A",
+        "E",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-ii-?-vi-?-iii-?-?-iii-?-?-v-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Feuertaufe",
+  "release_date": "2019-10-04",
+  "duration_ms": 222080
+}

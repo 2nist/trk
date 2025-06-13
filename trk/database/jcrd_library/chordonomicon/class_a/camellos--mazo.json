@@ -1,0 +1,417 @@
+{
+  "songID": "entry_101953",
+  "title": "Mazo",
+  "artist": "Camellos",
+  "spotifyID": "41FrTK3vYlDPeBTyXl5g2T",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin",
+        "G",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin",
+        "G",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin",
+        "G",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin",
+        "G",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "Bmin",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "C",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Calle para Siempre",
+  "release_date": "2019-11-29",
+  "duration_ms": 156266
+}

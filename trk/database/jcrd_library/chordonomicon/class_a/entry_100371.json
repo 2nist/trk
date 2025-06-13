@@ -1,0 +1,171 @@
+{
+  "songID": "entry_100371",
+  "title": "Pray For You",
+  "artist": "Jhen\u00e9 Aiko",
+  "spotifyID": "3JHQY6VnwmUMuYb0XI2O7Y",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmaj7",
+        "Csmin7",
+        "Bmin7",
+        "E",
+        "Fsmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Bmin7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Csmin7",
+        "Bmin7",
+        "E",
+        "Fsmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Bmin7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Fsmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Bmin7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Fsmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Bmin7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7",
+        "Csmin7",
+        "Fsmin7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Csmin7",
+        "Dmaj7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Chilombo",
+  "release_date": "2020-03-06",
+  "duration_ms": 100386
+}

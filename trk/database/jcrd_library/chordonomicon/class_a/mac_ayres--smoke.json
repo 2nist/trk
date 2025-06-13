@@ -1,0 +1,197 @@
+{
+  "songID": "entry_102488",
+  "title": "Smoke",
+  "artist": "Mac Ayres",
+  "spotifyID": "092s6wVDOgosfuZKY4ccj7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7"
+      ],
+      "rawChords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7",
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7"
+      ],
+      "rawChords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7",
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7",
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7"
+      ],
+      "rawChords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7",
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7"
+      ],
+      "rawChords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7",
+        "Bmin9"
+      ],
+      "rawChords": [
+        "Bmin9",
+        "Emin9",
+        "Bmin9",
+        "B7",
+        "Gmaj7",
+        "Fs7",
+        "Bmin9"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gmaj7",
+        "Fs7",
+        "Bmin9"
+      ],
+      "rawChords": [
+        "Gmaj7",
+        "Fs7",
+        "Bmin9"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Smoke",
+  "release_date": "2021-05-14",
+  "duration_ms": 264000
+}

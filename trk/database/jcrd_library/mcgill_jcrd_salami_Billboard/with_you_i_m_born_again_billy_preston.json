@@ -1,0 +1,236 @@
+{
+  "title": "With You I'm Born Again",
+  "artist": "Billy Preston",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 696,
+      "duration_ms": 10983,
+      "chords": [
+        "N",
+        "D:min9",
+        "C:maj6(9)",
+        "Bb:maj9",
+        "A:sus4(b7,9)",
+        "A:sus4(b7,9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 11679,
+      "duration_ms": 40356,
+      "chords": [
+        "A:sus4(b7,9)",
+        "D:min",
+        "C:maj",
+        "Bb:maj9",
+        "A:min7",
+        "G:min7",
+        "E:hdim7",
+        "A:7",
+        "D:sus4",
+        "D:maj",
+        "D:min9",
+        "A:min7",
+        "Bb:maj9",
+        "A:min7",
+        "G:min9",
+        "A:sus4(b7,9)",
+        "A:maj",
+        "D:sus4",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 52035,
+      "duration_ms": 19992,
+      "chords": [
+        "G:min9",
+        "A:min7",
+        "Bb:maj7",
+        "A:min7",
+        "G:min9",
+        "A:min7",
+        "Eb:maj9",
+        "D:min7",
+        "C:min9"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 72028,
+      "duration_ms": 25820,
+      "chords": [
+        "D:min9",
+        "A:min7",
+        "Bb:maj9",
+        "A:min7",
+        "G:min9",
+        "A:sus4",
+        "A:maj",
+        "D:min9",
+        "D:min9/b7",
+        "Bb:maj9",
+        "A:sus4",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 97848,
+      "duration_ms": 17740,
+      "chords": [
+        "E:min/b7",
+        "D:maj",
+        "A:maj/4",
+        "D:maj",
+        "E:min/b7",
+        "D:maj",
+        "A:maj/4",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 115588,
+      "duration_ms": 35665,
+      "chords": [
+        "D:maj",
+        "D:min9",
+        "A:min7",
+        "Bb:maj9",
+        "A:min7",
+        "G:min9",
+        "A:sus4(b7,9)",
+        "A:maj",
+        "D:sus4",
+        "D:maj",
+        "D:min9",
+        "A:min7",
+        "Bb:maj9",
+        "A:min7",
+        "G:min9",
+        "A:sus4(b7,9)",
+        "A:maj",
+        "D:sus4",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 151254,
+      "duration_ms": 19690,
+      "chords": [
+        "G:min9",
+        "A:min7",
+        "Bb:maj7",
+        "A:min7",
+        "G:min9",
+        "A:min7",
+        "Eb:maj9",
+        "C:min9",
+        "C:min9"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 170945,
+      "duration_ms": 51356,
+      "chords": [
+        "C:min9",
+        "Eb:min9",
+        "Bb:min7",
+        "Cb:maj9",
+        "Bb:min7",
+        "Ab:min9",
+        "Bb:sus4(b7,9)",
+        "Bb:maj",
+        "Eb:min9",
+        "Eb:min9/b7",
+        "Cb:maj9",
+        "Bb:sus4(b7,9)",
+        "Bb:maj",
+        "Eb:sus4",
+        "Eb:sus4",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

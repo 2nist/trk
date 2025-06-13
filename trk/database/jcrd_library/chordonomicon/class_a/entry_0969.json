@@ -1,0 +1,305 @@
+{
+  "songID": "entry_0969",
+  "title": "Too Cold Here",
+  "artist": "Manic Street Preachers",
+  "spotifyID": "2HwON96D8XSQLwRvCzn5rQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "G",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "G",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:vi-?-?-?-v-?-v-?-?-v-?-v-?-v-?-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "Bmin",
+        "G",
+        "C",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "B",
+        "G",
+        "C",
+        "Bmin",
+        "Emin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "Bmin",
+        "G",
+        "C",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "B",
+        "G",
+        "C",
+        "Bmin",
+        "Emin",
+        "Bmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-i-v-i-v-?-?-i-?-v-i-?-?-?-vii-v-i-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Emin",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:ii-?-?-?-?-?-i-?-i-?-?-?-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "G",
+        "Bmin",
+        "B"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "G",
+        "Bmin",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-i-v-?-?-i-v-?-vii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "C",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "C",
+        "Bmin",
+        "Emin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "C",
+        "Bmin",
+        "Emin",
+        "Bmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-i-?-?-?-v-i-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Interlude",
+    "Verse",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Holy Bible 20 (Deluxe)",
+  "release_date": "1994-08-29",
+  "duration_ms": 216240
+}

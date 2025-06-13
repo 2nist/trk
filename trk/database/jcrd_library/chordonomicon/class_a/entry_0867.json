@@ -1,0 +1,167 @@
+{
+  "songID": "entry_0867",
+  "title": "My Baby Left Me",
+  "artist": "Billy Swan",
+  "spotifyID": "0MBaZl0zRHWVuxrFaXY9dR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G7"
+      ],
+      "rawChords": [
+        "G7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "A7",
+        "D7",
+        "G7"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "D7",
+        "G7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-ii-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "A7",
+        "D7",
+        "G7"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "D7",
+        "G7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-ii-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C7",
+        "A7",
+        "G7",
+        "D7",
+        "C7",
+        "G7"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "G7",
+        "D7",
+        "C7",
+        "G7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-ii-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "A7",
+        "D7",
+        "G7",
+        "D7",
+        "C7",
+        "G7"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "D7",
+        "G7",
+        "D7",
+        "C7",
+        "G7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-ii-v-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D7",
+        "C7"
+      ],
+      "rawChords": [
+        "D7",
+        "C7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:v-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental"
+  ],
+  "tags": [],
+  "album": "Mystery Train",
+  "release_date": "2016-10-20",
+  "duration_ms": 162400
+}

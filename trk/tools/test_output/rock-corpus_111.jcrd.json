@@ -1,0 +1,1057 @@
+{
+  "title": "Love And Happiness",
+  "artist": "Unknown Artist",
+  "bpm": 120,
+  "key": "",
+  "source": "JAMS Dataset",
+  "beat_times": [],
+  "sections": [
+    {
+      "id": "chord_1",
+      "start_ms": 1100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_1",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_2",
+      "start_ms": 2100,
+      "duration_ms": 4000,
+      "chords": [
+        "iv7"
+      ],
+      "sectionLabel": "chord_2",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_3",
+      "start_ms": 3100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_3",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_4",
+      "start_ms": 4100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_4",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_5",
+      "start_ms": 4300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_5",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_6",
+      "start_ms": 5100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_6",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_7",
+      "start_ms": 6100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_7",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_8",
+      "start_ms": 6300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_8",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_9",
+      "start_ms": 7100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_9",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_10",
+      "start_ms": 8100,
+      "duration_ms": 4000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_10",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_11",
+      "start_ms": 9100,
+      "duration_ms": 4000,
+      "chords": [
+        "AbbIIId42"
+      ],
+      "sectionLabel": "chord_11",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_12",
+      "start_ms": 10100,
+      "duration_ms": 2000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_12",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_13",
+      "start_ms": 10300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVII"
+      ],
+      "sectionLabel": "chord_13",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_14",
+      "start_ms": 11100,
+      "duration_ms": 2000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_14",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_15",
+      "start_ms": 11300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVII"
+      ],
+      "sectionLabel": "chord_15",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_16",
+      "start_ms": 12100,
+      "duration_ms": 2000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_16",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_17",
+      "start_ms": 12300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVII"
+      ],
+      "sectionLabel": "chord_17",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_18",
+      "start_ms": 13100,
+      "duration_ms": 1000,
+      "chords": [
+        "AbbV"
+      ],
+      "sectionLabel": "chord_18",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_19",
+      "start_ms": 13200,
+      "duration_ms": 1000,
+      "chords": [
+        "iv"
+      ],
+      "sectionLabel": "chord_19",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_20",
+      "start_ms": 13300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_20",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_21",
+      "start_ms": 14100,
+      "duration_ms": 1000,
+      "chords": [
+        "AbbV"
+      ],
+      "sectionLabel": "chord_21",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_22",
+      "start_ms": 14200,
+      "duration_ms": 1000,
+      "chords": [
+        "iv"
+      ],
+      "sectionLabel": "chord_22",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_23",
+      "start_ms": 14300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_23",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_24",
+      "start_ms": 15100,
+      "duration_ms": 4000,
+      "chords": [
+        "AbbIIId42"
+      ],
+      "sectionLabel": "chord_24",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_25",
+      "start_ms": 16100,
+      "duration_ms": 2000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_25",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_26",
+      "start_ms": 16300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVII"
+      ],
+      "sectionLabel": "chord_26",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_27",
+      "start_ms": 17100,
+      "duration_ms": 2000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_27",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_28",
+      "start_ms": 17300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVII"
+      ],
+      "sectionLabel": "chord_28",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_29",
+      "start_ms": 18100,
+      "duration_ms": 2000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_29",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_30",
+      "start_ms": 18300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVII"
+      ],
+      "sectionLabel": "chord_30",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_31",
+      "start_ms": 19100,
+      "duration_ms": 1000,
+      "chords": [
+        "AbbV"
+      ],
+      "sectionLabel": "chord_31",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_32",
+      "start_ms": 19200,
+      "duration_ms": 1000,
+      "chords": [
+        "iv"
+      ],
+      "sectionLabel": "chord_32",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_33",
+      "start_ms": 19300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_33",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_34",
+      "start_ms": 20100,
+      "duration_ms": 1000,
+      "chords": [
+        "AbbV"
+      ],
+      "sectionLabel": "chord_34",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_35",
+      "start_ms": 20200,
+      "duration_ms": 1000,
+      "chords": [
+        "iv"
+      ],
+      "sectionLabel": "chord_35",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_36",
+      "start_ms": 20300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_36",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_37",
+      "start_ms": 21100,
+      "duration_ms": 1000,
+      "chords": [
+        "AbbV"
+      ],
+      "sectionLabel": "chord_37",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_38",
+      "start_ms": 21200,
+      "duration_ms": 1000,
+      "chords": [
+        "iv"
+      ],
+      "sectionLabel": "chord_38",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_39",
+      "start_ms": 21300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_39",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_40",
+      "start_ms": 22100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_40",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_41",
+      "start_ms": 22300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_41",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_42",
+      "start_ms": 23100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_42",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_43",
+      "start_ms": 24100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_43",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_44",
+      "start_ms": 24300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_44",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_45",
+      "start_ms": 25100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_45",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_46",
+      "start_ms": 26100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_46",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_47",
+      "start_ms": 26300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_47",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_48",
+      "start_ms": 27100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_48",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_49",
+      "start_ms": 28100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_49",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_50",
+      "start_ms": 28300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_50",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_51",
+      "start_ms": 29100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_51",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_52",
+      "start_ms": 30100,
+      "duration_ms": 4000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_52",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_53",
+      "start_ms": 31100,
+      "duration_ms": 4000,
+      "chords": [
+        "AbbIIId42"
+      ],
+      "sectionLabel": "chord_53",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_54",
+      "start_ms": 32100,
+      "duration_ms": 2000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_54",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_55",
+      "start_ms": 32299,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVII"
+      ],
+      "sectionLabel": "chord_55",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_56",
+      "start_ms": 33100,
+      "duration_ms": 2000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_56",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_57",
+      "start_ms": 33300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVII"
+      ],
+      "sectionLabel": "chord_57",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_58",
+      "start_ms": 34100,
+      "duration_ms": 2000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_58",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_59",
+      "start_ms": 34300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVII"
+      ],
+      "sectionLabel": "chord_59",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_60",
+      "start_ms": 35100,
+      "duration_ms": 1000,
+      "chords": [
+        "AbbV"
+      ],
+      "sectionLabel": "chord_60",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_61",
+      "start_ms": 35200,
+      "duration_ms": 1000,
+      "chords": [
+        "iv"
+      ],
+      "sectionLabel": "chord_61",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_62",
+      "start_ms": 35300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_62",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_63",
+      "start_ms": 36100,
+      "duration_ms": 1000,
+      "chords": [
+        "AbbV"
+      ],
+      "sectionLabel": "chord_63",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_64",
+      "start_ms": 36200,
+      "duration_ms": 1000,
+      "chords": [
+        "iv"
+      ],
+      "sectionLabel": "chord_64",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_65",
+      "start_ms": 36300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_65",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_66",
+      "start_ms": 37100,
+      "duration_ms": 1000,
+      "chords": [
+        "AbbV"
+      ],
+      "sectionLabel": "chord_66",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_67",
+      "start_ms": 37200,
+      "duration_ms": 1000,
+      "chords": [
+        "iv"
+      ],
+      "sectionLabel": "chord_67",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_68",
+      "start_ms": 37300,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbIII"
+      ],
+      "sectionLabel": "chord_68",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_69",
+      "start_ms": 38100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_69",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_70",
+      "start_ms": 38300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_70",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_71",
+      "start_ms": 39100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_71",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_72",
+      "start_ms": 40100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_72",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_73",
+      "start_ms": 40300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_73",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_74",
+      "start_ms": 41100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_74",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_75",
+      "start_ms": 42100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_75",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_76",
+      "start_ms": 42300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_76",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_77",
+      "start_ms": 43100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_77",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_78",
+      "start_ms": 44100,
+      "duration_ms": 2000,
+      "chords": [
+        "AbbVId7"
+      ],
+      "sectionLabel": "chord_78",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_79",
+      "start_ms": 44300,
+      "duration_ms": 2000,
+      "chords": [
+        "V7"
+      ],
+      "sectionLabel": "chord_79",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    },
+    {
+      "id": "chord_80",
+      "start_ms": 45100,
+      "duration_ms": 4000,
+      "chords": [
+        "i"
+      ],
+      "sectionLabel": "chord_80",
+      "tags": [
+        "chord_only"
+      ],
+      "romanNumerals": []
+    }
+  ],
+  "tags": [
+    "time_signature:4/4"
+  ],
+  "time_signature": "4/4",
+  "source_file": "..\\datasets\\choco\\choco-main\\partitions\\rock-corpus\\choco\\jams\\rock-corpus_111.jams",
+  "conversion_date": "2025-05-24T19:13:33.539994",
+  "partition": "rock-corpus"
+}

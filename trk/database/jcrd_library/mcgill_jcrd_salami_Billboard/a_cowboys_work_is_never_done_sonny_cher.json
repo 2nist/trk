@@ -1,0 +1,209 @@
+{
+  "title": "A Cowboys Work Is Never Done",
+  "artist": "Sonny & Cher",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 348,
+      "duration_ms": 22314,
+      "chords": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "C:min"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 22662,
+      "duration_ms": 25084,
+      "chords": [
+        "C:min",
+        "C:min",
+        "G:maj",
+        "G:maj",
+        "C:min",
+        "C:min",
+        "G:maj",
+        "G:maj",
+        "C:min",
+        "C:min"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 47746,
+      "duration_ms": 17686,
+      "chords": [
+        "C#:min",
+        "C#:min",
+        "C#:min",
+        "C#:min",
+        "C:min",
+        "C:min"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 65433,
+      "duration_ms": 24972,
+      "chords": [
+        "C:min",
+        "C:min",
+        "C:min",
+        "G:maj",
+        "G:maj",
+        "C:min",
+        "C:min",
+        "G:maj",
+        "G:maj",
+        "C:min"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 90405,
+      "duration_ms": 28140,
+      "chords": [
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "G:sus4(b7)",
+        "G:7",
+        "C:min",
+        "Ab:maj",
+        "Bb:maj",
+        "C:min",
+        "C:min/b7",
+        "F:maj6",
+        "G:sus4(b7)",
+        "G:7",
+        "G:7"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 118546,
+      "duration_ms": 24938,
+      "chords": [
+        "C:min",
+        "C#:min",
+        "C#:min",
+        "C#:min",
+        "C#:min",
+        "C#:min",
+        "C:min",
+        "C:min"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 143484,
+      "duration_ms": 22166,
+      "chords": [
+        "C:min",
+        "C:min",
+        "C:min",
+        "G:7",
+        "G:7",
+        "C:min",
+        "C:min",
+        "G:sus4(b7)",
+        "G:7",
+        "N",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 165651,
+      "duration_ms": 32121,
+      "chords": [
+        "N",
+        "C:min",
+        "C:min",
+        "G:7",
+        "G:7",
+        "C:min",
+        "C:min",
+        "G:7",
+        "G:7",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

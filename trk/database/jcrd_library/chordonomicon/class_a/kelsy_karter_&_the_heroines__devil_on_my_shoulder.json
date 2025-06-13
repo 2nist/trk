@@ -1,0 +1,299 @@
+{
+  "songID": "entry_102677",
+  "title": "Devil On My Shoulder",
+  "artist": "Kelsy Karter & The Heroines",
+  "spotifyID": "7wCPMQfZ4Eis48xJWHLCSO",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Fs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.32",
+        "progression:i-?-?-?-v-?-i-?-?-i-?-?-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gsmin"
+      ],
+      "rawChords": [
+        "Gsmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Fs",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Fs",
+        "Gsmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.32",
+        "progression:i-?-?-?-v-?-i-?-?-i-?-?-?-v-?-i-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Ds"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Ds"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.16",
+        "progression:?-iii-?-?-i-?-iv-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Gsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Gsmin"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:i-?-?-?-v-?-i-?-?-i-?-?-?-v-?-i-?-ii-?-i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Gsmin"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.15",
+        "progression:?-?-iii-?-?-i-?-?-?-iii-?-?-i-?-?-?-iii-?-?-i-?-?-?-iii-?-?-i-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Missing Person",
+  "release_date": "2020-10-02",
+  "duration_ms": 185500
+}

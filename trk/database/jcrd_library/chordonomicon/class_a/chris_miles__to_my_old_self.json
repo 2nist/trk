@@ -1,0 +1,177 @@
+{
+  "songID": "entry_102978",
+  "title": "To My Old Self",
+  "artist": "Chris Miles",
+  "spotifyID": "6GbSMwP10biHV4FeVusQqU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Gmaj7",
+        "Gmin7"
+      ],
+      "rawChords": [
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Gmaj7",
+        "Gmin7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Abmaj7",
+        "Abmin7",
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Abmaj7",
+        "Abmin7"
+      ],
+      "rawChords": [
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Abmaj7",
+        "Abmin7",
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Abmaj7",
+        "Abmin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Abmaj7",
+        "Abmin7",
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Abmaj7",
+        "Abmin7",
+        "Bmaj7",
+        "Eb",
+        "Eb",
+        "Eb",
+        "A",
+        "Abmin",
+        "B"
+      ],
+      "rawChords": [
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Abmaj7",
+        "Abmin7",
+        "Cmin7",
+        "Edim7",
+        "Bbmin7",
+        "Edim7",
+        "Abmaj7",
+        "Abmin7",
+        "Bmaj7",
+        "Eb",
+        "Eb",
+        "Eb",
+        "A",
+        "Abmin",
+        "B"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-?-?-?-?-?-?-?-?-?-?-?-bbvi-?-bbvi-?-bbvi-?-bii-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Eb",
+        "Cmin",
+        "B",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bmaj7"
+      ],
+      "rawChords": [
+        "Eb",
+        "Cmin",
+        "B",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bmaj7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:bbvi-?-?-biii-?-bbvi-?-?-bbvi-?-?-bbvi-?-?-bbii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "nothing matters anymore.",
+  "release_date": "2020-07-29",
+  "duration_ms": 148561
+}

@@ -1,0 +1,265 @@
+{
+  "songID": "entry_0537",
+  "title": "I Could Fall In Love",
+  "artist": "Nicole Ordes",
+  "spotifyID": "5YlzVwQF5CbDXBUeoSJeyH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-i-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-i-?-v-?-i-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G",
+        "Bmin",
+        "C",
+        "Cmin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-i-?-v-?-i-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I Could Fall In Love",
+  "release_date": "2023-02-10",
+  "duration_ms": 211610
+}

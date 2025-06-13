@@ -1,0 +1,117 @@
+{
+  "songID": "entry_102602",
+  "title": "We'll Be Alright",
+  "artist": "softy",
+  "spotifyID": "34RsckCJNK4LvVIhlbLnmt",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "G7",
+        "C",
+        "Amin",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "G7",
+        "C",
+        "Amin",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "G7",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.16",
+        "progression:v-?-?-?-?-v-?-?-ii-?-v-?-?-?-?-v-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G7",
+        "C",
+        "E7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G7",
+        "C",
+        "E7",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:?-v-?-i-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Overnight",
+  "release_date": "2021-10-13",
+  "duration_ms": 157452
+}

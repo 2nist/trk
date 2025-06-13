@@ -1,0 +1,263 @@
+{
+  "songID": "entry_0461",
+  "title": "You Here Now",
+  "artist": "Rafael Witt",
+  "spotifyID": "01cSiTfKYlM5o0PGA7kaSB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emaj7",
+        "Fsmin",
+        "Gsmin",
+        "A",
+        "B",
+        "Emaj7",
+        "A9"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "Fsmin",
+        "Gsmin",
+        "A",
+        "B",
+        "Emaj7",
+        "A9"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-?-i-ii-?-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emaj7",
+        "A9",
+        "Emaj7",
+        "A9"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "A9",
+        "Emaj7",
+        "A9"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emaj7",
+        "Fsmin7",
+        "A",
+        "Csmin",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "Fsmin7",
+        "A",
+        "Csmin",
+        "B",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-i-?-ii-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Emaj7",
+        "A9"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "A9"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emaj7",
+        "A9",
+        "Emaj7",
+        "A9"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "A9",
+        "Emaj7",
+        "A9"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emaj7",
+        "Fsmin7",
+        "A",
+        "Csmin",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "Fsmin7",
+        "A",
+        "Csmin",
+        "B",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-i-?-ii-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Emaj7",
+        "A9",
+        "Emaj7",
+        "A9",
+        "B",
+        "A",
+        "B",
+        "Csmin",
+        "B",
+        "A",
+        "Fsmin",
+        "Gsmin",
+        "A",
+        "B",
+        "Fsmin",
+        "Gsmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "A9",
+        "Emaj7",
+        "A9",
+        "B",
+        "A",
+        "B",
+        "Csmin",
+        "B",
+        "A",
+        "Fsmin",
+        "Gsmin",
+        "A",
+        "B",
+        "Fsmin",
+        "Gsmin",
+        "A",
+        "B"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-i-?-i-ii-i-ii-?-ii-i-?-?-i-ii-?-?-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emaj7",
+        "A9",
+        "Emaj7",
+        "A9"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "A9",
+        "Emaj7",
+        "A9"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Finding the Truth of Mine",
+  "release_date": "2023-02-03",
+  "duration_ms": 232551
+}

@@ -1,0 +1,89 @@
+{
+  "songID": "entry_100444",
+  "title": "Tollund Man",
+  "artist": "The Mountain Goats",
+  "spotifyID": "7bAVeC4iZg08x50JPNOg30",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ano3d",
+        "Dno3d",
+        "Ano3d",
+        "Dno3d"
+      ],
+      "rawChords": [
+        "Ano3d",
+        "Dno3d",
+        "Ano3d",
+        "Dno3d"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Ano3d",
+        "A",
+        "Dno3d",
+        "Ano3d",
+        "A",
+        "Dno3d"
+      ],
+      "rawChords": [
+        "Ano3d",
+        "A",
+        "Dno3d",
+        "Ano3d",
+        "A",
+        "Dno3d"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Ano3d",
+        "Dno3d",
+        "Ano3d",
+        "Dno3d",
+        "Ano3d"
+      ],
+      "rawChords": [
+        "Ano3d",
+        "Dno3d",
+        "Ano3d",
+        "Dno3d",
+        "Ano3d"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Sweden",
+  "release_date": "1995",
+  "duration_ms": 154400
+}

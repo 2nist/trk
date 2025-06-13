@@ -1,0 +1,323 @@
+{
+  "songID": "entry_101041",
+  "title": "I Love All The Love In You",
+  "artist": "Bob Crewe and Charles Fox",
+  "spotifyID": "0EOdTIisi2Tp4jI8FmVqPE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:bbii-?-?-?-?-bbii-?-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "Ab",
+        "Bbmin7",
+        "Gdim7",
+        "C7",
+        "Abmin",
+        "Gb",
+        "Fdim7",
+        "E",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "Ab",
+        "Bbmin7",
+        "Gdim7",
+        "C7",
+        "Abmin",
+        "Gb",
+        "Fdim7",
+        "E",
+        "Eb"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:bbvi-?-?-?-?-bbvi-?-?-?-bi-?-?-bbv-?-?-biii-?-bbiii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "Ab",
+        "Bbmin7",
+        "Gdim7",
+        "C7"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "Ab",
+        "Bbmin7",
+        "Gdim7",
+        "C7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.06",
+        "progression:biii-?-?-?-?-biii-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "Gs",
+        "Gmin",
+        "Gminmaj7",
+        "Gmin7",
+        "Gminadd13",
+        "Eb"
+      ],
+      "rawChords": [
+        "Amin",
+        "Gs",
+        "Gmin",
+        "Gminmaj7",
+        "Gmin7",
+        "Gminadd13",
+        "Eb"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-#vii-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "B",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "B",
+        "Eb",
+        "Ab"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.44",
+        "progression:bbii-?-?-?-?-biii-?-bbvi-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bbmin7",
+        "Cmin7",
+        "Bbmin7",
+        "Ab",
+        "Bbmin7",
+        "Gdim7",
+        "C7"
+      ],
+      "rawChords": [
+        "Bbmin7",
+        "Cmin7",
+        "Bbmin7",
+        "Ab",
+        "Bbmin7",
+        "Gdim7",
+        "C7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-?-?-biii-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "Gs",
+        "Gmin",
+        "Gminmaj7",
+        "Gmin7",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Amin",
+        "Gs",
+        "Gmin",
+        "Gminmaj7",
+        "Gmin7",
+        "Bb",
+        "Eb"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-#iii-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "B",
+        "Eb",
+        "Ab",
+        "Bbmin7",
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Bbmin7",
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Bbmin7"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Dbmaj7",
+        "B",
+        "Eb",
+        "Ab",
+        "Bbmin7",
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Bbmin7",
+        "Ab",
+        "Bbmin7",
+        "Cmin7",
+        "Bbmin7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.21",
+        "progression:bbii-?-?-?-?-biii-?-bbvi-?-bbii-?-?-bbii-?-?-?-?-bbii-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Interlude",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Barbarella",
+  "release_date": "2002",
+  "duration_ms": 75531
+}

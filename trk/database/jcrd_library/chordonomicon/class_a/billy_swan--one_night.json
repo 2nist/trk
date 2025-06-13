@@ -1,0 +1,227 @@
+{
+  "songID": "entry_0869",
+  "title": "One Night",
+  "artist": "Billy Swan",
+  "spotifyID": "6KJjpnFy2W0YHGiKGuhsvU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "G",
+        "C",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "G",
+        "C",
+        "B"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:i-?-v-?-?-bvii-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "B",
+        "B7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "B7",
+        "B",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "G",
+        "C",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "G",
+        "C",
+        "B"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:i-?-v-?-?-bvii-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Mystery Train",
+  "release_date": "2016-10-20",
+  "duration_ms": 159800
+}

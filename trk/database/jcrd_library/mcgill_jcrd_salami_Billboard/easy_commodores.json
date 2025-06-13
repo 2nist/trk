@@ -1,0 +1,328 @@
+{
+  "title": "Easy",
+  "artist": "Commodores",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 557,
+      "duration_ms": 14376,
+      "chords": [
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Bb:min7",
+        "Bb:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 14933,
+      "duration_ms": 32706,
+      "chords": [
+        "Bb:min7",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Db:maj/2"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 47640,
+      "duration_ms": 29046,
+      "chords": [
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Gb:maj",
+        "Db:maj/3",
+        "Db:maj/3",
+        "Db:maj/2",
+        "Ab:maj",
+        "Ab:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 76686,
+      "duration_ms": 32944,
+      "chords": [
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Db:maj/2"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 109631,
+      "duration_ms": 29244,
+      "chords": [
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Gb:maj",
+        "Db:maj/3",
+        "Db:maj/3",
+        "Db:maj/2",
+        "Ab:maj",
+        "Ab:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 138875,
+      "duration_ms": 30437,
+      "chords": [
+        "Gb:maj7",
+        "Gb:maj7",
+        "F:min7",
+        "Eb:min7",
+        "Gb:maj/2",
+        "F:min7",
+        "Gb:maj7",
+        "Gb:maj7",
+        "F:min7",
+        "Eb:min7",
+        "Gb:maj/2",
+        "F:min7",
+        "Gb:maj7",
+        "Gb:maj7",
+        "F:min7",
+        "Eb:min7",
+        "Gb:maj/2",
+        "Gb:maj/2",
+        "B:maj",
+        "Gb:maj/3",
+        "Gb:maj/3",
+        "Eb:min7",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 169313,
+      "duration_ms": 28796,
+      "chords": [
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Db:maj/2"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 198109,
+      "duration_ms": 28986,
+      "chords": [
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "Db:maj/2",
+        "Ab:maj",
+        "C:min7",
+        "Bb:min7",
+        "B:min7",
+        "B:min7",
+        "D:maj/2"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 227096,
+      "duration_ms": 21596,
+      "chords": [
+        "D:maj/2",
+        "A:maj",
+        "C#:min7",
+        "B:min7",
+        "D:maj/2",
+        "A:maj",
+        "C#:min7",
+        "B:min7",
+        "D:maj/2",
+        "A:maj",
+        "A:maj",
+        "C#:min7",
+        "B:min7",
+        "D:maj/2"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 248692,
+      "duration_ms": 15640,
+      "chords": [
+        "D:maj/2",
+        "A:maj",
+        "C#:min7",
+        "B:min7",
+        "D:maj/2",
+        "A:maj",
+        "A:maj",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

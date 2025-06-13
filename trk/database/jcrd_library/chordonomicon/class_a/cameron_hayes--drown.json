@@ -1,0 +1,235 @@
+{
+  "songID": "entry_102360",
+  "title": "Drown",
+  "artist": "Cameron Hayes",
+  "spotifyID": "7qSO0oZD77MZGPJBr9rSCZ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gno3d",
+        "Gmin",
+        "F",
+        "Bb",
+        "A",
+        "D",
+        "Gmin",
+        "F",
+        "Bb",
+        "D"
+      ],
+      "rawChords": [
+        "Gno3d",
+        "Gmin",
+        "F",
+        "Bb",
+        "A",
+        "D",
+        "Gmin",
+        "F",
+        "Bb",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:?-?-v-?-i-?-vii-?-iii-?-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Cmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-?-ii-?-i-?-?-?-ii-?-i-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "F",
+        "Gmin",
+        "F",
+        "Bb",
+        "A",
+        "D",
+        "Gmin",
+        "F",
+        "Bb",
+        "D",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "F",
+        "Gmin",
+        "F",
+        "Bb",
+        "A",
+        "D",
+        "Gmin",
+        "F",
+        "Bb",
+        "D",
+        "Gmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.58",
+        "progression:?-v-?-?-v-?-i-?-vii-?-iii-?-?-v-?-i-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-?-v-?-iv-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Cmin",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "F",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Cmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-?-?-?-i-?-?-?-ii-?-i-?-?-?-ii-?-i-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Drown",
+  "release_date": "2020-02-21",
+  "duration_ms": 240697
+}

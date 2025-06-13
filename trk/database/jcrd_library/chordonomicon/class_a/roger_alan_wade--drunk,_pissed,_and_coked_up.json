@@ -1,0 +1,113 @@
+{
+  "songID": "entry_101302",
+  "title": "Drunk, Pissed, and Coked Up",
+  "artist": "Roger Alan Wade",
+  "spotifyID": "3wKabUXGWRUJZsW2eun3Tl",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "A",
+        "E",
+        "A",
+        "E",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Simmering Rage",
+  "release_date": "2019-01-18",
+  "duration_ms": 90630
+}

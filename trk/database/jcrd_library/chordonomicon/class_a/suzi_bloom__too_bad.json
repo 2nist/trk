@@ -1,0 +1,249 @@
+{
+  "songID": "entry_102704",
+  "title": "Too Bad",
+  "artist": "Suzi Bloom",
+  "spotifyID": "7oFcpQEPIh5p44PQ0b98y3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:iv-?-i-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A",
+        "Bb",
+        "F",
+        "Gmin",
+        "A"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Sanctuary",
+  "release_date": "2020-12-23",
+  "duration_ms": 212318
+}

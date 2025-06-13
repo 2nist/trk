@@ -1,0 +1,271 @@
+{
+  "songID": "entry_101119",
+  "title": "Ice Cold Therapy",
+  "artist": "Cody Hibbard",
+  "spotifyID": "1iaPBR1HWrVTVQJ5YUPyOF",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:i-?-iii-?-iv-?-?-i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:i-?-iii-?-iv-?-?-i-?-iii-?-iv-?-?-i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:i-?-iii-?-iv-?-?-i-?-iii-?-iv-?-?-i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:i-?-iii-?-iv-?-?-i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs",
+        "As",
+        "B",
+        "Bmin",
+        "Fs"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:i-?-iii-?-iv-?-?-i-?-iii-?-iv-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Ice Cold Therapy",
+  "release_date": "2020-07-17",
+  "duration_ms": 172089
+}

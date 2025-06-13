@@ -1,0 +1,203 @@
+{
+  "title": "Walk Right In",
+  "artist": "The Moments",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 4435,
+      "duration_ms": 14442,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "D:7",
+        "D:7",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 18877,
+      "duration_ms": 27585,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "D:7",
+        "D:7",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 46463,
+      "duration_ms": 27585,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "D:7",
+        "D:7",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 74048,
+      "duration_ms": 27445,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "D:7",
+        "D:7",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 101494,
+      "duration_ms": 27817,
+      "chords": [
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "D:7",
+        "D:7",
+        "A:maj",
+        "A:maj",
+        "F#:7",
+        "B:7",
+        "E:7",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 129311,
+      "duration_ms": 9763,
+      "chords": [
+        "B:7",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

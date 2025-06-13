@@ -1,0 +1,393 @@
+{
+  "songID": "entry_100315",
+  "title": "Njena Balada",
+  "artist": "Flirrt",
+  "spotifyID": "4FQCxjmGJ4HO1zUXJCwORR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Solo",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Izpod Kovtra",
+  "release_date": "2015-03-02",
+  "duration_ms": 315080
+}

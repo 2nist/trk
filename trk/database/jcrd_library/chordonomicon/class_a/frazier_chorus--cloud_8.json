@@ -1,0 +1,271 @@
+{
+  "songID": "entry_102285",
+  "title": "Cloud 8",
+  "artist": "Frazier Chorus",
+  "spotifyID": "514RgA8cgg40ieD0Qej2LV",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-?-v-?-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-?-v-?-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Ray",
+  "release_date": "1991-01-01",
+  "duration_ms": 226373
+}

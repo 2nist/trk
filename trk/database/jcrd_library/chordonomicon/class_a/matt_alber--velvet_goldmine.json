@@ -1,0 +1,201 @@
+{
+  "songID": "entry_102581",
+  "title": "Velvet Goldmine",
+  "artist": "Matt Alber",
+  "spotifyID": "2KAabI7EebKnUGb30SjWis",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F"
+      ],
+      "rawChords": [
+        "F"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "F",
+        "Bb",
+        "Db",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "F",
+        "Bb",
+        "Db",
+        "C",
+        "F"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-i-?-ii-?-i-?-ii-?-i-?-v-?-i-?-biii-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "F",
+        "Bb",
+        "Bbmin",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "Bb",
+        "C",
+        "Bb",
+        "F",
+        "Bb",
+        "Bbmin",
+        "C",
+        "Bb"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:i-?-ii-?-v-?-i-?-ii-?-i-?-ii-?-i-?-v-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Db",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Db",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.51",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-biii-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Constant Crows",
+  "release_date": "2011-12-06",
+  "duration_ms": 305613
+}

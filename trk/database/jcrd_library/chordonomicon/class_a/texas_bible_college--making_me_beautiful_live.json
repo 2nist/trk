@@ -1,0 +1,425 @@
+{
+  "songID": "entry_102885",
+  "title": "Making Me Beautiful (Live)",
+  "artist": "Texas Bible College",
+  "spotifyID": "5cowj5eQk3RGeB70eNGBme",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-iv-?-v-?-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "Dmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-iv-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "Emin7",
+        "F",
+        "Amin",
+        "Emin7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin7",
+        "F",
+        "Amin",
+        "Emin7",
+        "Dmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "Amin",
+        "G",
+        "F",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:?-v-?-iv-?-v-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:v-?-ii-?-?-i-?-v-?-ii-?-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Amin",
+        "Emin7",
+        "F",
+        "Amin",
+        "Emin7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin7",
+        "F",
+        "Amin",
+        "Emin7",
+        "Dmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Interlude"
+  ],
+  "tags": [],
+  "album": "Show Us Your Glory (Live)",
+  "release_date": "2019-07-01",
+  "duration_ms": 327160
+}

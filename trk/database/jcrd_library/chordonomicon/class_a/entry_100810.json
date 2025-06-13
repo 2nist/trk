@@ -1,0 +1,257 @@
+{
+  "songID": "entry_100810",
+  "title": "Weit weg",
+  "artist": "KAYEF",
+  "spotifyID": "3W9s1FixFNOOJiBdtfHPeJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-i-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-i-v-?-iv-i-v-?-iv-i-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:i-v-ii-?-i-v-ii-?-i-v-ii-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-i-v-?-iv-i-v-?-iv-i-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-ii-?-i-v-ii-?-i-v-ii-?-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv-i-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Offline Akustik EP",
+  "release_date": "2015-08-07",
+  "duration_ms": 184750
+}

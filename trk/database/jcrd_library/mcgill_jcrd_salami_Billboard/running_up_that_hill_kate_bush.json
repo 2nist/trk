@@ -1,0 +1,390 @@
+{
+  "title": "Running Up That Hill",
+  "artist": "Kate Bush",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 2902,
+      "duration_ms": 23587,
+      "chords": [
+        "C:min",
+        "N",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 26490,
+      "duration_ms": 15563,
+      "chords": [
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min9",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min9",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min9",
+        "Ab:maj/3",
+        "Bb:maj/2"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 42053,
+      "duration_ms": 8747,
+      "chords": [
+        "Bb:maj/2",
+        "F:min7/5",
+        "C:min9",
+        "F:min7/5",
+        "F:min7/5",
+        "C:min9",
+        "F:min7/5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 50801,
+      "duration_ms": 33346,
+      "chords": [
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "Ab:maj/3",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 84147,
+      "duration_ms": 24445,
+      "chords": [
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min9",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min9",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min9",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min9",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min9",
+        "Ab:maj/3",
+        "Bb:maj/2"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 108593,
+      "duration_ms": 13255,
+      "chords": [
+        "F:min7/5",
+        "C:min9",
+        "F:min7/5",
+        "F:min7/5",
+        "C:min9",
+        "F:min7/5",
+        "F:min7/5",
+        "C:min9",
+        "F:min7/5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_2",
+      "start_ms": 121849,
+      "duration_ms": 33298,
+      "chords": [
+        "F:min7/5",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "Ab:maj/3",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 155147,
+      "duration_ms": 13325,
+      "chords": [
+        "C:min",
+        "F:min7/5",
+        "C:min9",
+        "F:min7/5",
+        "F:min7/5",
+        "C:min9",
+        "F:min7/5",
+        "F:min7/5",
+        "C:min9",
+        "F:min7/5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "transition_1",
+      "start_ms": 168473,
+      "duration_ms": 17767,
+      "chords": [
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "C:min"
+      ],
+      "sectionType": "Transition",
+      "sectionLetter": "E",
+      "sectionFunction": "Transition",
+      "sectionLabel": "E",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "prechorus_1",
+      "start_ms": 186240,
+      "duration_ms": 17759,
+      "chords": [
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "Ab:maj/3",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "C:min"
+      ],
+      "sectionType": "PreChorus",
+      "sectionLetter": "F",
+      "sectionFunction": "Build",
+      "sectionLabel": "F",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_3",
+      "start_ms": 204000,
+      "duration_ms": 17631,
+      "chords": [
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_4",
+      "start_ms": 221631,
+      "duration_ms": 17829,
+      "chords": [
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_5",
+      "start_ms": 239460,
+      "duration_ms": 17760,
+      "chords": [
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "C:min",
+        "C:min"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "instrumental_1",
+      "start_ms": 257220,
+      "duration_ms": 43788,
+      "chords": [
+        "Ab:maj/3",
+        "Ab:maj/3",
+        "Bb:maj/2",
+        "Bb:maj/2",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Instrumental",
+      "sectionLetter": "G",
+      "sectionFunction": "Development",
+      "sectionLabel": "G",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

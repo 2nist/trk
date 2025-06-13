@@ -1,0 +1,296 @@
+{
+  "title": "Nightshift",
+  "artist": "Commodores",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 603,
+      "duration_ms": 9171,
+      "chords": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 9774,
+      "duration_ms": 18303,
+      "chords": [
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj(9)",
+        "Db:maj(9)",
+        "Ab:maj",
+        "Ab:maj",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 28078,
+      "duration_ms": 36580,
+      "chords": [
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj(9)",
+        "Db:maj(9)",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 64659,
+      "duration_ms": 18292,
+      "chords": [
+        "Eb:maj",
+        "F:min",
+        "Bb:min",
+        "Eb:maj",
+        "Eb:maj",
+        "F:min",
+        "Bb:min",
+        "Db:maj7",
+        "Db:maj7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 82951,
+      "duration_ms": 41106,
+      "chords": [
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj",
+        "Db:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "Eb:maj",
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj",
+        "Eb:maj",
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 124058,
+      "duration_ms": 9169,
+      "chords": [
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 133227,
+      "duration_ms": 36541,
+      "chords": [
+        "Eb:maj",
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj(9)",
+        "Db:maj(9)",
+        "Eb:maj",
+        "Eb:maj",
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj(9)",
+        "Db:maj(9)",
+        "Eb:maj",
+        "Eb:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 169768,
+      "duration_ms": 18354,
+      "chords": [
+        "F:min",
+        "Bb:min",
+        "Eb:maj",
+        "Eb:maj",
+        "F:min",
+        "Bb:min",
+        "Db:maj7",
+        "Ab:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_2",
+      "start_ms": 188123,
+      "duration_ms": 34203,
+      "chords": [
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj",
+        "Db:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj",
+        "Eb:maj",
+        "F:min",
+        "F:min"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_3",
+      "start_ms": 222326,
+      "duration_ms": 42946,
+      "chords": [
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj",
+        "Db:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "F:min",
+        "Db:maj",
+        "Eb:maj",
+        "Eb:maj",
+        "Db:maj",
+        "Db:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "Eb:maj",
+        "Ab:maj",
+        "Ab:maj",
+        "N"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

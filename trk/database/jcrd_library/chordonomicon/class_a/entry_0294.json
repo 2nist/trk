@@ -1,0 +1,283 @@
+{
+  "songID": "entry_0294",
+  "title": "Red Dress",
+  "artist": "Sun Room",
+  "spotifyID": "6CDN90YuWfBs9rC34CDSkM",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-i-?-v-i-?-v-i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-?-v-i-?-v-i-?-i-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-i-?-v-i-?-v-i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "E",
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-?-v-i-?-v-i-?-i-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B",
+        "Gsmin",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Somewhere Tropical",
+  "release_date": "2021-05-18",
+  "duration_ms": 123235
+}

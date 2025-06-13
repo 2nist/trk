@@ -1,0 +1,381 @@
+{
+  "songID": "entry_102060",
+  "title": "El \u00daltimo No",
+  "artist": "Jessi Uribe",
+  "spotifyID": "1B2SstbNJbKveGHr9vcsYZ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "E"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:?-?-i-?-iv-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "C7",
+        "F",
+        "A",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "C7",
+        "F",
+        "A",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.52",
+        "progression:?-?-v-?-v-?-i-?-iii-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "E",
+        "A",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "E",
+        "A",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:?-?-i-?-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Dmin",
+        "Gmin",
+        "E",
+        "A7"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Dmin",
+        "Gmin",
+        "E",
+        "A7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:?-v-?-i-?-iv-?-iii-?-?-?-vii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "C7",
+        "F",
+        "Bb",
+        "A",
+        "Dmin",
+        "Bb",
+        "A",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "C7",
+        "F",
+        "Bb",
+        "A",
+        "Dmin",
+        "Bb",
+        "A",
+        "Dmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:?-?-v-?-v-?-i-?-iv-?-iii-?-?-iv-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "C",
+        "C7",
+        "F",
+        "A",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C",
+        "C7",
+        "F",
+        "A",
+        "Dmin",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.52",
+        "progression:?-v-?-v-?-i-?-iii-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "E",
+        "A",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "A",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "E",
+        "A",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:?-?-i-?-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Dmin",
+        "Gmin",
+        "E",
+        "A7"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Dmin",
+        "Gmin",
+        "E",
+        "A7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:?-v-?-i-?-iv-?-iii-?-?-?-vii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "C7",
+        "F",
+        "Bb",
+        "A",
+        "Dmin",
+        "Bb",
+        "A",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "C",
+        "C7",
+        "F",
+        "Bb",
+        "A",
+        "Dmin",
+        "Bb",
+        "A",
+        "Dmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:?-?-v-?-v-?-i-?-iv-?-iii-?-?-iv-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Dmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "El \u00daltimo No",
+  "release_date": "2017-10-12",
+  "duration_ms": 193578
+}

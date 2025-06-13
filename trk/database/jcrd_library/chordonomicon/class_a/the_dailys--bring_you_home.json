@@ -1,0 +1,247 @@
+{
+  "songID": "entry_100842",
+  "title": "Bring You Home",
+  "artist": "The Dailys",
+  "spotifyID": "5aLpjEP65Y2dDPNJPdTf8A",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "F",
+        "Cmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "F",
+        "Cmin",
+        "Fmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Fmin",
+        "Amin",
+        "Fmin",
+        "Cmin",
+        "F",
+        "C",
+        "Cmin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmin",
+        "Amin",
+        "Fmin",
+        "Cmin",
+        "F",
+        "C",
+        "Cmin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-?-?-i-?-v-?-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Fmin",
+        "Amin",
+        "Fmin",
+        "Cmin",
+        "F",
+        "C",
+        "Cmin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmin",
+        "Amin",
+        "Fmin",
+        "Cmin",
+        "F",
+        "C",
+        "Cmin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-?-?-i-?-v-?-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "Fmin",
+        "Amin",
+        "Fmin",
+        "Amin",
+        "Fmin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmin",
+        "Amin",
+        "Fmin",
+        "Amin",
+        "Fmin",
+        "F",
+        "Amin",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-?-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Cmin",
+        "F",
+        "C",
+        "Cmin",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Cmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Cmin",
+        "F",
+        "C",
+        "Cmin",
+        "F",
+        "C",
+        "F",
+        "C",
+        "Cmin",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-v-?-?-i-?-v-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Bring You Home",
+  "release_date": "2020-10-09",
+  "duration_ms": 226973
+}

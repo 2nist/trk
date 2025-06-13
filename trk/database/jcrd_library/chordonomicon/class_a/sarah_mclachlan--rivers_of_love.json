@@ -1,0 +1,303 @@
+{
+  "songID": "entry_102411",
+  "title": "Rivers of Love",
+  "artist": "Sarah McLachlan",
+  "spotifyID": "1WtmYmcM3i2irFQrJKoH8q",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Emin",
+        "A",
+        "Emin"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "A",
+        "Emin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Emin",
+        "G",
+        "D",
+        "A",
+        "Emin",
+        "C",
+        "D",
+        "Bmin",
+        "E",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "G",
+        "D",
+        "A",
+        "Emin",
+        "C",
+        "D",
+        "Bmin",
+        "E",
+        "Amin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.51",
+        "progression:v-?-?-iv-?-i-?-v-?-?-bvii-?-i-?-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bmin",
+        "E",
+        "Amin",
+        "C",
+        "D",
+        "F",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "F",
+        "Bmin",
+        "E",
+        "Amin",
+        "C",
+        "D",
+        "F",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.50",
+        "progression:biii-?-?-ii-?-?-bvii-?-i-?-biii-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Emin",
+        "A",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "Emin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "D",
+        "A",
+        "Emin",
+        "C",
+        "D",
+        "Bmin",
+        "E",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "D",
+        "A",
+        "Emin",
+        "C",
+        "D",
+        "Bmin",
+        "E",
+        "Amin",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-i-?-v-?-ii-?-?-iv-?-v-?-?-vi-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bmin",
+        "E",
+        "Amin",
+        "C",
+        "D",
+        "F",
+        "E",
+        "A",
+        "Emin",
+        "A",
+        "Emin",
+        "F",
+        "Bmin",
+        "E",
+        "Amin",
+        "G",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "G",
+        "D",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Bmin",
+        "E",
+        "Amin",
+        "C",
+        "D",
+        "F",
+        "E",
+        "A",
+        "Emin",
+        "A",
+        "Emin",
+        "F",
+        "Bmin",
+        "E",
+        "Amin",
+        "G",
+        "D",
+        "F",
+        "E",
+        "Amin",
+        "G",
+        "D",
+        "F"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.80",
+        "progression:biii-?-?-ii-?-?-bvii-?-i-?-biii-?-ii-?-v-?-?-v-?-?-biii-?-?-ii-?-?-iv-?-i-?-biii-?-ii-?-?-iv-?-i-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "E",
+        "Amin",
+        "C",
+        "D",
+        "F",
+        "Amin",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "E",
+        "Amin",
+        "C",
+        "D",
+        "F",
+        "Amin",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.53",
+        "progression:?-v-?-?-biii-?-iv-?-bvi-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Laws Of Illusion",
+  "release_date": "2010-05-15",
+  "duration_ms": 234840
+}

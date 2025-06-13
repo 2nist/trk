@@ -1,0 +1,353 @@
+{
+  "songID": "entry_101111",
+  "title": "POM POM",
+  "artist": "LilyPichu",
+  "spotifyID": "1TvNGtTK56asqlK8Cmdk0B",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F"
+      ],
+      "rawChords": [
+        "F"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Emin7",
+        "A7"
+      ],
+      "rawChords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Emin7",
+        "A7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C7",
+        "Fmaj7",
+        "F",
+        "Emin7",
+        "Amin7",
+        "Dmin",
+        "G",
+        "Bb",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C7",
+        "Fmaj7",
+        "F",
+        "Emin7",
+        "Amin7",
+        "Dmin",
+        "G",
+        "Bb",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:?-v-?-i-?-?-v-?-?-i-?-?-?-?-ii-?-iv-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Emin7",
+        "A7"
+      ],
+      "rawChords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F",
+        "Emin7",
+        "A7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C7",
+        "Fmaj7",
+        "F",
+        "Emin7",
+        "Amin7",
+        "Dmin",
+        "G",
+        "Bb",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C7",
+        "Fmaj7",
+        "F",
+        "Emin7",
+        "Amin7",
+        "Dmin",
+        "G",
+        "Bb",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:?-v-?-i-?-?-v-?-?-i-?-?-?-?-ii-?-iv-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "C",
+        "A7",
+        "Dmin7",
+        "Gmin7",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "A7",
+        "Dmin7",
+        "Gmin7",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:iv-?-v-?-iii-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C7",
+        "Fmaj7",
+        "F",
+        "Emin7",
+        "Amin7",
+        "Dmin",
+        "G",
+        "Bb",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C7",
+        "Fmaj7",
+        "F",
+        "Emin7",
+        "Amin7",
+        "Dmin",
+        "G",
+        "Bb",
+        "Gmin7",
+        "C",
+        "F",
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:?-v-?-i-?-?-v-?-?-i-?-?-?-?-ii-?-iv-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin7",
+        "C",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "POM POM",
+  "release_date": "2021-05-23",
+  "duration_ms": 173333
+}

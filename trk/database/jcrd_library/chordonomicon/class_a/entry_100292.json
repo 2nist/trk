@@ -1,0 +1,289 @@
+{
+  "songID": "entry_100292",
+  "title": "Please",
+  "artist": "Salarymen",
+  "spotifyID": "0uxeJlNgPYkhrVPzF37ieX",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "Bmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-?-i-?-i-?-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "Emin",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "Emin",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Emin",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "Emin",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-iii-?-?-?-iii-?-?-ii-v-?-iii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-?-i-?-?-v-?-v-i-?-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "A",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "Bmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "Emin",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "Emin",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Emin",
+        "A",
+        "Bmin",
+        "Fsmin",
+        "Emin",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "C",
+        "Bmin",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-iii-?-?-?-iii-?-?-ii-v-?-iii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-?-i-?-?-v-?-v-i-?-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-v-i-?-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Please",
+  "release_date": "2019-11-15",
+  "duration_ms": 164403
+}

@@ -1,0 +1,393 @@
+{
+  "songID": "entry_0982",
+  "title": "Der Narr",
+  "artist": "Whysker",
+  "spotifyID": "7K8lqMfMFl8Q2aqcCwnDCb",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-?-?-v-?-?-?-v-?-iv-?-?-v-?-iv-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-?-?-v-?-?-?-v-?-iv-?-?-v-?-iv-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-?-?-v-?-?-?-v-?-iv-?-?-v-?-iv-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "G",
+        "Emin",
+        "Bmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "Emin",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-?-?-v-?-?-?-v-?-iv-?-?-v-?-iv-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Der Narr",
+  "release_date": "2022-06-03",
+  "duration_ms": 274500
+}

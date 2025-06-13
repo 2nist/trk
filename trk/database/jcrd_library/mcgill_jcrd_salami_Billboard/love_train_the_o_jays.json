@@ -1,0 +1,234 @@
+{
+  "title": "Love Train",
+  "artist": "The O'Jays",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 278,
+      "duration_ms": 8020,
+      "chords": [
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 8298,
+      "duration_ms": 15678,
+      "chords": [
+        "G:sus4",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 23977,
+      "duration_ms": 31230,
+      "chords": [
+        "G:sus4",
+        "G:sus4",
+        "G:sus4",
+        "F:maj",
+        "F:maj",
+        "G:sus4",
+        "G:sus4",
+        "F:maj",
+        "F:maj",
+        "G:sus4",
+        "G:sus4",
+        "A:min",
+        "A:min",
+        "D:min",
+        "D:min",
+        "G:maj",
+        "G:maj/b7",
+        "G:maj/6",
+        "G:maj/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 55208,
+      "duration_ms": 15639,
+      "chords": [
+        "G:maj/5",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 70847,
+      "duration_ms": 31070,
+      "chords": [
+        "G:sus4",
+        "G:sus4",
+        "F:maj",
+        "F:maj",
+        "G:sus4",
+        "G:sus4",
+        "F:maj",
+        "F:maj",
+        "G:sus4",
+        "G:sus4",
+        "A:min",
+        "A:min",
+        "D:min",
+        "D:min",
+        "G:maj",
+        "G:maj/b7",
+        "G:maj/6",
+        "G:maj/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 101918,
+      "duration_ms": 15649,
+      "chords": [
+        "G:maj/5",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 117567,
+      "duration_ms": 15564,
+      "chords": [
+        "Eb:maj",
+        "Eb:maj7",
+        "Eb:maj6",
+        "Eb:maj",
+        "C:maj",
+        "C:maj",
+        "Eb:maj",
+        "Eb:maj7",
+        "Eb:maj6",
+        "Eb:maj",
+        "G:sus4(b7,9,13)",
+        "G:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 133132,
+      "duration_ms": 46538,
+      "chords": [
+        "G:7",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "G:sus4",
+        "C:maj",
+        "D:maj",
+        "F:maj",
+        "F:maj",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "title": "I Found A Love",
+  "artist": "The Falcons",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 278,
+      "duration_ms": 25693,
+      "chords": [
+        "N",
+        "N",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "D:maj",
+        "E:min",
+        "G:maj",
+        "G:maj/5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 25972,
+      "duration_ms": 31798,
+      "chords": [
+        "G:maj/5",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "D:maj",
+        "E:min",
+        "G:maj",
+        "G:maj/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 57770,
+      "duration_ms": 31971,
+      "chords": [
+        "G:maj/5",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "D:maj",
+        "E:min",
+        "G:maj",
+        "G:maj/5",
+        "G:maj/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 89742,
+      "duration_ms": 23620,
+      "chords": [
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "D:maj",
+        "E:min",
+        "G:maj",
+        "G:maj/5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 113362,
+      "duration_ms": 32305,
+      "chords": [
+        "G:maj/5",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "D:maj",
+        "E:min",
+        "G:maj",
+        "G:maj/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 145668,
+      "duration_ms": 33009,
+      "chords": [
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "C:maj",
+        "G:maj",
+        "D:maj",
+        "G:maj",
+        "D:maj",
+        "E:min",
+        "G:maj",
+        "G:maj",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

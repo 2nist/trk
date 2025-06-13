@@ -1,0 +1,131 @@
+{
+  "songID": "entry_100561",
+  "title": "Up the Beach",
+  "artist": "Jane's Addiction",
+  "spotifyID": "7CByzrzR4LCBxVI7lM8Ggv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Interlude",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Nothing's Shocking",
+  "release_date": "1988-08-23",
+  "duration_ms": 181000
+}

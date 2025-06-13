@@ -1,0 +1,323 @@
+{
+  "songID": "entry_102857",
+  "title": "Per\u00f2 mi vuole bene",
+  "artist": "Quartetto Cetra",
+  "spotifyID": "5BOKsXwc92Kgo6VHXrbIHq",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Gs",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Gs",
+        "G",
+        "Cmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-?-iii-?-?-#iii-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:?-##iv-?-#vii-?-?-?-iii-?-?-?-##iv-?-#vii-?-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "As7",
+        "Ds",
+        "Gs",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Gs",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "As7",
+        "Ds",
+        "Gs",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Gs",
+        "G",
+        "Cmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-?-#vii-?-#iii-?-?-iii-?-?-#iii-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:?-##iv-?-#vii-?-?-?-iii-?-?-?-##iv-?-#vii-?-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "As7",
+        "Ds",
+        "Gs",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Gs",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "As7",
+        "Ds",
+        "Gs",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Gs",
+        "G",
+        "Cmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-?-#vii-?-#iii-?-?-iii-?-?-#iii-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "As",
+        "Ds",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:?-##iv-?-#vii-?-?-?-iii-?-?-?-##iv-?-#vii-?-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin9",
+        "As7",
+        "Ds9",
+        "Gs",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Gs",
+        "G",
+        "Cmin",
+        "Fmin",
+        "C",
+        "C9",
+        "C"
+      ],
+      "rawChords": [
+        "Fmin9",
+        "As7",
+        "Ds9",
+        "Gs",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Gs",
+        "G",
+        "Cmin",
+        "Fmin",
+        "C",
+        "C9",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-?-?-#ii-?-?-ii-?-?-#ii-?-ii-?-?-?-v-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Tutto Cetra \"Un bacio a mezzanotte\"",
+  "release_date": "2009-11-13",
+  "duration_ms": 169680
+}

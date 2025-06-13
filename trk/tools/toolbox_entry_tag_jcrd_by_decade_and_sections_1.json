@@ -1,0 +1,13 @@
+{
+    "script": "tag_jcrd_by_decade_and_sections.py",
+    "name": "Auto-Tag McGill .jcrd Files",
+    "description": "Adds decade (e.g., '1970s') and section count (e.g., '5_sections') tags to each .jcrd in /.",
+    "arguments": [
+        {
+            "name": "--directory",
+            "required": false,
+            "type": "text",
+            "help": "Folder to process (default: mcgill_jcrd/)"
+        }
+    ]
+}

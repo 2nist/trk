@@ -1,0 +1,219 @@
+{
+  "songID": "entry_0355",
+  "title": "Blodiga dagar",
+  "artist": "Tim Damerau",
+  "spotifyID": "2vuPIBVlcxHO5zqLBff8BB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "C",
+        "Cs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "C",
+        "Cs",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-biii-?-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "B",
+        "Cs",
+        "A",
+        "E",
+        "B",
+        "Cs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Cs",
+        "A",
+        "E",
+        "B",
+        "Cs",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Fs",
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Fs",
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Cs",
+        "A",
+        "E",
+        "B",
+        "Cs",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Cs",
+        "A",
+        "E",
+        "B",
+        "Cs",
+        "A",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-?-iv-i-v-?-iv-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-ii-i-v-ii-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Fs",
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Fs",
+        "A",
+        "E",
+        "B",
+        "Fs",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "En del av min sj\u00e4l",
+  "release_date": "2021-10-01",
+  "duration_ms": 180138
+}

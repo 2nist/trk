@@ -1,0 +1,143 @@
+{
+  "songID": "entry_101392",
+  "title": "Liberta",
+  "artist": "Yvon Etienne",
+  "spotifyID": "6PaedqcaW9ekeTlAOQcDZx",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-v-i-?-?-iii-?-?-v-i-?-?-iii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-i-?-?-iii-?-?-v-i-?-?-iii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C7",
+        "F",
+        "Dmin",
+        "Gmin",
+        "A7",
+        "Dmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-i-?-?-iii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Ma Compil De Chez Compil (Les 40 Plus Pires Succ\u00e8s d'Yvon Etienne)",
+  "release_date": "2010-08-01",
+  "duration_ms": 237160
+}

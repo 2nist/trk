@@ -1,0 +1,13 @@
+{
+  "script": "cleanup_jcrd.py",
+  "name": "Clean Up .jcrd Files",
+  "description": "Removes invalid, duplicate, or temporary .jcrd files from a directory and logs results.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Folder to clean (default: raw/)"
+    }
+  ]
+}

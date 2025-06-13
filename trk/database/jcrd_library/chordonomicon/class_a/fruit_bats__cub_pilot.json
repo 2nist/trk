@@ -1,0 +1,303 @@
+{
+  "songID": "entry_10246",
+  "title": "Cub Pilot",
+  "artist": "Fruit Bats",
+  "spotifyID": "6iM8onLfla1mH950ZeG2Wb",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "D",
+        "Dsus4",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Dsus4",
+        "D",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "Dsus4",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "Dsus4",
+        "D",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-v-?-iv-?-?-i-?-v-?-iv-?-v-?-iv-?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "Amin",
+        "G",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "Amin",
+        "G",
+        "D",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:?-i-?-v-?-iv-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D/Fs",
+        "Emin",
+        "Amin",
+        "G",
+        "D/Fs",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D/Fs",
+        "Emin",
+        "Amin",
+        "G",
+        "D/Fs",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-?-?-v-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "Amin",
+        "G",
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:?-i-?-v-?-iv-?-?-i-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Dsus4",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Dsus4",
+        "D",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Pet Parade",
+  "release_date": "2021-03-05",
+  "duration_ms": 211994
+}

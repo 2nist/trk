@@ -1,0 +1,397 @@
+{
+  "title": "Wanna Be Startin' Somethin'",
+  "artist": "Michael Jackson",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 69,
+      "duration_ms": 24607,
+      "chords": [
+        "N",
+        "N",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "E:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 24677,
+      "duration_ms": 23519,
+      "chords": [
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 48196,
+      "duration_ms": 15800,
+      "chords": [
+        "E:maj/b7",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 63997,
+      "duration_ms": 23507,
+      "chords": [
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 87504,
+      "duration_ms": 15684,
+      "chords": [
+        "E:maj/b7",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_6",
+      "start_ms": 103189,
+      "duration_ms": 39281,
+      "chords": [
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A''",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 142471,
+      "duration_ms": 7846,
+      "chords": [
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_7",
+      "start_ms": 150317,
+      "duration_ms": 15739,
+      "chords": [
+        "E:maj/b7",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_8",
+      "start_ms": 166056,
+      "duration_ms": 39241,
+      "chords": [
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "E:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A''",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 205298,
+      "duration_ms": 15676,
+      "chords": [
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 220975,
+      "duration_ms": 7846,
+      "chords": [
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_9",
+      "start_ms": 228821,
+      "duration_ms": 15739,
+      "chords": [
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 244561,
+      "duration_ms": 117885,
+      "chords": [
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:1/1",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "D:maj",
+        "E:maj/b7",
+        "E:maj/b7",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "A",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "A'''",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

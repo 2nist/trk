@@ -1,0 +1,159 @@
+{
+  "songID": "entry_102313",
+  "title": "California",
+  "artist": "M-Clan",
+  "spotifyID": "2auyiCxc4SODat7jusiOYN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?-i-?-v-?-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:##iv-?-?-##iv-?-?-iii-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-?-i-?-?-ii-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Solo",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "En Petit Comit\u00e9",
+  "release_date": "2022-06-10",
+  "duration_ms": 231266
+}

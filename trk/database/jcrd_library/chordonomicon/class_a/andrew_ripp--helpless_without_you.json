@@ -1,0 +1,397 @@
+{
+  "songID": "entry_101909",
+  "title": "Helpless Without You",
+  "artist": "Andrew Ripp",
+  "spotifyID": "59CEDI2BEy8Uzz8bmnIIki",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:iv-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-v-?-?-?-v-?-?-?-v-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:iv-?-v-?-?-?-i-?-v-?-iv-?-v-?-?-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-v-?-?-?-v-?-?-?-v-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:iv-?-v-?-?-?-i-?-v-?-iv-?-v-?-?-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:iv-?-v-?-?-?-i-?-v-?-iv-?-v-?-?-?-i-?-v-?-iv-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-?-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "D/Fs",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Evergreen",
+  "release_date": "2021-05-14",
+  "duration_ms": 214546
+}

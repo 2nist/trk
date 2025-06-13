@@ -1,0 +1,265 @@
+{
+  "songID": "entry_101157",
+  "title": "A veces (con Paul Alone)",
+  "artist": "Lucas Colman",
+  "spotifyID": "2CAsRkrtkxvHmrayKGlF0l",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-i-iv-?-v-i-iv-?-v-i-iv-?-v-i-iv-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-iv-?-v-i-iv-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-i-iv-?-v-i-iv-?-v-i-iv-?-v-i-iv-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-iv-?-v-i-iv-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin7",
+        "D",
+        "Bmin",
+        "Emin",
+        "Amin7",
+        "D",
+        "Bmin",
+        "Emin",
+        "Amin7",
+        "D",
+        "Bmin",
+        "D"
+      ],
+      "rawChords": [
+        "Amin7",
+        "D",
+        "Bmin",
+        "Emin",
+        "Amin7",
+        "D",
+        "Bmin",
+        "Emin",
+        "Amin7",
+        "D",
+        "Bmin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-?-?-?-v-?-?-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-iv-?-v-i-iv-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "A veces (con Paul Alone)",
+  "release_date": "2023-09-21",
+  "duration_ms": 213170
+}

@@ -1,0 +1,241 @@
+{
+  "songID": "entry_101156",
+  "title": "Strange Things",
+  "artist": "Tom Jones",
+  "spotifyID": "1r6lkoNpe1fR8I0UVfpNU2",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-?-?-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-?-?-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-?-?-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-?-?-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-?-?-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-?-?-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Cs",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v-?-?-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Praise & Blame",
+  "release_date": "2010-01-01",
+  "duration_ms": 180173
+}

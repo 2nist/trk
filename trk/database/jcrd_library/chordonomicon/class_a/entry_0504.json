@@ -1,0 +1,257 @@
+{
+  "songID": "entry_0504",
+  "title": "I'm Lonesome",
+  "artist": "Ernie Chaffin",
+  "spotifyID": "3DxtZFEWrRc6EuMHfKpgG6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "D",
+        "F",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "D",
+        "F",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:biii-i-biii-v-i-biii-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "D",
+        "F",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "D",
+        "F",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:biii-i-biii-v-i-biii-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "C",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "C",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-v-iv-ii-v-bvii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "D",
+        "F",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "D",
+        "F",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:biii-i-biii-v-i-biii-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "C",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "C",
+        "A",
+        "D",
+        "F",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-v-iv-ii-v-bvii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Sun Records Originals: Born To Lose",
+  "release_date": "2023-05-26",
+  "duration_ms": 163626
+}

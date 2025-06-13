@@ -1,0 +1,293 @@
+{
+  "songID": "entry_0768",
+  "title": "'Til The Anarchy's Restored",
+  "artist": "Flogging Molly",
+  "spotifyID": "72Ze4nativHv39hK8Gqd72",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dsus2",
+        "D7sus2",
+        "G",
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "Emin"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "D7sus2",
+        "G",
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "Emin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:?-v-?-?-v-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "Emin"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:v-?-i-?-v-?-i-?-iv-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Dsus2",
+        "D7sus2",
+        "G",
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "D7sus2",
+        "G",
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "Amin",
+        "Dsus2",
+        "D7sus2",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:?-?-v-?-?-?-?-?-?-?-?-?-v-?-?-v-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "D",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Bridge",
+    "Instrumental",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "'Til The Anarchy's Restored",
+  "release_date": "2023-03-10",
+  "duration_ms": 258285
+}

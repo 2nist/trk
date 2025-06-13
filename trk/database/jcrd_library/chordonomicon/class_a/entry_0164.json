@@ -1,0 +1,261 @@
+{
+  "songID": "entry_0164",
+  "title": "15 Miles to Birmingham",
+  "artist": "Jim Hurst",
+  "spotifyID": "7v3bV4GcwVoJfeay2nU7Xu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:ii-i-v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Solo",
+    "Verse",
+    "Solo",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "From the Ground Up",
+  "release_date": "2022-07-01",
+  "duration_ms": 155480
+}

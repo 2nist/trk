@@ -1,0 +1,225 @@
+{
+  "songID": "entry_100683",
+  "title": "Kad Bi Bio Blizu",
+  "artist": "Magazin",
+  "spotifyID": "760irQUw1mjJJsS5Wgy1oR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:bbii-?-bbvi-?-bbv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:bbii-?-bbvi-?-bbv-?-bbii-?-?-bbvi-?-bbv-?-?-bbvi-?-bbii-?-bbvi-?-bbv-?-bbii-?-?-bbvi-?-bbv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Eb",
+        "Db",
+        "Fmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:bbii-?-bbvi-?-bbv-?-bbii-?-?-bbvi-?-bbv-?-?-bbvi-?-bbii-?-bbvi-?-bbv-?-bbii-?-?-bbvi-?-bbv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Paaa..?",
+  "release_date": "2004-01-01",
+  "duration_ms": 224440
+}

@@ -1,0 +1,170 @@
+{
+  "title": "Daddy's Home",
+  "artist": "Cliff Richard",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 278,
+      "duration_ms": 17804,
+      "chords": [
+        "E:maj",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj",
+        "F:maj",
+        "E:maj",
+        "F#:min7",
+        "B:7",
+        "B:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 18082,
+      "duration_ms": 34278,
+      "chords": [
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 52361,
+      "duration_ms": 34963,
+      "chords": [
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj",
+        "F:maj",
+        "E:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 87325,
+      "duration_ms": 34626,
+      "chords": [
+        "E:7",
+        "A:maj",
+        "B:7",
+        "E:maj7",
+        "A:maj",
+        "B:7",
+        "E:maj7",
+        "A:maj",
+        "B:7",
+        "E:maj7",
+        "E:maj/7",
+        "C#:min",
+        "F#:7",
+        "F#:7/b7",
+        "F#:7/6",
+        "F#:7/5",
+        "B:7",
+        "B:7/b7",
+        "B:7/6",
+        "B:7/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 121951,
+      "duration_ms": 58868,
+      "chords": [
+        "B:7/5",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:7",
+        "E:maj7",
+        "C#:min7",
+        "F#:min7",
+        "B:9",
+        "B:7(b9)",
+        "N",
+        "E:maj7",
+        "E:maj7",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

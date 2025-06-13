@@ -1,0 +1,285 @@
+{
+  "songID": "entry_0115",
+  "title": "Hound Dog",
+  "artist": "Kaitlyn Baker",
+  "spotifyID": "6C7CPTb5kn0Qee90SP1roY",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:i-?-iv-?-i-?-v-?-?-v-?-iv-?-i-?-?-v-?-ii-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:iv-?-i-?-v-?-?-v-?-iv-?-i-?-?-v-?-ii-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-ii-?-v-?-i-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:i-?-iv-?-i-?-v-?-?-v-?-iv-?-i-?-?-v-?-ii-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Hound Dog",
+  "release_date": "2022-03-04",
+  "duration_ms": 145950
+}

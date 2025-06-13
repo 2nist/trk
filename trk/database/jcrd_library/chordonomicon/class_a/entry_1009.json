@@ -1,0 +1,177 @@
+{
+  "songID": "entry_1009",
+  "title": "Automation",
+  "artist": "Joe Glazer",
+  "spotifyID": "4eLiCbi2F95U6mMOqtyU1H",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "E7",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "E7",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-v-ii-v-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B7",
+        "E",
+        "E7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "B7",
+        "E",
+        "E7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:ii-v-v-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Classic Labor Songs from Smithsonian Folkways",
+  "release_date": "2006-05-23",
+  "duration_ms": 157733
+}

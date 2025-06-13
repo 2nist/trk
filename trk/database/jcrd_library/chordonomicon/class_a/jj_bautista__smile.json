@@ -1,0 +1,345 @@
+{
+  "songID": "entry_10292",
+  "title": "Smile",
+  "artist": "JJ Bautista",
+  "spotifyID": "4sK1mfxYUDPENxdkSFcgOo",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D/Fs"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "G",
+        "D/Fs"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "D"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E",
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E",
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E"
+      ],
+      "rawChords": [
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E",
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E",
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E",
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E",
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E"
+      ],
+      "rawChords": [
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E",
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E",
+        "Dadd9",
+        "A",
+        "Fsmin7",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Smile",
+  "release_date": "2023-08-11",
+  "duration_ms": 372415
+}

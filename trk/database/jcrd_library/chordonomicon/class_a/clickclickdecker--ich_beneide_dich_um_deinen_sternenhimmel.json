@@ -1,0 +1,259 @@
+{
+  "songID": "entry_101701",
+  "title": "Ich beneide dich um deinen Sternenhimmel",
+  "artist": "ClickClickDecker",
+  "spotifyID": "491aBT05g6ChJS1saWwxho",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-iv-?-v-?-i-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs",
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs",
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-?-?-?-v-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-iv-?-v-?-i-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B",
+        "E",
+        "Aadd9",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-iv-?-v-?-i-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs",
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs",
+        "E",
+        "Esus4",
+        "Csmin/E",
+        "B7sus4/E",
+        "Asus2/E",
+        "E/Gs",
+        "E/Fs"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-?-?-?-v-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Ich habe keine Angst vor...",
+  "release_date": "2005-02-21",
+  "duration_ms": 687906
+}

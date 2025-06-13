@@ -1,0 +1,321 @@
+{
+  "songID": "entry_100330",
+  "title": "Luha",
+  "artist": "Adie",
+  "spotifyID": "2f0T6IDfPT9sNJqqJxEOTR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "rawChords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "G/B",
+        "Cadd9",
+        "Cmin7",
+        "Amin",
+        "Cmin7",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "G/B",
+        "Cadd9",
+        "Cmin7",
+        "Amin",
+        "Cmin7",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "rawChords": [
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "Amin",
+        "Cmin7",
+        "G",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "rawChords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "Amin",
+        "Cmin7",
+        "G",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "Amin7",
+        "Bmin7",
+        "C",
+        "Cmin7"
+      ],
+      "rawChords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "Amin7",
+        "Bmin7",
+        "C",
+        "Cmin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-?-?-i-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "Bmin7",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "rawChords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "Bmin7",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "rawChords": [
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7",
+        "G",
+        "G/Fs",
+        "Cadd9",
+        "Cmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Luha",
+  "release_date": "2020-11-16",
+  "duration_ms": 309589
+}

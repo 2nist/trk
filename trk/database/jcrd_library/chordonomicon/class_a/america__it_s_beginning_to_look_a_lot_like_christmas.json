@@ -1,0 +1,341 @@
+{
+  "songID": "entry_10226",
+  "title": "It's Beginning to Look a Lot Like Christmas",
+  "artist": "America",
+  "spotifyID": "08LUfVMyd4aBqct1DjAWW1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "A",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-v-?-i-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "Amin",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "Amin",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "D7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.60",
+        "progression:v-?-iv-?-i-?-iii-?-iv-?-vi-?-?-v-?-i-?-v-?-ii-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "Amin",
+        "G",
+        "Emin7",
+        "Amin7",
+        "Dmin7",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "Amin",
+        "G",
+        "Emin7",
+        "Amin7",
+        "Dmin7",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:v-?-i-?-v-?-vii-?-i-?-iii-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "Emin",
+        "A",
+        "D",
+        "D7",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "B",
+        "Emin",
+        "A",
+        "D",
+        "D7",
+        "D",
+        "D7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:iii-?-?-ii-?-v-?-v-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.64",
+        "progression:v-?-i-?-v-?-vii-?-i-?-iii-?-ii-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "Amin",
+        "G",
+        "E7",
+        "Amin7",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "Amin",
+        "G",
+        "E7",
+        "Amin7",
+        "D",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.68",
+        "progression:v-?-i-?-v-?-vii-?-i-?-iii-?-?-v-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "B7",
+        "Emin",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "B7",
+        "Emin",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.40",
+        "progression:iii-?-?-v-?-ii-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "B7",
+        "E7",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "B",
+        "C",
+        "E",
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "B7",
+        "E7",
+        "Amin7",
+        "D",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.64",
+        "progression:v-?-i-?-v-?-vii-?-i-?-iii-?-?-v-?-?-?-ii-?-vii-?-iii-?-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Verse",
+    "Interlude",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Holiday Harmony - Collector's Edition",
+  "release_date": "2002",
+  "duration_ms": 159480
+}

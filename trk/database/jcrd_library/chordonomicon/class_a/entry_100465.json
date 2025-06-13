@@ -1,0 +1,247 @@
+{
+  "songID": "entry_100465",
+  "title": "Come Into My Sleep",
+  "artist": "Nick Cave & The Bad Seeds",
+  "spotifyID": "2xB11v1mCR0fkqJLAPPld3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F"
+      ],
+      "rawChords": [
+        "F"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Ab",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Ab",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-v-ii-i-v-ii-i-v-ii-i-v-ii-iv-i-v-ii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Ab",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Ab",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-v-ii-i-v-ii-i-v-ii-i-v-ii-iv-i-v-ii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Eb",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv-i-ii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Ab",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Ab",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-v-ii-i-v-ii-i-v-ii-i-v-ii-iv-i-v-ii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:iv-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "(Are You) the one that I've Been Waiting For?",
+  "release_date": "1997-01-01",
+  "duration_ms": 228933
+}

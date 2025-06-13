@@ -1,0 +1,95 @@
+{
+  "songID": "entry_102460",
+  "title": "Fun and Easy",
+  "artist": "Bulldog Eyes",
+  "spotifyID": "0Cos7Tj5HCUzEQL9zYhGiR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Gmin",
+        "C",
+        "Gmin",
+        "C7",
+        "Bbmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Gmin",
+        "C",
+        "Gmin",
+        "C7",
+        "Bbmaj7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-i-?-iv-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Gmin",
+        "C",
+        "Gmin",
+        "C7",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "Gmin",
+        "C",
+        "Gmin",
+        "C7",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-iv-?-i-?-iv-?-?-v-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Compilation",
+  "release_date": "2020-11-06",
+  "duration_ms": 123053
+}

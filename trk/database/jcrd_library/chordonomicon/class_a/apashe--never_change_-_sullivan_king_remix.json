@@ -1,0 +1,125 @@
+{
+  "songID": "entry_0760",
+  "title": "Never Change - Sullivan King Remix",
+  "artist": "Apashe",
+  "spotifyID": "0SmsBon58vD8QskC1l18TQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin/E",
+        "E7b9",
+        "Amin/E"
+      ],
+      "rawChords": [
+        "Amin/E",
+        "E7b9",
+        "Amin/E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "E",
+        "Gsdim7",
+        "F",
+        "A7/Cs",
+        "Dmin",
+        "F",
+        "E7"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "E",
+        "Gsdim7",
+        "F",
+        "A7/Cs",
+        "Dmin",
+        "F",
+        "E7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-i-?-iii-?-?-iv-?-?-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin/E"
+      ],
+      "rawChords": [
+        "Amin/E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "E",
+        "Gsdim7",
+        "F",
+        "A7/Cs",
+        "Dmin",
+        "F",
+        "E7"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "E",
+        "Gsdim7",
+        "F",
+        "A7/Cs",
+        "Dmin",
+        "F",
+        "E7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:?-i-?-iii-?-?-iv-?-?-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Never Change (Sullivan King Remix)",
+  "release_date": "2022-07-07",
+  "duration_ms": 268915
+}

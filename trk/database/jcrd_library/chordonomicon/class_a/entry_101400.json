@@ -1,0 +1,217 @@
+{
+  "songID": "entry_101400",
+  "title": "Versprechen",
+  "artist": "Tigermilch",
+  "spotifyID": "7uAWVikx0nRlFLlV9OP6SQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Dbmaj7",
+        "Emaj7",
+        "Dmaj7",
+        "Gmaj7",
+        "Emaj7"
+      ],
+      "rawChords": [
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Dbmaj7",
+        "Emaj7",
+        "Dmaj7",
+        "Gmaj7",
+        "Emaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Bmin7",
+        "C7",
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Db",
+        "Emaj7",
+        "Dmaj7",
+        "Gmaj7",
+        "Emaj7"
+      ],
+      "rawChords": [
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Bmin7",
+        "C7",
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Db",
+        "Emaj7",
+        "Dmaj7",
+        "Gmaj7",
+        "Emaj7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-?-?-?-ii-?-?-?-biii-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7"
+      ],
+      "rawChords": [
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-v-?-?-v-?-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Bmin7",
+        "C7",
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Db",
+        "Emaj7",
+        "Dmaj7",
+        "Gmaj7",
+        "Emaj7"
+      ],
+      "rawChords": [
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Bmin7",
+        "C7",
+        "Fmin7",
+        "Bmin7",
+        "Fmin7",
+        "Db",
+        "Emaj7",
+        "Dmaj7",
+        "Gmaj7",
+        "Emaj7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-?-?-?-ii-?-?-?-biii-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7"
+      ],
+      "rawChords": [
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7",
+        "Fmin7",
+        "Dbmaj7",
+        "C7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-v-?-?-v-?-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Gelaber",
+  "release_date": "2022-04-08",
+  "duration_ms": 187928
+}

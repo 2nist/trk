@@ -1,0 +1,249 @@
+{
+  "songID": "entry_102220",
+  "title": "Beautiful",
+  "artist": "Angie Aparo",
+  "spotifyID": "6EBN7lIBuGlaJ8GryUqk9b",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:?-v-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The American",
+  "release_date": "2000-03-07",
+  "duration_ms": 239840
+}

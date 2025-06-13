@@ -1,0 +1,203 @@
+{
+  "songID": "entry_101662",
+  "title": "Country Song",
+  "artist": "Joy Again",
+  "spotifyID": "0oR8lNeZK3zbIKniUsHr4T",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "E13",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "E13",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-iv-?-?-?-v-?-ii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "E13"
+      ],
+      "rawChords": [
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "E13"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:v-?-?-?-vi-?-iii-?-ii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fs",
+        "G",
+        "Fs",
+        "E",
+        "D",
+        "E13",
+        "A"
+      ],
+      "rawChords": [
+        "Fs",
+        "G",
+        "Fs",
+        "E",
+        "D",
+        "E13",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.67",
+        "progression:iii-?-iv-?-iii-?-ii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "E13",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "E",
+        "D",
+        "E13",
+        "A",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:bvii-?-?-?-i-?-v-?-iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "E13",
+        "A",
+        "E",
+        "D",
+        "E13",
+        "A",
+        "E",
+        "D",
+        "E13",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "E13",
+        "A",
+        "E",
+        "D",
+        "E13",
+        "A",
+        "E",
+        "D",
+        "E13",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:iv-?-v-?-i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Country Song",
+  "release_date": "2019-06-19",
+  "duration_ms": 136364
+}

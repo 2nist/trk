@@ -1,0 +1,117 @@
+{
+  "songID": "entry_102814",
+  "title": "Make Up Your Mind",
+  "artist": "Braxton Keith",
+  "spotifyID": "60Abyv3S1MhhTLi8TUcLL2",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin"
+      ],
+      "rawChords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin"
+      ],
+      "rawChords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin"
+      ],
+      "rawChords": [
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin",
+        "C",
+        "Cmaj7",
+        "F",
+        "Fmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Make Up Your Mind",
+  "release_date": "2019-05-10",
+  "duration_ms": 216621
+}

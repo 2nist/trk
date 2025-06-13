@@ -1,0 +1,260 @@
+{
+  "title": "Take Me Down",
+  "artist": "Alabama",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 264,
+      "duration_ms": 20551,
+      "chords": [
+        "C:maj",
+        "C:maj",
+        "F:maj/5",
+        "F:maj/5",
+        "C:maj6",
+        "C:maj",
+        "F:maj(9)/5",
+        "F:maj6/5",
+        "F:maj/5",
+        "F:maj/5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 20815,
+      "duration_ms": 40858,
+      "chords": [
+        "C:maj",
+        "C:maj",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "D:min7",
+        "C:maj",
+        "C:maj",
+        "G:sus4(b7,9)",
+        "C:maj",
+        "C:maj",
+        "G:sus4(b7,9)",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "D:min7",
+        "C:maj",
+        "C:maj",
+        "B:1/1"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 61673,
+      "duration_ms": 20711,
+      "chords": [
+        "A:min",
+        "D:min",
+        "A:min",
+        "D:min",
+        "E:min",
+        "F:maj",
+        "G:sus4(b7,9)",
+        "C:maj",
+        "G:maj/3",
+        "A:min",
+        "E:min",
+        "F:maj",
+        "F:maj7",
+        "F:maj6",
+        "F:maj6"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 82385,
+      "duration_ms": 10185,
+      "chords": [
+        "C:maj",
+        "C:maj",
+        "F:maj(9)/5",
+        "F:maj6/5",
+        "F:maj/5",
+        "F:maj/5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 92570,
+      "duration_ms": 40886,
+      "chords": [
+        "C:maj",
+        "C:maj",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "D:min7",
+        "C:maj",
+        "C:maj",
+        "G:sus4(b7,9)",
+        "C:maj",
+        "C:maj",
+        "G:sus4(b7,9)",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "D:min7",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 133456,
+      "duration_ms": 20205,
+      "chords": [
+        "C:maj",
+        "F:maj7",
+        "F:maj6",
+        "F:maj7",
+        "F:maj6",
+        "C:maj",
+        "C:maj",
+        "F:maj7",
+        "F:maj6",
+        "F:maj7",
+        "F:maj6",
+        "D:min7",
+        "E:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 153662,
+      "duration_ms": 20442,
+      "chords": [
+        "A:min",
+        "D:min",
+        "A:min",
+        "D:min",
+        "E:min",
+        "F:maj",
+        "G:sus4(b7,9)",
+        "C:maj",
+        "G:maj/3",
+        "A:min",
+        "E:min",
+        "F:maj",
+        "F:maj7",
+        "F:maj6"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 174104,
+      "duration_ms": 30572,
+      "chords": [
+        "C:maj",
+        "G:maj/4",
+        "F:maj7",
+        "F:maj7",
+        "C:maj",
+        "G:maj/4",
+        "F:maj7",
+        "F:maj7",
+        "C:maj",
+        "G:maj/4",
+        "F:maj7",
+        "F:maj7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 204677,
+      "duration_ms": 19296,
+      "chords": [
+        "C:maj",
+        "G:maj/4",
+        "F:maj7",
+        "F:maj7",
+        "C:maj",
+        "G:maj/4",
+        "F:maj7",
+        "F:maj7",
+        "F:maj7",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

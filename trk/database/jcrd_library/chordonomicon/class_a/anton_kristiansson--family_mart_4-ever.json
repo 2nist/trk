@@ -1,0 +1,111 @@
+{
+  "songID": "entry_102785",
+  "title": "Family Mart 4-ever",
+  "artist": "Anton Kristiansson",
+  "spotifyID": "7IDqi9W3cwVjZ4o4VGEjq4",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Eno3d",
+        "B",
+        "Csmin",
+        "Emin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "B",
+        "Csmin",
+        "Emin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-v-?-?-?-iv-?-i-?-v-?-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "B",
+        "Csmin",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "B",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Csmin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Family Mart",
+  "release_date": "2017-05-26",
+  "duration_ms": 186250
+}

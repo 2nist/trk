@@ -1,0 +1,351 @@
+{
+  "songID": "entry_102041",
+  "title": "I Lost Myself",
+  "artist": "Munn",
+  "spotifyID": "2d41Jt4R1j5BhvtC9UsmGf",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F"
+      ],
+      "rawChords": [
+        "F"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin7",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "Amin7",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin7",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "Amin7",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin7",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "Amin7",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bbmaj7",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "I Lost Myself",
+  "release_date": "2020-07-10",
+  "duration_ms": 191484
+}

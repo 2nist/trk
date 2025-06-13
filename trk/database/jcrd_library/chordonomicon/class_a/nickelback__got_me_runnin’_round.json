@@ -1,0 +1,335 @@
+{
+  "songID": "entry_102780",
+  "title": "Got Me Runnin\u2019 Round",
+  "artist": "Nickelback",
+  "spotifyID": "4qOaCXTnHUAKO3vI4CWZLM",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:?-iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "Bmin",
+        "D",
+        "E",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "Bmin",
+        "D",
+        "E",
+        "Bmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-i-?-?-i-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:iv-?-v-?-i-?-v-?-?-iv-?-v-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "Bmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:iv-?-v-?-i-?-v-?-?-iv-?-v-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:iv-?-v-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:iv-?-v-?-i-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:iv-?-v-?-i-?-v-?-?-iv-?-v-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "A",
+        "E",
+        "Bmin",
+        "D",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:iv-?-v-?-i-?-v-?-?-iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "No Fixed Address",
+  "release_date": "2014-11-17",
+  "duration_ms": 245466
+}

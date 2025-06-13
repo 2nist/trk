@@ -1,0 +1,339 @@
+{
+  "songID": "entry_102937",
+  "title": "Can't Take My Eyes off You",
+  "artist": "Craymer",
+  "spotifyID": "2InH5NvwoEymOEeUhpUq48",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Gsmin",
+        "E7",
+        "A",
+        "Amin",
+        "E",
+        "Fs",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Gsmin",
+        "E7",
+        "A",
+        "Amin",
+        "E",
+        "Fs",
+        "Fsmin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:v-?-?-v-?-i-?-?-v-?-vi-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gsmin",
+        "E7",
+        "A",
+        "Amin",
+        "E",
+        "Fs",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "E7",
+        "A",
+        "Amin",
+        "E",
+        "Fs",
+        "Fsmin",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.19",
+        "progression:?-v-?-i-?-?-v-?-vi-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "B",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "Csmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin7",
+        "B",
+        "Gsmin",
+        "Csmin7",
+        "Fsmin7",
+        "B",
+        "E",
+        "Cs",
+        "Cs7",
+        "Fsmin7",
+        "B",
+        "Gsmin",
+        "Csmin7",
+        "Fsmin7",
+        "A",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "B",
+        "Gsmin",
+        "Csmin7",
+        "Fsmin7",
+        "B",
+        "E",
+        "Cs",
+        "Cs7",
+        "Fsmin7",
+        "B",
+        "Gsmin",
+        "Csmin7",
+        "Fsmin7",
+        "A",
+        "Fsmin",
+        "D"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:?-ii-?-?-?-?-ii-?-v-?-iii-?-?-?-ii-?-?-?-?-i-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "Bdim",
+        "C",
+        "Cmin",
+        "G",
+        "A",
+        "Cdim",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Bdim",
+        "C",
+        "Cmin",
+        "G",
+        "A",
+        "Cdim",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.19",
+        "progression:v-?-?-?-i-?-?-v-?-vi-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "B",
+        "E",
+        "Csmin7"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "B",
+        "E",
+        "Csmin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin7",
+        "B",
+        "Gsmin",
+        "Csmin7",
+        "Fsmin7",
+        "B",
+        "E",
+        "Csmin",
+        "Fsmin7",
+        "B",
+        "Gsmin7",
+        "Csmin7",
+        "Fsmin7",
+        "Gsmin",
+        "A",
+        "Fs",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "B",
+        "Gsmin",
+        "Csmin7",
+        "Fsmin7",
+        "B",
+        "E",
+        "Csmin",
+        "Fsmin7",
+        "B",
+        "Gsmin7",
+        "Csmin7",
+        "Fsmin7",
+        "Gsmin",
+        "A",
+        "Fs",
+        "D"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.49",
+        "progression:?-i-?-?-?-?-i-?-iv-?-?-?-i-?-?-?-?-?-bvii-?-v-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Bmin",
+        "Bdim",
+        "C",
+        "Cmin",
+        "G",
+        "A",
+        "Cdim",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Bdim",
+        "C",
+        "Cmin",
+        "G",
+        "A",
+        "Cdim",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.15",
+        "progression:v-?-?-?-i-?-?-v-?-vi-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Can't Take My Eyes off You",
+  "release_date": "2019-11-21",
+  "duration_ms": 240628
+}

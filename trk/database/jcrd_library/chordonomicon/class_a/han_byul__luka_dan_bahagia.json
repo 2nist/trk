@@ -1,0 +1,279 @@
+{
+  "songID": "entry_102868",
+  "title": "Luka Dan Bahagia",
+  "artist": "Han Byul",
+  "spotifyID": "1m3mCJ9kDy8dTTrzAvzIY6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:?-iv-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "E",
+        "Amin",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "E",
+        "Amin",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-?-?-v-?-?-v-?-i-?-iv-?-iii-?-?-iv-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "Amin",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "Amin",
+        "Dmin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:?-v-?-i-?-iv-?-v-?-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "E",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "E",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "E",
+        "Amin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:?-v-?-i-?-iv-?-?-iii-?-?-?-v-?-i-?-iv-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "D",
+        "F",
+        "Amin",
+        "G",
+        "D",
+        "F",
+        "E",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "E",
+        "Amin",
+        "A",
+        "F",
+        "G",
+        "E",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "F",
+        "Amin",
+        "G",
+        "D",
+        "F",
+        "E",
+        "Dmin",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "E",
+        "Amin",
+        "A",
+        "F",
+        "G",
+        "E",
+        "Amin",
+        "G"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.65",
+        "progression:v-?-ii-?-iv-?-?-v-?-ii-?-iv-?-iii-?-?-v-?-i-?-iv-?-?-iii-?-?-vi-?-iv-?-v-?-iii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin",
+        "F",
+        "E",
+        "Dmin",
+        "E",
+        "Amin",
+        "Dmin",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "E",
+        "Dmin",
+        "E",
+        "Amin",
+        "Dmin",
+        "E",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-iv-?-iii-?-?-iii-?-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Big Stage 2019",
+  "release_date": "2019-10-04",
+  "duration_ms": 237075
+}

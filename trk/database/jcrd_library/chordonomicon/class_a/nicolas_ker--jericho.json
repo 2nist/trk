@@ -1,0 +1,153 @@
+{
+  "songID": "entry_101863",
+  "title": "Jericho",
+  "artist": "Nicolas Ker",
+  "spotifyID": "4KMqWzS3grXHihuflU315L",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Bmin",
+        "E",
+        "A",
+        "Bmin",
+        "E",
+        "Bmin",
+        "E",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "E",
+        "A",
+        "Bmin",
+        "E",
+        "Bmin",
+        "E",
+        "Bmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-?-v-?-i-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "F",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "F",
+        "E",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-bii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Bmin",
+        "E",
+        "A",
+        "Bmin",
+        "E",
+        "Bmin",
+        "E",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "E",
+        "A",
+        "Bmin",
+        "E",
+        "Bmin",
+        "E",
+        "Bmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-?-v-?-i-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "F",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "F",
+        "E",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-bii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Les faubourgs de l'exil",
+  "release_date": "2016-02-12",
+  "duration_ms": 92927
+}

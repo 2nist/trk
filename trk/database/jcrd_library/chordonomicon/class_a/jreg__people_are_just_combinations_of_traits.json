@@ -1,0 +1,379 @@
+{
+  "songID": "entry_102838",
+  "title": "People Are Just Combinations of Traits",
+  "artist": "Jreg",
+  "spotifyID": "1CA85tUaVXMMrWZgk7rRmu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A"
+      ],
+      "rawChords": [
+        "A"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "A",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "A",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:i-?-v-?-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.53",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-?-i-?-v-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:v-?-ii-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "D",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "A",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.49",
+        "progression:iv-?-ii-?-i-?-v-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Csmin",
+        "B",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:?-v-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "People Are Just Combinations of Traits",
+  "release_date": "2020-03-17",
+  "duration_ms": 259476
+}

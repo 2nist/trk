@@ -1,0 +1,277 @@
+{
+  "songID": "entry_101769",
+  "title": "Boots & nya jeans",
+  "artist": "Hasse Andersson",
+  "spotifyID": "05RZnaxj7XU9nkZ8BLLeGg",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-?-iv-?-v-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-?-iv-?-v-?-i-?-v-?-iv-?-v-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "D",
+        "E",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-iv-?-v-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:biii-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Solo",
+    "Verse",
+    "Solo",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Boots & nya jeans",
+  "release_date": "2000-02-25",
+  "duration_ms": 190826
+}

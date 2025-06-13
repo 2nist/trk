@@ -1,0 +1,445 @@
+{
+  "songID": "entry_102198",
+  "title": "Marigold",
+  "artist": "Jelani Aryeh",
+  "spotifyID": "4rCqVP8OeyeTLkBVQtFXZA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Dsus2",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D",
+        "Emin",
+        "Eminadd9",
+        "Dsus2",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I've Got Some Living To Do",
+  "release_date": "2021-07-30",
+  "duration_ms": 245496
+}

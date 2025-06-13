@@ -1,0 +1,527 @@
+{
+  "songID": "entry_102208",
+  "title": "Milonga de Gauna",
+  "artist": "Adriana Varela",
+  "spotifyID": "1oQ6lBM4b9yYI8VvtPjD6B",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G/B",
+        "D",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "G/B",
+        "D",
+        "E7",
+        "A7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "E7",
+        "G",
+        "D",
+        "E7",
+        "Emin7",
+        "D",
+        "A",
+        "G",
+        "E",
+        "Bmin",
+        "G",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "E7",
+        "G",
+        "D",
+        "E7",
+        "Emin7",
+        "D",
+        "A",
+        "G",
+        "E",
+        "Bmin",
+        "G",
+        "Bmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.51",
+        "progression:ii-?-iii-?-v-?-ii-?-iii-?-?-ii-?-vi-?-v-?-iii-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "E7",
+        "G",
+        "D",
+        "E",
+        "Emin7",
+        "Bmin",
+        "A",
+        "G",
+        "E",
+        "Bmin",
+        "G",
+        "Bmin"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E7",
+        "G",
+        "D",
+        "E",
+        "Emin7",
+        "Bmin",
+        "A",
+        "G",
+        "E",
+        "Bmin",
+        "G",
+        "Bmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:vi-?-ii-?-iii-?-v-?-ii-?-iii-?-?-?-vi-?-v-?-iii-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "C",
+        "G",
+        "E7",
+        "D",
+        "D7",
+        "G",
+        "Gminadd13",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "C",
+        "G",
+        "E7",
+        "D",
+        "D7",
+        "G",
+        "Gminadd13",
+        "Gmin",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:ii-?-v-?-iv-?-i-?-vi-?-v-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "G",
+        "E",
+        "D",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "E",
+        "D",
+        "D7",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:v-?-iv-?-ii-?-i-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Gmin7",
+        "Amin7",
+        "A7",
+        "D",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "Gmin7",
+        "Amin7",
+        "A7",
+        "D",
+        "E7",
+        "A7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "E7",
+        "G",
+        "D",
+        "E7",
+        "Emin7",
+        "Bmin",
+        "A7",
+        "G",
+        "E",
+        "Bmin",
+        "G",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "E7",
+        "G",
+        "D",
+        "E7",
+        "Emin7",
+        "Bmin",
+        "A7",
+        "G",
+        "E",
+        "Bmin",
+        "G",
+        "Bmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.55",
+        "progression:ii-?-iii-?-v-?-ii-?-iii-?-?-?-vi-?-v-?-iii-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "E7",
+        "G",
+        "D",
+        "A",
+        "D",
+        "E7",
+        "Emin7",
+        "D",
+        "A",
+        "G",
+        "E",
+        "Bmin",
+        "G",
+        "Bmin",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E7",
+        "G",
+        "D",
+        "A",
+        "D",
+        "E7",
+        "Emin7",
+        "D",
+        "A",
+        "G",
+        "E",
+        "Bmin",
+        "G",
+        "Bmin",
+        "D"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.56",
+        "progression:v-?-i-?-ii-?-iv-?-i-?-v-?-i-?-ii-?-?-i-?-v-?-iv-?-ii-?-?-iv-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "C",
+        "G",
+        "E7",
+        "D",
+        "D7",
+        "G",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "C",
+        "G",
+        "E7",
+        "D",
+        "D7",
+        "G",
+        "Gmin",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:ii-?-v-?-iv-?-i-?-vi-?-v-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "G",
+        "E7",
+        "D",
+        "D7",
+        "G",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "E7",
+        "D",
+        "D7",
+        "G",
+        "Gmin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:ii-?-i-?-vi-?-v-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "E7",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "E7",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.63",
+        "progression:v-?-iv-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D7",
+        "G",
+        "Gmin",
+        "D",
+        "E7",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "D7",
+        "Bmin",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "Gmin",
+        "D",
+        "E7",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "D7",
+        "Bmin",
+        "Gmin",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-?-v-?-vi-?-i-?-ii-?-i-?-ii-?-v-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Gmin",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:iv-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Instrumental",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus",
+    "Instrumental",
+    "Instrumental"
+  ],
+  "tags": [],
+  "album": "Docke",
+  "release_date": "2017-07-04",
+  "duration_ms": 240493
+}

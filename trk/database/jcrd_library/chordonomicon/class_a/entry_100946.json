@@ -1,0 +1,291 @@
+{
+  "songID": "entry_100946",
+  "title": "A song about nothing - Live",
+  "artist": "MALINDA",
+  "spotifyID": "76ORvm0ZUHWZNAbnwh2SC3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-ii-v-i-v-ii-i"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Bb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:v-?-i-ii-i-?-i-ii-i-v-?-ii-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Eb",
+        "Fsus4",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Fsus4",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:iv-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "Dmin",
+        "Eb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Gmin",
+        "Dmin",
+        "Eb",
+        "F"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:v-?-i-ii-i-?-i-ii-i-v-?-ii-i-?-?-i-ii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cmin7",
+        "Eb",
+        "Bb",
+        "F",
+        "Cmin",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Cmin7",
+        "Eb",
+        "Bb",
+        "F",
+        "Cmin",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-iv-i-v-?-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "F",
+        "Eb",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Gmin",
+        "Eb",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "F",
+        "Eb",
+        "F",
+        "Bb"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:i-?-iv-v-iv-i-?-iv-i-v-iv-i-v-?-v-iv-v-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-i-v-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "A song about nothing - Live",
+  "release_date": "2019-05-24",
+  "duration_ms": 199505
+}

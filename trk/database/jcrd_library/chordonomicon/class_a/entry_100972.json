@@ -1,0 +1,191 @@
+{
+  "songID": "entry_100972",
+  "title": "Fat Brain",
+  "artist": "Gezebelle Gaburgably",
+  "spotifyID": "3bwldwjeoUcqp07k1TiGBA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Eb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbii-?-bbvi-bbii-?-bbvi-bbii"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Eb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbii-?-bbvi-bbii-?-bbvi-bbii"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Eb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:bbii-?-bbvi-bbii-?-bbvi-bbii"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Snailcore Del\u00fccks",
+  "release_date": "2021-02-11",
+  "duration_ms": 173172
+}

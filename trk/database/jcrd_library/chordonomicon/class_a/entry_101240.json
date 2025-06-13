@@ -1,0 +1,261 @@
+{
+  "songID": "entry_101240",
+  "title": "'92",
+  "artist": "Petar Gra\u0161o",
+  "spotifyID": "0Y9sJlzEy6m6FjihPdlcw6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Emin",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Emin",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Emin",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Emin",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin",
+        "Ddim7",
+        "C",
+        "Amin",
+        "Dmin",
+        "F",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Ddim7",
+        "C",
+        "Amin",
+        "Dmin",
+        "F",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-v-?-?-i-ii-iii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Utorak",
+  "release_date": "2006-06-20",
+  "duration_ms": 243893
+}

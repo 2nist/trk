@@ -1,0 +1,345 @@
+{
+  "songID": "entry_102438",
+  "title": "Sweet Dreams",
+  "artist": "Jewel",
+  "spotifyID": "24fdr6OitXb8gQ93VwraNf",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gmin",
+        "C",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "D",
+        "D7",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "D",
+        "D7",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:iv-?-iii-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "D",
+        "D7",
+        "Gmin",
+        "C7",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "D",
+        "D7",
+        "Gmin",
+        "C7",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:iv-?-iii-?-iii-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Gmin",
+        "D",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Gmin",
+        "D",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.67",
+        "progression:i-?-iii-?-iv-?-v-?-i-?-iii-?-iv-?-v-?-?-iii-?-?-v-?-i-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "D",
+        "D7",
+        "Eb",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "D",
+        "D7",
+        "Eb",
+        "Gmin",
+        "C",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:biii-?-ii-?-ii-?-biii-?-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Gmin",
+        "D",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Gmin",
+        "D",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.67",
+        "progression:i-?-iii-?-iv-?-v-?-i-?-iii-?-iv-?-v-?-?-iii-?-?-v-?-i-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "Gmin",
+        "Gb",
+        "D",
+        "F",
+        "E",
+        "Gmin",
+        "D",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Gmin",
+        "Gb",
+        "D",
+        "F",
+        "E",
+        "Gmin",
+        "D",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:ii-?-?-bvi-?-iii-?-v-?-#iv-?-?-iii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Gmin",
+        "D",
+        "Cmin",
+        "F",
+        "Gmin",
+        "D",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Bb",
+        "D7",
+        "Eb",
+        "F",
+        "Gmin",
+        "D",
+        "Cmin",
+        "F",
+        "Gmin",
+        "D",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb",
+        "Bb"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.75",
+        "progression:i-?-iii-?-iv-?-v-?-i-?-iii-?-iv-?-v-?-?-iii-?-?-v-?-?-iii-?-?-v-?-i-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Lullaby",
+  "release_date": "2016-04-05",
+  "duration_ms": 256653
+}

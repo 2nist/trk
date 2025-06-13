@@ -1,0 +1,273 @@
+{
+  "title": "Blue Jean",
+  "artist": "David Bowie",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 1021,
+      "duration_ms": 2062,
+      "chords": [
+        "C:maj",
+        "G:maj",
+        "G:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 3084,
+      "duration_ms": 35170,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "G:maj",
+        "G:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "C:maj",
+        "D:maj",
+        "C:maj",
+        "G:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 38254,
+      "duration_ms": 26713,
+      "chords": [
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "F#:min11"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 64968,
+      "duration_ms": 1936,
+      "chords": [
+        "F#:min11",
+        "C:maj",
+        "G:maj",
+        "G:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 66905,
+      "duration_ms": 34650,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "G:maj",
+        "G:maj",
+        "G:maj",
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "C:maj",
+        "D:maj",
+        "C:maj",
+        "G:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 101555,
+      "duration_ms": 26449,
+      "chords": [
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "F#:min11"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 128004,
+      "duration_ms": 1932,
+      "chords": [
+        "C:maj",
+        "G:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 129937,
+      "duration_ms": 7526,
+      "chords": [
+        "G:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 137463,
+      "duration_ms": 41480,
+      "chords": [
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "A:maj",
+        "A:maj",
+        "F#:min",
+        "F#:min11",
+        "F#:min11"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 178944,
+      "duration_ms": 13304,
+      "chords": [
+        "C:maj",
+        "G:maj",
+        "C:maj",
+        "A:5",
+        "E:5",
+        "E:5",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "A",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

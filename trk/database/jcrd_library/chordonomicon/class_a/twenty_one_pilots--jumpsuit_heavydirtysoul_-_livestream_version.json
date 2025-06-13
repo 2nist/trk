@@ -1,0 +1,357 @@
+{
+  "songID": "entry_100758",
+  "title": "Jumpsuit / Heavydirtysoul - Livestream Version",
+  "artist": "Twenty One Pilots",
+  "spotifyID": "6aYjxfCm15W0ez6rCa0XZL",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin",
+        "D",
+        "Bmin",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "Bmin",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "Fsmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "G",
+        "Fsmin",
+        "Bmin",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D",
+        "Bmin",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "Fsmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "E",
+        "Bb",
+        "C",
+        "A",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "E",
+        "Bb",
+        "C",
+        "A",
+        "Dmin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:bii-?-?-?-v-?-bii-?-biii-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "E",
+        "Bb",
+        "C",
+        "A",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "E",
+        "Bb",
+        "C",
+        "A",
+        "Dmin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:bii-?-?-?-v-?-bii-?-biii-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Outro",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Scaled And Icy (Livestream Version)",
+  "release_date": "2021-11-19",
+  "duration_ms": 248018
+}

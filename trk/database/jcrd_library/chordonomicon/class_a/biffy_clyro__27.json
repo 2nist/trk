@@ -1,0 +1,311 @@
+{
+  "songID": "entry_102503",
+  "title": "27",
+  "artist": "Biffy Clyro",
+  "spotifyID": "0ovPjO3X0d4vwjtU1CIaQg",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:iv-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G",
+        "D",
+        "A",
+        "C",
+        "G",
+        "D",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D",
+        "A",
+        "C",
+        "G",
+        "D",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.47",
+        "progression:iv-?-i-?-v-?-ii-?-iv-?-i-?-v-?-i-?-v-?-iv-?-i-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "Dmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "Dmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-ii-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "Dmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "Dmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-ii-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:ii-?-i-?-v-?-ii-?-i-?-v-?-ii-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Intro",
+    "Interlude",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Blackened Sky",
+  "release_date": "2002-03-11",
+  "duration_ms": 209773
+}

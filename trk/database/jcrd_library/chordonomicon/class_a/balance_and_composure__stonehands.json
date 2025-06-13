@@ -1,0 +1,347 @@
+{
+  "songID": "entry_102864",
+  "title": "Stonehands",
+  "artist": "Balance And Composure",
+  "spotifyID": "0WZnACw4tVuLy9UAzRCkmt",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:i-?-?-v-?-i-?-?-v-?-i-?-?-?-v-?-i-?-v-?-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "Gmin",
+        "G",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "Gmin",
+        "G",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-v-?-i-?-v-?-?-v-?-i-?-?-v-?-i-?-v-?-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G",
+        "C",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Separation",
+  "release_date": "2011-05-10",
+  "duration_ms": 265106
+}

@@ -1,0 +1,525 @@
+{
+  "songID": "entry_10028",
+  "title": "Frozen Garden",
+  "artist": "Emily Jane White",
+  "spotifyID": "7dyxjYhYRvUlj7vQmn4KJT",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-i-?-?-?-ii-?-?-i-?-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7",
+        "Bmin",
+        "Cmaj7",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7",
+        "Bmin",
+        "Cmaj7",
+        "Bmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Cmaj7",
+        "Bmin",
+        "Cmaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Outro",
+    "Instrumental"
+  ],
+  "tags": [],
+  "album": "They Moved In Shadow All Together",
+  "release_date": "2016-07-08",
+  "duration_ms": 236160
+}

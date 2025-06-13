@@ -1,0 +1,265 @@
+{
+  "songID": "entry_100222",
+  "title": "Night of Nights",
+  "artist": "RichaadEB",
+  "spotifyID": "3FTc8QsYzs2PRo8fTQ5JyM",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "G",
+        "C",
+        "A",
+        "E",
+        "G",
+        "C",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "C",
+        "A",
+        "E",
+        "G",
+        "C",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:iii-v-i-vi-iii-v-i-vi"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-?-i-v-iii-i-v-?-i-v-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "G",
+        "C",
+        "A",
+        "E",
+        "G",
+        "C",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "C",
+        "A",
+        "E",
+        "G",
+        "C",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:iii-v-i-vi-iii-v-i-vi"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-?-i-v-iii-i-v-?-i-v-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "G",
+        "C",
+        "A",
+        "E",
+        "G"
+      ],
+      "rawChords": [
+        "E",
+        "G",
+        "C",
+        "A",
+        "E",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:iii-v-i-vi-iii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "C",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-?-i-v-iii-i-v-?-i-v-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Night of Nights",
+  "release_date": "2019-05-09",
+  "duration_ms": 199375
+}

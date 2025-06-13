@@ -1,0 +1,317 @@
+{
+  "title": "I m Goin  Down",
+  "artist": "Bruce Springsteen",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 394,
+      "duration_ms": 14917,
+      "chords": [
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 15311,
+      "duration_ms": 21751,
+      "chords": [
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 37063,
+      "duration_ms": 14533,
+      "chords": [
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 51596,
+      "duration_ms": 21726,
+      "chords": [
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 73323,
+      "duration_ms": 14485,
+      "chords": [
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 87808,
+      "duration_ms": 14570,
+      "chords": [
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 102379,
+      "duration_ms": 28839,
+      "chords": [
+        "A:5",
+        "E:5",
+        "F#:5",
+        "D:5",
+        "A:5",
+        "E:5",
+        "F#:5",
+        "D:5",
+        "A:5",
+        "E:5",
+        "F#:5",
+        "D:5",
+        "A:5",
+        "E:5",
+        "F#:5",
+        "D:5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 131218,
+      "duration_ms": 14508,
+      "chords": [
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_5",
+      "start_ms": 145727,
+      "duration_ms": 14377,
+      "chords": [
+        "D:maj",
+        "A:5",
+        "E:5",
+        "F#:5",
+        "D:5",
+        "A:5",
+        "E:5",
+        "F#:5",
+        "D:5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_6",
+      "start_ms": 160104,
+      "duration_ms": 14481,
+      "chords": [
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_7",
+      "start_ms": 174586,
+      "duration_ms": 14261,
+      "chords": [
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 188847,
+      "duration_ms": 23135,
+      "chords": [
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "A:maj",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "D:maj",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

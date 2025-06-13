@@ -1,0 +1,321 @@
+{
+  "songID": "entry_10013",
+  "title": "Jingle Bell Rock",
+  "artist": "Cliff Richard",
+  "spotifyID": "4TqAFbHpxjlscNh1anQnXb",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:i-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Csmin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Csmin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-?-?-v-?-?-v-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Fmin",
+        "C",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Fmin",
+        "C",
+        "D7",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iv-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "A",
+        "F",
+        "Fmin",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "F",
+        "Fmin",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.75",
+        "progression:v-?-iii-?-i-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Csmin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Csmin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:i-?-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Fmin",
+        "C",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Fmin",
+        "C",
+        "D7",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iv-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "A",
+        "Fmin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "Fmin",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-vi-?-?-?-v-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Christmas with Cliff",
+  "release_date": "2022-11-25",
+  "duration_ms": 139061
+}

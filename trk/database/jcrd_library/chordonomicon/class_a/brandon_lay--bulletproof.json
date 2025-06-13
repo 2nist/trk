@@ -1,0 +1,213 @@
+{
+  "songID": "entry_0160",
+  "title": "Bulletproof",
+  "artist": "Brandon Lay",
+  "spotifyID": "6WEpAJKjYc7cNCRE0mWT6a",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin7",
+        "G",
+        "Emin7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "G",
+        "Emin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin7",
+        "G",
+        "Emin7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "G",
+        "Emin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C",
+        "G",
+        "Emin7",
+        "D",
+        "C"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Bulletproof",
+  "release_date": "2023-02-10",
+  "duration_ms": 171059
+}

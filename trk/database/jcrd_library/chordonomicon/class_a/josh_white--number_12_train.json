@@ -1,0 +1,207 @@
+{
+  "songID": "entry_100850",
+  "title": "Number 12 Train",
+  "artist": "Josh White",
+  "spotifyID": "2rSsNFHLvOJaa63x0NUT9g",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "A7",
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "B7",
+        "A7",
+        "B7",
+        "E",
+        "C7",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "B7",
+        "A7",
+        "B7",
+        "E",
+        "C7",
+        "B7",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:v-?-i-?-v-?-v-?-i-?-v-?-ii-?-i-?-ii-?-v-?-biii-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "B7",
+        "A7",
+        "B7",
+        "E",
+        "C7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "B7",
+        "A7",
+        "B7",
+        "E",
+        "C7",
+        "B7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:v-?-i-?-v-?-v-?-i-?-v-?-ii-?-i-?-ii-?-v-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "B7",
+        "A7",
+        "B7",
+        "E",
+        "A7"
+      ],
+      "rawChords": [
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "B7",
+        "A7",
+        "B7",
+        "E",
+        "A7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-v-?-i-?-v-?-v-?-i-?-v-?-ii-?-i-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "B7",
+        "A7",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "E7",
+        "A7",
+        "E",
+        "B7",
+        "A7",
+        "B7",
+        "E"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:v-?-v-?-i-?-v-?-v-?-i-?-v-?-ii-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The Asch Recordings, 1939 to 1945 - Vol. 2",
+  "release_date": "1967-01-01",
+  "duration_ms": 225466
+}

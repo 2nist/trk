@@ -1,0 +1,181 @@
+{
+  "songID": "entry_1013",
+  "title": "Vaya Fiesta",
+  "artist": "Los Lunnis",
+  "spotifyID": "1VG2MyBixYJef3zIk6V3zw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "B"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Amin"
+      ],
+      "rawChords": [
+        "E",
+        "Csmin",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-?-i-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:ii-v-i-?-vii-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Amin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "Amin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:ii-v-i-?-vii-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "\u00a1La hora de saltar!",
+  "release_date": "2025-04-18",
+  "duration_ms": 86013
+}

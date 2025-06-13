@@ -1,0 +1,237 @@
+{
+  "songID": "entry_100286",
+  "title": "Malibu Blue",
+  "artist": "Alexander Ludwig",
+  "spotifyID": "5RxOvCHaA5IN3BQRLsxmFn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "D/Fs",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "D/Fs",
+        "Cadd9"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Emin",
+        "A",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "Cadd9",
+        "G",
+        "D/Fs",
+        "Emin7",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "D/Fs",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "rawChords": [
+        "G",
+        "D/Fs",
+        "Emin7",
+        "D/Fs",
+        "Cadd9",
+        "D/Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Highway 99",
+  "release_date": "2022-08-26",
+  "duration_ms": 183386
+}

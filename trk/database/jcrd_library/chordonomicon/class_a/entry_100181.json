@@ -1,0 +1,277 @@
+{
+  "songID": "entry_100181",
+  "title": "Girl",
+  "artist": "Alexander 23",
+  "spotifyID": "4yYeePS9C7q9iJuxvNCpnF",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-iii-i-ii-v-iii-i-iii-i-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-ii-v-iii-i-ii-v-iii-i-ii-i-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-iii-i-ii-v-iii-i-iii-i-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-ii-v-iii-i-ii-v-iii-i-ii-i-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "A7",
+        "F",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-iii-i-ii-v-iii-i-iii-i-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G",
+        "C7",
+        "A7",
+        "F",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-i-ii-v-iii-i-ii-v-iii-i-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I'm Sorry I Love You - EP",
+  "release_date": "2019-10-25",
+  "duration_ms": 121226
+}

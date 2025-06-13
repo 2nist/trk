@@ -1,0 +1,171 @@
+{
+  "songID": "entry_102796",
+  "title": "San Marco",
+  "artist": "Logan Smith",
+  "spotifyID": "3IeiC0XB2gLTq1ZJ1A3kOw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Cs",
+        "Gs",
+        "As",
+        "Fs",
+        "Asmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Gs",
+        "As",
+        "Fs",
+        "Asmin",
+        "Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.61",
+        "progression:v-?-ii-?-iii-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cs",
+        "Gs",
+        "Asmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Gs",
+        "Asmin",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Gs",
+        "Asmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Gs",
+        "Asmin",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cs",
+        "Gs",
+        "Asmin",
+        "Fs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Gs",
+        "Asmin",
+        "Fs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Cs",
+        "Gs",
+        "Asmin",
+        "Fs",
+        "Cs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Gs",
+        "Asmin",
+        "Fs",
+        "Cs"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Scene 1 - All Things Change",
+  "release_date": "2021-04-09",
+  "duration_ms": 236379
+}

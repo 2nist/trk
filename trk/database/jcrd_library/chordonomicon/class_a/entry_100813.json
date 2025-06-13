@@ -1,0 +1,243 @@
+{
+  "songID": "entry_100813",
+  "title": "Bizarre Bizarre",
+  "artist": "Dieter Bohlen",
+  "spotifyID": "52aai9Adc0Xetxf6f2DXCK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:i-v-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:i-v-?-i-v-?-i-v-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Eb",
+        "Bbmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:i-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:i-v-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:i-v-?-i-v-?-i-v-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:i-v-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Bbmin",
+        "Ab",
+        "Eb",
+        "Bbmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:i-v-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Instrumental",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Dieter - der Film",
+  "release_date": "2005-10-14",
+  "duration_ms": 225826
+}

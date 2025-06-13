@@ -1,0 +1,311 @@
+{
+  "songID": "entry_100558",
+  "title": "Don't Turn Your Back on Me",
+  "artist": "Tanita Tikaram",
+  "spotifyID": "0tiWLvO2KOZpmeetcwScnc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Dsus2",
+        "Dsus4",
+        "Dsus2",
+        "D",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Dsus2",
+        "Dsus4",
+        "Dsus2",
+        "D",
+        "Dsus2",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-?-?-v-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Bmin7",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Bmin7",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.61",
+        "progression:?-?-?-ii-?-v-?-i-?-iv-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D",
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D",
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-?-?-v-?-v-?-iv-?-i-?-?-?-?-v-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Dsus2",
+        "D",
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "G",
+        "A",
+        "G",
+        "D",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Dsus2",
+        "D",
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "G",
+        "A",
+        "G",
+        "D",
+        "Dsus2",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:?-ii-?-i-?-v-?-?-v-?-?-?-?-i-?-ii-?-i-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D",
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D",
+        "Dsus2",
+        "Bmin7",
+        "Bmin",
+        "A7",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-?-?-v-?-v-?-iv-?-i-?-?-?-?-v-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bmin",
+        "Bmin7",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Bmin7",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "C",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-?-?-ii-?-v-?-i-?-iv-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Closer to the People",
+  "release_date": "2016-03-11",
+  "duration_ms": 184506
+}

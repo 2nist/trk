@@ -1,0 +1,289 @@
+{
+  "songID": "entry_101618",
+  "title": "When the Rock",
+  "artist": "Arno",
+  "spotifyID": "2ZJ3Hjkn2dGQ3SMW7Tynct",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Fmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Fmaj7",
+        "F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:v-?-?-v-?-i-?-v-?-ii-?-v-?-?-v-?-i-?-v-?-ii-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Fmaj7",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Fmaj7",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-v-?-?-v-?-i-?-v-?-i-?-v-?-?-v-?-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.24",
+        "progression:v-?-?-v-?-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Fmaj7",
+        "F",
+        "Bb",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:?-v-?-i-?-v-?-ii-?-v-?-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Arno",
+  "release_date": "1986-04-07",
+  "duration_ms": 263333
+}

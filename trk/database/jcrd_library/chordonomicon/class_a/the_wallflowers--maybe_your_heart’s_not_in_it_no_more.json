@@ -1,0 +1,435 @@
+{
+  "songID": "entry_101900",
+  "title": "Maybe Your Heart\u2019s Not In It No More",
+  "artist": "The Wallflowers",
+  "spotifyID": "2niiRy4j7GR1ReYexXCTSQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-v-?-?-v-?-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-v-?-?-v-?-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-v-?-?-v-?-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "A",
+        "B"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-i-?-iv-?-i-?-v-?-iv-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-?-v-?-?-v-?-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-v-?-?-v-?-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "A",
+        "B"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-i-?-iv-?-i-?-v-?-iv-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "E",
+        "Esus4",
+        "Csmin",
+        "B",
+        "A",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-?-v-?-?-v-?-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Exit Wounds",
+  "release_date": "2021-07-09",
+  "duration_ms": 300847
+}

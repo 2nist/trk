@@ -1,0 +1,279 @@
+{
+  "songID": "entry_100982",
+  "title": "Is She Fiona",
+  "artist": "The Gerbils",
+  "spotifyID": "6xxwIgqUhkymxe2IeWedFp",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i-v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i-v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-iv-i-v-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i-v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-v-iv-i-v-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Are You Sleepy",
+  "release_date": "2019-08-09",
+  "duration_ms": 176520
+}

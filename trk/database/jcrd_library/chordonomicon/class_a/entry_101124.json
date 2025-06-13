@@ -1,0 +1,257 @@
+{
+  "songID": "entry_101124",
+  "title": "Last Ditch Effort (See You Try)",
+  "artist": "Josh Ritter",
+  "spotifyID": "3kK73NuP9zub4jg4UVHBuY",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Bbmaj7",
+        "F",
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbmaj7",
+        "F",
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Edim",
+        "Bb",
+        "Bb7",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Edim",
+        "Bb",
+        "Bb7",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:iv-?-i-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Bbmaj7",
+        "F",
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbmaj7",
+        "F",
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Edim",
+        "Bb",
+        "Bb7",
+        "F",
+        "Bb",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Edim",
+        "Bb",
+        "Bb7",
+        "F",
+        "Bb",
+        "F",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:i-?-v-v-ii-v-ii-v"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmaj7",
+        "F",
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "Bbmaj7",
+        "F",
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Edim",
+        "Bb",
+        "Bb7",
+        "F",
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Edim",
+        "Bb",
+        "Bb7",
+        "F",
+        "Bb",
+        "Bbmaj7",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:iv-?-i-i-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bb",
+        "Bbmaj7",
+        "F",
+        "Bb",
+        "Bbmaj7"
+      ],
+      "rawChords": [
+        "Bb",
+        "Bbmaj7",
+        "F",
+        "Bb",
+        "Bbmaj7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:i-?-v-i-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Josh Ritter",
+  "release_date": "1999-10-12",
+  "duration_ms": 191493
+}

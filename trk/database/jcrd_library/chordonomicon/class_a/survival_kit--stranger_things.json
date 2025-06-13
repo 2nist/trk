@@ -1,0 +1,389 @@
+{
+  "songID": "entry_103014",
+  "title": "Stranger Things",
+  "artist": "Survival Kit",
+  "spotifyID": "3LAN1Boblnlwg8IBI5UNle",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-biii-?-ii-?-?-biii-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:biii-?-ii-?-?-biii-?-ii-?-?-biii-?-ii-?-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B7",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "B7"
+      ],
+      "rawChords": [
+        "B7",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "B7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:v-?-?-biii-?-?-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "B7",
+        "C",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "Amin",
+        "B7"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "B7",
+        "C",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "Amin",
+        "B7"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-i-?-?-?-iii-?-iv-?-?-iv-?-iii-?-?-iv-?-iii-?-?-iv-?-iii-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-biii-?-ii-?-?-biii-?-ii-?-?-biii-?-ii-?-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "B7"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "B7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.07",
+        "progression:?-biii-?-?-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "B7",
+        "C",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Amin",
+        "C",
+        "Emin",
+        "Amin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "B7",
+        "C",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Amin",
+        "C",
+        "Emin",
+        "Amin",
+        "C",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-bvii-?-?-?-ii-?-biii-?-?-biii-?-ii-?-?-biii-?-ii-?-?-biii-?-?-?-biii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "B7"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "B7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.07",
+        "progression:?-biii-?-?-?-biii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "B7",
+        "C",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "B7",
+        "C",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-i-?-?-?-iii-?-iv-?-?-iv-?-iii-?-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Stranger Things",
+  "release_date": "2017-07-28",
+  "duration_ms": 196044
+}

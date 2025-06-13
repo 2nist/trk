@@ -1,0 +1,303 @@
+{
+  "songID": "entry_0173",
+  "title": "Moments into Memories",
+  "artist": "Will Dempsey",
+  "spotifyID": "4JXgyD4C4uw0tFhy16os37",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "Asus4",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "Asus4",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "Asus4",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "Asus4",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:?-iv-?-?-v-?-i-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "G",
+        "Asus4",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "G",
+        "Asus4",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-?-i-?-?-ii-?-v-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "G",
+        "Asus4",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "Bmin7"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "G",
+        "Asus4",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "Bmin7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-?-v-?-i-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "Asus4",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Asus4",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "G",
+        "Asus4",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "G",
+        "Asus4",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Bmin7",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin7",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-?-?-i-?-ii-?-v-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Moments into Memories",
+  "release_date": "2022-07-29",
+  "duration_ms": 194042
+}

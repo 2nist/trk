@@ -1,0 +1,279 @@
+{
+  "songID": "entry_0190",
+  "title": "Du warst du bist wirst immer sein",
+  "artist": "Ramon Roselly",
+  "spotifyID": "5k9QLKMtL5mTn5BMypWLiG",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "Bb",
+        "Gmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Gmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "Bb",
+        "Gmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Gmin",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:i-?-?-i-?-iv-?-?-v-?-?-?-ii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "Bb",
+        "Bbmin",
+        "F",
+        "D",
+        "G",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "Bb",
+        "Bbmin",
+        "F",
+        "D",
+        "G",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.51",
+        "progression:v-?-?-v-?-i-?-?-v-?-iii-?-vi-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "Gmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Gmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "Gmin",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "Gmin",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.53",
+        "progression:?-i-?-iv-?-?-v-?-?-?-ii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "Bb",
+        "Bbmin",
+        "F",
+        "D",
+        "G",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "Bb",
+        "Bbmin",
+        "F",
+        "D",
+        "G",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.51",
+        "progression:v-?-?-v-?-i-?-?-v-?-iii-?-vi-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Dmin",
+        "F7",
+        "Bb",
+        "Bbmin",
+        "F",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F7",
+        "Bb",
+        "Bbmin",
+        "F",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.73",
+        "progression:?-v-?-i-?-?-v-?-iii-?-vi-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "Bb",
+        "Bbmin",
+        "F",
+        "D",
+        "G",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "Bb",
+        "Bbmin",
+        "F",
+        "D",
+        "G",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.51",
+        "progression:v-?-?-v-?-i-?-?-v-?-iii-?-vi-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Interlude",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Lieblingsmomente",
+  "release_date": "2021-06-25",
+  "duration_ms": 207333
+}

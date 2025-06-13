@@ -1,0 +1,187 @@
+{
+  "songID": "entry_0196",
+  "title": "Liebt er dich?",
+  "artist": "Marie Wegener",
+  "spotifyID": "1eCyWl9I7ZtNTXpxA0NhcJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "K\u00f6niglich",
+  "release_date": "2018-06-01",
+  "duration_ms": 213000
+}

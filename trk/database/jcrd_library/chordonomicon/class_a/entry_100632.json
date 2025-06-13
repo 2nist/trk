@@ -1,0 +1,219 @@
+{
+  "songID": "entry_100632",
+  "title": "Bulan Yang Baik",
+  "artist": "Sal Priadi",
+  "spotifyID": "5IgZ9Y4B9Dsi3VtIJSB75e",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "E",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:ii-?-v-?-v-?-iii-vi"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "E",
+        "A",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "E",
+        "A",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-?-iv-?-iv-?-ii-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gadd13",
+        "Fmin",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A",
+        "Gadd13",
+        "Fmin",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "Gadd13",
+        "Fmin",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A",
+        "Gadd13",
+        "Fmin",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-?-?-v-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "E",
+        "A",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "G",
+        "D/Fs",
+        "E",
+        "A",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-?-iv-?-iv-?-ii-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gadd13",
+        "Fmin",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A",
+        "Gadd13",
+        "Fmin",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "Gadd13",
+        "Fmin",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A",
+        "Gadd13",
+        "Fmin",
+        "Bmin",
+        "E/Gs",
+        "Emin",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-?-?-v-?-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Bulan Yang Baik",
+  "release_date": "2021-04-23",
+  "duration_ms": 265756
+}

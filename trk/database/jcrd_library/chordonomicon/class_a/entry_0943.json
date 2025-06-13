@@ -1,0 +1,233 @@
+{
+  "songID": "entry_0943",
+  "title": "Lettera 22",
+  "artist": "Cugini Di Campagna",
+  "spotifyID": "3zn6I6sXe0tutUhdGzAzEJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Cmaj7",
+        "C",
+        "Cmaj7",
+        "Dmin",
+        "Dmin7",
+        "Dmin",
+        "Dmin7",
+        "C",
+        "Cmaj7",
+        "C",
+        "Cmaj7",
+        "Dmin",
+        "Dmin7",
+        "Dmin",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "Cmaj7",
+        "C",
+        "Cmaj7",
+        "Dmin",
+        "Dmin7",
+        "Dmin",
+        "Dmin7",
+        "C",
+        "Cmaj7",
+        "C",
+        "Cmaj7",
+        "Dmin",
+        "Dmin7",
+        "Dmin",
+        "Cmaj7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v-?-?-?-?-?-v-?-v-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin7",
+        "G",
+        "Fmaj7",
+        "Dmin7",
+        "Amin",
+        "F",
+        "Dmin7",
+        "A",
+        "G",
+        "Emin",
+        "Dmin7",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin7",
+        "G",
+        "Fmaj7",
+        "Dmin7",
+        "Amin",
+        "F",
+        "Dmin7",
+        "A",
+        "G",
+        "Emin",
+        "Dmin7",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-?-v-?-?-?-iv-?-vi-v-?-?-iv-iii-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin7",
+        "F",
+        "Cmaj7",
+        "F",
+        "Dmin7",
+        "Amin",
+        "F",
+        "Dmin7",
+        "Amin",
+        "G",
+        "Emin",
+        "Dmin7",
+        "F",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin7",
+        "F",
+        "Cmaj7",
+        "F",
+        "Dmin7",
+        "Amin",
+        "F",
+        "Dmin7",
+        "Amin",
+        "G",
+        "Emin",
+        "Dmin7",
+        "F",
+        "Emin",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-?-i-?-i-?-?-i-?-?-ii-?-?-i-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:iv-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Dmin7",
+        "Amin",
+        "F",
+        "Dmin7",
+        "Amin",
+        "G",
+        "Emin",
+        "Dmin7",
+        "F",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin7",
+        "Amin",
+        "F",
+        "Dmin7",
+        "Amin",
+        "G",
+        "Emin",
+        "Dmin7",
+        "F",
+        "Emin",
+        "Amin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-?-?-v-?-?-vi-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Lettera 22",
+  "release_date": "2023-02-08",
+  "duration_ms": 215760
+}

@@ -1,0 +1,241 @@
+{
+  "songID": "entry_0436",
+  "title": "Psych-out Sanctorum",
+  "artist": "The Storybook",
+  "spotifyID": "5Tu1nrHuksRaiswrweRMQ8",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-iv-?-biii-?-iv-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.56",
+        "progression:iv-?-v-?-iv-?-biii-?-iv-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "Fs",
+        "G",
+        "A",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "Fs",
+        "G",
+        "A",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:i-?-?-iii-?-iv-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.56",
+        "progression:iv-?-v-?-iv-?-biii-?-iv-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "Fs",
+        "G",
+        "A",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "Fs",
+        "G",
+        "A",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:i-?-?-iii-?-iv-?-v-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "G",
+        "F",
+        "G",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.56",
+        "progression:iv-?-v-?-iv-?-biii-?-iv-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Psych-Out",
+  "release_date": "1968-07-01",
+  "duration_ms": 207626
+}

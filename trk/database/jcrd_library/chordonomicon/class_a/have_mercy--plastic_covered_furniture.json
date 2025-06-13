@@ -1,0 +1,307 @@
+{
+  "songID": "entry_10185",
+  "title": "Plastic Covered Furniture",
+  "artist": "Have Mercy",
+  "spotifyID": "6NvJSBn4SZe27ooxWqRaVH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "F",
+        "Dmin",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "Dmin",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "A Place of Our Own",
+  "release_date": "2014-10-27",
+  "duration_ms": 242363
+}

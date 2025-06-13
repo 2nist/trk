@@ -1,0 +1,419 @@
+{
+  "songID": "entry_10220",
+  "title": "Softworld",
+  "artist": "Millencolin",
+  "spotifyID": "0RYDJr4h7MHv9SNtRBaSgy",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "Emin",
+        "Dmin",
+        "F",
+        "Emin",
+        "C",
+        "Emin",
+        "F",
+        "Emin",
+        "G",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "Emin",
+        "Dmin",
+        "F",
+        "Emin",
+        "C",
+        "Emin",
+        "F",
+        "Emin",
+        "G",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-?-?-i-?-?-v-?-?-i-?-?-ii-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-?-v-?-?-i-?-?-?-v-?-?-i-?-?-?-v-?-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-?-v-?-?-i-?-?-?-v-?-?-i-?-?-?-v-?-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "Emin",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-?-v-?-?-i-?-?-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Life On A Plate",
+  "release_date": "1996-03-26",
+  "duration_ms": 176226
+}

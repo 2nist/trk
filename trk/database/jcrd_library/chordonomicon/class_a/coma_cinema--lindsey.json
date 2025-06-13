@@ -1,0 +1,195 @@
+{
+  "songID": "entry_101726",
+  "title": "Lindsey",
+  "artist": "Coma Cinema",
+  "spotifyID": "5PWpzQHebKycQiM2kYwP6Z",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin/Fs",
+        "D",
+        "Emin",
+        "A",
+        "C",
+        "G",
+        "Bmin/Fs",
+        "D",
+        "Emin",
+        "A",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin/Fs",
+        "D",
+        "Emin",
+        "A",
+        "C",
+        "G",
+        "Bmin/Fs",
+        "D",
+        "Emin",
+        "A",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:i-?-?-v-?-?-ii-?-iv-?-i-?-?-v-?-?-ii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C/D",
+        "Emin",
+        "C",
+        "C/D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "C/D",
+        "Emin",
+        "C",
+        "C/D",
+        "Emin",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin/Fs",
+        "D",
+        "Emin",
+        "A",
+        "C",
+        "G",
+        "Bmin/Fs",
+        "D",
+        "Emin",
+        "A",
+        "C",
+        "C/D",
+        "Emin",
+        "C",
+        "C/D",
+        "Emin",
+        "C",
+        "C/D",
+        "Emin",
+        "C",
+        "C/D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin/Fs",
+        "D",
+        "Emin",
+        "A",
+        "C",
+        "G",
+        "Bmin/Fs",
+        "D",
+        "Emin",
+        "A",
+        "C",
+        "C/D",
+        "Emin",
+        "C",
+        "C/D",
+        "Emin",
+        "C",
+        "C/D",
+        "Emin",
+        "C",
+        "C/D",
+        "Emin",
+        "C"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:ii-?-?-vi-?-?-iii-?-v-?-ii-?-?-vi-?-?-iii-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "G",
+        "Bmin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "Emin",
+        "G",
+        "Bmin",
+        "Emin",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Blue Suicide",
+  "release_date": "2011-03-15",
+  "duration_ms": 108591
+}

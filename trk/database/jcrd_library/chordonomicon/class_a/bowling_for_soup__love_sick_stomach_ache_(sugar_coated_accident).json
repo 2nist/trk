@@ -1,0 +1,425 @@
+{
+  "songID": "entry_102591",
+  "title": "Love Sick Stomach Ache (Sugar Coated Accident)",
+  "artist": "Bowling For Soup",
+  "spotifyID": "0RdQJH0Sbtqso96vtSdN2o",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "A/G",
+        "G",
+        "Gs",
+        "D",
+        "B",
+        "Fs",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "A/G",
+        "G",
+        "Gs",
+        "D",
+        "B",
+        "Fs",
+        "A",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:v-?-?-iv-?-#iv-?-i-?-vi-?-iii-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "A/G",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "A/G",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:v-?-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "A/G",
+        "G",
+        "D",
+        "A",
+        "A/G",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "A/G",
+        "G",
+        "D",
+        "A",
+        "A/G",
+        "G",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "A/G",
+        "G",
+        "D",
+        "A",
+        "G",
+        "Gs",
+        "A",
+        "G",
+        "D",
+        "A",
+        "A/G",
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "A/G",
+        "G",
+        "D",
+        "A",
+        "G",
+        "Gs",
+        "A",
+        "G",
+        "D",
+        "A",
+        "A/G",
+        "G",
+        "A",
+        "G",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:v-?-?-iv-?-i-?-v-?-iv-?-#iv-?-v-?-iv-?-i-?-v-?-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "A",
+        "Fs",
+        "A"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "Fs",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:vi-?-v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A/G",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "A/G",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "A/G",
+        "G",
+        "D",
+        "A",
+        "A/G",
+        "G",
+        "A",
+        "G",
+        "Gs",
+        "A",
+        "G",
+        "D",
+        "A",
+        "A/G",
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "A/G",
+        "G",
+        "D",
+        "A",
+        "A/G",
+        "G",
+        "A",
+        "G",
+        "Gs",
+        "A",
+        "G",
+        "D",
+        "A",
+        "A/G",
+        "A",
+        "G",
+        "A",
+        "G"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?-v-?-iv-?-#iv-?-v-?-iv-?-i-?-v-?-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "A",
+        "Fs",
+        "A"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "Fs",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:vi-?-v-?-iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Fs",
+        "A",
+        "B",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Fs",
+        "A",
+        "B",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:ii-?-v-?-ii-?-v-?-iii-?-v-?-vi-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Intro",
+    "Verse",
+    "Instrumental",
+    "Chorus",
+    "Bridge",
+    "Instrumental",
+    "Verse",
+    "Bridge",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Great Burrito Extortion Case",
+  "release_date": "2006",
+  "duration_ms": 246480
+}

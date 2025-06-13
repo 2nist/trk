@@ -1,0 +1,189 @@
+{
+  "songID": "entry_101521",
+  "title": "Another You (feat. The Vamps)",
+  "artist": "Alok",
+  "spotifyID": "2OPCGQHz6Gi7U7aDShfhR8",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "Emin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-?-i-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "A",
+        "Emin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "G",
+        "Bmin",
+        "Emin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:ii-?-?-i-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Another You (feat. The Vamps)",
+  "release_date": "2021-05-28",
+  "duration_ms": 158709
+}

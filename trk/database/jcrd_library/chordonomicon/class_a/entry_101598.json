@@ -1,0 +1,473 @@
+{
+  "songID": "entry_101598",
+  "title": "Sarri, Sarri",
+  "artist": "Kortatu",
+  "spotifyID": "3Ikl1NP2ZnR2QktOqkdQfi",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-i-?-?-?-i-?-?-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "C7",
+        "G",
+        "D",
+        "C7",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C7",
+        "G",
+        "D",
+        "C7",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-iv-?-v-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "C",
+        "Bmin",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:i-?-?-?-i-?-?-?-i-?-?-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus",
+    "Instrumental",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "A Frontline Compilation",
+  "release_date": "1983-05-15",
+  "duration_ms": 245853
+}

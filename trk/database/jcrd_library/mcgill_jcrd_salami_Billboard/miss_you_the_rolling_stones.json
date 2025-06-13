@@ -1,0 +1,341 @@
+{
+  "title": "Miss You",
+  "artist": "The Rolling Stones",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 603,
+      "duration_ms": 26914,
+      "chords": [
+        "N",
+        "N",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 27518,
+      "duration_ms": 17441,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 44959,
+      "duration_ms": 17541,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 62501,
+      "duration_ms": 35005,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 97506,
+      "duration_ms": 17546,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 115052,
+      "duration_ms": 17346,
+      "chords": [
+        "F:maj",
+        "E:min7",
+        "D:min7",
+        "D:min7",
+        "F:maj",
+        "E:min7",
+        "D:min7",
+        "E:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_6",
+      "start_ms": 132399,
+      "duration_ms": 8892,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A''",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_7",
+      "start_ms": 141291,
+      "duration_ms": 26345,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_8",
+      "start_ms": 167637,
+      "duration_ms": 17429,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_9",
+      "start_ms": 185066,
+      "duration_ms": 17578,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_10",
+      "start_ms": 202644,
+      "duration_ms": 26117,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_11",
+      "start_ms": 228762,
+      "duration_ms": 26238,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 255000,
+      "duration_ms": 33577,
+      "chords": [
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "A:min7",
+        "A:min7",
+        "D:min7",
+        "D:min7",
+        "D:min7"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "A",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "songID": "entry_101007",
+  "title": "don't say you're ordinary",
+  "artist": "almost monday",
+  "spotifyID": "0OETBTML0RzlfM4zofCsqa",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?-?-v-?-ii-?-i-?-?-v-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-i-?-ii-?-v-?-?-i-?-ii-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "G",
+        "F",
+        "Emin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-i-?-?-v-?-ii-?-i-?-?-v-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-i-?-ii-?-v-?-?-i-?-ii-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-?-i-?-ii-?-v-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "don't say you're ordinary",
+  "release_date": "2020-10-09",
+  "duration_ms": 179335
+}

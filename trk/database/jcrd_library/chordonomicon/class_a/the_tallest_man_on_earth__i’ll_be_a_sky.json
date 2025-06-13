@@ -1,0 +1,389 @@
+{
+  "songID": "entry_102817",
+  "title": "I\u2019ll Be A Sky",
+  "artist": "The Tallest Man On Earth",
+  "spotifyID": "75rQzOEGPDhvcEE4OaMYU1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:i-?-?-i-?-ii-?-v-?-i-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-i-?-?-v-?-ii-?-v-?-i-?-?-v-?-i-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:i-?-?-i-?-ii-?-v-?-i-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-i-?-?-v-?-ii-?-v-?-i-?-?-v-?-i-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "F",
+        "Dmin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-?-i-?-iv-?-v-?-?-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:v-?-i-?-?-i-?-ii-?-v-?-i-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "F",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-i-?-?-v-?-ii-?-v-?-i-?-?-v-?-i-?-ii-?-i-?-?-ii-?-i-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I Love You. It's a Fever Dream.",
+  "release_date": "2019-04-19",
+  "duration_ms": 232986
+}

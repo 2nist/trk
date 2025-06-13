@@ -1,0 +1,208 @@
+{
+  "title": "Town Without Pity",
+  "artist": "Gene Pitney",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 464,
+      "duration_ms": 13614,
+      "chords": [
+        "N",
+        "N",
+        "B:min(9)",
+        "E:min(9)",
+        "G:9",
+        "F#:sus4(b13,b7)",
+        "F#:7(b13)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 14079,
+      "duration_ms": 23950,
+      "chords": [
+        "F#:7(b13)",
+        "B:min",
+        "B:min",
+        "E:min",
+        "E:min",
+        "F#:hdim7/b5",
+        "B:7",
+        "E:min",
+        "E:min/b3",
+        "D:maj/5",
+        "F#:sus4(b7)",
+        "F#:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 38029,
+      "duration_ms": 23808,
+      "chords": [
+        "F#:7",
+        "B:min",
+        "B:min(9)",
+        "E:min",
+        "E:min(9)",
+        "F#:hdim7/b5",
+        "B:7",
+        "E:min",
+        "E:min/b3",
+        "D:maj/5",
+        "A:7",
+        "D:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 61838,
+      "duration_ms": 23929,
+      "chords": [
+        "D:maj",
+        "G:maj",
+        "G:maj6",
+        "G:maj",
+        "G:maj6",
+        "G:maj",
+        "E:sus4(b7)",
+        "E:7",
+        "A:maj",
+        "A:maj6",
+        "A:maj7",
+        "F#:min7",
+        "B:min",
+        "E:maj",
+        "A:maj",
+        "A:maj/b7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 85768,
+      "duration_ms": 33099,
+      "chords": [
+        "B:min",
+        "B:min(11,9)",
+        "E:min",
+        "E:min(11,9)",
+        "F#:hdim7/b5",
+        "B:7",
+        "E:min",
+        "E:min/b3",
+        "D:maj/5",
+        "G:maj",
+        "F#:sus4(b7)",
+        "F#:7",
+        "E:min/b3",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:7(b13)"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 118867,
+      "duration_ms": 23697,
+      "chords": [
+        "G:7(b13)",
+        "C:min(9)",
+        "C:min(9)",
+        "F:min(9)",
+        "F:min",
+        "F:min",
+        "G:hdim7/b5",
+        "C:7",
+        "F:min",
+        "F:min/b3",
+        "Eb:maj/5",
+        "G:sus4(b7)",
+        "G:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 142565,
+      "duration_ms": 29555,
+      "chords": [
+        "Ab:7",
+        "G:sus4(b7)",
+        "G:7",
+        "C:min",
+        "G:maj/3",
+        "G:min/b3",
+        "F:maj/3",
+        "F:min/b3",
+        "G:maj",
+        "N",
+        "C:min(9)",
+        "F:min(9)",
+        "F:min(9)",
+        "C:maj6(7)",
+        "C:maj6(7)",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

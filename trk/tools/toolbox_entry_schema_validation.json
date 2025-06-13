@@ -1,0 +1,25 @@
+{
+  "name": "Validate .jcrd Schema",
+  "description": "Checks all .jcrd files for compliance with the schema specification",
+  "script": "scripts/validate_jcrd_schema.py",
+  "arguments": [
+    {
+      "name": "--dir",
+      "type": "directory",
+      "help": "Directory containing .jcrd files (defaults to mcgill_jcrd/)",
+      "required": false
+    },
+    {
+      "name": "--file",
+      "type": "file",
+      "help": "Single .jcrd file to validate",
+      "required": false
+    },
+    {
+      "name": "--verbose",
+      "type": "flag",
+      "help": "Show detailed validation information",
+      "required": false
+    }
+  ]
+}

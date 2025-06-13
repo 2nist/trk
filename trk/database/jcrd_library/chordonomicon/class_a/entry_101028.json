@@ -1,0 +1,203 @@
+{
+  "songID": "entry_101028",
+  "title": "Zendoon Del",
+  "artist": "Fereidoon Foroughi",
+  "spotifyID": "5gqE3iNDiiupEwYnpLWrd6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gs",
+        "Csmin",
+        "A",
+        "Csmin",
+        "Gs7",
+        "Gs",
+        "Csmin",
+        "A",
+        "Csmin",
+        "Gs7",
+        "Gs"
+      ],
+      "rawChords": [
+        "Gs",
+        "Csmin",
+        "A",
+        "Csmin",
+        "Gs7",
+        "Gs",
+        "Csmin",
+        "A",
+        "Csmin",
+        "Gs7",
+        "Gs"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-v-?-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Csmin",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-?-iv-v-?-iv-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin",
+        "A",
+        "B",
+        "A",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "A",
+        "B",
+        "A",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-?-i-ii-i-?-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Gs7",
+        "Gs",
+        "A",
+        "B",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Gs7",
+        "Gs",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Gs7",
+        "Gs",
+        "A",
+        "B",
+        "Fsmin",
+        "A",
+        "B",
+        "Csmin",
+        "Gs7",
+        "Gs",
+        "A",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-v-?-?-?-iv-v-?-iv-v-?-?-?-iv-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "B"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-v-?-iv-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Zendoone Del",
+  "release_date": "1992-02-01",
+  "duration_ms": 253026
+}

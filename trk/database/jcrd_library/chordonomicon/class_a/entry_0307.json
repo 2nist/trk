@@ -1,0 +1,327 @@
+{
+  "songID": "entry_0307",
+  "title": "Monde",
+  "artist": "Pascow",
+  "spotifyID": "0LtkH6Qmzc3XPpoPE9bNYg",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Gno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Gno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "G",
+        "Dno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "G",
+        "Dno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-?-?-?-?-?-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Gno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Gno3d",
+        "Bno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "G",
+        "Dno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Gno3d",
+        "Dno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "rawChords": [
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "G",
+        "Dno3d",
+        "Ano3d",
+        "Fsno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Fsno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Dno3d",
+        "Ano3d",
+        "Bno3d",
+        "Gno3d",
+        "Dno3d",
+        "Ano3d",
+        "Fsno3d"
+      ],
+      "length": 28,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-?-?-?-?-?-?-?-?-v-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bno3d"
+      ],
+      "rawChords": [
+        "Bno3d"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bno3d"
+      ],
+      "rawChords": [
+        "Bno3d"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Sieben",
+  "release_date": "2023-01-27",
+  "duration_ms": 209000
+}

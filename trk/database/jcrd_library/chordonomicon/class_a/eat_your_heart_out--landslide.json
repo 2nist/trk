@@ -1,0 +1,329 @@
+{
+  "songID": "entry_101232",
+  "title": "Landslide",
+  "artist": "Eat Your Heart Out",
+  "spotifyID": "2i4e9jHU08IiSJfxacGtuQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cs"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Intro",
+      "chords": [
+        "Fmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cs"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Asmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Asmin",
+        "Fmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Cs",
+        "Fmin",
+        "Cmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cmin",
+        "Cs",
+        "Fmin",
+        "Cmin",
+        "Cs",
+        "Asmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Cs",
+        "Fmin",
+        "Cmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cmin",
+        "Cs",
+        "Fmin",
+        "Cmin",
+        "Cs",
+        "Asmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cs",
+        "Asmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Cs",
+        "Asmin",
+        "Fmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cmin",
+        "Cs"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs",
+        "Fmin",
+        "Cs",
+        "Fmin",
+        "Ds",
+        "Cs"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-ii-?-i-?-?-ii-?-i-?-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Asmin",
+        "Fmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Cs",
+        "Asmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cs",
+        "Asmin",
+        "Cs",
+        "Asmin",
+        "Cs",
+        "Asmin",
+        "Fmin",
+        "Cmin",
+        "Cs"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-v-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Instrumental"
+  ],
+  "tags": [],
+  "album": "Mind Games",
+  "release_date": "2017-12-01",
+  "duration_ms": 241473
+}

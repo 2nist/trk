@@ -1,0 +1,259 @@
+{
+  "songID": "entry_100518",
+  "title": "Jag hatar att vakna utan dig",
+  "artist": "Lena Philipsson",
+  "spotifyID": "3qVbPBQI4ZVv7EQjqSzjVR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gmin/D"
+      ],
+      "rawChords": [
+        "Gmin/D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb/D",
+        "F/C",
+        "Gmin/D",
+        "Eb",
+        "Bb/D",
+        "F",
+        "Cmin/G",
+        "Gmin",
+        "Eb/G",
+        "Cmin/G",
+        "D/A"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb/D",
+        "F/C",
+        "Gmin/D",
+        "Eb",
+        "Bb/D",
+        "F",
+        "Cmin/G",
+        "Gmin",
+        "Eb/G",
+        "Cmin/G",
+        "D/A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-?-?-?-i-?-ii-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin/G",
+        "Bmin/Fs",
+        "Cmin/G",
+        "Amin",
+        "G",
+        "Emin/G",
+        "Bmin/Fs",
+        "C",
+        "Amin",
+        "D/A"
+      ],
+      "rawChords": [
+        "G",
+        "Emin/G",
+        "Bmin/Fs",
+        "Cmin/G",
+        "Amin",
+        "G",
+        "Emin/G",
+        "Bmin/Fs",
+        "C",
+        "Amin",
+        "D/A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-?-v-?-?-i-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gmin",
+        "Eb/G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb/G",
+        "Gmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb/F",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Cmin/G",
+        "Gmin",
+        "Eb",
+        "Cmin/G",
+        "D/A"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb/F",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Cmin/G",
+        "Gmin",
+        "Eb",
+        "Cmin/G",
+        "D/A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-?-ii-?-i-v-ii-?-?-i-?-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb/F",
+        "Fmin",
+        "Bb/F",
+        "Fmin",
+        "Dmin/F",
+        "Eb/G",
+        "Bb/F"
+      ],
+      "rawChords": [
+        "Bb/F",
+        "Fmin",
+        "Bb/F",
+        "Fmin",
+        "Dmin/F",
+        "Eb/G",
+        "Bb/F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bbmin/F",
+        "Fs",
+        "Db/F",
+        "Gs",
+        "Bbmin/F",
+        "Fs",
+        "Db/F",
+        "Gs"
+      ],
+      "rawChords": [
+        "Bbmin/F",
+        "Fs",
+        "Db/F",
+        "Gs",
+        "Bbmin/F",
+        "Fs",
+        "Db/F",
+        "Gs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Ds/Fs",
+        "Bbmin/F",
+        "Gs",
+        "Fs",
+        "Ds/Fs",
+        "Fmin",
+        "Bbmin",
+        "Ds/Fs",
+        "Fmin",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Ds/Fs",
+        "Bbmin/F",
+        "Gs",
+        "Fs",
+        "Ds/Fs",
+        "Fmin",
+        "Bbmin",
+        "Ds/Fs",
+        "Fmin",
+        "Bbmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Bridge",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Dubbel",
+  "release_date": "2008-11-07",
+  "duration_ms": 214186
+}

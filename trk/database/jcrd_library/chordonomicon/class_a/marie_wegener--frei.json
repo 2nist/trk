@@ -1,0 +1,229 @@
+{
+  "songID": "entry_0201",
+  "title": "Frei",
+  "artist": "Marie Wegener",
+  "spotifyID": "7xtgv0TBS3tbVABFcGjOjW",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:i-?-v-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:v-?-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?-?-i-?-v-?-i-?-v-?-?-i-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Countdown",
+  "release_date": "2019-09-27",
+  "duration_ms": 220066
+}

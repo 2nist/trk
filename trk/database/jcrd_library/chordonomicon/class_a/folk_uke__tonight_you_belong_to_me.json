@@ -1,0 +1,147 @@
+{
+  "songID": "entry_102921",
+  "title": "Tonight You Belong to Me",
+  "artist": "Folk Uke",
+  "spotifyID": "56KdSwbAJm3tBeMWEZXgQc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "D",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "D",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-?-v-?-ii-?-v-?-i-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:i-?-v-?-iii-?-?-ii-?-v-?-i-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "E",
+        "Amin",
+        "D",
+        "G",
+        "C",
+        "Cmin",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.56",
+        "progression:i-?-v-?-iii-?-?-ii-?-v-?-i-?-?-v-?-ii-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Folk Uke",
+  "release_date": "2005-05-03",
+  "duration_ms": 125120
+}

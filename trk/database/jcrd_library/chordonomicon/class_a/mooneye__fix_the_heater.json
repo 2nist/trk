@@ -1,0 +1,305 @@
+{
+  "songID": "entry_102870",
+  "title": "Fix The Heater",
+  "artist": "Mooneye",
+  "spotifyID": "2ZIY5Pr3j0V6iNrE2eCVDW",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Dmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin"
+      ],
+      "length": 25,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-v-?-?-i-?-v-?-?-i-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:i-?-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "C",
+        "Dmin",
+        "F",
+        "C",
+        "Dmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:i-?-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Big Enough",
+  "release_date": "2021-09-10",
+  "duration_ms": 294846
+}

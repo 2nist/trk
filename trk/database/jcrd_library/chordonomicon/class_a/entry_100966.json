@@ -1,0 +1,333 @@
+{
+  "songID": "entry_100966",
+  "title": "China Moon",
+  "artist": "Kathy Kelly",
+  "spotifyID": "44tIjDxZIhVSG0TJqedYQE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "Eb",
+        "F",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Dmin",
+        "Eb",
+        "F",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-?-?-?-iv-v-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Gmin",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:iv-i-v-?-iv-i-v-iv-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-iv-i-v-?-iv-i-v-?-iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Eb",
+        "Gmin",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-iv-i-v-?-iv-i-v-iv-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-iv-i-v-?-iv-i-v-?-iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-iv-i-v-?-iv-i-v-?-iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Wer lacht \u00fcberlebt",
+  "release_date": "2019-03-15",
+  "duration_ms": 245866
+}

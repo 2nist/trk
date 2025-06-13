@@ -1,0 +1,447 @@
+{
+  "songID": "entry_102795",
+  "title": "Treasure",
+  "artist": "Alina Yu",
+  "spotifyID": "6Cu7gzxtYRyeQt7b4MKtG5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Dmin",
+        "G",
+        "C",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Dmin",
+        "G",
+        "C",
+        "Dmin",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-?-v-?-i-?-?-?-v-?-i-?-?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Dmin",
+        "G",
+        "C",
+        "Dmin",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fadd9"
+      ],
+      "rawChords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Dmin",
+        "G",
+        "C",
+        "Dmin",
+        "G",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fadd9"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-v-?-i-?-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Fadd9",
+        "Amin",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Treasure",
+  "release_date": "2021-01-25",
+  "duration_ms": 322285
+}

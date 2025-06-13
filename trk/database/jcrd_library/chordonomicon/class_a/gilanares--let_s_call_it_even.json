@@ -1,0 +1,311 @@
+{
+  "songID": "entry_100347",
+  "title": "Let's Call It Even",
+  "artist": "Gilanares",
+  "spotifyID": "0B1C1ZCKx2H4g1RT5OvATw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin",
+        "A",
+        "Amaj7",
+        "A7",
+        "D",
+        "A",
+        "Amaj7",
+        "A7",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin",
+        "A",
+        "Amaj7",
+        "A7",
+        "D",
+        "A",
+        "Amaj7",
+        "A7",
+        "D",
+        "Dmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-?-v-?-?-v-?-i-?-v-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin",
+        "A",
+        "Amaj7",
+        "A7",
+        "D",
+        "A",
+        "Amaj7",
+        "A7",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin",
+        "A",
+        "Amaj7",
+        "A7",
+        "D",
+        "A",
+        "Amaj7",
+        "A7",
+        "D",
+        "Dmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-?-v-?-?-v-?-i-?-v-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "rawChords": [
+        "A",
+        "Amaj7",
+        "Emin",
+        "D",
+        "Dmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Theres Not Much to Know About Me",
+  "release_date": "2021-02-12",
+  "duration_ms": 215411
+}

@@ -1,0 +1,450 @@
+-- main.lua 
+-- Songbase Entry Point - Phase 2
+-- Bootstrap application and load appropriate UI modules
+
+-- Versioning
+local VERSION = "2.0.0"
+local APP_NAME = "Songbase"
+
+-- Setup package path for module loading
+local script_path = reaper.GetResourcePath() .. "/Scripts/songbase"
+package.path = script_path .. "/?.lua;" .. package.path
+package.path = script_path .. "/utils/?.lua;" .. package.path
+package.path = script_path .. "/ui/?.lua;" .. package.path
+
+-- Try to load utility modules
+local utils = {}
+
+-- Load configuration
+local config
+local success, module = pcall(function() return require("config") end)
+if success then
+  config = module.init()
+  reaper.ShowConsoleMsg("✓ Config loaded successfully\n")
+else
+  reaper.ShowConsoleMsg("⚠️ Error loading config: " .. tostring(module) .. "\n")
+  config = {
+    paths = {
+      base = script_path,
+      datasets = script_path .. "/data/jcrd_library",
+      staging_area = script_path .. "/data/staging_area",
+      source_archive = script_path .. "/data/source_archive",
+      ui = script_path .. "/ui"
+    },
+    ui = {
+      default_view = "song_browser",
+      window_width = 800,
+      window_height = 600
+    }
+  }
+end
+
+-- Ensure new directories exist
+local function ensure_directories()
+  local directories = {
+    config.paths.datasets,
+    config.paths.staging_area,
+    config.paths.source_archive
+  }
+  for _, dir in ipairs(directories) do
+    if not utils.file.directory_exists(dir) then
+      utils.file.create_directory(dir)
+      reaper.ShowConsoleMsg("✓ Created directory: " .. dir .. "\n")
+    end
+  end
+end
+
+ensure_directories()
+
+-- Load JSON utility
+success, utils.json = pcall(function() return require("utils.json") end)
+if not success then
+  reaper.ShowConsoleMsg("⚠️ Error loading JSON: " .. tostring(utils.json) .. "\n")
+  utils.json = {
+    decode = function() return {} end,
+    encode = function() return "{}" end
+  }
+end
+
+-- Load file operations utility
+local ok_file, file_mod = pcall(require, "utils.file_operations")
+if ok_file and type(file_mod) == "table" then
+  utils.file = file_mod
+else
+  reaper.ShowConsoleMsg("⚠️ Error loading file_operations: " .. tostring(file_mod) .. "\n")
+  utils.file = {}
+end
+-- Ensure file utility table
+if type(utils.file) ~= "table" then utils.file = {} end
+-- Ensure utils.file is a table (avoid boolean returns from require)
+if type(utils.file) ~= "table" then
+  reaper.ShowConsoleMsg("⚠️ Invalid utils.file module, resetting to empty table\n")
+  utils.file = {}
+end
+-- Ensure utils.file is a table (require may return boolean if module omitted return)
+if type(utils.file) ~= "table" then
+  reaper.ShowConsoleMsg("⚠️ Invalid utils.file module, resetting to empty table\n")
+  utils.file = {}
+end
+
+-- Load REAPER helpers
+success, utils.reaper = pcall(function() return require("utils.reaper_helpers") end)
+if not success then
+  reaper.ShowConsoleMsg("⚠️ Error loading REAPER helpers: " .. tostring(utils.reaper) .. "\n")
+  utils.reaper = {}
+end
+
+-- Load theme helper
+success, utils.theme = pcall(function() return require("utils.theme_helper") end)
+if not success then
+  reaper.ShowConsoleMsg("⚠️ Error loading theme helper: " .. tostring(utils.theme) .. "\n")
+  utils.theme = {}
+end
+
+-- Verify critical dependencies
+local is_imgui_available = type(reaper["ImGui_CreateContext"]) == "function"
+if not is_imgui_available then
+  reaper.ShowMessageBox(
+    "ReaImGui is required for Songbase UI.\n\n" ..
+    "Please install ReaImGui via ReaPack:\n" ..
+    "Extensions → ReaPack → Browse packages → search for 'ReaImGui'",
+    "Songbase: Missing Dependency",
+    0
+  )
+  return
+end
+
+-- Initialize state
+local ui_state = {
+  ctx = nil,
+  fonts = {},
+  is_running = false,
+  current_view = config.ui.default_view,
+  views = {},
+  modules = {}, -- Loaded UI modules
+  available_modules = {
+    "song_browser",  -- Song browsing interface 
+    "section_editor", -- Section editing interface
+    "hex_chord_builder", -- Chord input interface
+    "project_manager" -- Project management interface
+  },
+  tabs = {
+    { id = "song_browser", label = "Song Browser", icon = "🔍" },
+    { id = "section_editor", label = "Section Editor", icon = "✏️" },
+    { id = "hex_chord_builder", label = "Chord Builder", icon = "🎵" },
+    { id = "project_manager", label = "Project Manager", icon = "📁" }
+  },
+  last_view_change = os.time()
+}
+
+-- Load user preferences from file
+local function load_user_preferences()
+  local prefs_path = config.paths.data .. "/user_preferences.json"
+  if utils.file.file_exists and utils.file.file_exists(prefs_path) then
+    local content = utils.file.read_file(prefs_path)
+    if content then
+      local success, prefs = pcall(function() return utils.json.decode(content) end)
+      if success and prefs then
+        return prefs
+      end
+    end
+  end
+  return {}
+end
+
+-- Save user preferences to file
+local function save_user_preferences(prefs)
+  local prefs_path = config.paths.data .. "/user_preferences.json"
+  local content = utils.json.encode(prefs)
+  return utils.file.write_file(prefs_path, content)
+end
+
+-- Load UI modules
+local function load_ui_modules()
+  -- Try to load default view first
+  local default_view = config.ui.default_view
+  local success, module = pcall(function() return require(default_view) end)
+  if success and module then
+    ui_state.views[default_view] = module
+    reaper.ShowConsoleMsg("✓ Loaded default UI module: " .. default_view .. "\n")
+    
+    -- Initialize default module
+    if type(module.init) == "function" then
+      local init_success, err = pcall(function() module.init(ui_state.ctx, ui_state) end)
+      if not init_success then
+        reaper.ShowConsoleMsg("⚠️ Error initializing default module: " .. tostring(err) .. "\n")
+      end
+    end
+  else
+    reaper.ShowConsoleMsg("⚠️ Failed to load default UI module: " .. default_view .. " - " .. tostring(module) .. "\n")
+    
+    -- Try to preload some other critical modules
+    for _, name in ipairs(ui_state.available_modules) do
+      if name ~= default_view then
+        local mod_success, mod = pcall(function() return require(name) end)
+        if mod_success and mod then
+          ui_state.views[name] = mod
+          
+          -- If default failed, set this as current view
+          if not ui_state.views[default_view] then
+            ui_state.current_view = name
+            default_view = name
+          end
+          
+          reaper.ShowConsoleMsg("✓ Loaded UI module: " .. name .. "\n")
+          
+          -- Initialize
+          if type(mod.init) == "function" then
+            pcall(function() mod.init(ui_state.ctx, ui_state) end)
+          end
+          
+          break
+        end
+      end
+    end
+  end
+  
+  -- Ensure at least one view is available
+  if not next(ui_state.views) then
+    reaper.ShowMessageBox(
+      "No UI modules could be loaded. Please check your installation.",
+      "Songbase Error",
+      0
+    )
+    return false
+  end
+  
+  -- Set default view if the specified one is not available
+  if not ui_state.views[ui_state.current_view] then
+    for name, _ in pairs(ui_state.views) do
+      ui_state.current_view = name
+      break
+    end
+  end
+  
+  return true
+end
+
+-- Create and initialize the UI
+local function initialize_ui()
+  -- Create ImGui context
+  if not (reaper and type(reaper.ImGui_CreateContext) == "function") then
+    reaper.ShowMessageBox(
+      "ReaImGui is required for Songbase UI.\n\n" ..
+      "Please install ReaImGui via ReaPack:\n" ..
+      "Extensions → ReaPack → Browse packages → search for 'ReaImGui'",
+      "Songbase: Missing Dependency",
+      0
+    )
+    return false -- Abort initialization
+  end
+  ui_state.ctx = reaper.ImGui_CreateContext(APP_NAME .. " v" .. VERSION)
+  if not ui_state.ctx then
+    reaper.ShowConsoleMsg("⚠️ Critical Error: Failed to create ImGui context! UI cannot be initialized.\n")
+    return false -- Abort initialization
+  end
+  
+  -- Create fonts (Bypassed)
+  -- local Theme = require("theme_config")
+  -- ui_state.fonts.normal = Theme.fonts.create("sans-serif", Theme.font.label)
+  -- ui_state.fonts.header = Theme.fonts.create("sans-serif", Theme.font.header)
+  -- ui_state.fonts.small = Theme.fonts.create("sans-serif", Theme.font.small)
+  
+  -- Verify fonts were created (Bypassed)
+  -- if not ui_state.fonts.normal then
+  --   reaper.ShowConsoleMsg("⚠️ Normal font failed to load. Default font will be used.\\\\n")
+  -- end
+  -- if not ui_state.fonts.header then
+  --   reaper.ShowConsoleMsg("⚠️ Header font failed to load.\\\\n")
+  -- end
+  -- if not ui_state.fonts.small then
+  --   reaper.ShowConsoleMsg("⚠️ Small font failed to load.\\\\n")
+  -- end
+
+  -- Attach fonts (Bypassed)
+  -- Theme.fonts.attach(ui_state.ctx, ui_state.fonts.normal, ui_state.fonts.header, ui_state.fonts.small)
+  
+  -- Apply theme (Bypassed)
+  -- Theme.apply(ui_state.ctx)
+  
+  -- Load UI modules
+  if not load_ui_modules() then
+    return false
+  end
+  
+  -- Initialize UI modules
+  for name, module in pairs(ui_state.views) do
+    if type(module.init) == "function" then
+      local success, err = pcall(function() module.init(ui_state.ctx, ui_state) end)
+      if not success then
+        reaper.ShowConsoleMsg("⚠️ Error initializing module " .. name .. ": " .. tostring(err) .. "\n")
+      end
+    end
+  end
+  
+  return true
+end
+
+-- Clean up resources
+local function shutdown_ui()
+  -- Notify modules of shutdown
+  for name, module in pairs(ui_state.views) do
+    if type(module.shutdown) == "function" then
+      pcall(function() module.shutdown() end)
+    end
+  end
+  
+  -- Clean up theme (Bypassed)
+  -- local Theme = require("theme_config")
+  -- Theme.cleanup(ui_state.ctx)
+  
+  -- Destroy context
+  reaper.ImGui_DestroyContext()
+
+  reaper.ShowConsoleMsg(APP_NAME .. " shutdown complete\n")
+end
+
+-- Main UI loop
+local function ui_loop()
+  -- If context is invalid, exit
+  if not ui_state.ctx or not ui_state.is_running then
+    return
+  end
+
+  -- Push font if valid (Bypassed)
+  -- local font_pushed = false
+  -- if ui_state.fonts.normal then
+  --   reaper.ImGui_PushFont(ui_state.fonts.normal)
+  --   font_pushed = true
+  -- end
+
+  -- Use a safe condition value or default to 0 if ImGui_Cond_FirstUseEver is not available or is a function
+  local cond_first_use_ever = 0 -- Default value for ImGui_Cond_FirstUseEver
+  if reaper.ImGui_Cond_FirstUseEver then
+    if type(reaper.ImGui_Cond_FirstUseEver) == "number" then
+      cond_first_use_ever = reaper.ImGui_Cond_FirstUseEver
+    end
+  end
+
+  reaper.ImGui_SetNextWindowSize(config.ui.window_width, config.ui.window_height, cond_first_use_ever)
+  local open = reaper.ImGui_Begin()
+
+  if open then
+    -- Menu bar
+    if reaper.ImGui_BeginMenuBar() then
+      if reaper.ImGui_BeginMenu("File") then
+        if reaper.ImGui_MenuItem("Exit") then
+          ui_state.is_running = false
+        end
+        reaper.ImGui_EndMenu()
+      end
+
+      if reaper.ImGui_BeginMenu("Tools") then
+        if reaper.ImGui_MenuItem("Run Python Tool") then
+          -- Call to run a python tool
+        end
+        reaper.ImGui_EndMenu()
+      end
+
+      if reaper.ImGui_BeginMenu("Settings") then
+        -- Settings menu items
+        reaper.ImGui_EndMenu()
+      end
+
+      reaper.ImGui_EndMenuBar()
+    end
+
+    if reaper.ImGui_BeginTabBar() then
+      for _, tab in ipairs(ui_state.tabs) do
+        local is_visible = reaper.ImGui_BeginTabItem()
+        if is_visible then
+          -- Render tab content
+          reaper.ImGui_EndTabItem()
+        end
+      end
+      reaper.ImGui_EndTabBar()
+    end
+
+    -- Current view content
+    if ui_state.views[ui_state.current_view] and type(ui_state.views[ui_state.current_view].draw) == "function" then
+      local success, result = pcall(function() 
+        return ui_state.views[ui_state.current_view].draw(ui_state.ctx, ui_state) 
+      end)
+      
+      if not success then
+        reaper.ShowConsoleMsg("⚠️ Error rendering view " .. ui_state.current_view .. ": " .. tostring(result) .. "\n")
+        reaper.ImGui_Text(ui_state.ctx, "Error: " .. tostring(result))
+      end
+    else
+      reaper.ImGui_Text(ui_state.ctx, "View not available: " .. ui_state.current_view)
+    end
+    
+    reaper.ImGui_End()
+  end
+  
+  -- Pop font if it was pushed (Bypassed)
+  -- if font_pushed then
+  --   reaper.ImGui_PopFont(ui_state.ctx)
+  -- end
+  
+  if open then
+    reaper.defer(ui_loop)
+  else
+    shutdown_ui()
+  end
+end
+
+-- Main application entry point
+local function main()
+  reaper.ShowConsoleMsg("\n==== " .. APP_NAME .. " v" .. VERSION .. " ====\n")
+  
+  -- Create data directory if it doesn't exist
+  if not utils.file.directory_exists(config.paths.data) then
+    utils.file.create_directory(config.paths.data)
+    reaper.ShowConsoleMsg("✓ Created data directory\n")
+  end
+  
+  -- Initialize UI
+  if initialize_ui() then
+    ui_state.is_running = true
+    reaper.ShowConsoleMsg("✓ UI initialized successfully\n")
+    ui_loop()
+  else
+    reaper.ShowConsoleMsg("⚠️ Failed to initialize UI\n")
+    if ui_state.ctx then -- Check if context was created before trying to shut down
+      reaper.ShowConsoleMsg("Attempting to shutdown UI due to initialization failure...\\n")
+      shutdown_ui() -- Call shutdown to cleanup theme and context
+    end
+  end
+end
+
+-- Start the application
+main()
+
+-- Expose a run function for external launchers
+local function run(options)
+  -- Process options
+  options = options or {}
+  
+  -- Override version and app name if provided
+  if options.version then
+    VERSION = options.version
+  end
+  
+  if options.app_name then
+    APP_NAME = options.app_name
+  end
+  
+  -- Override default view if force_module is specified
+  if options.force_module then
+    config.ui.default_view = options.force_module
+    ui_state.current_view = options.force_module
+  end
+  
+  -- Start the application
+  main()
+end
+
+return {
+  run = run
+}

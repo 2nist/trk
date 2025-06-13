@@ -1,0 +1,165 @@
+{
+  "songID": "entry_100906",
+  "title": "Boot Hill - 1989 Version",
+  "artist": "Stevie Ray Vaughan",
+  "spotifyID": "60kPEmCU9j6wXd57jm5Xpj",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E7",
+        "C9",
+        "B9"
+      ],
+      "rawChords": [
+        "E7",
+        "C9",
+        "B9"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-biii-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B9"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B9"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B9"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B9"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-i-v-ii-i-v-ii-v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "F9",
+        "E9"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "F9",
+        "E9"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-i-v-ii-i-v-bvi-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Archives",
+  "release_date": "1985",
+  "duration_ms": 133840
+}

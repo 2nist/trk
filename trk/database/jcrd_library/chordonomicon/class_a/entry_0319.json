@@ -1,0 +1,435 @@
+{
+  "songID": "entry_0319",
+  "title": "Wrong Side Of The Tracks",
+  "artist": "Lenny and The Piss Poor Boys",
+  "spotifyID": "4SavxnIir0o5ibmOGR2lCj",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-?-?-v-iv"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-?-?-v-i-?-?-v-i-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B",
+        "E",
+        "Gs",
+        "Cs",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Lenny and The Piss Poor Boys",
+  "release_date": "2005-07-01",
+  "duration_ms": 193506
+}

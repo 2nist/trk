@@ -1,0 +1,20 @@
+{
+  "id": "S001",
+  "label": "weird_break_experiment",
+  "type": "sketch.card",
+  "description": "Odd time drum break with polyrhythm test, plus bass morph.",
+  "components": [
+    {"track": "drm", "card": "boom_bap_groove"},
+    {"track": "bss", "card": "root_plus_5th"},
+    {"track": "crd", "card": "suspended_fourths"},
+    {"track": "mel", "card": "rising_motif"}
+  ],
+  "notes": "Tempo ramps up, try applying lo-fi FX.",
+  "author": "user_name",
+  "created": "2025-06-10T15:20:00Z",
+  "custom_fields": {
+    "inspired_by": "Aphex Twin",
+    "midi_cc_map": {"1": "filter cutoff"},
+    "favorite_fx": ["bitcrusher", "tremolo"]
+  }
+}

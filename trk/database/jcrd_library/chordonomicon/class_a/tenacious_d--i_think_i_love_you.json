@@ -1,0 +1,365 @@
+{
+  "songID": "entry_102297",
+  "title": "I Think I Love You",
+  "artist": "Tenacious D",
+  "spotifyID": "2mVAZDLXQLR0RQiOKBXVu5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "F",
+        "E",
+        "A",
+        "Dmin",
+        "Bb",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "E",
+        "A",
+        "Dmin",
+        "Bb",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.10",
+        "progression:?-biii-?-ii-?-v-?-?-bvi-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "A",
+        "C",
+        "G",
+        "Bb",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Dmin",
+        "A",
+        "C",
+        "G",
+        "Bb",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.82",
+        "progression:?-ii-?-iv-?-i-?-biii-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "A",
+        "C",
+        "G",
+        "Bb",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Dmin",
+        "A",
+        "C",
+        "G",
+        "Bb",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.82",
+        "progression:?-ii-?-iv-?-i-?-biii-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:iv-?-i-?-v-?-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "Gb",
+        "B",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "Gb",
+        "B",
+        "E",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.65",
+        "progression:ii-?-v-?-i-?-iv-?-v-?-i-?-?-v-?-i-?-ii-?-v-?-i-?-biv-?-vi-?-ii-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "D",
+        "E",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:iv-?-i-?-v-?-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "A",
+        "C",
+        "G",
+        "Bb",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Dmin",
+        "A",
+        "C",
+        "G",
+        "Bb",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.73",
+        "progression:?-ii-?-iv-?-i-?-biii-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Croods: A New Age (Original Motion Picture Soundtrack)",
+  "release_date": "2020-11-20",
+  "duration_ms": 199682
+}

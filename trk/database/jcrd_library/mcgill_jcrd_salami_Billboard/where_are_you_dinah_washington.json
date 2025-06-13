@@ -1,0 +1,129 @@
+{
+  "title": "Where Are You",
+  "artist": "Dinah Washington",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 510,
+      "duration_ms": 27115,
+      "chords": [
+        "Eb:maj7",
+        "Gb:dim",
+        "F:min7",
+        "Bb:sus4(b7,9)",
+        "Eb:maj7",
+        "F:7",
+        "G:min7",
+        "C:min7",
+        "F:min7",
+        "E:maj7",
+        "Eb:maj7",
+        "F:min7",
+        "E:maj7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 27626,
+      "duration_ms": 27240,
+      "chords": [
+        "Eb:maj7",
+        "Gb:dim",
+        "F:min7",
+        "Bb:sus4(b7,9)",
+        "Eb:maj7",
+        "F:7",
+        "G:min7",
+        "C:min7",
+        "F:min7",
+        "E:maj7",
+        "Eb:maj7",
+        "Bb:min7",
+        "Eb:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 54867,
+      "duration_ms": 27702,
+      "chords": [
+        "Eb:7",
+        "Ab:maj7",
+        "G:sus4(b7)",
+        "C:7(b9)",
+        "F:min7",
+        "Bb:7(b9)",
+        "Eb:7",
+        "Ab:maj7",
+        "G:sus4(b7)",
+        "G:7",
+        "C:min7",
+        "F:7",
+        "F:min7",
+        "Bb:7",
+        "F#:min7",
+        "B:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 82570,
+      "duration_ms": 53527,
+      "chords": [
+        "E:maj7",
+        "G:dim",
+        "F#:min7",
+        "B:sus4(b7,9)",
+        "E:maj7",
+        "F#:7",
+        "F#:7/b2",
+        "E:maj/3",
+        "F#:min7(11)",
+        "G#:min7(11)",
+        "F#:min7",
+        "F#:min7",
+        "B:7(b9)",
+        "B:7(b9)",
+        "E:maj9",
+        "E:maj9",
+        "E:maj9",
+        "E:maj9",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "A",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

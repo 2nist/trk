@@ -1,0 +1,205 @@
+{
+  "songID": "entry_0431",
+  "title": "Blue Ridge Mountain Blues",
+  "artist": "Earl Scruggs",
+  "spotifyID": "7GnXTs84PzSky4wtT2fjZe",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "D7",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-v-i-v-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-v-i-v-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "D7",
+        "G",
+        "D",
+        "D7",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-v-i-v-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Earl Scruggs And Friends",
+  "release_date": "2001-08-28",
+  "duration_ms": 201066
+}

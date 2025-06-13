@@ -1,0 +1,277 @@
+{
+  "songID": "entry_100301",
+  "title": "Count to Ten",
+  "artist": "Frankie & The Spindles",
+  "spotifyID": "4LHCGB3hZDo4eeQmyG6kt5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Fsmin",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "E",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "Fsmin",
+        "Amin",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "Fsmin",
+        "Amin",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-v-?-?-v-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "E",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "Fsmin",
+        "Amin",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "Fsmin",
+        "Amin",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-v-?-?-v-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Csmin",
+        "Gsmin",
+        "Csmin",
+        "Gsmin",
+        "Gmin",
+        "Fsmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Gsmin",
+        "Csmin",
+        "Gsmin",
+        "Gmin",
+        "Fsmin",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "E",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Csmin",
+        "Gsmin",
+        "Csmin",
+        "Gsmin",
+        "Csmin",
+        "Gsmin",
+        "Fsmin",
+        "Amin",
+        "A"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Gsmin",
+        "Csmin",
+        "Gsmin",
+        "Csmin",
+        "Gsmin",
+        "Fsmin",
+        "Amin",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "E",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Masters of Soul: George Kerr - Singles & Rarities, Vol. 2",
+  "release_date": "2014-01-07",
+  "duration_ms": 196051
+}

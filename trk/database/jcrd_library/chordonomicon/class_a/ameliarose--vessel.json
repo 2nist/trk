@@ -1,0 +1,239 @@
+{
+  "songID": "entry_100122",
+  "title": "vessel",
+  "artist": "ameliarose",
+  "spotifyID": "5LL67XOzyFPHX0hM0uY46Q",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "vessel",
+  "release_date": "2020-08-14",
+  "duration_ms": 326062
+}

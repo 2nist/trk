@@ -1,0 +1,252 @@
+{
+  "title": "I Got You (I Feel Good)",
+  "artist": "James Brown",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 301,
+      "duration_ms": 21896,
+      "chords": [
+        "N",
+        "N",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "A:7",
+        "G:7",
+        "D:7",
+        "D:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 22198,
+      "duration_ms": 19918,
+      "chords": [
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "A:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "D:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 42116,
+      "duration_ms": 6593,
+      "chords": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 48710,
+      "duration_ms": 13008,
+      "chords": [
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "A:7",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 61718,
+      "duration_ms": 19829,
+      "chords": [
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "A:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "D:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 81548,
+      "duration_ms": 6633,
+      "chords": [
+        "D:7",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 88182,
+      "duration_ms": 13163,
+      "chords": [
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "A:7",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 101345,
+      "duration_ms": 20113,
+      "chords": [
+        "N",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "A:7",
+        "G:7",
+        "D:7",
+        "D:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 121458,
+      "duration_ms": 47318,
+      "chords": [
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "G:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "A:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "A:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "A:7",
+        "G:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:7",
+        "D:9",
+        "D:9",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "A",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

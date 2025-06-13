@@ -1,0 +1,287 @@
+{
+  "songID": "entry_100539",
+  "title": "Alike",
+  "artist": "ADELLA",
+  "spotifyID": "7xUInfBjq8qYA9Pq8YzPnu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "G",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:i-?-?-?-iv-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "Fmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "Fmin",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:v-?-i-?-?-i-?-v-?-i-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "G",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:i-?-?-?-iv-?-?-v-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "Fmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "Fmin",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:v-?-i-?-?-i-?-v-?-i-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-?-iv-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "Fmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "Amin",
+        "F",
+        "Fmin",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:v-?-i-?-?-i-?-v-?-i-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Alike",
+  "release_date": "2021-05-31",
+  "duration_ms": 246576
+}

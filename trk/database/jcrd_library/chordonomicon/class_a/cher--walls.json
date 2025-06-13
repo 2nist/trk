@@ -1,0 +1,329 @@
+{
+  "songID": "entry_102641",
+  "title": "Walls",
+  "artist": "Cher",
+  "spotifyID": "4Re3AZ3OmQWxQHX0NtOzid",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "A"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.40",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin",
+        "Fsmin7",
+        "G",
+        "D",
+        "Bmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-i-?-v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fsmin7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Walls",
+  "release_date": "2021-05-19",
+  "duration_ms": 212129
+}

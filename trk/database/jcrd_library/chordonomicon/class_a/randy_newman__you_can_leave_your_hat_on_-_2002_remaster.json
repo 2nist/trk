@@ -1,0 +1,173 @@
+{
+  "songID": "entry_102376",
+  "title": "You Can Leave Your Hat On - 2002 Remaster",
+  "artist": "Randy Newman",
+  "spotifyID": "6g15icndZ6ig2CtKcayHHx",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emajs9",
+        "D",
+        "E7"
+      ],
+      "rawChords": [
+        "Emajs9",
+        "D",
+        "E7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A7/E"
+      ],
+      "rawChords": [
+        "A7/E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "E7/Gs",
+        "Asus4",
+        "Bmin11",
+        "E7"
+      ],
+      "rawChords": [
+        "E7",
+        "E7/Gs",
+        "Asus4",
+        "Bmin11",
+        "E7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eminadd13",
+        "E7",
+        "A7/E"
+      ],
+      "rawChords": [
+        "Eminadd13",
+        "E7",
+        "A7/E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "E7/Gs",
+        "Asus4",
+        "Bmin11",
+        "E7"
+      ],
+      "rawChords": [
+        "E7",
+        "E7/Gs",
+        "Asus4",
+        "Bmin11",
+        "E7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emajs9",
+        "A7sus4",
+        "Emajs9",
+        "A7sus4",
+        "Emajs9",
+        "Bmin11"
+      ],
+      "rawChords": [
+        "Emajs9",
+        "A7sus4",
+        "Emajs9",
+        "A7sus4",
+        "Emajs9",
+        "Bmin11"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E7"
+      ],
+      "rawChords": [
+        "E7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Sail Away (Expanded & Remastered Edition)",
+  "release_date": "1972-05-01",
+  "duration_ms": 198066
+}

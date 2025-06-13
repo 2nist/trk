@@ -1,0 +1,93 @@
+{
+  "songID": "entry_101303",
+  "title": "Teenage Punching Bag",
+  "artist": "NOFX",
+  "spotifyID": "2oUbXZKGVmjqCbxDCbA2a3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Backstage Passport Soundtrack",
+  "release_date": "2014-12-09",
+  "duration_ms": 124973
+}

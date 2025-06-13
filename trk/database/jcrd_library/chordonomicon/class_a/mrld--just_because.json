@@ -1,0 +1,251 @@
+{
+  "songID": "entry_0547",
+  "title": "Just Because",
+  "artist": "mrld",
+  "spotifyID": "3Ues7YM3y8JYnTeu2OYFVH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "Bmin",
+        "Gmaj7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "Bmin",
+        "Gmaj7",
+        "Gmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "Bmin",
+        "Gmaj7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "Bmin",
+        "Gmaj7",
+        "Gmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D",
+        "Dmaj7",
+        "Gmaj7",
+        "Gmin",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Just Because",
+  "release_date": "2023-02-10",
+  "duration_ms": 193246
+}

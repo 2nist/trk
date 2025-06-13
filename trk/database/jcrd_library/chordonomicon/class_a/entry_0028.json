@@ -1,0 +1,389 @@
+{
+  "songID": "entry_0028",
+  "title": "Hou Je Morgen Nog Van Mij",
+  "artist": "Sabien Tiels",
+  "spotifyID": "2rS9u69y2GDBCBoG94gQ8Y",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "Asus2",
+        "Amin",
+        "Amin7/G",
+        "F",
+        "E7",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Asus2",
+        "Amin",
+        "Amin7/G",
+        "F",
+        "E7",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-?-?-?-biii-ii-biii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E7"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-v-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E7"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-v-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11",
+        "G",
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11",
+        "G",
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11",
+        "G",
+        "Amin"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-v-iii-?-iv-?-?-v-?-?-v-iii-?-iv-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmaj7",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "G",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-v-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11",
+        "G",
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11",
+        "G",
+        "Fmaj7",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11",
+        "G",
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11",
+        "G",
+        "Fmaj7",
+        "G"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-v-iii-?-iv-?-?-v-?-?-v-iii-?-iv-?-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Fmaj7",
+        "G",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "G",
+        "Emin",
+        "Amin",
+        "Fmaj7",
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fmaj7",
+        "G",
+        "E7",
+        "Amin",
+        "Fmaj7",
+        "E7"
+      ],
+      "rawChords": [
+        "Fmaj7",
+        "G",
+        "E7",
+        "Amin",
+        "Fmaj7",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-iii-?-?-iii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11"
+      ],
+      "rawChords": [
+        "Amin",
+        "Fmaj7",
+        "G",
+        "E",
+        "Amin",
+        "F",
+        "Dmin",
+        "Gadd11"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-v-iii-?-iv-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Amin",
+        "Fmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "Fmaj7",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Houjemorgennnogvanmij",
+  "release_date": "1996",
+  "duration_ms": 197960
+}

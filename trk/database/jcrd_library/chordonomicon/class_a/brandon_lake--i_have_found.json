@@ -1,0 +1,301 @@
+{
+  "songID": "entry_100446",
+  "title": "I Have Found",
+  "artist": "Brandon Lake",
+  "spotifyID": "4vVl8FrFnoFTn85ruZzmqm",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Eb"
+      ],
+      "rawChords": [
+        "G",
+        "Eb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:v-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "D",
+        "C",
+        "Amin",
+        "D",
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "D",
+        "C",
+        "Amin",
+        "D",
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.64",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-biii-?-i-?-v-?-ii-?-biii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "C",
+        "G",
+        "Amin",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-v-?-iv-?-i-?-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "D",
+        "C",
+        "Amin",
+        "D",
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "D",
+        "C",
+        "Amin",
+        "D",
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.64",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-biii-?-i-?-v-?-ii-?-biii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "D",
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "D",
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:biii-?-i-?-v-?-ii-?-biii-?-i-?-ii-?-biii-?-i-?-v-?-ii-?-biii-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "D",
+        "C",
+        "Amin",
+        "D",
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "D",
+        "C",
+        "Amin",
+        "D",
+        "Eb",
+        "C",
+        "G",
+        "D",
+        "Eb",
+        "C",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.64",
+        "progression:i-?-?-ii-?-i-?-?-ii-?-biii-?-i-?-v-?-ii-?-biii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Closer",
+  "release_date": "2016-05-20",
+  "duration_ms": 267056
+}

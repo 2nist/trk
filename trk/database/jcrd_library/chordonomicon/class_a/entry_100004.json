@@ -1,0 +1,255 @@
+{
+  "songID": "entry_100004",
+  "title": "Love 80",
+  "artist": "Lupen Crook",
+  "spotifyID": "2F33KLYtN2GZGbl9ZxOy0P",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "Amin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-?-?-v-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Accidents Occur Whilst Sleeping",
+  "release_date": "2006-07-24",
+  "duration_ms": 170226
+}

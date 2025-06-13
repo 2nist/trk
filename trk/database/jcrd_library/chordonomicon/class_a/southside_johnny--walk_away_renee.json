@@ -1,0 +1,441 @@
+{
+  "songID": "entry_102174",
+  "title": "Walk Away Renee",
+  "artist": "Southside Johnny",
+  "spotifyID": "65subPffD3s7ogtpizLJCH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "D",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "F",
+        "C",
+        "Cmin",
+        "G",
+        "C",
+        "Bmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "F",
+        "C",
+        "Cmin",
+        "G",
+        "C",
+        "Bmin",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:v-?-ii-?-iv-?-i-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-?-i-?-v-?-ii-?-v-?-?-i-?-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "F",
+        "C",
+        "Cmin",
+        "G",
+        "C",
+        "Bmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "F",
+        "C",
+        "Cmin",
+        "G",
+        "C",
+        "Bmin",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:v-?-ii-?-iv-?-i-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-?-i-?-v-?-ii-?-v-?-?-i-?-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-i-?-v-?-?-i-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-?-i-?-v-?-ii-?-v-?-?-i-?-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "F",
+        "C",
+        "Cmin",
+        "G",
+        "C",
+        "Bmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "D",
+        "F",
+        "C",
+        "Cmin",
+        "G",
+        "C",
+        "Bmin",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:ii-?-iv-?-i-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "Bmin",
+        "C",
+        "Bmin",
+        "Amin",
+        "G"
+      ],
+      "length": 31,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.45",
+        "progression:v-?-?-i-?-v-?-ii-?-v-?-?-i-?-?-v-?-?-i-?-v-?-ii-?-v-?-?-i-?-?-v-?-?-i-?-v-?-ii-?-v-?-?-i-?-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "At Least We Got Shoes",
+  "release_date": "1986-01-01",
+  "duration_ms": 260372
+}

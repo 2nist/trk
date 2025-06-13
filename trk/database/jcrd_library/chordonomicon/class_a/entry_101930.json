@@ -1,0 +1,111 @@
+{
+  "songID": "entry_101930",
+  "title": "Los Muchachos Misch",
+  "artist": "Chill&Go",
+  "spotifyID": "4WSKPQ94JzhUsiK8Rl0aDV",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fmin",
+        "C7"
+      ],
+      "rawChords": [
+        "Fmin",
+        "C7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "C7",
+        "Asmin",
+        "Cs",
+        "C7",
+        "Fmin",
+        "F7",
+        "Asmin",
+        "Fmin",
+        "C7",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "C7",
+        "Asmin",
+        "Cs",
+        "C7",
+        "Fmin",
+        "F7",
+        "Asmin",
+        "Fmin",
+        "C7",
+        "Fmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:?-v-?-?-#v-?-v-?-?-i-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C7",
+        "Fmin",
+        "C7",
+        "Fmin",
+        "Asmin",
+        "Fmin",
+        "C7",
+        "Fmin"
+      ],
+      "rawChords": [
+        "C7",
+        "Fmin",
+        "C7",
+        "Fmin",
+        "Asmin",
+        "Fmin",
+        "C7",
+        "Fmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Los Muchachos Misch",
+  "release_date": "2023-03-24",
+  "duration_ms": 186000
+}

@@ -1,0 +1,383 @@
+{
+  "songID": "entry_10182",
+  "title": "Zu nah am Feuer",
+  "artist": "Stefan Waggershausen",
+  "spotifyID": "17Kn7Sfe7zsPM1MfOiXGGB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "Bmin",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "Bmin",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-i-?-ii-?-i-?-v-?-i-?-ii-?-v-?-i-?-?-ii-?-i-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "Bmin",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "Bmin",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-i-?-ii-?-i-?-v-?-i-?-ii-?-v-?-i-?-?-ii-?-i-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-?-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:i-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "Bmin",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "A",
+        "D",
+        "Bmin",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-i-?-ii-?-i-?-v-?-i-?-ii-?-v-?-i-?-?-ii-?-i-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Tabu",
+  "release_date": "1984-01-27",
+  "duration_ms": 310266
+}

@@ -1,0 +1,325 @@
+{
+  "songID": "entry_103027",
+  "title": "Dress Up",
+  "artist": "Premium Leisure",
+  "spotifyID": "1pOXa8AYy3rftggTc90WZo",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C7",
+        "D7",
+        "G",
+        "D7"
+      ],
+      "rawChords": [
+        "C7",
+        "D7",
+        "G",
+        "D7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "D7",
+        "G",
+        "D7",
+        "C7",
+        "D7",
+        "G",
+        "D7"
+      ],
+      "rawChords": [
+        "C7",
+        "D7",
+        "G",
+        "D7",
+        "C7",
+        "D7",
+        "G",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:iv-?-v-?-i-?-v-?-iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C7",
+        "D7",
+        "G",
+        "D7",
+        "C7",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "C7",
+        "D7",
+        "G",
+        "D7",
+        "C7",
+        "D7",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "C",
+        "B7",
+        "Emin",
+        "Cs7",
+        "D7",
+        "G",
+        "Amin",
+        "C",
+        "B7",
+        "E7",
+        "C",
+        "Amin",
+        "B7",
+        "Emin",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "B7",
+        "Emin",
+        "Cs7",
+        "D7",
+        "G",
+        "Amin",
+        "C",
+        "B7",
+        "E7",
+        "C",
+        "Amin",
+        "B7",
+        "Emin",
+        "D7",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.77",
+        "progression:ii-?-iv-?-iii-?-?-?-v-?-i-?-?-iv-?-iii-?-vi-?-iv-?-?-iii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "D7",
+        "G",
+        "D7",
+        "C7",
+        "D7",
+        "G",
+        "D7"
+      ],
+      "rawChords": [
+        "C7",
+        "D7",
+        "G",
+        "D7",
+        "C7",
+        "D7",
+        "G",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:iv-?-v-?-i-?-v-?-iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C7",
+        "D7",
+        "G",
+        "D7",
+        "C7",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "C7",
+        "D7",
+        "G",
+        "D7",
+        "C7",
+        "D7",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "C",
+        "B7",
+        "Emin",
+        "Cs7",
+        "D7",
+        "G",
+        "Amin",
+        "C",
+        "B7",
+        "E7",
+        "C",
+        "Amin",
+        "B7",
+        "Emin",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "C",
+        "B7",
+        "Emin",
+        "Cs7",
+        "D7",
+        "G",
+        "Amin",
+        "C",
+        "B7",
+        "E7",
+        "C",
+        "Amin",
+        "B7",
+        "Emin",
+        "D7",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.77",
+        "progression:ii-?-iv-?-iii-?-?-?-v-?-i-?-?-iv-?-iii-?-vi-?-iv-?-?-iii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Amin",
+        "B7",
+        "Emin",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "B7",
+        "Emin",
+        "D7",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:iv-?-?-iii-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Bug Blood",
+  "release_date": "2023-12-07",
+  "duration_ms": 259900
+}

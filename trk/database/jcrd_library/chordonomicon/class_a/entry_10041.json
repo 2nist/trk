@@ -1,0 +1,217 @@
+{
+  "songID": "entry_10041",
+  "title": "Anymore",
+  "artist": "YAZ",
+  "spotifyID": "0UYbhQk9tUzDeqjcsfDFRF",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Gsmin",
+        "Amaj7",
+        "Emaj7",
+        "Emin",
+        "Amaj7",
+        "Emaj7",
+        "Gsmin",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "E",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Gsmin",
+        "Amaj7",
+        "Emaj7",
+        "Emin",
+        "Amaj7",
+        "Emaj7",
+        "Gsmin",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "E",
+        "Amaj7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-?-?-?-?-?-?-?-?-?-?-?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "E",
+        "Amaj7",
+        "Emaj7",
+        "Gs",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "B",
+        "E",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "E",
+        "Amaj7",
+        "Emaj7",
+        "Gs",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "B",
+        "E",
+        "Amaj7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-?-?-?-?-?-i-?-?-?-?-?-?-v-i-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "Emaj7",
+        "Amaj7",
+        "Emaj7",
+        "Amaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Anymore",
+  "release_date": "2022-08-05",
+  "duration_ms": 150379
+}

@@ -1,0 +1,221 @@
+{
+  "songID": "entry_100334",
+  "title": "Break Your Bones",
+  "artist": "Sweet Spirit",
+  "spotifyID": "5PZrt5MaOtP6iFK92RCPob",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Fsmin",
+        "Emin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "Emin",
+        "A",
+        "D",
+        "Bmin",
+        "Emin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Cokomo",
+  "release_date": "2015-10-16",
+  "duration_ms": 246027
+}

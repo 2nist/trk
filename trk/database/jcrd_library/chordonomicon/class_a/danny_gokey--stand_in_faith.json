@@ -1,0 +1,291 @@
+{
+  "songID": "entry_102122",
+  "title": "Stand In Faith",
+  "artist": "Danny Gokey",
+  "spotifyID": "12gkIsBWFWPHOgX7odzUCK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "G",
+        "D",
+        "Emin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Jesus People",
+  "release_date": "2021-08-20",
+  "duration_ms": 200653
+}

@@ -1,0 +1,205 @@
+{
+  "songID": "entry_101239",
+  "title": "LET IT GO (feat. Justin Bieber & 21 Savage)",
+  "artist": "DJ Khaled",
+  "spotifyID": "1cEhrSF6EylAEqdhUGuNpX",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:bbvi-?-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:bbvi-?-?-bbii-?-bbvi-?-?-bbii-?-bbvi-?-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:bbvi-?-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ab",
+        "Fmin",
+        "Db",
+        "E",
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fmin",
+        "Db",
+        "E",
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:bbvi-?-?-bbii-?-biii-?-bbvi-?-?-bbii-?-bbvi-?-?-bbii-?-bbvi-?-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:bbvi-?-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Fmin",
+        "Db"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:bbvi-?-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "KHALED KHALED",
+  "release_date": "2021-04-30",
+  "duration_ms": 165526
+}

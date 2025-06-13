@@ -1,0 +1,75 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "JCRD File",
+  "type": "object",
+  "required": [
+    "title",
+    "artist",
+    "bpm",
+    "sections"
+  ],
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "artist": {
+      "type": "string"
+    },
+    "bpm": {
+      "type": "number"
+    },
+    "key": {
+      "type": "string"
+    },
+    "source": {
+      "type": "string"
+    },
+    "beat_times": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      }
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "start_ms",
+          "duration_ms",
+          "chords"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "start_ms": {
+            "type": "number"
+          },
+          "duration_ms": {
+            "type": "number"
+          },
+          "chords": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "romanNumerals": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

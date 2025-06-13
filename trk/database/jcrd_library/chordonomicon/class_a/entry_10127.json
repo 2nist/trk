@@ -1,0 +1,311 @@
+{
+  "songID": "entry_10127",
+  "title": "Things Could Be Beautiful",
+  "artist": "The Colourfield",
+  "spotifyID": "2WtnHmzkPBXGltb7PeFxRA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C/E",
+        "F/C",
+        "C",
+        "C/E",
+        "F/C",
+        "Amin",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Bb",
+        "G"
+      ],
+      "rawChords": [
+        "C/E",
+        "F/C",
+        "C",
+        "C/E",
+        "F/C",
+        "Amin",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "Bb",
+        "G"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-?-i-?-?-?-i-?-v-?-v-?-i-bvii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "C/E",
+        "F",
+        "C",
+        "C/E",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "C/E",
+        "F",
+        "C",
+        "C/E",
+        "F",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-i-v-?-i-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D",
+        "D/Fs",
+        "G",
+        "Bmin",
+        "D",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "D",
+        "C",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D",
+        "D/Fs",
+        "G",
+        "Bmin",
+        "D",
+        "Bmin",
+        "A",
+        "Bmin",
+        "A",
+        "Bmin",
+        "D",
+        "C",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-i-v-?-i-?-v-?-ii-?-ii-?-v-iv-ii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D",
+        "D/Fs",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "D/Fs",
+        "G",
+        "D",
+        "D/Fs",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-i-v-?-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "A",
+        "C",
+        "F",
+        "D7"
+      ],
+      "rawChords": [
+        "C",
+        "A",
+        "C",
+        "F",
+        "D7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-iii-v-i-vi"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "G/B",
+        "C",
+        "G",
+        "G/B",
+        "C",
+        "Cmin",
+        "G",
+        "Cmin",
+        "Db",
+        "Bb"
+      ],
+      "rawChords": [
+        "G",
+        "G/B",
+        "C",
+        "G",
+        "G/B",
+        "C",
+        "Cmin",
+        "G",
+        "Cmin",
+        "Db",
+        "Bb"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-iv-i-?-iv-?-i-?-bv-biii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G"
+      ],
+      "rawChords": [
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G",
+        "Ab",
+        "Eb",
+        "Eb/G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:v-?-i-v-?-i-v-?-i-v-?-i-v-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Virgins and Philistines",
+  "release_date": "1985-04-06",
+  "duration_ms": 206560
+}

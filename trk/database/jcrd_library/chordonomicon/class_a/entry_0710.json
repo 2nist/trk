@@ -1,0 +1,335 @@
+{
+  "songID": "entry_0710",
+  "title": "Hier en nu",
+  "artist": "Sabien Tiels",
+  "spotifyID": "0ywnmQSojWZMpZm74AglSY",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:iv-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "Amin7",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "Amin7",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-ii-i-v-?-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "Amin7",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "Amin7",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-ii-i-v-?-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-v-iv-?-v-iv"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "Amin7",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "Amin7",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-ii-i-v-?-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "Amin7",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Bb",
+        "F",
+        "Amin7",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-ii-i-v-?-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-v-iv-?-v-iv"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-iv-?-v-iv-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "C",
+        "Dmin",
+        "C",
+        "Gmin",
+        "Dmin"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-?-v-iv-v-?-v-?-?-v-iv-v-?-v-?-v-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Hier en nu",
+  "release_date": "2018-03-02",
+  "duration_ms": 200013
+}

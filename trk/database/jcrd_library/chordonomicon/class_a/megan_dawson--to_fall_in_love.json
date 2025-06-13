@@ -1,0 +1,241 @@
+{
+  "songID": "entry_0214",
+  "title": "To Fall in Love",
+  "artist": "Megan Dawson",
+  "spotifyID": "6TtTvigrsLf9ShFaRGxGWJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin7",
+        "A",
+        "Csmin7",
+        "B",
+        "Csmin7",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "Csmin7",
+        "A",
+        "Csmin7",
+        "B",
+        "Csmin7",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "Csmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "To Fall in Love",
+  "release_date": "2023-02-09",
+  "duration_ms": 180983
+}

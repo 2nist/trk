@@ -1,0 +1,365 @@
+{
+  "songID": "entry_101299",
+  "title": "Tailgate Queen",
+  "artist": "Katie Noel",
+  "spotifyID": "4hztsDzyfQclyDAlivrogd",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-v-?-iv-?-?-i-?-v-?-iv-?-?-i-?-v-?-iv-?-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-i-?-v-?-iv-?-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:?-v-?-iv-?-?-i-?-v-?-iv-?-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:?-i-?-v-?-iv-?-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-v-?-iv-?-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-?-v-?-ii-?-i-?-?-v-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-v-?-iv-?-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Bridge",
+    "Chorus",
+    "Solo"
+  ],
+  "tags": [],
+  "album": "Tailgate Queen",
+  "release_date": "2021-05-28",
+  "duration_ms": 203130
+}

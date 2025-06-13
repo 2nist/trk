@@ -1,0 +1,293 @@
+{
+  "songID": "entry_0124",
+  "title": "House and a Dog",
+  "artist": "Brittany Kennell",
+  "spotifyID": "60NdkVKLeIp2w1vmTezehP",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin7",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Bmin7",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Bmin7",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-i-v-?-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-i-v-?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin",
+        "D",
+        "A",
+        "Bmin7",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin",
+        "D",
+        "A",
+        "Bmin7",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v-?-i-v-?-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-i-v-?-i-v-?-i-v-?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin7",
+        "E"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "E"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-i-v-?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin7",
+        "D",
+        "A",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "House and a Dog",
+  "release_date": "2023-02-10",
+  "duration_ms": 157490
+}

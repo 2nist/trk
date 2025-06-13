@@ -1,0 +1,267 @@
+{
+  "songID": "entry_0135",
+  "title": "Downer",
+  "artist": "The Tuten Brothers",
+  "spotifyID": "1AsGIlTBsZA7zOJ1YF0C3S",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin7",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin7",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-ii-?-i-v-ii-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-?-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-ii-?-i-v-ii-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A",
+        "E",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-ii-?-i-v-ii-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin7",
+        "D",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-?-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Taking My Time",
+  "release_date": "2023-09-22",
+  "duration_ms": 186400
+}

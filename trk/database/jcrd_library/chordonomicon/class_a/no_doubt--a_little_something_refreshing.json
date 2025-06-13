@@ -1,0 +1,195 @@
+{
+  "songID": "entry_101940",
+  "title": "A Little Something Refreshing",
+  "artist": "No Doubt",
+  "spotifyID": "6CAwmtliTx9tUynU45okrR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Eb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "F",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "F",
+        "Dmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Ab"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.15",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Bbmin",
+        "Eb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Eb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Ab",
+        "F",
+        "Eb",
+        "Ab"
+      ],
+      "rawChords": [
+        "F",
+        "Bbmin",
+        "Eb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Eb",
+        "Ab",
+        "F",
+        "Bbmin",
+        "Ab",
+        "F",
+        "Eb",
+        "Ab"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:biv-?-?-bbiii-?-bbvi-?-biv-?-?-bbiii-?-bbvi-?-biv-?-?-bbvi-?-biv-?-bbiii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "No Doubt",
+  "release_date": "1992-01-01",
+  "duration_ms": 78733
+}

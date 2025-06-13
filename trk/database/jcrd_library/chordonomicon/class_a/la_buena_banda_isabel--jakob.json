@@ -1,0 +1,321 @@
+{
+  "songID": "entry_102224",
+  "title": "Jakob",
+  "artist": "La Buena Banda Isabel",
+  "spotifyID": "5mlwzDt1XtsWfLVHO5vSBm",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Gb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Gb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:v-?-i-?-v-?-i-?-iv-?-i-?-v-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Gb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Eb",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Gb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:v-?-i-?-v-?-i-?-iv-?-i-?-v-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebno3d"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebno3d"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:bbii-?-?-?-bbiii-?-bbii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bb",
+        "Gb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Gb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:v-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "Eb",
+        "Ab",
+        "F",
+        "Bb",
+        "Eb",
+        "Ab",
+        "F",
+        "Ab",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "Eb",
+        "Ab",
+        "F",
+        "Bb",
+        "Eb",
+        "Ab",
+        "F",
+        "Ab",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:bbvii-?-bbiii-?-bbvi-?-biv-?-bbvii-?-bbiii-?-bbvi-?-biv-?-bbvi-?-biv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?-iv-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebno3d",
+        "Gbno3d",
+        "Bbno3d"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Ebmaj7",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Ebno3d",
+        "Gbno3d",
+        "Bbno3d"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:bbii-?-?-?-bbiii-?-bbii-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Outro",
+    "Instrumental",
+    "Solo"
+  ],
+  "tags": [],
+  "album": "Jakob",
+  "release_date": "2020-07-10",
+  "duration_ms": 220540
+}

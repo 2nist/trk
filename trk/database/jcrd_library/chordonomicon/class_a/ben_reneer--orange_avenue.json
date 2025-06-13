@@ -1,0 +1,337 @@
+{
+  "songID": "entry_100727",
+  "title": "Orange Avenue",
+  "artist": "Ben Reneer",
+  "spotifyID": "5DPiNyeG9A1crGPCpfn7tw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-i-?-?-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-i-?-?-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:?-?-v-?-?-?-v-?-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "C",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-i-?-?-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:?-?-v-?-?-?-v-?-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "Emin",
+        "E",
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "Emin",
+        "E",
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.11",
+        "progression:?-?-i-?-v-?-?-vii-?-?-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:?-?-v-?-?-?-v-?-?-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Orange Avenue - EP",
+  "release_date": "2017-06-07",
+  "duration_ms": 219500
+}

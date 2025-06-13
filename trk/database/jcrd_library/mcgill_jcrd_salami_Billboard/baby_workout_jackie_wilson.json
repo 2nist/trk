@@ -1,0 +1,256 @@
+{
+  "title": "Baby Workout",
+  "artist": "Jackie Wilson",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 255,
+      "duration_ms": 4737,
+      "chords": [
+        "N",
+        "N",
+        "F:(b3)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 4992,
+      "duration_ms": 52927,
+      "chords": [
+        "F:(b3)",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "C:7",
+        "Bb:7",
+        "C:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "C:7",
+        "Bb:7",
+        "C:7",
+        "Bb:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 57920,
+      "duration_ms": 22692,
+      "chords": [
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "C:7",
+        "Bb:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 80613,
+      "duration_ms": 26533,
+      "chords": [
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "C:7",
+        "Bb:7",
+        "C:7",
+        "Bb:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 107146,
+      "duration_ms": 45143,
+      "chords": [
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "C:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "C:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 152290,
+      "duration_ms": 23048,
+      "chords": [
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "C:7",
+        "Bb:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 175338,
+      "duration_ms": 45680,
+      "chords": [
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "C:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "F:7",
+        "Bb:7",
+        "Bb:7",
+        "F:7",
+        "F:7",
+        "C:7",
+        "Bb:7",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 221019,
+      "duration_ms": 10474,
+      "chords": [
+        "N",
+        "N",
+        "F:7",
+        "F:7",
+        "N"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

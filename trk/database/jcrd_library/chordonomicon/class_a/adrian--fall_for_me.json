@@ -1,0 +1,241 @@
+{
+  "songID": "entry_0434",
+  "title": "Fall for Me",
+  "artist": "Adrian",
+  "spotifyID": "6DYymplNcVytUIGNJfTFV7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:?-i-?-v-?-ii-?-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:?-i-?-v-?-ii-?-v-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:?-i-?-v-?-ii-?-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-i-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:?-i-?-v-?-ii-?-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Desert Dwelling Mama",
+  "release_date": "2019-01-31",
+  "duration_ms": 293813
+}

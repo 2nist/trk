@@ -1,0 +1,159 @@
+{
+  "songID": "entry_102335",
+  "title": "Sithin Sina Sisi",
+  "artist": "Rookantha Goonatillake",
+  "spotifyID": "52b1Yv6yaOTs0QsdB2UZVz",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin",
+        "A",
+        "B",
+        "E",
+        "B7",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "A",
+        "Csmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "A",
+        "B",
+        "E",
+        "B7",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "A",
+        "Csmin",
+        "B",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-i-?-v-?-i-?-?-?-iv-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "B7",
+        "E",
+        "A",
+        "B",
+        "E",
+        "E7",
+        "Amin",
+        "D",
+        "G",
+        "Csmin",
+        "A",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "B7",
+        "E",
+        "A",
+        "B",
+        "E",
+        "E7",
+        "Amin",
+        "D",
+        "G",
+        "Csmin",
+        "A",
+        "B7",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:v-?-v-?-i-?-iv-?-v-?-i-?-i-?-?-bvii-?-biii-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "B7",
+        "E",
+        "A",
+        "B",
+        "E",
+        "E7",
+        "Amin",
+        "D",
+        "G",
+        "Csmin",
+        "A",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "B7",
+        "E",
+        "A",
+        "B",
+        "E",
+        "E7",
+        "Amin",
+        "D",
+        "G",
+        "Csmin",
+        "A",
+        "B7",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:v-?-v-?-i-?-iv-?-v-?-i-?-i-?-?-bvii-?-biii-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Bambara Pahasa",
+  "release_date": "1988",
+  "duration_ms": 209760
+}

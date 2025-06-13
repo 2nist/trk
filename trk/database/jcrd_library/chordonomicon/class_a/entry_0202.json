@@ -1,0 +1,285 @@
+{
+  "songID": "entry_0202",
+  "title": "Hoor je mijn hart nog",
+  "artist": "Sabien Tiels",
+  "spotifyID": "4JnyPoA5HmCuvjVnv3dCFm",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "A"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-?-?-ii-v-i-v-ii-?-?-ii-v-i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "A",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Csmin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-iv-i-v-?-?-v-i-iv-i-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gs",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Gs",
+        "Csmin",
+        "Fs",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "B",
+        "Csmin",
+        "Fsmin",
+        "B",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-?-?-ii-v-i-v-ii-?-?-ii-v-i-v-i-v-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Ritme van de tovenaar",
+  "release_date": "2003",
+  "duration_ms": 203773
+}

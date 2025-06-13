@@ -1,0 +1,245 @@
+{
+  "songID": "entry_0708",
+  "title": "Rose in the Dark",
+  "artist": "Cleo Sol",
+  "spotifyID": "1x6MXwyxf4R0V0Cdy4MnYl",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin7",
+        "Ab",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "Ab",
+        "Bb"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:?-iv-v"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Bb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:?-iv-v-?-iv-v-?-iv-v-?-iv-v-iv-v-iv-v"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:?-iv-v-?-iv-v"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Bb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Ab",
+        "Bb",
+        "Ab"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "progression:?-bbii-bbiii-?-bbii-bbiii-?-bbii-bbiii-?-bbii-bbiii-bbii-bbiii-bbii"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin7",
+        "Bb",
+        "Dmin7",
+        "Bb",
+        "Dmin7",
+        "Bb",
+        "Dmin7",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "Bb",
+        "Dmin7",
+        "Bb",
+        "Dmin7",
+        "Bb",
+        "Dmin7",
+        "Bb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb",
+        "Dmin7",
+        "Ab",
+        "Bb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:?-iv-v-?-iv-v-?-iv-v-?-iv-v"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Rose in the Dark",
+  "release_date": "2020-03-27",
+  "duration_ms": 226810
+}

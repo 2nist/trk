@@ -1,0 +1,247 @@
+{
+  "songID": "entry_101169",
+  "title": "Lady Sunshine",
+  "artist": "Appleby",
+  "spotifyID": "2NrZbxMglp5aEVwbJBaY3K",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "Dmaj7",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "Dmaj7",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-i-ii-i-v-i-v-i-ii-i-v-ii-?-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Happiness",
+  "release_date": "2018-07-27",
+  "duration_ms": 205297
+}

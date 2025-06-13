@@ -1,0 +1,355 @@
+{
+  "songID": "entry_101048",
+  "title": "Agua",
+  "artist": "Valeria Castro",
+  "spotifyID": "76yx6d2cnxogqq5EeWAGGv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "D"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.63",
+        "progression:?-?-v-?-i-?-iii-?-?-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "F",
+        "Bb",
+        "D",
+        "Gmin",
+        "Eb",
+        "F",
+        "Bb",
+        "D"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "F",
+        "Bb",
+        "D",
+        "Gmin",
+        "Eb",
+        "F",
+        "Bb",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:?-iv-?-v-?-i-?-iii-?-?-iv-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "D",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.62",
+        "progression:?-?-v-?-i-?-iii-?-?-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "D",
+        "Gmin",
+        "F",
+        "Eb",
+        "F",
+        "Gmin",
+        "F",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "Eb",
+        "F",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "D",
+        "Gmin",
+        "F",
+        "Eb",
+        "F",
+        "Gmin",
+        "F",
+        "Gmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:?-?-v-?-i-?-iv-?-v-?-?-?-v-?-i-?-iii-?-?-v-?-iv-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "D",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "D7",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "D",
+        "D7",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "D",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "D7",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "D",
+        "D7",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "D",
+        "D7"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.16",
+        "progression:iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?-iii-?-iv-?-i-?-?-iii-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D",
+        "Bb"
+      ],
+      "rawChords": [
+        "D",
+        "Bb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:v-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Dmin",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "F",
+        "Eb",
+        "Dmin",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Dmin",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb",
+        "F",
+        "Eb",
+        "Dmin",
+        "Gmin",
+        "Cmin",
+        "F",
+        "Bb"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-?-?-?-v-?-i-?-v-?-iv-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "F",
+        "Gmin",
+        "Bb",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Gmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Agua",
+  "release_date": "2020-04-09",
+  "duration_ms": 240000
+}

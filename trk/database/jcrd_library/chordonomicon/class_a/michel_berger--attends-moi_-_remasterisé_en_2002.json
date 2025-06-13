@@ -1,0 +1,249 @@
+{
+  "songID": "entry_100200",
+  "title": "Attends-moi - Remasteris\u00e9 en 2002",
+  "artist": "Michel Berger",
+  "spotifyID": "1XxBtnMzVdacOJZPPZFu61",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus4",
+        "D",
+        "Fs7",
+        "Bmin7",
+        "E7",
+        "A7",
+        "D7sus4",
+        "D7"
+      ],
+      "rawChords": [
+        "Dsus4",
+        "D",
+        "Fs7",
+        "Bmin7",
+        "E7",
+        "A7",
+        "D7sus4",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-?-?-ii-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus4",
+        "D",
+        "Fs7",
+        "Bmin7",
+        "E7",
+        "A7",
+        "D7sus4",
+        "D7"
+      ],
+      "rawChords": [
+        "Dsus4",
+        "D",
+        "Fs7",
+        "Bmin7",
+        "E7",
+        "A7",
+        "D7sus4",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-?-?-ii-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B7",
+        "E7",
+        "C",
+        "G",
+        "B7",
+        "E7",
+        "C",
+        "G",
+        "B7",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "G",
+        "B7",
+        "E7",
+        "C",
+        "G",
+        "B7",
+        "E7",
+        "C",
+        "G",
+        "B7",
+        "E7",
+        "A7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:biii-?-v-?-i-?-bvi-?-biii-?-v-?-i-?-bvi-?-biii-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus4",
+        "D",
+        "Fs7",
+        "Bmin7",
+        "E7",
+        "A7",
+        "D7sus4",
+        "D7"
+      ],
+      "rawChords": [
+        "Dsus4",
+        "D",
+        "Fs7",
+        "Bmin7",
+        "E7",
+        "A7",
+        "D7sus4",
+        "D7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-?-?-ii-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B7",
+        "E7",
+        "C",
+        "G",
+        "B7",
+        "E7",
+        "C",
+        "G",
+        "B7",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "G",
+        "B7",
+        "E7",
+        "C",
+        "G",
+        "B7",
+        "E7",
+        "C",
+        "G",
+        "B7",
+        "E7",
+        "A7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.57",
+        "progression:biii-?-v-?-i-?-bvi-?-biii-?-v-?-i-?-bvi-?-biii-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dsus4",
+        "D",
+        "Fs7",
+        "Bmin7",
+        "E7",
+        "A7",
+        "Dsus4",
+        "D"
+      ],
+      "rawChords": [
+        "Dsus4",
+        "D",
+        "Fs7",
+        "Bmin7",
+        "E7",
+        "A7",
+        "Dsus4",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-?-?-ii-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Michel Berger (Remasteris\u00e9 en 2002)",
+  "release_date": "1973-05-10",
+  "duration_ms": 145120
+}

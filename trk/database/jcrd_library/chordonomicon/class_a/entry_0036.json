@@ -1,0 +1,241 @@
+{
+  "songID": "entry_0036",
+  "title": "Hello My Name Is",
+  "artist": "Kyle Hume",
+  "spotifyID": "3ekyM2RKssRCbqVhrVt2R0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v-iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v-iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:i-v-?-ii-i-v-?-i-v-?-ii-i-v-?-ii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "rawChords": [
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F",
+        "Eb",
+        "Bb",
+        "Gmin",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Hello My Name Is",
+  "release_date": "2023-02-03",
+  "duration_ms": 146250
+}

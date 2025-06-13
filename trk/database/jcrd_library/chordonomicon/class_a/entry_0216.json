@@ -1,0 +1,317 @@
+{
+  "songID": "entry_0216",
+  "title": "Been There Loved You",
+  "artist": "Daves Highway",
+  "spotifyID": "2PgmDGVpDKhdp0vyLVpipY",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Emin",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Emin",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-i-v-?-iv-i-v-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-i-v-?-iv-i-v-?-iv-i-v-?-iv-v-iv-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-i-v-?-iv-i-v-?-iv-i-v-?-iv-v-iv-i-v-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 25,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-ii-i-v-ii-?-i-v-ii-?-i-v-ii-?-i-ii-i-v-ii-?-i-v-ii-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude"
+  ],
+  "tags": [],
+  "album": "Been There Loved You",
+  "release_date": "2023-02-10",
+  "duration_ms": 173805
+}

@@ -1,0 +1,321 @@
+{
+  "songID": "entry_102941",
+  "title": "Satellite",
+  "artist": "Custard",
+  "spotifyID": "3GfyjelNpNW9XTstIOFOsv",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "Emin",
+        "Bmin",
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "Emin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "Emin",
+        "Bmin",
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "Emin",
+        "Bmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.16",
+        "progression:i-?-iii-?-?-?-iv-?-iii-?-?-?-i-?-iii-?-?-?-iv-?-iii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "Emin",
+        "Bmin",
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "Emin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "Emin",
+        "Bmin",
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "Emin",
+        "Bmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.05",
+        "progression:iii-?-?-?-iv-?-iii-?-?-?-i-?-iii-?-?-?-iv-?-iii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "Emin",
+        "Bmin",
+        "C",
+        "Bmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "E",
+        "Bmin",
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "E",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "E",
+        "Bmin",
+        "G",
+        "B",
+        "Emin",
+        "Bmin",
+        "C",
+        "B",
+        "E",
+        "Bmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:biii-?-v-?-?-?-bvi-?-v-?-i-?-?-biii-?-v-?-?-?-bvi-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Bmin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Gastanked",
+  "release_date": "1992-10-01",
+  "duration_ms": 113573
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Example Song",
+  "artist": "Demo Artist",
+  "bpm": 120,
+  "key": "G major",
+  "source": "JCRD Example",
+  "beat_times": [0, 500, 1000, 1500, 2000],
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 0,
+      "duration_ms": 8000,
+      "chords": ["G", "D", "Em", "C"],
+      "romanNumerals": ["I", "V", "vi", "IV"],
+      "tags": ["intro", "form:A"],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A"
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 8000,
+      "duration_ms": 16000,
+      "chords": ["G", "D", "Em", "C", "G", "D", "C", "G"],
+      "romanNumerals": ["I", "V", "vi", "IV", "I", "V", "IV", "I"],
+      "tags": ["verse", "form:B"],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B"
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 24000,
+      "duration_ms": 16000,
+      "chords": ["C", "D", "G", "Em", "C", "D", "G"],
+      "romanNumerals": ["IV", "V", "I", "vi", "IV", "V", "I"],
+      "tags": ["chorus", "form:C"],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C"
+    }
+  ]
+}

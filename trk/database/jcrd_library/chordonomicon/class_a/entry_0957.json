@@ -1,0 +1,209 @@
+{
+  "songID": "entry_0957",
+  "title": "Life Must Be So Wonderful - 2012 Remastered",
+  "artist": "Pulp",
+  "spotifyID": "2KACTge0W3IUKPXRmJSGBd",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A/Cs",
+        "Gmin/Bb"
+      ],
+      "rawChords": [
+        "A/Cs",
+        "Gmin/Bb"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "rawChords": [
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E",
+        "A/Cs",
+        "Fsmin",
+        "Bmin",
+        "E"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Interlude",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Freaks (2012 Remastered)",
+  "release_date": "1987-05-01",
+  "duration_ms": 236274
+}

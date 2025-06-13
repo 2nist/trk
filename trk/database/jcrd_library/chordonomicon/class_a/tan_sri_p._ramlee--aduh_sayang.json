@@ -1,0 +1,203 @@
+{
+  "songID": "entry_101774",
+  "title": "Aduh Sayang",
+  "artist": "Tan Sri P. Ramlee",
+  "spotifyID": "6gg6S4DFrxf6ilcfBFsd7A",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Gmin",
+        "F",
+        "C",
+        "F",
+        "C7",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Gmin",
+        "F",
+        "C",
+        "F",
+        "C7",
+        "F",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Dmin",
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Dmin",
+        "G",
+        "G7",
+        "C",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-i-?-iv-?-i-?-iv-?-i-?-?-ii-?-ii-?-v-?-i-?-v-?-i-?-iv-?-i-?-iv-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Db",
+        "Eb",
+        "Ab",
+        "Fmin",
+        "Bbmin",
+        "Eb7",
+        "F",
+        "C",
+        "F",
+        "G",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "Db",
+        "Eb",
+        "Ab",
+        "Fmin",
+        "Bbmin",
+        "Eb7",
+        "F",
+        "C",
+        "F",
+        "G",
+        "G7",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.51",
+        "progression:bii-?-biii-?-bvi-?-?-?-biii-?-iv-?-i-?-iv-?-v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F",
+        "Dmin",
+        "Gmin",
+        "C7",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-ii-?-v-?-i-?-v-?-i-?-v-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Nada Pesona",
+  "release_date": "2016-03-08",
+  "duration_ms": 183876
+}

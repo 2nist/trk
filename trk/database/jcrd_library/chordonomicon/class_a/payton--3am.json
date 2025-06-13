@@ -1,0 +1,271 @@
+{
+  "songID": "entry_100531",
+  "title": "3AM",
+  "artist": "payton",
+  "spotifyID": "35OYPvJiwc0hHjXaKuD7T2",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F",
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "3AM",
+  "release_date": "2021-05-07",
+  "duration_ms": 165030
+}

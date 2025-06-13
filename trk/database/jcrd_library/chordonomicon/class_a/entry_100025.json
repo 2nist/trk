@@ -1,0 +1,329 @@
+{
+  "songID": "entry_100025",
+  "title": "Rebirth",
+  "artist": "Wait of the World",
+  "spotifyID": "2N8w7X7kETG8d1WtoPUmnU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "progression:bbvi-?-bbvi-?"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "B",
+        "Db"
+      ],
+      "rawChords": [
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "B",
+        "Db"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "progression:bbvi-?-bbvi-?-bbvi-?-bbvi-?-i-bbiii"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gb",
+        "Db",
+        "Gb",
+        "B",
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "rawChords": [
+        "Gb",
+        "Db",
+        "Gb",
+        "B",
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "progression:bbvi-bbiii-bbvi-i-?-bbiii-bbvi-i"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "progression:bbvi-?-bbvi-?"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "B",
+        "Db",
+        "B",
+        "Bb"
+      ],
+      "rawChords": [
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "Gb",
+        "Bbmin",
+        "B",
+        "Db",
+        "B",
+        "Bb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "progression:bbvi-?-bbvi-?-bbvi-?-bbvi-?-i-bbiii-i-bi"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B",
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B",
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "progression:?-bbvi-bbii-iv-?-bbvi-bbii-iv"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "progression:?-bbvi-bbii-iv"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "progression:?-bbvi-bbii-iv"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B",
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B",
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "progression:?-bbvi-bbii-iv-?-bbvi-bbii-iv"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Db",
+        "Gb",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "progression:?-bbvi-bbii-iv"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Rebirth",
+  "release_date": "2022-07-25",
+  "duration_ms": 289786
+}

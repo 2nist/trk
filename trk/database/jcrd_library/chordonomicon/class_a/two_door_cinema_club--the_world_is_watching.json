@@ -1,0 +1,275 @@
+{
+  "songID": "entry_102164",
+  "title": "The World Is Watching",
+  "artist": "Two Door Cinema Club",
+  "spotifyID": "3YGK9FF2cOBRXgT6juJ4l0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Bmin",
+        "E",
+        "Fsmin",
+        "E/Gs",
+        "Bmin",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "E",
+        "Fsmin",
+        "E/Gs",
+        "Bmin",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:iv-?-?-v-?-?-?-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A",
+        "Csmin",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Beacon",
+  "release_date": "2012-08-31",
+  "duration_ms": 216400
+}

@@ -1,0 +1,311 @@
+{
+  "songID": "entry_0130",
+  "title": "Arkansas Farmboy",
+  "artist": "Carl Jackson",
+  "spotifyID": "6m8xDatBHwoGJT5ttcsTC5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-?-i-v-i-v-i-ii-v-i-v-?-i-v-i-v-i-ii-v-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "Amin7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "Amin7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-ii-v-?-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-?-i-v-i-v-i-ii-v-ii"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "Amin7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "Amin7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-i-?-i-iv-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "Amin7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "Amin7",
+        "C",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-i-?-i-iv-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Countryside Songs",
+  "release_date": "2012-09-04",
+  "duration_ms": 221133
+}

@@ -1,0 +1,443 @@
+{
+  "songID": "entry_10201",
+  "title": "Para olvidar",
+  "artist": "Colectivo Panamera",
+  "spotifyID": "4VEj6pSyZ0KtAaKU1qgri8",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.47",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "Emin",
+        "Bmin",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:i-?-iv-?-?-v-?-i-?-?-?-v-?-i-?-iv-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.48",
+        "progression:?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "D",
+        "G",
+        "Bmin",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Bmin",
+        "A",
+        "D",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Mares por navegar",
+  "release_date": "2021-04-23",
+  "duration_ms": 176947
+}

@@ -1,0 +1,251 @@
+{
+  "songID": "entry_101811",
+  "title": "Thank you for your love",
+  "artist": "\u725b\u5609\u6021",
+  "spotifyID": "0Yuryc98gh2fKmV9q3nJnf",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?-?-v-?-i-?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Slice",
+  "release_date": "2022-09-17",
+  "duration_ms": 271986
+}

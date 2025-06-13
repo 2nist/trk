@@ -1,0 +1,295 @@
+{
+  "songID": "entry_102526",
+  "title": "MAKE SOME NOISE!",
+  "artist": "Kidz Bop Kids",
+  "spotifyID": "2wUsOEYF9M8d56PcfhkXiF",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "KIDZ BOP Greatest Hits!",
+  "release_date": "2016-04-01",
+  "duration_ms": 176813
+}

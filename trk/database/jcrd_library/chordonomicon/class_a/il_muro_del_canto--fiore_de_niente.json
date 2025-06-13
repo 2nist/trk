@@ -1,0 +1,257 @@
+{
+  "songID": "entry_100031",
+  "title": "Fiore de niente",
+  "artist": "Il Muro Del Canto",
+  "spotifyID": "5ITFowruIv3aCHRi0rExzw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:?-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "Amin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:?-?-v-?-?-i-?-v-?-?-?-v-?-?-i-?-v-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "G",
+        "C",
+        "E",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "C",
+        "E",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:?-v-?-i-?-iii-?-?-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "Amin",
+        "Dmin",
+        "G",
+        "Amin",
+        "C",
+        "G",
+        "E",
+        "Amin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.58",
+        "progression:?-?-v-?-?-i-?-v-?-iii-?-?-?-v-?-?-i-?-v-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "G",
+        "C",
+        "E",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "E"
+      ],
+      "rawChords": [
+        "Dmin",
+        "G",
+        "C",
+        "E",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:?-v-?-i-?-iii-?-?-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "E",
+        "Amin",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "E",
+        "Amin",
+        "E",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.40",
+        "progression:?-?-v-?-i-?-iii-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Fiore de niente",
+  "release_date": "2016-03-04",
+  "duration_ms": 159311
+}

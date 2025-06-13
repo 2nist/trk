@@ -1,0 +1,243 @@
+{
+  "songID": "entry_101635",
+  "title": "It's Not That Easy",
+  "artist": "Salvatore Giuseppe Sichi",
+  "spotifyID": "2ZzonRI0HHhU5zArEvPEGx",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:?-v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A",
+        "Emin",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "Fs"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:v-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Fmin",
+        "E",
+        "D",
+        "Cs7",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "Fsmin",
+        "Fs7"
+      ],
+      "rawChords": [
+        "Fmin",
+        "E",
+        "D",
+        "Cs7",
+        "D",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "Fsmin",
+        "Fs7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:?-ii-?-i-?-?-i-?-v-?-ii-?-?-i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-v-?-?-iv-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "Emin",
+        "Fs",
+        "Bmin"
+      ],
+      "rawChords": [
+        "A",
+        "Emin",
+        "Fs",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:v-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Solo",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I Walk Alone",
+  "release_date": "2021-05-27",
+  "duration_ms": 241111
+}

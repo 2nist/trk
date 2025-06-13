@@ -1,0 +1,227 @@
+{
+  "title": "I Don't Need You",
+  "artist": "Kenny Rogers",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 394,
+      "duration_ms": 7154,
+      "chords": [
+        "Db:maj(9)",
+        "Ab:7/4",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 7549,
+      "duration_ms": 56911,
+      "chords": [
+        "Db:maj(9)",
+        "Ab:maj/4",
+        "Ab:maj6/4",
+        "Gb:maj6(9)",
+        "Db:maj/4",
+        "Gb:maj6(9)",
+        "Ab:maj",
+        "Gb:maj(9)/2",
+        "Ab:maj6",
+        "Ab:9",
+        "Db:maj(9)",
+        "Ab:maj/4",
+        "Db:maj(9)",
+        "Ab:maj/4",
+        "Gb:maj(9)",
+        "Db:maj/3",
+        "Eb:min7(11)",
+        "Ab:maj",
+        "Gb:maj(9)/2",
+        "Ab:maj6",
+        "Gb:maj/2",
+        "Db:sus4(9)",
+        "Db:maj(9)",
+        "Ab:maj/4"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 64460,
+      "duration_ms": 21404,
+      "chords": [
+        "Ab:maj/4",
+        "Db:maj",
+        "Ab:maj/4",
+        "Db:maj",
+        "Gb:maj",
+        "Db:maj/4",
+        "Gb:maj",
+        "Ab:maj",
+        "Ab:sus4(b7)",
+        "Ab:maj6",
+        "Ab:maj6"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 85865,
+      "duration_ms": 7201,
+      "chords": [
+        "Ab:maj6",
+        "Db:maj(9)",
+        "Ab:7/4",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 93066,
+      "duration_ms": 56859,
+      "chords": [
+        "Db:maj",
+        "Db:maj(9)",
+        "Ab:maj/4",
+        "Ab:maj6/4",
+        "Gb:maj6(9)",
+        "Db:maj/4",
+        "Gb:maj6(9)",
+        "Ab:maj",
+        "Gb:maj(9)/2",
+        "Ab:maj6",
+        "Ab:9",
+        "Db:maj(9)",
+        "Ab:maj/4",
+        "Db:maj(9)",
+        "Ab:maj/4",
+        "Gb:maj(9)",
+        "Db:maj/3",
+        "Eb:min7(11)",
+        "Ab:maj",
+        "Gb:maj(9)/2",
+        "Ab:maj6",
+        "Gb:maj/2",
+        "Db:sus4(9)",
+        "Db:maj(9)",
+        "Ab:maj/4"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 149925,
+      "duration_ms": 21255,
+      "chords": [
+        "Db:maj",
+        "Ab:maj/4",
+        "Db:maj",
+        "Gb:maj",
+        "Db:maj/4",
+        "Gb:maj",
+        "Ab:maj",
+        "Ab:sus4(b7)",
+        "Ab:maj6",
+        "Ab:maj6"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 171181,
+      "duration_ms": 7096,
+      "chords": [
+        "Ab:maj6",
+        "Db:maj(9)",
+        "Ab:7/4",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 178277,
+      "duration_ms": 30440,
+      "chords": [
+        "Db:maj",
+        "Gb:maj",
+        "Db:maj/4",
+        "Gb:maj6",
+        "Ab:maj",
+        "Ab:9",
+        "Ab:maj6",
+        "Ab:maj",
+        "Ab:maj",
+        "Ab:maj6/4",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "Db:maj",
+        "N"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

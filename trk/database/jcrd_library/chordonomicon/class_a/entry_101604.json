@@ -1,0 +1,275 @@
+{
+  "songID": "entry_101604",
+  "title": "Ich mag dich einfach nicht mehr so",
+  "artist": "Tocotronic",
+  "spotifyID": "3fn6NzuRPaGzVmxSz6Zcl6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 32,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-iv-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Nach der verlorenen Zeit",
+  "release_date": "1995-07-31",
+  "duration_ms": 285626
+}

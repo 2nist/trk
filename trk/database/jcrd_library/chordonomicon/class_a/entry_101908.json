@@ -1,0 +1,279 @@
+{
+  "songID": "entry_101908",
+  "title": "No More Secrets",
+  "artist": "Papa Roach",
+  "spotifyID": "3LOs5KXzI36twfLWv63roq",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:?-v-?-iv-?-?-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "C",
+        "Dmin",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "Bb",
+        "C",
+        "Dmin",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-iv-?-v-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "F",
+        "G",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "F",
+        "G",
+        "C",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:?-v-?-iv-?-?-iv-?-i-?-ii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "C",
+        "Dmin",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "C",
+        "Dmin",
+        "F",
+        "Bb",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-v-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "F",
+        "G",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "F",
+        "G",
+        "C",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:?-v-?-iv-?-?-iv-?-i-?-ii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "F",
+        "G",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Bb",
+        "F",
+        "G",
+        "C",
+        "Dmin",
+        "C",
+        "Bb",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "C",
+        "Dmin"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:?-v-?-iv-?-?-iv-?-i-?-ii-?-v-?-?-v-?-iv-?-?-?-v-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Paramour Sessions",
+  "release_date": "2006-01-01",
+  "duration_ms": 195253
+}

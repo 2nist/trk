@@ -1,0 +1,219 @@
+{
+  "songID": "entry_0308",
+  "title": "City Ways",
+  "artist": "Johnny Rivers",
+  "spotifyID": "5oHQ9nw3q7Uopy7mN9hfv4",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "Amin7",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "Amin7",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-i-?-i-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "A"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-i-?-i-?-ii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Amin",
+        "A",
+        "D",
+        "E7",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "D",
+        "Amin",
+        "A",
+        "D",
+        "E7",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-ii-v-vi-?-v-?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-i-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-?-i-?-v-?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "A Touch Of Gold",
+  "release_date": "1968-07-20",
+  "duration_ms": 194906
+}

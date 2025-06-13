@@ -1,0 +1,263 @@
+{
+  "songID": "entry_102611",
+  "title": "Tocca a me",
+  "artist": "Federica Carta",
+  "spotifyID": "6rpgev1HeKWdxTElTHwmfh",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "Bmin"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "Bmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:i-?-v-?-?-?-ii-?-i-?-v-?-ii-?-i-?-v-?-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D",
+        "Bmin",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-?-iv-?-?-v-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:i-?-v-?-?-?-ii-?-i-?-v-?-ii-?-i-?-v-?-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Tocca a me",
+  "release_date": "2021-05-21",
+  "duration_ms": 178204
+}

@@ -1,0 +1,120 @@
+2025-05-16 16:25:28,887 - INFO - Analyzing SALAMI files from C:\Users\Matthew\jcrd-project\Structure ref\McGill-Billboard
+2025-05-16 16:25:38,430 - INFO - Processed 890 SALAMI files
+2025-05-16 16:25:38,430 - INFO - Found 7737 total section labels (46 unique labels)
+2025-05-16 16:25:38,431 - INFO - Most common section labels:
+2025-05-16 16:25:38,431 - INFO -   verse: 2328
+2025-05-16 16:25:38,432 - INFO -   chorus: 2198
+2025-05-16 16:25:38,432 - INFO -   intro: 768
+2025-05-16 16:25:38,432 - INFO -   bridge: 431
+2025-05-16 16:25:38,432 - INFO -   solo: 357
+2025-05-16 16:25:38,433 - INFO -   interlude: 344
+2025-05-16 16:25:38,433 - INFO -   trans: 298
+2025-05-16 16:25:38,433 - INFO -   pre-chorus: 294
+2025-05-16 16:25:38,433 - INFO -   outro: 263
+2025-05-16 16:25:38,433 - INFO -   instrumental: 120
+2025-05-16 16:25:38,434 - INFO -   fadeout: 82
+2025-05-16 16:25:38,434 - INFO -   prechorus: 51
+2025-05-16 16:25:38,434 - INFO -   pre-verse: 45
+2025-05-16 16:25:38,434 - INFO -   transition: 38
+2025-05-16 16:25:38,434 - INFO -   coda: 30
+2025-05-16 16:25:38,435 - INFO -   refrain: 30
+2025-05-16 16:25:38,435 - INFO -   theme: 9
+2025-05-16 16:25:38,435 - INFO -   pre chorus: 6
+2025-05-16 16:25:38,445 - INFO -   main theme: 5
+2025-05-16 16:25:38,446 - INFO -   chorus b: 4
+2025-05-16 16:25:38,464 - INFO - 
+Most common section sequences:
+2025-05-16 16:25:38,464 - INFO -   B:verse: 993
+2025-05-16 16:25:38,465 - INFO -   C:chorus: 680
+2025-05-16 16:25:38,465 - INFO -   B:chorus: 453
+2025-05-16 16:25:38,465 - INFO -   A:intro: 449
+2025-05-16 16:25:38,465 - INFO -   A:verse: 262
+2025-05-16 16:25:38,466 - INFO -   C:verse: 213
+2025-05-16 16:25:38,466 - INFO -   D:chorus: 191
+2025-05-16 16:25:38,466 - INFO -   C:pre-chorus: 179
+2025-05-16 16:25:38,466 - INFO -   A:chorus: 150
+2025-05-16 16:25:38,468 - INFO -   D:bridge: 148
+2025-05-16 16:25:38,468 - INFO -   A:trans: 146
+2025-05-16 16:25:38,468 - INFO -   C:bridge: 138
+2025-05-16 16:25:38,469 - INFO -   A:interlude: 131
+2025-05-16 16:25:38,469 - INFO -   B:verse > B:verse: 101
+2025-05-16 16:25:38,469 - INFO -   E:bridge: 52
+2025-05-16 16:25:38,469 - INFO -   B:solo: 52
+2025-05-16 16:25:38,469 - INFO -   C:chorus > C:chorus: 49
+2025-05-16 16:25:38,469 - INFO -   D:interlude: 48
+2025-05-16 16:25:38,470 - INFO -   A:intro > A:verse: 46
+2025-05-16 16:25:38,470 - INFO -   B:pre-chorus: 46
+2025-05-16 16:25:38,472 - INFO - 
+Canonical section letter mapping:
+2025-05-16 16:25:38,472 - INFO -   A: intro (695), verse (593), chorus (312)
+2025-05-16 16:25:38,473 - INFO -   B: verse (1448), chorus (689), solo (124)
+2025-05-16 16:25:38,473 - INFO -   C: chorus (859), verse (255), pre-chorus (183)
+2025-05-16 16:25:38,473 - INFO -   D: chorus (296), bridge (156), interlude (50)
+2025-05-16 16:25:38,473 - INFO -   E: bridge (60), chorus (31), outro (31)
+2025-05-16 16:25:38,474 - INFO -   F: bridge (22), outro (16), solo (12)
+2025-05-16 16:25:38,474 - INFO -   G: interlude (6), outro (5), verse (5)
+2025-05-16 16:25:38,474 - INFO -   H: pre-verse (4), solo (4), interlude (2)
+2025-05-16 16:25:38,474 - INFO -   I: outro (2), fadein (1), fade in (1)
+2025-05-16 16:25:38,474 - INFO -   J: outro (11), interlude (1)
+2025-05-16 16:25:38,475 - INFO -   K: interlude (10), outro (1)
+2025-05-16 16:25:38,478 - INFO - Saved section label analysis to salami_section_labels.json
+2025-05-16 16:45:21,952 - INFO - Analyzing SALAMI files from C:\Users\Matthew\jcrd-project\Structure ref\McGill-Billboard
+2025-05-16 16:45:22,282 - INFO - Processed 890 SALAMI files
+2025-05-16 16:45:22,282 - INFO - Found 7737 total section labels (46 unique labels)
+2025-05-16 16:45:22,283 - INFO - Most common section labels:
+2025-05-16 16:45:22,283 - INFO -   verse: 2328
+2025-05-16 16:45:22,284 - INFO -   chorus: 2198
+2025-05-16 16:45:22,284 - INFO -   intro: 768
+2025-05-16 16:45:22,284 - INFO -   bridge: 431
+2025-05-16 16:45:22,284 - INFO -   solo: 357
+2025-05-16 16:45:22,284 - INFO -   interlude: 344
+2025-05-16 16:45:22,284 - INFO -   trans: 298
+2025-05-16 16:45:22,284 - INFO -   pre-chorus: 294
+2025-05-16 16:45:22,285 - INFO -   outro: 263
+2025-05-16 16:45:22,285 - INFO -   instrumental: 120
+2025-05-16 16:45:22,285 - INFO -   fadeout: 82
+2025-05-16 16:45:22,285 - INFO -   prechorus: 51
+2025-05-16 16:45:22,285 - INFO -   pre-verse: 45
+2025-05-16 16:45:22,285 - INFO -   transition: 38
+2025-05-16 16:45:22,285 - INFO -   coda: 30
+2025-05-16 16:45:22,286 - INFO -   refrain: 30
+2025-05-16 16:45:22,286 - INFO -   theme: 9
+2025-05-16 16:45:22,286 - INFO -   pre chorus: 6
+2025-05-16 16:45:22,286 - INFO -   main theme: 5
+2025-05-16 16:45:22,286 - INFO -   chorus b: 4
+2025-05-16 16:45:22,300 - INFO - 
+Most common section sequences:
+2025-05-16 16:45:22,300 - INFO -   B:verse: 993
+2025-05-16 16:45:22,301 - INFO -   C:chorus: 680
+2025-05-16 16:45:22,301 - INFO -   B:chorus: 453
+2025-05-16 16:45:22,301 - INFO -   A:intro: 449
+2025-05-16 16:45:22,301 - INFO -   A:verse: 262
+2025-05-16 16:45:22,302 - INFO -   C:verse: 213
+2025-05-16 16:45:22,302 - INFO -   D:chorus: 191
+2025-05-16 16:45:22,302 - INFO -   C:pre-chorus: 179
+2025-05-16 16:45:22,302 - INFO -   A:chorus: 150
+2025-05-16 16:45:22,302 - INFO -   D:bridge: 148
+2025-05-16 16:45:22,302 - INFO -   A:trans: 146
+2025-05-16 16:45:22,302 - INFO -   C:bridge: 138
+2025-05-16 16:45:22,303 - INFO -   A:interlude: 131
+2025-05-16 16:45:22,303 - INFO -   B:verse > B:verse: 101
+2025-05-16 16:45:22,303 - INFO -   E:bridge: 52
+2025-05-16 16:45:22,303 - INFO -   B:solo: 52
+2025-05-16 16:45:22,303 - INFO -   C:chorus > C:chorus: 49
+2025-05-16 16:45:22,303 - INFO -   D:interlude: 48
+2025-05-16 16:45:22,303 - INFO -   A:intro > A:verse: 46
+2025-05-16 16:45:22,304 - INFO -   B:pre-chorus: 46
+2025-05-16 16:45:22,306 - INFO - 
+Canonical section letter mapping:
+2025-05-16 16:45:22,306 - INFO -   A: intro (695), verse (593), chorus (312)
+2025-05-16 16:45:22,307 - INFO -   B: verse (1448), chorus (689), solo (124)
+2025-05-16 16:45:22,307 - INFO -   C: chorus (859), verse (255), pre-chorus (183)
+2025-05-16 16:45:22,308 - INFO -   D: chorus (296), bridge (156), interlude (50)
+2025-05-16 16:45:22,309 - INFO -   E: bridge (60), chorus (31), outro (31)
+2025-05-16 16:45:22,309 - INFO -   F: bridge (22), outro (16), solo (12)
+2025-05-16 16:45:22,309 - INFO -   G: interlude (6), outro (5), verse (5)
+2025-05-16 16:45:22,311 - INFO -   H: pre-verse (4), solo (4), interlude (2)
+2025-05-16 16:45:22,312 - INFO -   I: outro (2), fadein (1), fade in (1)
+2025-05-16 16:45:22,313 - INFO -   J: outro (11), interlude (1)
+2025-05-16 16:45:22,313 - INFO -   K: interlude (10), outro (1)
+2025-05-16 16:45:22,317 - INFO - Saved section label analysis to salami_section_labels.json

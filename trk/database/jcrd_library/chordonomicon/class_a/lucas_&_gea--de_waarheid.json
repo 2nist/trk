@@ -1,0 +1,215 @@
+{
+  "songID": "entry_100923",
+  "title": "De waarheid",
+  "artist": "Lucas & Gea",
+  "spotifyID": "3vVvS62mH6bcWFUHR73j9g",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-?-v-?-?-v-?-?-i-?-v-?-ii-?-i-?-ii-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Bb",
+        "C",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-iv-?-i-?-v-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-i-?-?-i-?-?-iv-?-i-?-v-?-iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bb",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "F",
+        "C",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:i-?-v-?-ii-?-i-?-ii-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Interlude",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Lucas & Gea.....25 Jaar Hits",
+  "release_date": "2016-04-27",
+  "duration_ms": 206000
+}

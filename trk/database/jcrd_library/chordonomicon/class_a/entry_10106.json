@@ -1,0 +1,169 @@
+{
+  "songID": "entry_10106",
+  "title": "Heaven For You",
+  "artist": "Delaney Davidson",
+  "spotifyID": "1P6JQCu0AlGFs0xmLswF91",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-ii-v-i-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "Aadd13"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "Aadd13"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:ii-v-i-v-i-v-ii-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "Fs7",
+        "A",
+        "B7",
+        "E7",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Fs7",
+        "A",
+        "B7",
+        "E7",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-?-ii-iii-vi-ii-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:ii-v-i-v-i-v-ii-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Sad But True",
+  "release_date": "2012-11-23",
+  "duration_ms": 199578
+}

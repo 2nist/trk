@@ -1,0 +1,327 @@
+{
+  "songID": "entry_100192",
+  "title": "Bila Je Tako Lijepa",
+  "artist": "Pekinska patka",
+  "spotifyID": "5XJhfae0WpQz0BYOJN23YI",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "D",
+        "Emin",
+        "Amin",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "D",
+        "Emin",
+        "Amin",
+        "C",
+        "D",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:?-iv-?-v-?-?-iv-?-v-?-?-?-v-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "Amin",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "C",
+        "D",
+        "C",
+        "Amin",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-ii-?-?-i-?-ii-?-?-?-i-?-ii-?-i-?-?-i-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:iv-?-v-?-?-iv-?-v-?-?-?-v-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Sy Plo\u010de 16",
+  "release_date": "2013-01-01",
+  "duration_ms": 201880
+}

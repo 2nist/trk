@@ -1,0 +1,157 @@
+{
+  "songID": "entry_0119",
+  "title": "Testamentti",
+  "artist": "Vesala",
+  "spotifyID": "2pDoLxCy0aDjJtMOUjsoQu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmaj7",
+        "A",
+        "Amin",
+        "B7",
+        "Emin"
+      ],
+      "rawChords": [
+        "Cmaj7",
+        "A",
+        "Amin",
+        "B7",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmaj7",
+        "A",
+        "Amin",
+        "B7",
+        "Emin"
+      ],
+      "rawChords": [
+        "Cmaj7",
+        "A",
+        "Amin",
+        "B7",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Amin",
+        "B7",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "A",
+        "Amin",
+        "B7",
+        "Cmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "Cmaj7",
+        "A",
+        "Amin",
+        "B7",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Cmaj7",
+        "A",
+        "Amin",
+        "B7",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-?-iv-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmaj7",
+        "A",
+        "Amin",
+        "B7",
+        "Emin"
+      ],
+      "rawChords": [
+        "Cmaj7",
+        "A",
+        "Amin",
+        "B7",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "N\u00e4kemiin, melankolia",
+  "release_date": "2023-02-10",
+  "duration_ms": 212454
+}

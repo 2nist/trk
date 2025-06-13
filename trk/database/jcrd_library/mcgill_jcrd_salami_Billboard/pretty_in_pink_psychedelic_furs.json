@@ -1,0 +1,371 @@
+{
+  "title": "Pretty In Pink",
+  "artist": "Psychedelic Furs",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 371,
+      "duration_ms": 22199,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 22571,
+      "duration_ms": 7231,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "s",
+      "sectionFunction": "Development",
+      "sectionLabel": "saxophone)",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 29802,
+      "duration_ms": 29001,
+      "chords": [
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 58803,
+      "duration_ms": 14550,
+      "chords": [
+        "A:maj",
+        "E:min",
+        "F#:min",
+        "G:maj",
+        "F#:min",
+        "E:min",
+        "F#:min",
+        "G:maj",
+        "F#:min"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 73354,
+      "duration_ms": 28998,
+      "chords": [
+        "F#:min",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 102352,
+      "duration_ms": 14515,
+      "chords": [
+        "E:min",
+        "F#:min",
+        "G:maj",
+        "F#:min",
+        "E:min",
+        "F#:min",
+        "G:maj",
+        "F#:min",
+        "F#:min"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 116868,
+      "duration_ms": 28992,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 145860,
+      "duration_ms": 28994,
+      "chords": [
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj",
+        "D:maj",
+        "D:maj/b7",
+        "E:min",
+        "A:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 174855,
+      "duration_ms": 14511,
+      "chords": [
+        "E:min",
+        "F#:min",
+        "G:maj",
+        "F#:min",
+        "E:min",
+        "F#:min",
+        "G:maj",
+        "F#:min",
+        "F#:min"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 189366,
+      "duration_ms": 21752,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_2",
+      "start_ms": 211118,
+      "duration_ms": 7252,
+      "chords": [
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "A:maj"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "s",
+      "sectionFunction": "Development",
+      "sectionLabel": "saxophone)",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 218371,
+      "duration_ms": 50881,
+      "chords": [
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_3",
+      "start_ms": 269253,
+      "duration_ms": 10739,
+      "chords": [
+        "A:maj",
+        "D:maj",
+        "D:maj",
+        "G:maj",
+        "A:maj",
+        "A:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

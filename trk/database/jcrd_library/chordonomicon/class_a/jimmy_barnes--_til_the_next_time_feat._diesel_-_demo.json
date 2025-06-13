@@ -1,0 +1,421 @@
+{
+  "songID": "entry_100527",
+  "title": "'Til The Next Time (feat. Diesel) - Demo",
+  "artist": "Jimmy Barnes",
+  "spotifyID": "1yaKCKExvTZ0EvimQnhgZu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "B",
+        "Csmin",
+        "E",
+        "Fsmin7",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Csmin",
+        "E",
+        "Fsmin7",
+        "B"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Csmin",
+        "E",
+        "A",
+        "B",
+        "E",
+        "Csmin",
+        "E",
+        "Fsmin7",
+        "B",
+        "A",
+        "E",
+        "Fsmin7",
+        "B",
+        "E",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Csmin",
+        "E",
+        "A",
+        "B",
+        "E",
+        "Csmin",
+        "E",
+        "Fsmin7",
+        "B",
+        "A",
+        "E",
+        "Fsmin7",
+        "B",
+        "E",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-?-v-?-i-?-ii-?-v-?-?-v-?-?-ii-?-i-?-v-?-?-ii-?-v-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "Csmin",
+        "B",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "Csmin",
+        "B",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:?-?-iv-?-i-?-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "B",
+        "E",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "A",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Csmin",
+        "E",
+        "A",
+        "B",
+        "E",
+        "Csmin",
+        "E",
+        "Fsmin7",
+        "B",
+        "A",
+        "E",
+        "Fsmin7",
+        "B",
+        "E",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Csmin",
+        "E",
+        "A",
+        "B",
+        "E",
+        "Csmin",
+        "E",
+        "Fsmin7",
+        "B",
+        "A",
+        "E",
+        "Fsmin7",
+        "B",
+        "E",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:v-?-?-v-?-i-?-ii-?-v-?-?-v-?-?-ii-?-i-?-v-?-?-ii-?-v-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "Csmin",
+        "B",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "Csmin",
+        "B",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:?-?-iv-?-i-?-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "B",
+        "E",
+        "Gsmin",
+        "A",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Gsmin",
+        "Fsmin7",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "Gsmin",
+        "A",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Gsmin",
+        "Fsmin7",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:v-?-i-?-?-iv-?-v-?-i-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "Fsmin7",
+        "B",
+        "E",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "Fsmin7",
+        "B",
+        "E",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-i-?-v-?-?-ii-?-v-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "Csmin",
+        "B",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "Csmin",
+        "B",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:?-?-iv-?-i-?-?-?-v-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "B",
+        "Csmin",
+        "E",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Csmin",
+        "E",
+        "Fsmin7",
+        "B",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Skin And Bone (The Flesh And Blood Demos)",
+  "release_date": "2021-10-15",
+  "duration_ms": 242242
+}

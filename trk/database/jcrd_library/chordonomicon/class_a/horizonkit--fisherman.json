@@ -1,0 +1,253 @@
+{
+  "songID": "entry_100461",
+  "title": "Fisherman",
+  "artist": "Horizonkit",
+  "spotifyID": "1LtwEAATchyvakYjIk3vAJ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "G",
+        "B",
+        "G",
+        "Emaj7",
+        "Emin",
+        "G",
+        "B",
+        "G",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "B",
+        "G",
+        "Emaj7",
+        "Emin",
+        "G",
+        "B",
+        "G",
+        "C",
+        "Emin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.09",
+        "progression:?-i-?-iii-?-i-?-?-?-i-?-iii-?-i-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "D",
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "G",
+        "C",
+        "Bmin"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "Bmin",
+        "D",
+        "A",
+        "G",
+        "C",
+        "Bmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-iv-?-bvii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "D",
+        "G",
+        "Emin",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-?-v-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Fisherman",
+  "release_date": "2021-06-01",
+  "duration_ms": 194132
+}

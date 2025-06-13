@@ -1,0 +1,361 @@
+{
+  "songID": "entry_100073",
+  "title": "Finally Awake - Bonus Track",
+  "artist": "Hoobastank",
+  "spotifyID": "6s36douU0V0igHm87NzsEi",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "C",
+        "D",
+        "Eb",
+        "F",
+        "Eb",
+        "D",
+        "C",
+        "D",
+        "Eb",
+        "F",
+        "Eb",
+        "D",
+        "C",
+        "D",
+        "Eb",
+        "F",
+        "Eb",
+        "D",
+        "C",
+        "D",
+        "Eb",
+        "F",
+        "Eb",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "D",
+        "Eb",
+        "F",
+        "Eb",
+        "D",
+        "C",
+        "D",
+        "Eb",
+        "F",
+        "Eb",
+        "D",
+        "C",
+        "D",
+        "Eb",
+        "F",
+        "Eb",
+        "D",
+        "C",
+        "D",
+        "Eb",
+        "F",
+        "Eb",
+        "D"
+      ],
+      "length": 25,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:ii-?-i-?-ii-?-biii-?-iv-?-biii-?-ii-?-i-?-ii-?-biii-?-iv-?-biii-?-ii-?-i-?-ii-?-biii-?-iv-?-biii-?-ii-?-i-?-ii-?-biii-?-iv-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:iv-?-v-?-biii-?-iv-?-v-?-biii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:biii-?-iv-?-v-?-biii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:iv-?-v-?-biii-?-iv-?-v-?-biii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:biii-?-iv-?-v-?-biii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:iv-?-v-?-biii-?-iv-?-v-?-biii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:biii-?-iv-?-v-?-biii-?-iv-?-v-?-biii-?-iv-?-v-?-biii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:biii-?-iv-?-v-?-biii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "D",
+        "Bb",
+        "C",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:biii-?-iv-?-v-?-biii-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Every Man For Himself (Expanded Edition)",
+  "release_date": "2006-05-08",
+  "duration_ms": 242613
+}

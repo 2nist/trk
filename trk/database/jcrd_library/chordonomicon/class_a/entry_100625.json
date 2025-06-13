@@ -1,0 +1,271 @@
+{
+  "songID": "entry_100625",
+  "title": "Killing My Dreams",
+  "artist": "Elysion",
+  "spotifyID": "6NvjefGOBXHhY8iCv8NiEN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-v-?-iv-v-?-iv-v-?-iv-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-v-?-iv-v-?-iv-v-?-iv-v-?-iv-v-?-iv-v-?-iv-v-?-iv-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "D",
+        "Fsmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "Fsmin"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-v-?-iv-v-?-iv-v-?-iv-v-?-iv-v-?-iv-v-?-iv-v-?-iv-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Silent Scream",
+  "release_date": "2009-12-18",
+  "duration_ms": 231013
+}

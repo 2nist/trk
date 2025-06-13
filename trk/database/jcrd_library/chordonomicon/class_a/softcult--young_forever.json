@@ -1,0 +1,241 @@
+{
+  "songID": "entry_101415",
+  "title": "Young Forever",
+  "artist": "Softcult",
+  "spotifyID": "5lPg6FeJwQ6AVuPV0QDTZw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.20",
+        "progression:v-?-?-?-i-?-ii-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-?-iv-?-v-?-i-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin",
+        "F",
+        "Dmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C",
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-?-iv-?-v-?-i-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Dmin",
+        "Gmin",
+        "Bb",
+        "C",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Year Of The Rat",
+  "release_date": "2021-04-16",
+  "duration_ms": 164060
+}

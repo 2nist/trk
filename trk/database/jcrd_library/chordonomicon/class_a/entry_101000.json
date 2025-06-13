@@ -1,0 +1,241 @@
+{
+  "songID": "entry_101000",
+  "title": "Keep Rollin' on",
+  "artist": "Bones Owens",
+  "spotifyID": "2xzvPNjPg5aKCMUUHceMyR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-?-?-v-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Dmin",
+        "Amin",
+        "G",
+        "Fmaj7"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin",
+        "G",
+        "Fmaj7",
+        "Amin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-v-?-?-v-?-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Make Me No King",
+  "release_date": "2017-02-14",
+  "duration_ms": 237751
+}

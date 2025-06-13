@@ -1,0 +1,4476 @@
+#!/usr/bin/env python3
+"""
+JCRD Toolbox GUI v2
+Tkinter interface to import, enrich, validate, and export .jcrd files
+via helper scripts.
+"""
+
+import os
+import sys
+import json
+import shutil
+import subprocess
+from tkinter import filedialog, messagebox
+from pathlib import Path
+from datetime import datetime
+import tkinter as tk
+from tkinter import ttk, scrolledtext
+
+
+class JCRDToolboxGUI:
+    def build_menu(self):
+        menubar = tk.Menu(self.root)
+        filemenu = tk.Menu(menubar, tearoff=0)
+        filemenu.add_command(label="Exit", command=self.root.quit)
+        menubar.add_cascade(label="File", menu=filemenu)
+        helpmenu = tk.Menu(menubar, tearoff=0)
+        helpmenu.add_command(
+            label="About",
+            command=lambda: messagebox.showinfo("About", "JCRD Toolbox GUI v2")
+        )
+        menubar.add_cascade(label="Help", menu=helpmenu)
+        self.root.config(menu=menubar)
+
+    def run_tool(self, script_name, input_path, success_msg, error_msg):
+        # Set up base command
+        cmd = [
+            "python3",
+            f"{self.scripts_dir}/{script_name}.py",
+            "--input",
+            input_path
+        ]
+
+        # Check if this is a validation tool and add output parameter
+        if script_name.startswith(("validate_", "scan_")):
+            # Place new_jcrd inside jcrddatasets directory
+            output_dir = os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "new_jcrd"
+            )
+            # Create the directory if it doesn't exist
+            os.makedirs(output_dir, exist_ok=True)
+
+            # Add output directory parameter for validation tools that need it
+            if script_name == "validate_jcrd":
+                cmd.extend(["--output_dir", output_dir])
+            elif script_name == "scan_ready_for_export":
+                cmd.extend(["--output_ready", output_dir])
+
+        self.import_status.set(f"Running {script_name} on: {input_path}")
+        try:
+            result = subprocess.run(
+                cmd, capture_output=True, text=True, check=True
+            )
+            self.import_status.set(f"✅ {success_msg}: {input_path}")
+            messagebox.showinfo("Success", result.stdout)
+        except subprocess.CalledProcessError as e:
+            self.import_status.set(f"❌ {error_msg}")
+            messagebox.showerror("Error", e.stderr or str(e))
+
+    def build_timing_tab(self):
+        frame = ttk.Frame(self.timing_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        
+        # Header
+        ttk.Label(
+            frame, text="Timing Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="JCRD File", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.timing_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.timing_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")]
+            )
+            if path:
+                self.timing_file_path.set(path)
+                self.load_timing_data(path)
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Tools frame
+        tools_frame = ttk.LabelFrame(frame, text="Timing Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # Sync to BPM
+        sync_frame = ttk.Frame(tools_frame)
+        sync_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            sync_frame,
+            text="Sync BPM:"
+        ).pack(side='left', padx=5)
+        
+        self.target_bpm = tk.StringVar(value="120")
+        ttk.Entry(
+            sync_frame,
+            textvariable=self.target_bpm,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            sync_frame,
+            text="Sync to BPM",
+            command=self.sync_to_bpm
+        ).pack(side='left', padx=5)
+
+        # Grid adjust
+        grid_frame = ttk.Frame(tools_frame)
+        grid_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            grid_frame,
+            text="Grid Size (bars):"
+        ).pack(side='left', padx=5)
+        
+        self.grid_size = tk.StringVar(value="1")
+        ttk.Entry(
+            grid_frame,
+            textvariable=self.grid_size,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            grid_frame,
+            text="Snap to Grid",
+            command=self.snap_to_grid
+        ).pack(side='left', padx=5)
+
+        # Time signature adjustment
+        time_sig_frame = ttk.Frame(tools_frame)
+        time_sig_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            time_sig_frame,
+            text="Time Signature:"
+        ).pack(side='left', padx=5)
+        
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_num,
+            width=3
+        ).pack(side='left')
+        ttk.Label(time_sig_frame, text="/").pack(side='left')
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_den,
+            width=3
+        ).pack(side='left', padx=(0, 5))
+        
+        ttk.Button(
+            time_sig_frame,
+            text="Apply Time Signature",
+            command=self.apply_time_signature
+        ).pack(side='left', padx=5)
+
+        # Status and preview
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+        
+        self.timing_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.timing_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.timing_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.timing_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_midi_tab(self):
+        frame = ttk.Frame(self.midi_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Header
+        ttk.Label(
+            frame, text="MIDI Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="File Selection", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.midi_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.midi_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[
+                    ("MIDI Files", "*.mid"),
+                    ("JCRD Files", "*.json")
+                ]
+            )
+            if path:
+                self.midi_file_path.set(path)
+                self.update_midi_preview()
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Conversion tools
+        tools_frame = ttk.LabelFrame(frame, text="Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # MIDI to JCRD
+        midi_to_jcrd_frame = ttk.Frame(tools_frame)
+        midi_to_jcrd_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            midi_to_jcrd_frame,
+            text="MIDI to JCRD:"
+        ).pack(side='left', padx=5)
+
+        midi_options = ["Auto-detect sections", "Fixed-length sections"]
+        self.midi_import_mode = tk.StringVar(value=midi_options[0])
+        ttk.OptionMenu(
+            midi_to_jcrd_frame,
+            self.midi_import_mode,
+            midi_options[0],
+            *midi_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            midi_to_jcrd_frame,
+            text="Convert MIDI to JCRD",
+            command=self.convert_midi_to_jcrd
+        ).pack(side='left', padx=5)
+
+        # JCRD to MIDI
+        jcrd_to_midi_frame = ttk.Frame(tools_frame)
+        jcrd_to_midi_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            jcrd_to_midi_frame,
+            text="JCRD to MIDI:"
+        ).pack(side='left', padx=5)
+
+        export_options = ["Full song", "Individual sections"]
+        self.midi_export_mode = tk.StringVar(value=export_options[0])
+        ttk.OptionMenu(
+            jcrd_to_midi_frame,
+            self.midi_export_mode,
+            export_options[0],
+            *export_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            jcrd_to_midi_frame,
+            text="Export to MIDI",
+            command=self.export_to_midi
+        ).pack(side='left', padx=5)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+
+        self.midi_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.midi_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.midi_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.midi_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_import_tab(self):
+        # dynamically list all import scripts
+        frame = ttk.Frame(self.import_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Import Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        # map keywords to filetypes
+        ext_map = {
+            'midi': ("MIDI Files", "*.mid"),
+            'mp3': ("MP3 Files", "*.mp3"),
+            'json': ("JSON Files", "*.json")
+        }
+        for script in sorted(self.scripts_dir.glob("*_to_jcrd.py")):
+            name = script.stem
+            ft = next(
+                (ext_map[k] for k in ext_map if k in name),
+                ext_map['json']
+            )
+
+            def make_cmd(n=name, ft=ft):
+
+                def cmd():
+                    path = filedialog.askopenfilename(filetypes=[ft])
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Converted {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+        ttk.Label(frame, textvariable=self.import_status,
+                  foreground='gray').pack(anchor='w', pady=(10, 0))
+
+    def build_harmony_tab(self):
+        frame = ttk.Frame(self.harmony_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Harmony Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("add_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Added {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def build_validation_tab(self):
+        frame = ttk.Frame(self.validation_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Batch Validate .jcrd Files",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Add info about the default output directory
+        output_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "new_jcrd"
+        )
+        ttk.Label(
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 10))
+
+        # Add McGill dataset section
+        mcgill_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "mcgill_jcrd"
+        )
+        os.makedirs(mcgill_dir, exist_ok=True)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+        ttk.Label(
+            frame,
+            text="McGill Dataset Operations:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        ttk.Label(
+            frame,
+            text=f"McGill dataset location: {mcgill_dir}",
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 5))
+
+        def move_to_mcgill():
+            source_file = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")],
+                initialdir=output_dir
+            )
+            if not source_file:
+                return
+
+            filename = os.path.basename(source_file)
+            target_file = os.path.join(mcgill_dir, filename)
+
+            if messagebox.askyesno(
+                "Confirm",
+                f"Move {filename} to McGill dataset?\\n\\n"
+                "This should only be done for validated files that meet "
+                "the requirements for the official dataset."
+            ):
+                try:
+                    import shutil
+                    shutil.copy2(source_file, target_file)
+                    self.import_status.set(
+                        f"✅ Added to McGill dataset: {filename}"
+                    )
+                    messagebox.showinfo(
+                        "Success",
+                        f"File has been added to McGill dataset at:\\n"
+                        f"{target_file}"
+                    )
+                except Exception as e:
+                    self.import_status.set(
+                        "❌ Error adding to McGill dataset"
+                    )
+                    messagebox.showerror("Error", str(e))
+
+        ttk.Button(
+            frame,
+            text="Add File to McGill Dataset",
+            command=move_to_mcgill
+        ).pack(fill='x', pady=4)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+
+        ttk.Label(
+            frame,
+            text="Validation Tools:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        validation_scripts = sorted(
+            self.scripts_dir.glob("scan_*.py")
+        ) + sorted(self.scripts_dir.glob("validate_*.py"))
+        for script in validation_scripts:
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    folder = filedialog.askdirectory()
+                    if folder:
+                        self.run_tool(n, folder,
+                                      f"Completed {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+        ttk.Label(
+            frame, text="Validate Single JCRD File",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(10, 5))
+
+        self.validate_button = ttk.Button(
+            frame,  # Changed from self.validation_tab to frame
+            text="Validate JCRD File",
+            command=self.validate_file
+        )
+        self.validate_button.pack(anchor="w", pady=(5, 5))
+
+        self.result_text = scrolledtext.ScrolledText(
+            frame,  # Changed from self.validation_tab to frame
+            wrap=tk.WORD,
+            height=10
+        )
+        self.result_text.pack(fill="both", expand=True, pady=(5, 5))
+
+    def build_export_tab(self):
+        frame = ttk.Frame(self.export_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Export Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("export_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Exported {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def __init__(self, root):
+        self.root = root
+        self.root.title("🎼 JCRD Toolbox GUI v2")
+        # window geometry and grid layout
+        self.root.geometry("700x500")
+        self.root.grid_rowconfigure(1, weight=1)
+        self.root.grid_columnconfigure(0, weight=1)
+        
+        # locate scripts directory for dynamic discovery
+        self.scripts_dir = Path(__file__).resolve().parent.parent / 'scripts'
+        
+        # Initialize status variables
+        self.import_status = tk.StringVar(value="Ready")
+        self.timing_status = tk.StringVar(value="Ready")
+        self.midi_status = tk.StringVar(value="Ready")
+        self.catalog_status = tk.StringVar(value="Ready")
+        
+        # Initialize time signature and BPM variables
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        self.bpm_var = tk.StringVar(value="120")
+        
+        self.build_menu()
+        self.build_interface()
+
+    def _setup_ui(self):
+        # Header label
+        banner = tk.Label(
+            self.root,
+            text="JCRD Toolbox v2\\nImport, enrich, validate, and export "
+                 "JCRD files (*.json)",
+            font=("Arial", 11), justify="center", fg="darkblue"
+        )
+        banner.grid(row=0, column=0, pady=4)
+
+        tab_control = ttk.Notebook(self.root)
+        # place notebook via grid
+        tab_control.grid(row=1, column=0, sticky="nsew")
+
+        # Define tabs
+        self.import_tab = ttk.Frame(tab_control)
+        self.harmony_tab = ttk.Frame(tab_control)
+        self.timing_tab = ttk.Frame(tab_control)
+        self.midi_tab = ttk.Frame(tab_control)
+        self.validation_tab = ttk.Frame(tab_control)
+        self.export_tab = ttk.Frame(tab_control)
+        self.catalog_tab = ttk.Frame(tab_control)
+
+        tab_control.add(self.import_tab, text='Import')
+        tab_control.add(self.harmony_tab, text='Harmony')
+        tab_control.add(self.timing_tab, text='Timing')
+        tab_control.add(self.midi_tab, text='MIDI')
+        tab_control.add(self.validation_tab, text='Validation')
+        tab_control.add(self.export_tab, text='Export')
+        tab_control.add(self.catalog_tab, text='Catalog')
+
+        # build content tabs
+        self.build_import_tab()
+        self.build_harmony_tab()
+        self.build_timing_tab()
+        self.build_midi_tab()
+        self.build_validation_tab()
+        self.build_export_tab()
+        self.build_catalog_tab()
+
+    def refresh_file_list(self, event=None):  # Added event for Combobox
+        # Clear existing items
+        for item in self.file_tree.get_children():
+            self.file_tree.delete(item)
+
+        dir_path = self.catalog_dir.get()
+        filter_text = self.filter_var.get().lower()  # Get filter text
+
+        if not os.path.exists(dir_path):
+            self.catalog_status.set(f"Directory not found: {dir_path}")
+            return
+
+        try:
+            file_count = 0
+            for filename in os.listdir(dir_path):
+                if filename.endswith('.json'):
+                    try:
+                        file_path = os.path.join(dir_path, filename)
+                        with open(file_path, 'r') as f:
+                            data = json.load(f)
+
+                        # Enhanced metadata extraction
+                        metadata_obj = data.get('metadata', {})
+                        title = metadata_obj.get(
+                            'title', data.get('title', '(Unknown)')
+                        )
+                        artist = metadata_obj.get(
+                            'artist', data.get('artist', '(Unknown)')
+                        )
+                        # sections = len(data.get('sections', [])) # No longer needed for display
+
+                        # Apply filter
+                        if filter_text and not (
+                            filter_text in title.lower() or
+                            filter_text in artist.lower() or
+                            filter_text in filename.lower()
+                        ):
+                            continue  # Skip if no match
+
+                        self.file_tree.insert(
+                            '', 'end',
+                            values=(title, artist),  # Updated values
+                            tags=(file_path,)
+                        )
+                        file_count += 1
+                    except Exception:  # Removed 'as e'
+                        pass
+            self.catalog_status.set(f"Found {file_count} JCRD files.")
+        except Exception as e:
+            self.catalog_status.set(f"Error scanning directory: {e}")
+
+    def build_catalog_tab(self):
+        frame = ttk.Frame(self.catalog_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Create header
+        ttk.Label(
+            frame, text="JCRD File Catalog",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Create directory selection
+        dir_frame = ttk.Frame(frame)
+        dir_frame.pack(fill='x', pady=5)
+
+        ttk.Label(dir_frame, text="Directory:").pack(side='left', padx=(0, 5))
+
+        # Catalog directory options
+        catalog_dirs = {
+            "Validated Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "new_jcrd"
+            ),
+            "McGill Dataset": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd"
+            ),
+            "McGill SALAMI": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd_salami"
+            ),
+            "Raw Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent), "raw"
+            )
+        }
+
+        # Create raw directory if it doesn't exist
+        os.makedirs(catalog_dirs["Raw Files"], exist_ok=True)
+
+        self.catalog_dir = tk.StringVar(value=catalog_dirs["Validated Files"])
+        catalog_dir_combo = ttk.Combobox(
+            dir_frame,
+            textvariable=self.catalog_dir,
+            values=list(catalog_dirs.values()),
+            state="readonly",
+            width=40
+        )
+        catalog_dir_combo.pack(side='left', fill='x', expand=True, padx=5)
+        # Bind event
+        catalog_dir_combo.bind("<<ComboboxSelected>>", self.refresh_file_list)
+
+        def browse_dir():
+            dir_path = filedialog.askdirectory()
+            if dir_path:
+                self.catalog_dir.set(dir_path)
+                self.refresh_file_list()  # Call method
+            else:
+                pass
+
+        ttk.Button(
+            dir_frame, text="Browse...",
+            command=browse_dir
+        ).pack(side='left', padx=5)
+
+        refresh_btn = ttk.Button(
+            dir_frame, text="Refresh",
+            command=self.refresh_file_list  # Call method
+        )
+        refresh_btn.pack(side='left')
+
+        # Filter input
+        filter_frame = ttk.Frame(frame)
+        filter_frame.pack(fill='x', pady=5)
+        ttk.Label(filter_frame, text="Filter:").pack(side='left', padx=(0, 5))
+        self.filter_var = tk.StringVar()
+        filter_entry = ttk.Entry(filter_frame,
+                                 textvariable=self.filter_var, width=40)
+        filter_entry.pack(side='left', fill='x', expand=True, padx=5)
+        # Trigger refresh
+        filter_entry.bind("<KeyRelease>", self.refresh_file_list)
+
+        # Create the file list frame with scrollbar
+        list_frame = ttk.Frame(frame)
+        list_frame.pack(fill='both', expand=True, pady=10)
+
+        # Add scrollbar and listbox
+        scrollbar = ttk.Scrollbar(list_frame)
+        scrollbar.pack(side='right', fill='y')
+
+        # File list with multiple columns (title, artist)
+        columns = ('title', 'artist')
+        self.file_tree = ttk.Treeview(
+            list_frame,
+            columns=columns,
+            show='headings',
+            selectmode='browse',
+            height=10
+        )
+
+        # Define column headings
+        self.file_tree.heading('title', text='Title')
+        self.file_tree.heading('artist', text='Artist')
+
+        # Set column widths
+        self.file_tree.column('title', width=250)  # Adjusted width
+        self.file_tree.column('artist', width=250)  # Adjusted width
+
+        self.file_tree.pack(side='left', fill='both', expand=True)
+        scrollbar.config(command=self.file_tree.yview)
+        self.file_tree.config(yscrollcommand=scrollbar.set)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=False, pady=10)
+
+        self.preview_text = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.preview_text.pack(fill='both', expand=True)
+
+        # Status line
+        status_frame = ttk.Frame(frame)
+        status_frame.pack(fill='x', pady=5)
+
+        self.catalog_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            status_frame,
+            textvariable=self.catalog_status,
+            foreground='gray'
+        ).pack(anchor='w')
+
+        # Action buttons
+        btn_frame = ttk.Frame(frame)
+        btn_frame.pack(fill='x', pady=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Preview Selected",
+            command=self.preview_selected_file
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Edit Selected",
+            command=self.edit_selected_file  # New command
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Export Selected",
+            command=self.export_selected_file
+        ).pack(side='left', padx=5)
+
+        # Bind select event to preview
+        self.file_tree.bind('<<TreeviewSelect>>', self.on_file_select)
+
+        # Initial file list population
+        self.refresh_file_list()  # Use class method
+
+        # Change directory combobox binding
+        catalog_dir_combo.bind(
+            '<<ComboboxSelected>>',
+            self.refresh_file_list  # Use class method
+        )
+        # NOTE: The local 'def refresh_file_list():' that was here previously
+        # caused issues with the combobox binding. It's been removed to
+        # avoid confusion.
+
+    def on_file_select(self, event):
+        selected_items = self.file_tree.selection()
+        if not selected_items:
+            return
+
+        selected_item = selected_items[0]
+        file_path = self.file_tree.item(selected_item, "tags")[0]
+
+        try:
+            self.load_preview(file_path)
+        except Exception as e:
+            self.catalog_status.set(f"Error previewing file: {e}")
+
+    def load_preview(self, file_path):
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+
+            title = data.get('title', '(No title)')
+            artist = data.get('artist', '(No artist)')
+            bpm = data.get('bpm', '?')
+            key = data.get('key', '?')
+
+            section_info = []
+            for i, section in enumerate(data.get('sections', [])):
+                section_type = section.get('sectionType', '')
+                section_letter = section.get('sectionLetter', '')
+                chords = ", ".join(section.get('chords', []))
+
+                section_label = (
+                    f"{section_letter}: {section_type}"
+                    if section_letter else f"Section {i+1}"
+                )
+                section_info.append(f"{section_label}: {chords}")
+
+            preview = (
+                f"Title: {title}\n"
+                f"Artist: {artist}\n"
+                f"BPM: {bpm}\n"
+                f"Key: {key}\n\n"
+                f"Sections:\n" + "\n".join(section_info)
+            )
+
+            # Update preview text
+            self.preview_text.config(state='normal')
+            self.preview_text.delete(1.0, 'end')
+            self.preview_text.insert('end', preview)
+            self.preview_text.config(state='disabled')
+
+            self.catalog_status.set(
+                f"Previewing: {os.path.basename(file_path)}"
+            )
+        except Exception as e:
+            raise Exception(f"Error loading preview: {e}")
+
+    def preview_selected_file(self):
+        selected_items = self.file_tree.selection()
+        if not selected_items:
+            self.catalog_status.set("No file selected")
+            return
+
+        selected_item = selected_items[0]
+        file_path = self.file_tree.item(selected_item, "tags")[0]
+
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+
+            title = data.get('title', '(No title)')
+            artist = data.get('artist', '(No artist)')
+            bpm = data.get('bpm', '?')
+            key = data.get('key', '?')
+
+            section_info = []
+            for i, section in enumerate(data.get('sections', [])):
+                chords = ", ".join(section.get('chords', []))
+                section_info.append(f"Section {i+1}: {chords}")
+
+            preview = (
+                f"Title: {title}\n"
+                f"Artist: {artist}\n"
+                f"BPM: {bpm}\n"
+                f"Key: {key}\n\n"
+                f"Sections:\n" + "\n".join(section_info)
+            )
+
+            messagebox.showinfo("Chord Sheet Preview", preview)
+        except Exception as e:
+            self.catalog_status.set("❌ Preview error occurred.")
+            messagebox.showerror("Preview Error", str(e))
+
+    def adjust_section_timing(self, section_id, start_ms=None, duration_ms=None):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        if start_ms is not None:
+            section['start'] = start_ms
+        if duration_ms is not None:
+            section['duration'] = duration_ms
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def snap_to_grid(self, section_id, grid_size_ms):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        # Snap start time to nearest grid line
+        section['start'] = round(section['start'] / grid_size_ms) * grid_size_ms
+        
+        # Snap duration to nearest grid line
+        section['duration'] = round(
+            section['duration'] / grid_size_ms
+        ) * grid_size_ms
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def sync_to_bpm(self, section_id, bpm):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        # Convert duration to bars at the given BPM
+        duration_bars = self._ms_to_bars(section['duration'], bpm)
+        
+        # Round to nearest whole number of bars
+        duration_bars = round(duration_bars)
+        
+        # Convert back to milliseconds
+        section['duration'] = self._bars_to_ms(duration_bars, bpm)
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def _ms_to_bars(self, ms, bpm):
+        return ms / 1000 * bpm / 60  # ms to seconds to beats to bars
+
+    def _bars_to_ms(self, bars, bpm):
+        return bars * 60 / bpm * 1000  # bars to beats to seconds to ms
+
+    def update_section_display(self, section_id):
+        # Find and update the section display widgets
+        for widget in self.section_widgets:
+            if widget.get('section_id') == section_id:
+                section = self.get_section_by_id(section_id)
+                start_label = widget.get('start_label')
+                duration_label = widget.get('duration_label')
+                
+                if start_label:
+                    start_label.config(
+                        text=f"Start: {section['start']}ms"
+                )
+                if duration_label:
+                    duration_label.config(
+                        text=f"Duration: {section['duration']}ms"
+                )
+
+    def build_timing_tab(self):
+        frame = ttk.Frame(self.timing_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        
+        # Header
+        ttk.Label(
+            frame, text="Timing Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="JCRD File", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.timing_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.timing_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")]
+            )
+            if path:
+                self.timing_file_path.set(path)
+                self.load_timing_data(path)
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Tools frame
+        tools_frame = ttk.LabelFrame(frame, text="Timing Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # Sync to BPM
+        sync_frame = ttk.Frame(tools_frame)
+        sync_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            sync_frame,
+            text="Sync BPM:"
+        ).pack(side='left', padx=5)
+        
+        self.target_bpm = tk.StringVar(value="120")
+        ttk.Entry(
+            sync_frame,
+            textvariable=self.target_bpm,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            sync_frame,
+            text="Sync to BPM",
+            command=self.sync_to_bpm
+        ).pack(side='left', padx=5)
+
+        # Grid adjust
+        grid_frame = ttk.Frame(tools_frame)
+        grid_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            grid_frame,
+            text="Grid Size (bars):"
+        ).pack(side='left', padx=5)
+        
+        self.grid_size = tk.StringVar(value="1")
+        ttk.Entry(
+            grid_frame,
+            textvariable=self.grid_size,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            grid_frame,
+            text="Snap to Grid",
+            command=self.snap_to_grid
+        ).pack(side='left', padx=5)
+
+        # Time signature adjustment
+        time_sig_frame = ttk.Frame(tools_frame)
+        time_sig_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            time_sig_frame,
+            text="Time Signature:"
+        ).pack(side='left', padx=5)
+        
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_num,
+            width=3
+        ).pack(side='left')
+        ttk.Label(time_sig_frame, text="/").pack(side='left')
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_den,
+            width=3
+        ).pack(side='left', padx=(0, 5))
+        
+        ttk.Button(
+            time_sig_frame,
+            text="Apply Time Signature",
+            command=self.apply_time_signature
+        ).pack(side='left', padx=5)
+
+        # Status and preview
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+        
+        self.timing_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.timing_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.timing_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.timing_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_midi_tab(self):
+        frame = ttk.Frame(self.midi_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Header
+        ttk.Label(
+            frame, text="MIDI Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="File Selection", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.midi_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.midi_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[
+                    ("MIDI Files", "*.mid"),
+                    ("JCRD Files", "*.json")
+                ]
+            )
+            if path:
+                self.midi_file_path.set(path)
+                self.update_midi_preview()
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Conversion tools
+        tools_frame = ttk.LabelFrame(frame, text="Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # MIDI to JCRD
+        midi_to_jcrd_frame = ttk.Frame(tools_frame)
+        midi_to_jcrd_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            midi_to_jcrd_frame,
+            text="MIDI to JCRD:"
+        ).pack(side='left', padx=5)
+
+        midi_options = ["Auto-detect sections", "Fixed-length sections"]
+        self.midi_import_mode = tk.StringVar(value=midi_options[0])
+        ttk.OptionMenu(
+            midi_to_jcrd_frame,
+            self.midi_import_mode,
+            midi_options[0],
+            *midi_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            midi_to_jcrd_frame,
+            text="Convert MIDI to JCRD",
+            command=self.convert_midi_to_jcrd
+        ).pack(side='left', padx=5)
+
+        # JCRD to MIDI
+        jcrd_to_midi_frame = ttk.Frame(tools_frame)
+        jcrd_to_midi_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            jcrd_to_midi_frame,
+            text="JCRD to MIDI:"
+        ).pack(side='left', padx=5)
+
+        export_options = ["Full song", "Individual sections"]
+        self.midi_export_mode = tk.StringVar(value=export_options[0])
+        ttk.OptionMenu(
+            jcrd_to_midi_frame,
+            self.midi_export_mode,
+            export_options[0],
+            *export_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            jcrd_to_midi_frame,
+            text="Export to MIDI",
+            command=self.export_to_midi
+        ).pack(side='left', padx=5)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+
+        self.midi_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.midi_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.midi_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.midi_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_import_tab(self):
+        # dynamically list all import scripts
+        frame = ttk.Frame(self.import_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Import Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        # map keywords to filetypes
+        ext_map = {
+            'midi': ("MIDI Files", "*.mid"),
+            'mp3': ("MP3 Files", "*.mp3"),
+            'json': ("JSON Files", "*.json")
+        }
+        for script in sorted(self.scripts_dir.glob("*_to_jcrd.py")):
+            name = script.stem
+            ft = next(
+                (ext_map[k] for k in ext_map if k in name),
+                ext_map['json']
+            )
+
+            def make_cmd(n=name, ft=ft):
+
+                def cmd():
+                    path = filedialog.askopenfilename(filetypes=[ft])
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Converted {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+        ttk.Label(frame, textvariable=self.import_status,
+                  foreground='gray').pack(anchor='w', pady=(10, 0))
+
+    def build_harmony_tab(self):
+        frame = ttk.Frame(self.harmony_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Harmony Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("add_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Added {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def build_validation_tab(self):
+        frame = ttk.Frame(self.validation_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Batch Validate .jcrd Files",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Add info about the default output directory
+        output_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "new_jcrd"
+        )
+        ttk.Label(
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 10))
+
+        # Add McGill dataset section
+        mcgill_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "mcgill_jcrd"
+        )
+        os.makedirs(mcgill_dir, exist_ok=True)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+        ttk.Label(
+            frame,
+            text="McGill Dataset Operations:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        ttk.Label(
+            frame,
+            text=f"McGill dataset location: {mcgill_dir}",
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 5))
+
+        def move_to_mcgill():
+            source_file = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")],
+                initialdir=output_dir
+            )
+            if not source_file:
+                return
+
+            filename = os.path.basename(source_file)
+            target_file = os.path.join(mcgill_dir, filename)
+
+            if messagebox.askyesno(
+                "Confirm",
+                f"Move {filename} to McGill dataset?\\n\\n"
+                "This should only be done for validated files that meet "
+                "the requirements for the official dataset."
+            ):
+                try:
+                    import shutil
+                    shutil.copy2(source_file, target_file)
+                    self.import_status.set(
+                        f"✅ Added to McGill dataset: {filename}"
+                    )
+                    messagebox.showinfo(
+                        "Success",
+                        f"File has been added to McGill dataset at:\\n"
+                        f"{target_file}"
+                    )
+                except Exception as e:
+                    self.import_status.set(
+                        "❌ Error adding to McGill dataset"
+                    )
+                    messagebox.showerror("Error", str(e))
+
+        ttk.Button(
+            frame,
+            text="Add File to McGill Dataset",
+            command=move_to_mcgill
+        ).pack(fill='x', pady=4)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+
+        ttk.Label(
+            frame,
+            text="Validation Tools:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        validation_scripts = sorted(
+            self.scripts_dir.glob("scan_*.py")
+        ) + sorted(self.scripts_dir.glob("validate_*.py"))
+        for script in validation_scripts:
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    folder = filedialog.askdirectory()
+                    if folder:
+                        self.run_tool(n, folder,
+                                      f"Completed {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+        ttk.Label(
+            frame, text="Validate Single JCRD File",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(10, 5))
+
+        self.validate_button = ttk.Button(
+            frame,  # Changed from self.validation_tab to frame
+            text="Validate JCRD File",
+            command=self.validate_file
+        )
+        self.validate_button.pack(anchor="w", pady=(5, 5))
+
+        self.result_text = scrolledtext.ScrolledText(
+            frame,  # Changed from self.validation_tab to frame
+            wrap=tk.WORD,
+            height=10
+        )
+        self.result_text.pack(fill="both", expand=True, pady=(5, 5))
+
+    def build_export_tab(self):
+        frame = ttk.Frame(self.export_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Export Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("export_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Exported {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def __init__(self, root):
+        self.root = root
+        self.root.title("🎼 JCRD Toolbox GUI v2")
+        # window geometry and grid layout
+        self.root.geometry("700x500")
+        self.root.grid_rowconfigure(1, weight=1)
+        self.root.grid_columnconfigure(0, weight=1)
+        
+        # locate scripts directory for dynamic discovery
+        self.scripts_dir = Path(__file__).resolve().parent.parent / 'scripts'
+        
+        # Initialize status variables
+        self.import_status = tk.StringVar(value="Ready")
+        self.timing_status = tk.StringVar(value="Ready")
+        self.midi_status = tk.StringVar(value="Ready")
+        self.catalog_status = tk.StringVar(value="Ready")
+        
+        # Initialize time signature and BPM variables
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        self.bpm_var = tk.StringVar(value="120")
+        
+        self.build_menu()
+        self.build_interface()
+
+    def _setup_ui(self):
+        # Header label
+        banner = tk.Label(
+            self.root,
+            text="JCRD Toolbox v2\\nImport, enrich, validate, and export "
+                 "JCRD files (*.json)",
+            font=("Arial", 11), justify="center", fg="darkblue"
+        )
+        banner.grid(row=0, column=0, pady=4)
+
+        tab_control = ttk.Notebook(self.root)
+        # place notebook via grid
+        tab_control.grid(row=1, column=0, sticky="nsew")
+
+        # Define tabs
+        self.import_tab = ttk.Frame(tab_control)
+        self.harmony_tab = ttk.Frame(tab_control)
+        self.timing_tab = ttk.Frame(tab_control)
+        self.midi_tab = ttk.Frame(tab_control)
+        self.validation_tab = ttk.Frame(tab_control)
+        self.export_tab = ttk.Frame(tab_control)
+        self.catalog_tab = ttk.Frame(tab_control)
+
+        tab_control.add(self.import_tab, text='Import')
+        tab_control.add(self.harmony_tab, text='Harmony')
+        tab_control.add(self.timing_tab, text='Timing')
+        tab_control.add(self.midi_tab, text='MIDI')
+        tab_control.add(self.validation_tab, text='Validation')
+        tab_control.add(self.export_tab, text='Export')
+        tab_control.add(self.catalog_tab, text='Catalog')
+
+        # build content tabs
+        self.build_import_tab()
+        self.build_harmony_tab()
+        self.build_timing_tab()
+        self.build_midi_tab()
+        self.build_validation_tab()
+        self.build_export_tab()
+        self.build_catalog_tab()
+
+    def refresh_file_list(self, event=None):  # Added event for Combobox
+        # Clear existing items
+        for item in self.file_tree.get_children():
+            self.file_tree.delete(item)
+
+        dir_path = self.catalog_dir.get()
+        filter_text = self.filter_var.get().lower()  # Get filter text
+
+        if not os.path.exists(dir_path):
+            self.catalog_status.set(f"Directory not found: {dir_path}")
+            return
+
+        try:
+            file_count = 0
+            for filename in os.listdir(dir_path):
+                if filename.endswith('.json'):
+                    try:
+                        file_path = os.path.join(dir_path, filename)
+                        with open(file_path, 'r') as f:
+                            data = json.load(f)
+
+                        # Enhanced metadata extraction
+                        metadata_obj = data.get('metadata', {})
+                        title = metadata_obj.get(
+                            'title', data.get('title', '(Unknown)')
+                        )
+                        artist = metadata_obj.get(
+                            'artist', data.get('artist', '(Unknown)')
+                        )
+                        # sections = len(data.get('sections', [])) # No longer needed for display
+
+                        # Apply filter
+                        if filter_text and not (
+                            filter_text in title.lower() or
+                            filter_text in artist.lower() or
+                            filter_text in filename.lower()
+                        ):
+                            continue  # Skip if no match
+
+                        self.file_tree.insert(
+                            '', 'end',
+                            values=(title, artist),  # Updated values
+                            tags=(file_path,)
+                        )
+                        file_count += 1
+                    except Exception:  # Removed 'as e'
+                        pass
+            self.catalog_status.set(f"Found {file_count} JCRD files.")
+        except Exception as e:
+            self.catalog_status.set(f"Error scanning directory: {e}")
+
+    def build_catalog_tab(self):
+        frame = ttk.Frame(self.catalog_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Create header
+        ttk.Label(
+            frame, text="JCRD File Catalog",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Create directory selection
+        dir_frame = ttk.Frame(frame)
+        dir_frame.pack(fill='x', pady=5)
+
+        ttk.Label(dir_frame, text="Directory:").pack(side='left', padx=(0, 5))
+
+        # Catalog directory options
+        catalog_dirs = {
+            "Validated Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "new_jcrd"
+            ),
+            "McGill Dataset": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd"
+            ),
+            "McGill SALAMI": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd_salami"
+            ),
+            "Raw Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent), "raw"
+            )
+        }
+
+        # Create raw directory if it doesn't exist
+        os.makedirs(catalog_dirs["Raw Files"], exist_ok=True)
+
+        self.catalog_dir = tk.StringVar(value=catalog_dirs["Validated Files"])
+        catalog_dir_combo = ttk.Combobox(
+            dir_frame,
+            textvariable=self.catalog_dir,
+            values=list(catalog_dirs.values()),
+            state="readonly",
+            width=40
+        )
+        catalog_dir_combo.pack(side='left', fill='x', expand=True, padx=5)
+        # Bind event
+        catalog_dir_combo.bind("<<ComboboxSelected>>", self.refresh_file_list)
+
+        def browse_dir():
+            dir_path = filedialog.askdirectory()
+            if dir_path:
+                self.catalog_dir.set(dir_path)
+                self.refresh_file_list()  # Call method
+            else:
+                pass
+
+        ttk.Button(
+            dir_frame, text="Browse...",
+            command=browse_dir
+        ).pack(side='left', padx=5)
+
+        refresh_btn = ttk.Button(
+            dir_frame, text="Refresh",
+            command=self.refresh_file_list  # Call method
+        )
+        refresh_btn.pack(side='left')
+
+        # Filter input
+        filter_frame = ttk.Frame(frame)
+        filter_frame.pack(fill='x', pady=5)
+        ttk.Label(filter_frame, text="Filter:").pack(side='left', padx=(0, 5))
+        self.filter_var = tk.StringVar()
+        filter_entry = ttk.Entry(filter_frame,
+                                 textvariable=self.filter_var, width=40)
+        filter_entry.pack(side='left', fill='x', expand=True, padx=5)
+        # Trigger refresh
+        filter_entry.bind("<KeyRelease>", self.refresh_file_list)
+
+        # Create the file list frame with scrollbar
+        list_frame = ttk.Frame(frame)
+        list_frame.pack(fill='both', expand=True, pady=10)
+
+        # Add scrollbar and listbox
+        scrollbar = ttk.Scrollbar(list_frame)
+        scrollbar.pack(side='right', fill='y')
+
+        # File list with multiple columns (title, artist)
+        columns = ('title', 'artist')
+        self.file_tree = ttk.Treeview(
+            list_frame,
+            columns=columns,
+            show='headings',
+            selectmode='browse',
+            height=10
+        )
+
+        # Define column headings
+        self.file_tree.heading('title', text='Title')
+        self.file_tree.heading('artist', text='Artist')
+
+        # Set column widths
+        self.file_tree.column('title', width=250)  # Adjusted width
+        self.file_tree.column('artist', width=250)  # Adjusted width
+
+        self.file_tree.pack(side='left', fill='both', expand=True)
+        scrollbar.config(command=self.file_tree.yview)
+        self.file_tree.config(yscrollcommand=scrollbar.set)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=False, pady=10)
+
+        self.preview_text = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.preview_text.pack(fill='both', expand=True)
+
+        # Status line
+        status_frame = ttk.Frame(frame)
+        status_frame.pack(fill='x', pady=5)
+
+        self.catalog_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            status_frame,
+            textvariable=self.catalog_status,
+            foreground='gray'
+        ).pack(anchor='w')
+
+        # Action buttons
+        btn_frame = ttk.Frame(frame)
+        btn_frame.pack(fill='x', pady=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Preview Selected",
+            command=self.preview_selected_file
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Edit Selected",
+            command=self.edit_selected_file  # New command
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Export Selected",
+            command=self.export_selected_file
+        ).pack(side='left', padx=5)
+
+        # Bind select event to preview
+        self.file_tree.bind('<<TreeviewSelect>>', self.on_file_select)
+
+        # Initial file list population
+        self.refresh_file_list()  # Use class method
+
+        # Change directory combobox binding
+        catalog_dir_combo.bind(
+            '<<ComboboxSelected>>',
+            self.refresh_file_list  # Use class method
+        )
+        # NOTE: The local 'def refresh_file_list():' that was here previously
+        # caused issues with the combobox binding. It's been removed to
+        # avoid confusion.
+
+    def on_file_select(self, event):
+        selected_items = self.file_tree.selection()
+        if not selected_items:
+            return
+
+        selected_item = selected_items[0]
+        file_path = self.file_tree.item(selected_item, "tags")[0]
+
+        try:
+            self.load_preview(file_path)
+        except Exception as e:
+            self.catalog_status.set(f"Error previewing file: {e}")
+
+    def load_preview(self, file_path):
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+
+            title = data.get('title', '(No title)')
+            artist = data.get('artist', '(No artist)')
+            bpm = data.get('bpm', '?')
+            key = data.get('key', '?')
+
+            section_info = []
+            for i, section in enumerate(data.get('sections', [])):
+                section_type = section.get('sectionType', '')
+                section_letter = section.get('sectionLetter', '')
+                chords = ", ".join(section.get('chords', []))
+
+                section_label = (
+                    f"{section_letter}: {section_type}"
+                    if section_letter else f"Section {i+1}"
+                )
+                section_info.append(f"{section_label}: {chords}")
+
+            preview = (
+                f"Title: {title}\n"
+                f"Artist: {artist}\n"
+                f"BPM: {bpm}\n"
+                f"Key: {key}\n\n"
+                f"Sections:\n" + "\n".join(section_info)
+            )
+
+            # Update preview text
+            self.preview_text.config(state='normal')
+            self.preview_text.delete(1.0, 'end')
+            self.preview_text.insert('end', preview)
+            self.preview_text.config(state='disabled')
+
+            self.catalog_status.set(
+                f"Previewing: {os.path.basename(file_path)}"
+            )
+        except Exception as e:
+            raise Exception(f"Error loading preview: {e}")
+
+    def preview_selected_file(self):
+        selected_items = self.file_tree.selection()
+        if not selected_items:
+            self.catalog_status.set("No file selected")
+            return
+
+        selected_item = selected_items[0]
+        file_path = self.file_tree.item(selected_item, "tags")[0]
+
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+
+            title = data.get('title', '(No title)')
+            artist = data.get('artist', '(No artist)')
+            bpm = data.get('bpm', '?')
+            key = data.get('key', '?')
+
+            section_info = []
+            for i, section in enumerate(data.get('sections', [])):
+                chords = ", ".join(section.get('chords', []))
+                section_info.append(f"Section {i+1}: {chords}")
+
+            preview = (
+                f"Title: {title}\n"
+                f"Artist: {artist}\n"
+                f"BPM: {bpm}\n"
+                f"Key: {key}\n\n"
+                f"Sections:\n" + "\n".join(section_info)
+            )
+
+            messagebox.showinfo("Chord Sheet Preview", preview)
+        except Exception as e:
+            self.catalog_status.set("❌ Preview error occurred.")
+            messagebox.showerror("Preview Error", str(e))
+
+    def adjust_section_timing(self, section_id, start_ms=None, duration_ms=None):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        if start_ms is not None:
+            section['start'] = start_ms
+        if duration_ms is not None:
+            section['duration'] = duration_ms
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def snap_to_grid(self, section_id, grid_size_ms):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        # Snap start time to nearest grid line
+        section['start'] = round(section['start'] / grid_size_ms) * grid_size_ms
+        
+        # Snap duration to nearest grid line
+        section['duration'] = round(
+            section['duration'] / grid_size_ms
+        ) * grid_size_ms
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def sync_to_bpm(self, section_id, bpm):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        # Convert duration to bars at the given BPM
+        duration_bars = self._ms_to_bars(section['duration'], bpm)
+        
+        # Round to nearest whole number of bars
+        duration_bars = round(duration_bars)
+        
+        # Convert back to milliseconds
+        section['duration'] = self._bars_to_ms(duration_bars, bpm)
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def _ms_to_bars(self, ms, bpm):
+        return ms / 1000 * bpm / 60  # ms to seconds to beats to bars
+
+    def _bars_to_ms(self, bars, bpm):
+        return bars * 60 / bpm * 1000  # bars to beats to seconds to ms
+
+    def update_section_display(self, section_id):
+        # Find and update the section display widgets
+        for widget in self.section_widgets:
+            if widget.get('section_id') == section_id:
+                section = self.get_section_by_id(section_id)
+                start_label = widget.get('start_label')
+                duration_label = widget.get('duration_label')
+                
+                if start_label:
+                    start_label.config(
+                        text=f"Start: {section['start']}ms"
+                )
+                if duration_label:
+                    duration_label.config(
+                        text=f"Duration: {section['duration']}ms"
+                )
+
+    def build_timing_tab(self):
+        frame = ttk.Frame(self.timing_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        
+        # Header
+        ttk.Label(
+            frame, text="Timing Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="JCRD File", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.timing_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.timing_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")]
+            )
+            if path:
+                self.timing_file_path.set(path)
+                self.load_timing_data(path)
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Tools frame
+        tools_frame = ttk.LabelFrame(frame, text="Timing Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # Sync to BPM
+        sync_frame = ttk.Frame(tools_frame)
+        sync_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            sync_frame,
+            text="Sync BPM:"
+        ).pack(side='left', padx=5)
+        
+        self.target_bpm = tk.StringVar(value="120")
+        ttk.Entry(
+            sync_frame,
+            textvariable=self.target_bpm,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            sync_frame,
+            text="Sync to BPM",
+            command=self.sync_to_bpm
+        ).pack(side='left', padx=5)
+
+        # Grid adjust
+        grid_frame = ttk.Frame(tools_frame)
+        grid_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            grid_frame,
+            text="Grid Size (bars):"
+        ).pack(side='left', padx=5)
+        
+        self.grid_size = tk.StringVar(value="1")
+        ttk.Entry(
+            grid_frame,
+            textvariable=self.grid_size,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            grid_frame,
+            text="Snap to Grid",
+            command=self.snap_to_grid
+        ).pack(side='left', padx=5)
+
+        # Time signature adjustment
+        time_sig_frame = ttk.Frame(tools_frame)
+        time_sig_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            time_sig_frame,
+            text="Time Signature:"
+        ).pack(side='left', padx=5)
+        
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_num,
+            width=3
+        ).pack(side='left')
+        ttk.Label(time_sig_frame, text="/").pack(side='left')
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_den,
+            width=3
+        ).pack(side='left', padx=(0, 5))
+        
+        ttk.Button(
+            time_sig_frame,
+            text="Apply Time Signature",
+            command=self.apply_time_signature
+        ).pack(side='left', padx=5)
+
+        # Status and preview
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+        
+        self.timing_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.timing_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.timing_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.timing_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_midi_tab(self):
+        frame = ttk.Frame(self.midi_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Header
+        ttk.Label(
+            frame, text="MIDI Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="File Selection", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.midi_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.midi_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[
+                    ("MIDI Files", "*.mid"),
+                    ("JCRD Files", "*.json")
+                ]
+            )
+            if path:
+                self.midi_file_path.set(path)
+                self.update_midi_preview()
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Conversion tools
+        tools_frame = ttk.LabelFrame(frame, text="Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # MIDI to JCRD
+        midi_to_jcrd_frame = ttk.Frame(tools_frame)
+        midi_to_jcrd_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            midi_to_jcrd_frame,
+            text="MIDI to JCRD:"
+        ).pack(side='left', padx=5)
+
+        midi_options = ["Auto-detect sections", "Fixed-length sections"]
+        self.midi_import_mode = tk.StringVar(value=midi_options[0])
+        ttk.OptionMenu(
+            midi_to_jcrd_frame,
+            self.midi_import_mode,
+            midi_options[0],
+            *midi_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            midi_to_jcrd_frame,
+            text="Convert MIDI to JCRD",
+            command=self.convert_midi_to_jcrd
+        ).pack(side='left', padx=5)
+
+        # JCRD to MIDI
+        jcrd_to_midi_frame = ttk.Frame(tools_frame)
+        jcrd_to_midi_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            jcrd_to_midi_frame,
+            text="JCRD to MIDI:"
+        ).pack(side='left', padx=5)
+
+        export_options = ["Full song", "Individual sections"]
+        self.midi_export_mode = tk.StringVar(value=export_options[0])
+        ttk.OptionMenu(
+            jcrd_to_midi_frame,
+            self.midi_export_mode,
+            export_options[0],
+            *export_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            jcrd_to_midi_frame,
+            text="Export to MIDI",
+            command=self.export_to_midi
+        ).pack(side='left', padx=5)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+
+        self.midi_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.midi_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.midi_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.midi_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_import_tab(self):
+        # dynamically list all import scripts
+        frame = ttk.Frame(self.import_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Import Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        # map keywords to filetypes
+        ext_map = {
+            'midi': ("MIDI Files", "*.mid"),
+            'mp3': ("MP3 Files", "*.mp3"),
+            'json': ("JSON Files", "*.json")
+        }
+        for script in sorted(self.scripts_dir.glob("*_to_jcrd.py")):
+            name = script.stem
+            ft = next(
+                (ext_map[k] for k in ext_map if k in name),
+                ext_map['json']
+            )
+
+            def make_cmd(n=name, ft=ft):
+
+                def cmd():
+                    path = filedialog.askopenfilename(filetypes=[ft])
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Converted {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+        ttk.Label(frame, textvariable=self.import_status,
+                  foreground='gray').pack(anchor='w', pady=(10, 0))
+
+    def build_harmony_tab(self):
+        frame = ttk.Frame(self.harmony_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Harmony Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("add_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Added {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def build_validation_tab(self):
+        frame = ttk.Frame(self.validation_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Batch Validate .jcrd Files",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Add info about the default output directory
+        output_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "new_jcrd"
+        )
+        ttk.Label(
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 10))
+
+        # Add McGill dataset section
+        mcgill_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "mcgill_jcrd"
+        )
+        os.makedirs(mcgill_dir, exist_ok=True)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+        ttk.Label(
+            frame,
+            text="McGill Dataset Operations:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        ttk.Label(
+            frame,
+            text=f"McGill dataset location: {mcgill_dir}",
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 5))
+
+        def move_to_mcgill():
+            source_file = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")],
+                initialdir=output_dir
+            )
+            if not source_file:
+                return
+
+            filename = os.path.basename(source_file)
+            target_file = os.path.join(mcgill_dir, filename)
+
+            if messagebox.askyesno(
+                "Confirm",
+                f"Move {filename} to McGill dataset?\\n\\n"
+                "This should only be done for validated files that meet "
+                "the requirements for the official dataset."
+            ):
+                try:
+                    import shutil
+                    shutil.copy2(source_file, target_file)
+                    self.import_status.set(
+                        f"✅ Added to McGill dataset: {filename}"
+                    )
+                    messagebox.showinfo(
+                        "Success",
+                        f"File has been added to McGill dataset at:\\n"
+                        f"{target_file}"
+                    )
+                except Exception as e:
+                    self.import_status.set(
+                        "❌ Error adding to McGill dataset"
+                    )
+                    messagebox.showerror("Error", str(e))
+
+        ttk.Button(
+            frame,
+            text="Add File to McGill Dataset",
+            command=move_to_mcgill
+        ).pack(fill='x', pady=4)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+
+        ttk.Label(
+            frame,
+            text="Validation Tools:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        validation_scripts = sorted(
+            self.scripts_dir.glob("scan_*.py")
+        ) + sorted(self.scripts_dir.glob("validate_*.py"))
+        for script in validation_scripts:
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    folder = filedialog.askdirectory()
+                    if folder:
+                        self.run_tool(n, folder,
+                                      f"Completed {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+        ttk.Label(
+            frame, text="Validate Single JCRD File",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(10, 5))
+
+        self.validate_button = ttk.Button(
+            frame,  # Changed from self.validation_tab to frame
+            text="Validate JCRD File",
+            command=self.validate_file
+        )
+        self.validate_button.pack(anchor="w", pady=(5, 5))
+
+        self.result_text = scrolledtext.ScrolledText(
+            frame,  # Changed from self.validation_tab to frame
+            wrap=tk.WORD,
+            height=10
+        )
+        self.result_text.pack(fill="both", expand=True, pady=(5, 5))
+
+    def build_export_tab(self):
+        frame = ttk.Frame(self.export_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Export Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("export_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Exported {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def __init__(self, root):
+        self.root = root
+        self.root.title("🎼 JCRD Toolbox GUI v2")
+        # window geometry and grid layout
+        self.root.geometry("700x500")
+        self.root.grid_rowconfigure(1, weight=1)
+        self.root.grid_columnconfigure(0, weight=1)
+        
+        # locate scripts directory for dynamic discovery
+        self.scripts_dir = Path(__file__).resolve().parent.parent / 'scripts'
+        
+        # Initialize status variables
+        self.import_status = tk.StringVar(value="Ready")
+        self.timing_status = tk.StringVar(value="Ready")
+        self.midi_status = tk.StringVar(value="Ready")
+        self.catalog_status = tk.StringVar(value="Ready")
+        
+        # Initialize time signature and BPM variables
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        self.bpm_var = tk.StringVar(value="120")
+        
+        self.build_menu()
+        self.build_interface()
+
+    def _setup_ui(self):
+        # Header label
+        banner = tk.Label(
+            self.root,
+            text="JCRD Toolbox v2\\nImport, enrich, validate, and export "
+                 "JCRD files (*.json)",
+            font=("Arial", 11), justify="center", fg="darkblue"
+        )
+        banner.grid(row=0, column=0, pady=4)
+
+        tab_control = ttk.Notebook(self.root)
+        # place notebook via grid
+        tab_control.grid(row=1, column=0, sticky="nsew")
+
+        # Define tabs
+        self.import_tab = ttk.Frame(tab_control)
+        self.harmony_tab = ttk.Frame(tab_control)
+        self.timing_tab = ttk.Frame(tab_control)
+        self.midi_tab = ttk.Frame(tab_control)
+        self.validation_tab = ttk.Frame(tab_control)
+        self.export_tab = ttk.Frame(tab_control)
+        self.catalog_tab = ttk.Frame(tab_control)
+
+        tab_control.add(self.import_tab, text='Import')
+        tab_control.add(self.harmony_tab, text='Harmony')
+        tab_control.add(self.timing_tab, text='Timing')
+        tab_control.add(self.midi_tab, text='MIDI')
+        tab_control.add(self.validation_tab, text='Validation')
+        tab_control.add(self.export_tab, text='Export')
+        tab_control.add(self.catalog_tab, text='Catalog')
+
+        # build content tabs
+        self.build_import_tab()
+        self.build_harmony_tab()
+        self.build_timing_tab()
+        self.build_midi_tab()
+        self.build_validation_tab()
+        self.build_export_tab()
+        self.build_catalog_tab()
+
+    def refresh_file_list(self, event=None):  # Added event for Combobox
+        # Clear existing items
+        for item in self.file_tree.get_children():
+            self.file_tree.delete(item)
+
+        dir_path = self.catalog_dir.get()
+        filter_text = self.filter_var.get().lower()  # Get filter text
+
+        if not os.path.exists(dir_path):
+            self.catalog_status.set(f"Directory not found: {dir_path}")
+            return
+
+        try:
+            file_count = 0
+            for filename in os.listdir(dir_path):
+                if filename.endswith('.json'):
+                    try:
+                        file_path = os.path.join(dir_path, filename)
+                        with open(file_path, 'r') as f:
+                            data = json.load(f)
+
+                        # Enhanced metadata extraction
+                        metadata_obj = data.get('metadata', {})
+                        title = metadata_obj.get(
+                            'title', data.get('title', '(Unknown)')
+                        )
+                        artist = metadata_obj.get(
+                            'artist', data.get('artist', '(Unknown)')
+                        )
+                        # sections = len(data.get('sections', [])) # No longer needed for display
+
+                        # Apply filter
+                        if filter_text and not (
+                            filter_text in title.lower() or
+                            filter_text in artist.lower() or
+                            filter_text in filename.lower()
+                        ):
+                            continue  # Skip if no match
+
+                        self.file_tree.insert(
+                            '', 'end',
+                            values=(title, artist),  # Updated values
+                            tags=(file_path,)
+                        )
+                        file_count += 1
+                    except Exception:  # Removed 'as e'
+                        pass
+            self.catalog_status.set(f"Found {file_count} JCRD files.")
+        except Exception as e:
+            self.catalog_status.set(f"Error scanning directory: {e}")
+
+    def build_catalog_tab(self):
+        frame = ttk.Frame(self.catalog_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Create header
+        ttk.Label(
+            frame, text="JCRD File Catalog",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Create directory selection
+        dir_frame = ttk.Frame(frame)
+        dir_frame.pack(fill='x', pady=5)
+
+        ttk.Label(dir_frame, text="Directory:").pack(side='left', padx=(0, 5))
+
+        # Catalog directory options
+        catalog_dirs = {
+            "Validated Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "new_jcrd"
+            ),
+            "McGill Dataset": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd"
+            ),
+            "McGill SALAMI": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd_salami"
+            ),
+            "Raw Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent), "raw"
+            )
+        }
+
+        # Create raw directory if it doesn't exist
+        os.makedirs(catalog_dirs["Raw Files"], exist_ok=True)
+
+        self.catalog_dir = tk.StringVar(value=catalog_dirs["Validated Files"])
+        catalog_dir_combo = ttk.Combobox(
+            dir_frame,
+            textvariable=self.catalog_dir,
+            values=list(catalog_dirs.values()),
+            state="readonly",
+            width=40
+        )
+        catalog_dir_combo.pack(side='left', fill='x', expand=True, padx=5)
+        # Bind event
+        catalog_dir_combo.bind("<<ComboboxSelected>>", self.refresh_file_list)
+
+        def browse_dir():
+            dir_path = filedialog.askdirectory()
+            if dir_path:
+                self.catalog_dir.set(dir_path)
+                self.refresh_file_list()  # Call method
+            else:
+                pass
+
+        ttk.Button(
+            dir_frame, text="Browse...",
+            command=browse_dir
+        ).pack(side='left', padx=5)
+
+        refresh_btn = ttk.Button(
+            dir_frame, text="Refresh",
+            command=self.refresh_file_list  # Call method
+        )
+        refresh_btn.pack(side='left')
+
+        # Filter input
+        filter_frame = ttk.Frame(frame)
+        filter_frame.pack(fill='x', pady=5)
+        ttk.Label(filter_frame, text="Filter:").pack(side='left', padx=(0, 5))
+        self.filter_var = tk.StringVar()
+        filter_entry = ttk.Entry(filter_frame,
+                                 textvariable=self.filter_var, width=40)
+        filter_entry.pack(side='left', fill='x', expand=True, padx=5)
+        # Trigger refresh
+        filter_entry.bind("<KeyRelease>", self.refresh_file_list)
+
+        # Create the file list frame with scrollbar
+        list_frame = ttk.Frame(frame)
+        list_frame.pack(fill='both', expand=True, pady=10)
+
+        # Add scrollbar and listbox
+        scrollbar = ttk.Scrollbar(list_frame)
+        scrollbar.pack(side='right', fill='y')
+
+        # File list with multiple columns (title, artist)
+        columns = ('title', 'artist')
+        self.file_tree = ttk.Treeview(
+            list_frame,
+            columns=columns,
+            show='headings',
+            selectmode='browse',
+            height=10
+        )
+
+        # Define column headings
+        self.file_tree.heading('title', text='Title')
+        self.file_tree.heading('artist', text='Artist')
+
+        # Set column widths
+        self.file_tree.column('title', width=250)  # Adjusted width
+        self.file_tree.column('artist', width=250)  # Adjusted width
+
+        self.file_tree.pack(side='left', fill='both', expand=True)
+        scrollbar.config(command=self.file_tree.yview)
+        self.file_tree.config(yscrollcommand=scrollbar.set)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=False, pady=10)
+
+        self.preview_text = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.preview_text.pack(fill='both', expand=True)
+
+        # Status line
+        status_frame = ttk.Frame(frame)
+        status_frame.pack(fill='x', pady=5)
+
+        self.catalog_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            status_frame,
+            textvariable=self.catalog_status,
+            foreground='gray'
+        ).pack(anchor='w')
+
+        # Action buttons
+        btn_frame = ttk.Frame(frame)
+        btn_frame.pack(fill='x', pady=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Preview Selected",
+            command=self.preview_selected_file
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Edit Selected",
+            command=self.edit_selected_file  # New command
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Export Selected",
+            command=self.export_selected_file
+        ).pack(side='left', padx=5)
+
+        # Bind select event to preview
+        self.file_tree.bind('<<TreeviewSelect>>', self.on_file_select)
+
+        # Initial file list population
+        self.refresh_file_list()  # Use class method
+
+        # Change directory combobox binding
+        catalog_dir_combo.bind(
+            '<<ComboboxSelected>>',
+            self.refresh_file_list  # Use class method
+        )
+        # NOTE: The local 'def refresh_file_list():' that was here previously
+        # caused issues with the combobox binding. It's been removed to
+        # avoid confusion.
+
+    def on_file_select(self, event):
+        selected_items = self.file_tree.selection()
+        if not selected_items:
+            return
+
+        selected_item = selected_items[0]
+        file_path = self.file_tree.item(selected_item, "tags")[0]
+
+        try:
+            self.load_preview(file_path)
+        except Exception as e:
+            self.catalog_status.set(f"Error previewing file: {e}")
+
+    def load_preview(self, file_path):
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+
+            title = data.get('title', '(No title)')
+            artist = data.get('artist', '(No artist)')
+            bpm = data.get('bpm', '?')
+            key = data.get('key', '?')
+
+            section_info = []
+            for i, section in enumerate(data.get('sections', [])):
+                section_type = section.get('sectionType', '')
+                section_letter = section.get('sectionLetter', '')
+                chords = ", ".join(section.get('chords', []))
+
+                section_label = (
+                    f"{section_letter}: {section_type}"
+                    if section_letter else f"Section {i+1}"
+                )
+                section_info.append(f"{section_label}: {chords}")
+
+            preview = (
+                f"Title: {title}\n"
+                f"Artist: {artist}\n"
+                f"BPM: {bpm}\n"
+                f"Key: {key}\n\n"
+                f"Sections:\n" + "\n".join(section_info)
+            )
+
+            # Update preview text
+            self.preview_text.config(state='normal')
+            self.preview_text.delete(1.0, 'end')
+            self.preview_text.insert('end', preview)
+            self.preview_text.config(state='disabled')
+
+            self.catalog_status.set(
+                f"Previewing: {os.path.basename(file_path)}"
+            )
+        except Exception as e:
+            raise Exception(f"Error loading preview: {e}")
+
+    def preview_selected_file(self):
+        selected_items = self.file_tree.selection()
+        if not selected_items:
+            self.catalog_status.set("No file selected")
+            return
+
+        selected_item = selected_items[0]
+        file_path = self.file_tree.item(selected_item, "tags")[0]
+
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+
+            title = data.get('title', '(No title)')
+            artist = data.get('artist', '(No artist)')
+            bpm = data.get('bpm', '?')
+            key = data.get('key', '?')
+
+            section_info = []
+            for i, section in enumerate(data.get('sections', [])):
+                chords = ", ".join(section.get('chords', []))
+                section_info.append(f"Section {i+1}: {chords}")
+
+            preview = (
+                f"Title: {title}\n"
+                f"Artist: {artist}\n"
+                f"BPM: {bpm}\n"
+                f"Key: {key}\n\n"
+                f"Sections:\n" + "\n".join(section_info)
+            )
+
+            messagebox.showinfo("Chord Sheet Preview", preview)
+        except Exception as e:
+            self.catalog_status.set("❌ Preview error occurred.")
+            messagebox.showerror("Preview Error", str(e))
+
+    def adjust_section_timing(self, section_id, start_ms=None, duration_ms=None):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        if start_ms is not None:
+            section['start'] = start_ms
+        if duration_ms is not None:
+            section['duration'] = duration_ms
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def snap_to_grid(self, section_id, grid_size_ms):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        # Snap start time to nearest grid line
+        section['start'] = round(section['start'] / grid_size_ms) * grid_size_ms
+        
+        # Snap duration to nearest grid line
+        section['duration'] = round(
+            section['duration'] / grid_size_ms
+        ) * grid_size_ms
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def sync_to_bpm(self, section_id, bpm):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        # Convert duration to bars at the given BPM
+        duration_bars = self._ms_to_bars(section['duration'], bpm)
+        
+        # Round to nearest whole number of bars
+        duration_bars = round(duration_bars)
+        
+        # Convert back to milliseconds
+        section['duration'] = self._bars_to_ms(duration_bars, bpm)
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def _ms_to_bars(self, ms, bpm):
+        return ms / 1000 * bpm / 60  # ms to seconds to beats to bars
+
+    def _bars_to_ms(self, bars, bpm):
+        return bars * 60 / bpm * 1000  # bars to beats to seconds to ms
+
+    def update_section_display(self, section_id):
+        # Find and update the section display widgets
+        for widget in self.section_widgets:
+            if widget.get('section_id') == section_id:
+                section = self.get_section_by_id(section_id)
+                start_label = widget.get('start_label')
+                duration_label = widget.get('duration_label')
+                
+                if start_label:
+                    start_label.config(
+                        text=f"Start: {section['start']}ms"
+                )
+                if duration_label:
+                    duration_label.config(
+                        text=f"Duration: {section['duration']}ms"
+                )
+
+    def build_timing_tab(self):
+        frame = ttk.Frame(self.timing_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        
+        # Header
+        ttk.Label(
+            frame, text="Timing Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="JCRD File", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.timing_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.timing_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")]
+            )
+            if path:
+                self.timing_file_path.set(path)
+                self.load_timing_data(path)
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Tools frame
+        tools_frame = ttk.LabelFrame(frame, text="Timing Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # Sync to BPM
+        sync_frame = ttk.Frame(tools_frame)
+        sync_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            sync_frame,
+            text="Sync BPM:"
+        ).pack(side='left', padx=5)
+        
+        self.target_bpm = tk.StringVar(value="120")
+        ttk.Entry(
+            sync_frame,
+            textvariable=self.target_bpm,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            sync_frame,
+            text="Sync to BPM",
+            command=self.sync_to_bpm
+        ).pack(side='left', padx=5)
+
+        # Grid adjust
+        grid_frame = ttk.Frame(tools_frame)
+        grid_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            grid_frame,
+            text="Grid Size (bars):"
+        ).pack(side='left', padx=5)
+        
+        self.grid_size = tk.StringVar(value="1")
+        ttk.Entry(
+            grid_frame,
+            textvariable=self.grid_size,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            grid_frame,
+            text="Snap to Grid",
+            command=self.snap_to_grid
+        ).pack(side='left', padx=5)
+
+        # Time signature adjustment
+        time_sig_frame = ttk.Frame(tools_frame)
+        time_sig_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            time_sig_frame,
+            text="Time Signature:"
+        ).pack(side='left', padx=5)
+        
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_num,
+            width=3
+        ).pack(side='left')
+        ttk.Label(time_sig_frame, text="/").pack(side='left')
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_den,
+            width=3
+        ).pack(side='left', padx=(0, 5))
+        
+        ttk.Button(
+            time_sig_frame,
+            text="Apply Time Signature",
+            command=self.apply_time_signature
+        ).pack(side='left', padx=5)
+
+        # Status and preview
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+        
+        self.timing_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.timing_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.timing_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.timing_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_midi_tab(self):
+        frame = ttk.Frame(self.midi_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Header
+        ttk.Label(
+            frame, text="MIDI Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="File Selection", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.midi_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.midi_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[
+                    ("MIDI Files", "*.mid"),
+                    ("JCRD Files", "*.json")
+                ]
+            )
+            if path:
+                self.midi_file_path.set(path)
+                self.update_midi_preview()
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Conversion tools
+        tools_frame = ttk.LabelFrame(frame, text="Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # MIDI to JCRD
+        midi_to_jcrd_frame = ttk.Frame(tools_frame)
+        midi_to_jcrd_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            midi_to_jcrd_frame,
+            text="MIDI to JCRD:"
+        ).pack(side='left', padx=5)
+
+        midi_options = ["Auto-detect sections", "Fixed-length sections"]
+        self.midi_import_mode = tk.StringVar(value=midi_options[0])
+        ttk.OptionMenu(
+            midi_to_jcrd_frame,
+            self.midi_import_mode,
+            midi_options[0],
+            *midi_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            midi_to_jcrd_frame,
+            text="Convert MIDI to JCRD",
+            command=self.convert_midi_to_jcrd
+        ).pack(side='left', padx=5)
+
+        # JCRD to MIDI
+        jcrd_to_midi_frame = ttk.Frame(tools_frame)
+        jcrd_to_midi_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            jcrd_to_midi_frame,
+            text="JCRD to MIDI:"
+        ).pack(side='left', padx=5)
+
+        export_options = ["Full song", "Individual sections"]
+        self.midi_export_mode = tk.StringVar(value=export_options[0])
+        ttk.OptionMenu(
+            jcrd_to_midi_frame,
+            self.midi_export_mode,
+            export_options[0],
+            *export_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            jcrd_to_midi_frame,
+            text="Export to MIDI",
+            command=self.export_to_midi
+        ).pack(side='left', padx=5)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+
+        self.midi_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.midi_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.midi_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.midi_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_import_tab(self):
+        # dynamically list all import scripts
+        frame = ttk.Frame(self.import_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Import Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        # map keywords to filetypes
+        ext_map = {
+            'midi': ("MIDI Files", "*.mid"),
+            'mp3': ("MP3 Files", "*.mp3"),
+            'json': ("JSON Files", "*.json")
+        }
+        for script in sorted(self.scripts_dir.glob("*_to_jcrd.py")):
+            name = script.stem
+            ft = next(
+                (ext_map[k] for k in ext_map if k in name),
+                ext_map['json']
+            )
+
+            def make_cmd(n=name, ft=ft):
+
+                def cmd():
+                    path = filedialog.askopenfilename(filetypes=[ft])
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Converted {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+        ttk.Label(frame, textvariable=self.import_status,
+                  foreground='gray').pack(anchor='w', pady=(10, 0))
+
+    def build_harmony_tab(self):
+        frame = ttk.Frame(self.harmony_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Harmony Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("add_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Added {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def build_validation_tab(self):
+        frame = ttk.Frame(self.validation_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Batch Validate .jcrd Files",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Add info about the default output directory
+        output_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "new_jcrd"
+        )
+        ttk.Label(
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 10))
+
+        # Add McGill dataset section
+        mcgill_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "mcgill_jcrd"
+        )
+        os.makedirs(mcgill_dir, exist_ok=True)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+        ttk.Label(
+            frame,
+            text="McGill Dataset Operations:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        ttk.Label(
+            frame,
+            text=f"McGill dataset location: {mcgill_dir}",
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 5))
+
+        def move_to_mcgill():
+            source_file = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")],
+                initialdir=output_dir
+            )
+            if not source_file:
+                return
+
+            filename = os.path.basename(source_file)
+            target_file = os.path.join(mcgill_dir, filename)
+
+            if messagebox.askyesno(
+                "Confirm",
+                f"Move {filename} to McGill dataset?\\n\\n"
+                "This should only be done for validated files that meet "
+                "the requirements for the official dataset."
+            ):
+                try:
+                    import shutil
+                    shutil.copy2(source_file, target_file)
+                    self.import_status.set(
+                        f"✅ Added to McGill dataset: {filename}"
+                    )
+                    messagebox.showinfo(
+                        "Success",
+                        f"File has been added to McGill dataset at:\\n"
+                        f"{target_file}"
+                    )
+                except Exception as e:
+                    self.import_status.set(
+                        "❌ Error adding to McGill dataset"
+                    )
+                    messagebox.showerror("Error", str(e))
+
+        ttk.Button(
+            frame,
+            text="Add File to McGill Dataset",
+            command=move_to_mcgill
+        ).pack(fill='x', pady=4)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+
+        ttk.Label(
+            frame,
+            text="Validation Tools:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        validation_scripts = sorted(
+            self.scripts_dir.glob("scan_*.py")
+        ) + sorted(self.scripts_dir.glob("validate_*.py"))
+        for script in validation_scripts:
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    folder = filedialog.askdirectory()
+                    if folder:
+                        self.run_tool(n, folder,
+                                      f"Completed {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+        ttk.Label(
+            frame, text="Validate Single JCRD File",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(10, 5))
+
+        self.validate_button = ttk.Button(
+            frame,  # Changed from self.validation_tab to frame
+            text="Validate JCRD File",
+            command=self.validate_file
+        )
+        self.validate_button.pack(anchor="w", pady=(5, 5))
+
+        self.result_text = scrolledtext.ScrolledText(
+            frame,  # Changed from self.validation_tab to frame
+            wrap=tk.WORD,
+            height=10
+        )
+        self.result_text.pack(fill="both", expand=True, pady=(5, 5))
+
+    def build_export_tab(self):
+        frame = ttk.Frame(self.export_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Export Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("export_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Exported {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def __init__(self, root):
+        self.root = root
+        self.root.title("🎼 JCRD Toolbox GUI v2")
+        # window geometry and grid layout
+        self.root.geometry("700x500")
+        self.root.grid_rowconfigure(1, weight=1)
+        self.root.grid_columnconfigure(0, weight=1)
+        
+        # locate scripts directory for dynamic discovery
+        self.scripts_dir = Path(__file__).resolve().parent.parent / 'scripts'
+        
+        # Initialize status variables
+        self.import_status = tk.StringVar(value="Ready")
+        self.timing_status = tk.StringVar(value="Ready")
+        self.midi_status = tk.StringVar(value="Ready")
+        self.catalog_status = tk.StringVar(value="Ready")
+        
+        # Initialize time signature and BPM variables
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        self.bpm_var = tk.StringVar(value="120")
+        
+        self.build_menu()
+        self.build_interface()
+
+    def _setup_ui(self):
+        # Header label
+        banner = tk.Label(
+            self.root,
+            text="JCRD Toolbox v2\\nImport, enrich, validate, and export "
+                 "JCRD files (*.json)",
+            font=("Arial", 11), justify="center", fg="darkblue"
+        )
+        banner.grid(row=0, column=0, pady=4)
+
+        tab_control = ttk.Notebook(self.root)
+        # place notebook via grid
+        tab_control.grid(row=1, column=0, sticky="nsew")
+
+        # Define tabs
+        self.import_tab = ttk.Frame(tab_control)
+        self.harmony_tab = ttk.Frame(tab_control)
+        self.timing_tab = ttk.Frame(tab_control)
+        self.midi_tab = ttk.Frame(tab_control)
+        self.validation_tab = ttk.Frame(tab_control)
+        self.export_tab = ttk.Frame(tab_control)
+        self.catalog_tab = ttk.Frame(tab_control)
+
+        tab_control.add(self.import_tab, text='Import')
+        tab_control.add(self.harmony_tab, text='Harmony')
+        tab_control.add(self.timing_tab, text='Timing')
+        tab_control.add(self.midi_tab, text='MIDI')
+        tab_control.add(self.validation_tab, text='Validation')
+        tab_control.add(self.export_tab, text='Export')
+        tab_control.add(self.catalog_tab, text='Catalog')
+
+        # build content tabs
+        self.build_import_tab()
+        self.build_harmony_tab()
+        self.build_timing_tab()
+        self.build_midi_tab()
+        self.build_validation_tab()
+        self.build_export_tab()
+        self.build_catalog_tab()
+
+    def refresh_file_list(self, event=None):  # Added event for Combobox
+        # Clear existing items
+        for item in self.file_tree.get_children():
+            self.file_tree.delete(item)
+
+        dir_path = self.catalog_dir.get()
+        filter_text = self.filter_var.get().lower()  # Get filter text
+
+        if not os.path.exists(dir_path):
+            self.catalog_status.set(f"Directory not found: {dir_path}")
+            return
+
+        try:
+            file_count = 0
+            for filename in os.listdir(dir_path):
+                if filename.endswith('.json'):
+                    try:
+                        file_path = os.path.join(dir_path, filename)
+                        with open(file_path, 'r') as f:
+                            data = json.load(f)
+
+                        # Enhanced metadata extraction
+                        metadata_obj = data.get('metadata', {})
+                        title = metadata_obj.get(
+                            'title', data.get('title', '(Unknown)')
+                        )
+                        artist = metadata_obj.get(
+                            'artist', data.get('artist', '(Unknown)')
+                        )
+                        # sections = len(data.get('sections', [])) # No longer needed for display
+
+                        # Apply filter
+                        if filter_text and not (
+                            filter_text in title.lower() or
+                            filter_text in artist.lower() or
+                            filter_text in filename.lower()
+                        ):
+                            continue  # Skip if no match
+
+                        self.file_tree.insert(
+                            '', 'end',
+                            values=(title, artist),  # Updated values
+                            tags=(file_path,)
+                        )
+                        file_count += 1
+                    except Exception:  # Removed 'as e'
+                        pass
+            self.catalog_status.set(f"Found {file_count} JCRD files.")
+        except Exception as e:
+            self.catalog_status.set(f"Error scanning directory: {e}")
+
+    def build_catalog_tab(self):
+        frame = ttk.Frame(self.catalog_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Create header
+        ttk.Label(
+            frame, text="JCRD File Catalog",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Create directory selection
+        dir_frame = ttk.Frame(frame)
+        dir_frame.pack(fill='x', pady=5)
+
+        ttk.Label(dir_frame, text="Directory:").pack(side='left', padx=(0, 5))
+
+        # Catalog directory options
+        catalog_dirs = {
+            "Validated Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "new_jcrd"
+            ),
+            "McGill Dataset": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd"
+            ),
+            "McGill SALAMI": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd_salami"
+            ),
+            "Raw Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent), "raw"
+            )
+        }
+
+        # Create raw directory if it doesn't exist
+        os.makedirs(catalog_dirs["Raw Files"], exist_ok=True)
+
+        self.catalog_dir = tk.StringVar(value=catalog_dirs["Validated Files"])
+        catalog_dir_combo = ttk.Combobox(
+            dir_frame,
+            textvariable=self.catalog_dir,
+            values=list(catalog_dirs.values()),
+            state="readonly",
+            width=40
+        )
+        catalog_dir_combo.pack(side='left', fill='x', expand=True, padx=5)
+        # Bind event
+        catalog_dir_combo.bind("<<ComboboxSelected>>", self.refresh_file_list)
+
+        def browse_dir():
+            dir_path = filedialog.askdirectory()
+            if dir_path:
+                self.catalog_dir.set(dir_path)
+                self.refresh_file_list()  # Call method
+            else:
+                pass
+
+        ttk.Button(
+            dir_frame, text="Browse...",
+            command=browse_dir
+        ).pack(side='left', padx=5)
+
+        refresh_btn = ttk.Button(
+            dir_frame, text="Refresh",
+            command=self.refresh_file_list  # Call method
+        )
+        refresh_btn.pack(side='left')
+
+        # Filter input
+        filter_frame = ttk.Frame(frame)
+        filter_frame.pack(fill='x', pady=5)
+        ttk.Label(filter_frame, text="Filter:").pack(side='left', padx=(0, 5))
+        self.filter_var = tk.StringVar()
+        filter_entry = ttk.Entry(filter_frame,
+                                 textvariable=self.filter_var, width=40)
+        filter_entry.pack(side='left', fill='x', expand=True, padx=5)
+        # Trigger refresh
+        filter_entry.bind("<KeyRelease>", self.refresh_file_list)
+
+        # Create the file list frame with scrollbar
+        list_frame = ttk.Frame(frame)
+        list_frame.pack(fill='both', expand=True, pady=10)
+
+        # Add scrollbar and listbox
+        scrollbar = ttk.Scrollbar(list_frame)
+        scrollbar.pack(side='right', fill='y')
+
+        # File list with multiple columns (title, artist)
+        columns = ('title', 'artist')
+        self.file_tree = ttk.Treeview(
+            list_frame,
+            columns=columns,
+            show='headings',
+            selectmode='browse',
+            height=10
+        )
+
+        # Define column headings
+        self.file_tree.heading('title', text='Title')
+        self.file_tree.heading('artist', text='Artist')
+
+        # Set column widths
+        self.file_tree.column('title', width=250)  # Adjusted width
+        self.file_tree.column('artist', width=250)  # Adjusted width
+
+        self.file_tree.pack(side='left', fill='both', expand=True)
+        scrollbar.config(command=self.file_tree.yview)
+        self.file_tree.config(yscrollcommand=scrollbar.set)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=False, pady=10)
+
+        self.preview_text = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.preview_text.pack(fill='both', expand=True)
+
+        # Status line
+        status_frame = ttk.Frame(frame)
+        status_frame.pack(fill='x', pady=5)
+
+        self.catalog_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            status_frame,
+            textvariable=self.catalog_status,
+            foreground='gray'
+        ).pack(anchor='w')
+
+        # Action buttons
+        btn_frame = ttk.Frame(frame)
+        btn_frame.pack(fill='x', pady=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Preview Selected",
+            command=self.preview_selected_file
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Edit Selected",
+            command=self.edit_selected_file  # New command
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Export Selected",
+            command=self.export_selected_file
+        ).pack(side='left', padx=5)
+
+        # Bind select event to preview
+        self.file_tree.bind('<<TreeviewSelect>>', self.on_file_select)
+
+        # Initial file list population
+        self.refresh_file_list()  # Use class method
+
+        # Change directory combobox binding
+        catalog_dir_combo.bind(
+            '<<ComboboxSelected>>',
+            self.refresh_file_list  # Use class method
+        )
+        # NOTE: The local 'def refresh_file_list():' that was here previously
+        # caused issues with the combobox binding. It's been removed to
+        # avoid confusion.
+
+    def on_file_select(self, event):
+        selected_items = self.file_tree.selection()
+        if not selected_items:
+            return
+
+        selected_item = selected_items[0]
+        file_path = self.file_tree.item(selected_item, "tags")[0]
+
+        try:
+            self.load_preview(file_path)
+        except Exception as e:
+            self.catalog_status.set(f"Error previewing file: {e}")
+
+    def load_preview(self, file_path):
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+
+            title = data.get('title', '(No title)')
+            artist = data.get('artist', '(No artist)')
+            bpm = data.get('bpm', '?')
+            key = data.get('key', '?')
+
+            section_info = []
+            for i, section in enumerate(data.get('sections', [])):
+                section_type = section.get('sectionType', '')
+                section_letter = section.get('sectionLetter', '')
+                chords = ", ".join(section.get('chords', []))
+
+                section_label = (
+                    f"{section_letter}: {section_type}"
+                    if section_letter else f"Section {i+1}"
+                )
+                section_info.append(f"{section_label}: {chords}")
+
+            preview = (
+                f"Title: {title}\n"
+                f"Artist: {artist}\n"
+                f"BPM: {bpm}\n"
+                f"Key: {key}\n\n"
+                f"Sections:\n" + "\n".join(section_info)
+            )
+
+            # Update preview text
+            self.preview_text.config(state='normal')
+            self.preview_text.delete(1.0, 'end')
+            self.preview_text.insert('end', preview)
+            self.preview_text.config(state='disabled')
+
+            self.catalog_status.set(
+                f"Previewing: {os.path.basename(file_path)}"
+            )
+        except Exception as e:
+            raise Exception(f"Error loading preview: {e}")
+
+    def preview_selected_file(self):
+        selected_items = self.file_tree.selection()
+        if not selected_items:
+            self.catalog_status.set("No file selected")
+            return
+
+        selected_item = selected_items[0]
+        file_path = self.file_tree.item(selected_item, "tags")[0]
+
+        try:
+            with open(file_path, 'r') as f:
+                data = json.load(f)
+
+            title = data.get('title', '(No title)')
+            artist = data.get('artist', '(No artist)')
+            bpm = data.get('bpm', '?')
+            key = data.get('key', '?')
+
+            section_info = []
+            for i, section in enumerate(data.get('sections', [])):
+                chords = ", ".join(section.get('chords', []))
+                section_info.append(f"Section {i+1}: {chords}")
+
+            preview = (
+                f"Title: {title}\n"
+                f"Artist: {artist}\n"
+                f"BPM: {bpm}\n"
+                f"Key: {key}\n\n"
+                f"Sections:\n" + "\n".join(section_info)
+            )
+
+            messagebox.showinfo("Chord Sheet Preview", preview)
+        except Exception as e:
+            self.catalog_status.set("❌ Preview error occurred.")
+            messagebox.showerror("Preview Error", str(e))
+
+    def adjust_section_timing(self, section_id, start_ms=None, duration_ms=None):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        if start_ms is not None:
+            section['start'] = start_ms
+        if duration_ms is not None:
+            section['duration'] = duration_ms
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def snap_to_grid(self, section_id, grid_size_ms):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        # Snap start time to nearest grid line
+        section['start'] = round(section['start'] / grid_size_ms) * grid_size_ms
+        
+        # Snap duration to nearest grid line
+        section['duration'] = round(
+            section['duration'] / grid_size_ms
+        ) * grid_size_ms
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def sync_to_bpm(self, section_id, bpm):
+        section = self.get_section_by_id(section_id)
+        if not section:
+            return False
+        
+        # Convert duration to bars at the given BPM
+        duration_bars = self._ms_to_bars(section['duration'], bpm)
+        
+        # Round to nearest whole number of bars
+        duration_bars = round(duration_bars)
+        
+        # Convert back to milliseconds
+        section['duration'] = self._bars_to_ms(duration_bars, bpm)
+        
+        # Update display
+        self.update_section_display(section_id)
+        return True
+
+    def _ms_to_bars(self, ms, bpm):
+        return ms / 1000 * bpm / 60  # ms to seconds to beats to bars
+
+    def _bars_to_ms(self, bars, bpm):
+        return bars * 60 / bpm * 1000  # bars to beats to seconds to ms
+
+    def update_section_display(self, section_id):
+        # Find and update the section display widgets
+        for widget in self.section_widgets:
+            if widget.get('section_id') == section_id:
+                section = self.get_section_by_id(section_id)
+                start_label = widget.get('start_label')
+                duration_label = widget.get('duration_label')
+                
+                if start_label:
+                    start_label.config(
+                        text=f"Start: {section['start']}ms"
+                )
+                if duration_label:
+                    duration_label.config(
+                        text=f"Duration: {section['duration']}ms"
+                )
+
+    def build_timing_tab(self):
+        frame = ttk.Frame(self.timing_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        
+        # Header
+        ttk.Label(
+            frame, text="Timing Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="JCRD File", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.timing_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.timing_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")]
+            )
+            if path:
+                self.timing_file_path.set(path)
+                self.load_timing_data(path)
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Tools frame
+        tools_frame = ttk.LabelFrame(frame, text="Timing Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # Sync to BPM
+        sync_frame = ttk.Frame(tools_frame)
+        sync_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            sync_frame,
+            text="Sync BPM:"
+        ).pack(side='left', padx=5)
+        
+        self.target_bpm = tk.StringVar(value="120")
+        ttk.Entry(
+            sync_frame,
+            textvariable=self.target_bpm,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            sync_frame,
+            text="Sync to BPM",
+            command=self.sync_to_bpm
+        ).pack(side='left', padx=5)
+
+        # Grid adjust
+        grid_frame = ttk.Frame(tools_frame)
+        grid_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            grid_frame,
+            text="Grid Size (bars):"
+        ).pack(side='left', padx=5)
+        
+        self.grid_size = tk.StringVar(value="1")
+        ttk.Entry(
+            grid_frame,
+            textvariable=self.grid_size,
+            width=10
+        ).pack(side='left', padx=5)
+        
+        ttk.Button(
+            grid_frame,
+            text="Snap to Grid",
+            command=self.snap_to_grid
+        ).pack(side='left', padx=5)
+
+        # Time signature adjustment
+        time_sig_frame = ttk.Frame(tools_frame)
+        time_sig_frame.pack(fill='x', pady=5)
+        
+        ttk.Label(
+            time_sig_frame,
+            text="Time Signature:"
+        ).pack(side='left', padx=5)
+        
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_num,
+            width=3
+        ).pack(side='left')
+        ttk.Label(time_sig_frame, text="/").pack(side='left')
+        ttk.Entry(
+            time_sig_frame,
+            textvariable=self.time_sig_den,
+            width=3
+        ).pack(side='left', padx=(0, 5))
+        
+        ttk.Button(
+            time_sig_frame,
+            text="Apply Time Signature",
+            command=self.apply_time_signature
+        ).pack(side='left', padx=5)
+
+        # Status and preview
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+        
+        self.timing_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.timing_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.timing_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.timing_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_midi_tab(self):
+        frame = ttk.Frame(self.midi_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Header
+        ttk.Label(
+            frame, text="MIDI Tools",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # File selection
+        file_frame = ttk.LabelFrame(frame, text="File Selection", padding=10)
+        file_frame.pack(fill='x', pady=5)
+
+        self.midi_file_path = tk.StringVar()
+        ttk.Label(
+            file_frame, text="Selected File:"
+        ).pack(side='left', padx=5)
+        
+        ttk.Entry(
+            file_frame,
+            textvariable=self.midi_file_path,
+            width=50,
+            state='readonly'
+        ).pack(side='left', padx=5, fill='x', expand=True)
+
+        def select_file():
+            path = filedialog.askopenfilename(
+                filetypes=[
+                    ("MIDI Files", "*.mid"),
+                    ("JCRD Files", "*.json")
+                ]
+            )
+            if path:
+                self.midi_file_path.set(path)
+                self.update_midi_preview()
+
+        ttk.Button(
+            file_frame,
+            text="Browse...",
+            command=select_file
+        ).pack(side='left', padx=5)
+
+        # Conversion tools
+        tools_frame = ttk.LabelFrame(frame, text="Tools", padding=10)
+        tools_frame.pack(fill='x', pady=5)
+
+        # MIDI to JCRD
+        midi_to_jcrd_frame = ttk.Frame(tools_frame)
+        midi_to_jcrd_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            midi_to_jcrd_frame,
+            text="MIDI to JCRD:"
+        ).pack(side='left', padx=5)
+
+        midi_options = ["Auto-detect sections", "Fixed-length sections"]
+        self.midi_import_mode = tk.StringVar(value=midi_options[0])
+        ttk.OptionMenu(
+            midi_to_jcrd_frame,
+            self.midi_import_mode,
+            midi_options[0],
+            *midi_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            midi_to_jcrd_frame,
+            text="Convert MIDI to JCRD",
+            command=self.convert_midi_to_jcrd
+        ).pack(side='left', padx=5)
+
+        # JCRD to MIDI
+        jcrd_to_midi_frame = ttk.Frame(tools_frame)
+        jcrd_to_midi_frame.pack(fill='x', pady=5)
+
+        ttk.Label(
+            jcrd_to_midi_frame,
+            text="JCRD to MIDI:"
+        ).pack(side='left', padx=5)
+
+        export_options = ["Full song", "Individual sections"]
+        self.midi_export_mode = tk.StringVar(value=export_options[0])
+        ttk.OptionMenu(
+            jcrd_to_midi_frame,
+            self.midi_export_mode,
+            export_options[0],
+            *export_options
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            jcrd_to_midi_frame,
+            text="Export to MIDI",
+            command=self.export_to_midi
+        ).pack(side='left', padx=5)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=True, pady=5)
+
+        self.midi_preview = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.midi_preview.pack(fill='both', expand=True)
+
+        # Status line
+        self.midi_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            frame,
+            textvariable=self.midi_status,
+            foreground='gray'
+        ).pack(anchor='w', pady=5)
+
+    def build_import_tab(self):
+        # dynamically list all import scripts
+        frame = ttk.Frame(self.import_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Import Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        # map keywords to filetypes
+        ext_map = {
+            'midi': ("MIDI Files", "*.mid"),
+            'mp3': ("MP3 Files", "*.mp3"),
+            'json': ("JSON Files", "*.json")
+        }
+        for script in sorted(self.scripts_dir.glob("*_to_jcrd.py")):
+            name = script.stem
+            ft = next(
+                (ext_map[k] for k in ext_map if k in name),
+                ext_map['json']
+            )
+
+            def make_cmd(n=name, ft=ft):
+
+                def cmd():
+                    path = filedialog.askopenfilename(filetypes=[ft])
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Converted {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+        ttk.Label(frame, textvariable=self.import_status,
+                  foreground='gray').pack(anchor='w', pady=(10, 0))
+
+    def build_harmony_tab(self):
+        frame = ttk.Frame(self.harmony_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Harmony Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("add_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Added {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def build_validation_tab(self):
+        frame = ttk.Frame(self.validation_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Batch Validate .jcrd Files",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Add info about the default output directory
+        output_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "new_jcrd"
+        )
+        ttk.Label(
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 10))
+
+        # Add McGill dataset section
+        mcgill_dir = os.path.join(
+            str(Path(__file__).resolve().parent.parent),
+            "jcrddatasets", "mcgill_jcrd"
+        )
+        os.makedirs(mcgill_dir, exist_ok=True)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+        ttk.Label(
+            frame,
+            text="McGill Dataset Operations:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        ttk.Label(
+            frame,
+            text=f"McGill dataset location: {mcgill_dir}",
+            foreground="darkblue"
+        ).pack(anchor="w", pady=(0, 5))
+
+        def move_to_mcgill():
+            source_file = filedialog.askopenfilename(
+                filetypes=[("JCRD Files", "*.json")],
+                initialdir=output_dir
+            )
+            if not source_file:
+                return
+
+            filename = os.path.basename(source_file)
+            target_file = os.path.join(mcgill_dir, filename)
+
+            if messagebox.askyesno(
+                "Confirm",
+                f"Move {filename} to McGill dataset?\\n\\n"
+                "This should only be done for validated files that meet "
+                "the requirements for the official dataset."
+            ):
+                try:
+                    import shutil
+                    shutil.copy2(source_file, target_file)
+                    self.import_status.set(
+                        f"✅ Added to McGill dataset: {filename}"
+                    )
+                    messagebox.showinfo(
+                        "Success",
+                        f"File has been added to McGill dataset at:\\n"
+                        f"{target_file}"
+                    )
+                except Exception as e:
+                    self.import_status.set(
+                        "❌ Error adding to McGill dataset"
+                    )
+                    messagebox.showerror("Error", str(e))
+
+        ttk.Button(
+            frame,
+            text="Add File to McGill Dataset",
+            command=move_to_mcgill
+        ).pack(fill='x', pady=4)
+
+        ttk.Separator(frame, orient="horizontal").pack(
+            fill="x", pady=10
+        )
+
+        ttk.Label(
+            frame,
+            text="Validation Tools:",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(5, 5))
+
+        validation_scripts = sorted(
+            self.scripts_dir.glob("scan_*.py")
+        ) + sorted(self.scripts_dir.glob("validate_*.py"))
+        for script in validation_scripts:
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    folder = filedialog.askdirectory()
+                    if folder:
+                        self.run_tool(n, folder,
+                                      f"Completed {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+        ttk.Label(
+            frame, text="Validate Single JCRD File",
+            font=("Arial", 11, "bold")
+        ).pack(anchor="w", pady=(10, 5))
+
+        self.validate_button = ttk.Button(
+            frame,  # Changed from self.validation_tab to frame
+            text="Validate JCRD File",
+            command=self.validate_file
+        )
+        self.validate_button.pack(anchor="w", pady=(5, 5))
+
+        self.result_text = scrolledtext.ScrolledText(
+            frame,  # Changed from self.validation_tab to frame
+            wrap=tk.WORD,
+            height=10
+        )
+        self.result_text.pack(fill="both", expand=True, pady=(5, 5))
+
+    def build_export_tab(self):
+        frame = ttk.Frame(self.export_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+        ttk.Label(
+            frame, text="Export Tools", font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+        for script in sorted(self.scripts_dir.glob("export_*.py")):
+            name = script.stem
+
+            def make_cmd(n=name):
+
+                def cmd():
+                    path = filedialog.askopenfilename(
+                        filetypes=[("JCRD Files", "*.json")]
+                    )
+                    if path:
+                        self.run_tool(n, path,
+                                      f"Exported {n}",
+                                      f"Error running {n}")
+                return cmd
+            ttk.Button(frame, text=name.replace('_', ' ').title(),
+                       command=make_cmd()).pack(fill='x', pady=4)
+
+    def __init__(self, root):
+        self.root = root
+        self.root.title("🎼 JCRD Toolbox GUI v2")
+        # window geometry and grid layout
+        self.root.geometry("700x500")
+        self.root.grid_rowconfigure(1, weight=1)
+        self.root.grid_columnconfigure(0, weight=1)
+        
+        # locate scripts directory for dynamic discovery
+        self.scripts_dir = Path(__file__).resolve().parent.parent / 'scripts'
+        
+        # Initialize status variables
+        self.import_status = tk.StringVar(value="Ready")
+        self.timing_status = tk.StringVar(value="Ready")
+        self.midi_status = tk.StringVar(value="Ready")
+        self.catalog_status = tk.StringVar(value="Ready")
+        
+        # Initialize time signature and BPM variables
+        self.time_sig_num = tk.StringVar(value="4")
+        self.time_sig_den = tk.StringVar(value="4")
+        self.bpm_var = tk.StringVar(value="120")
+        
+        self.build_menu()
+        self.build_interface()
+
+    def _setup_ui(self):
+        # Header label
+        banner = tk.Label(
+            self.root,
+            text="JCRD Toolbox v2\\nImport, enrich, validate, and export "
+                 "JCRD files (*.json)",
+            font=("Arial", 11), justify="center", fg="darkblue"
+        )
+        banner.grid(row=0, column=0, pady=4)
+
+        tab_control = ttk.Notebook(self.root)
+        # place notebook via grid
+        tab_control.grid(row=1, column=0, sticky="nsew")
+
+        # Define tabs
+        self.import_tab = ttk.Frame(tab_control)
+        self.harmony_tab = ttk.Frame(tab_control)
+        self.timing_tab = ttk.Frame(tab_control)
+        self.midi_tab = ttk.Frame(tab_control)
+        self.validation_tab = ttk.Frame(tab_control)
+        self.export_tab = ttk.Frame(tab_control)
+        self.catalog_tab = ttk.Frame(tab_control)
+
+        tab_control.add(self.import_tab, text='Import')
+        tab_control.add(self.harmony_tab, text='Harmony')
+        tab_control.add(self.timing_tab, text='Timing')
+        tab_control.add(self.midi_tab, text='MIDI')
+        tab_control.add(self.validation_tab, text='Validation')
+        tab_control.add(self.export_tab, text='Export')
+        tab_control.add(self.catalog_tab, text='Catalog')
+
+        # build content tabs
+        self.build_import_tab()
+        self.build_harmony_tab()
+        self.build_timing_tab()
+        self.build_midi_tab()
+        self.build_validation_tab()
+        self.build_export_tab()
+        self.build_catalog_tab()
+
+    def refresh_file_list(self, event=None):  # Added event for Combobox
+        # Clear existing items
+        for item in self.file_tree.get_children():
+            self.file_tree.delete(item)
+
+        dir_path = self.catalog_dir.get()
+        filter_text = self.filter_var.get().lower()  # Get filter text
+
+        if not os.path.exists(dir_path):
+            self.catalog_status.set(f"Directory not found: {dir_path}")
+            return
+
+        try:
+            file_count = 0
+            for filename in os.listdir(dir_path):
+                if filename.endswith('.json'):
+                    try:
+                        file_path = os.path.join(dir_path, filename)
+                        with open(file_path, 'r') as f:
+                            data = json.load(f)
+
+                        # Enhanced metadata extraction
+                        metadata_obj = data.get('metadata', {})
+                        title = metadata_obj.get(
+                            'title', data.get('title', '(Unknown)')
+                        )
+                        artist = metadata_obj.get(
+                            'artist', data.get('artist', '(Unknown)')
+                        )
+                        # sections = len(data.get('sections', [])) # No longer needed for display
+
+                        # Apply filter
+                        if filter_text and not (
+                            filter_text in title.lower() or
+                            filter_text in artist.lower() or
+                            filter_text in filename.lower()
+                        ):
+                            continue  # Skip if no match
+
+                        self.file_tree.insert(
+                            '', 'end',
+                            values=(title, artist),  # Updated values
+                            tags=(file_path,)
+                        )
+                        file_count += 1
+                    except Exception:  # Removed 'as e'
+                        pass
+            self.catalog_status.set(f"Found {file_count} JCRD files.")
+        except Exception as e:
+            self.catalog_status.set(f"Error scanning directory: {e}")
+
+    def build_catalog_tab(self):
+        frame = ttk.Frame(self.catalog_tab, padding=10)
+        frame.pack(expand=True, fill='both')
+
+        # Create header
+        ttk.Label(
+            frame, text="JCRD File Catalog",
+            font=("Arial", 14, "bold")
+        ).pack(anchor="w", pady=8)
+
+        # Create directory selection
+        dir_frame = ttk.Frame(frame)
+        dir_frame.pack(fill='x', pady=5)
+
+        ttk.Label(dir_frame, text="Directory:").pack(side='left', padx=(0, 5))
+
+        # Catalog directory options
+        catalog_dirs = {
+            "Validated Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "new_jcrd"
+            ),
+            "McGill Dataset": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd"
+            ),
+            "McGill SALAMI": os.path.join(
+                str(Path(__file__).resolve().parent.parent),
+                "jcrddatasets", "mcgill_jcrd_salami"
+            ),
+            "Raw Files": os.path.join(
+                str(Path(__file__).resolve().parent.parent), "raw"
+            )
+        }
+
+        # Create raw directory if it doesn't exist
+        os.makedirs(catalog_dirs["Raw Files"], exist_ok=True)
+
+        self.catalog_dir = tk.StringVar(value=catalog_dirs["Validated Files"])
+        catalog_dir_combo = ttk.Combobox(
+            dir_frame,
+            textvariable=self.catalog_dir,
+            values=list(catalog_dirs.values()),
+            state="readonly",
+            width=40
+        )
+        catalog_dir_combo.pack(side='left', fill='x', expand=True, padx=5)
+        # Bind event
+        catalog_dir_combo.bind("<<ComboboxSelected>>", self.refresh_file_list)
+
+        def browse_dir():
+            dir_path = filedialog.askdirectory()
+            if dir_path:
+                self.catalog_dir.set(dir_path)
+                self.refresh_file_list()  # Call method
+            else:
+                pass
+
+        ttk.Button(
+            dir_frame, text="Browse...",
+            command=browse_dir
+        ).pack(side='left', padx=5)
+
+        refresh_btn = ttk.Button(
+            dir_frame, text="Refresh",
+            command=self.refresh_file_list  # Call method
+        )
+        refresh_btn.pack(side='left')
+
+        # Filter input
+        filter_frame = ttk.Frame(frame)
+        filter_frame.pack(fill='x', pady=5)
+        ttk.Label(filter_frame, text="Filter:").pack(side='left', padx=(0, 5))
+        self.filter_var = tk.StringVar()
+        filter_entry = ttk.Entry(filter_frame,
+                                 textvariable=self.filter_var, width=40)
+        filter_entry.pack(side='left', fill='x', expand=True, padx=5)
+        # Trigger refresh
+        filter_entry.bind("<KeyRelease>", self.refresh_file_list)
+
+        # Create the file list frame with scrollbar
+        list_frame = ttk.Frame(frame)
+        list_frame.pack(fill='both', expand=True, pady=10)
+
+        # Add scrollbar and listbox
+        scrollbar = ttk.Scrollbar(list_frame)
+        scrollbar.pack(side='right', fill='y')
+
+        # File list with multiple columns (title, artist)
+        columns = ('title', 'artist')
+        self.file_tree = ttk.Treeview(
+            list_frame,
+            columns=columns,
+            show='headings',
+            selectmode='browse',
+            height=10
+        )
+
+        # Define column headings
+        self.file_tree.heading('title', text='Title')
+        self.file_tree.heading('artist', text='Artist')
+
+        # Set column widths
+        self.file_tree.column('title', width=250)  # Adjusted width
+        self.file_tree.column('artist', width=250)  # Adjusted width
+
+        self.file_tree.pack(side='left', fill='both', expand=True)
+        scrollbar.config(command=self.file_tree.yview)
+        self.file_tree.config(yscrollcommand=scrollbar.set)
+
+        # Preview frame
+        preview_frame = ttk.LabelFrame(frame, text="Preview", padding=10)
+        preview_frame.pack(fill='both', expand=False, pady=10)
+
+        self.preview_text = tk.Text(
+            preview_frame,
+            height=10,
+            width=50,
+            wrap='word',
+            state='disabled'
+        )
+        self.preview_text.pack(fill='both', expand=True)
+
+        # Status line
+        status_frame = ttk.Frame(frame)
+        status_frame.pack(fill='x', pady=5)
+
+        self.catalog_status = tk.StringVar(value="Ready")
+        ttk.Label(
+            status_frame,
+            textvariable=self.catalog_status,
+            foreground='gray'
+        ).pack(anchor='w')
+
+        # Action buttons
+        btn_frame = ttk.Frame(frame)
+        btn_frame.pack(fill='x', pady=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Preview Selected",
+            command=self.preview_selected_file
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Edit Selected",
+            command=self.edit_selected_file  # New command
+        ).pack(side='left', padx=5)
+
+        ttk.Button(
+            btn_frame,
+            text="Export Selected",
+            command=self.export_selected_file
+        ).pack(side='left', padx=5)
+
+        # Bind select event to preview
+        self.file_tree.bind('<<TreeviewSelect>>', self.on_file_select)
+
+        # Initial file list population
+        self.refresh_file_list()  # Use class method
+
+        # Change directory combobox binding
+        catalog_dir_combo.bind(
+            '<<ComboboxSelected>>',
+            self.refresh_file_list  # Use class method
+        )
+        # NOTE: The local 'def refresh_file_list():' that was here previously
+        # caused issues with the combobox binding. It's been removed to
+        # avoid confusion.
+
+    def on_file_select(self, event):
+        selected_items = self.file_tree.selection()
+        if not selected_items:
+            return
+
+        selected_item = selected_items[0]
+        tags = self.file_tree.item(selected_item, "tags")
+        if not tags:
+            return
+        file_path = tags[0]
+
+        try:
+            self.load_preview(file_path)
+        except Exception as e:
+            self.catalog_status.set(f"Error previewing file: {e}")

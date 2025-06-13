@@ -1,0 +1,401 @@
+{
+  "songID": "entry_0505",
+  "title": "Better Liar",
+  "artist": "Julia Cole",
+  "spotifyID": "4HykouKy5aX0JT3oplCi1O",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Intro",
+      "chords": [
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-?-i-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-?-i-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-?-i-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin",
+        "Cadd9",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Better Liar",
+  "release_date": "2023-02-10",
+  "duration_ms": 169736
+}

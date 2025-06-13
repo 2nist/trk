@@ -1,0 +1,217 @@
+{
+  "songID": "entry_100935",
+  "title": "In Die Middel Van Die Storm",
+  "artist": "Retief Burger",
+  "spotifyID": "6H7EomcDQ4q4X0lSFFKXi6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-i-ii-i-v-i-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-v-iv-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-i-ii-i-v-i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Csmin",
+        "D",
+        "A",
+        "E",
+        "Csmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "D",
+        "A",
+        "E",
+        "Csmin",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-iv-i-v-?-iv-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E",
+        "D",
+        "A",
+        "D",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-i-ii-i-v-i-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "In Die Middel Van Die Storm",
+  "release_date": "2019-12-06",
+  "duration_ms": 286422
+}

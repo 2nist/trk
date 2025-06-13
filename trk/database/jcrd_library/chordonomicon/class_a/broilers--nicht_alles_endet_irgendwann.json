@@ -1,0 +1,381 @@
+{
+  "songID": "entry_102092",
+  "title": "Nicht alles endet irgendwann",
+  "artist": "Broilers",
+  "spotifyID": "2tyVYTt55qjQpFu4aiBQ2i",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Gb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Gb",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:?-bbvi-?-bbii-?-bbiii-?-?-bbvi-?-bbv-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Cmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Cmin",
+        "Fmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:?-bbii-?-bbvi-?-?-bbii-?-bbvi-?-?-bbii-?-bbvi-?-?-bbii-?-bbvi-?-bbiii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Db"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:bbii-?-bbvi-?-bbv-?-?-bbii-?-bbvi-?-bbv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Gb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Gb",
+        "Ab"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.04",
+        "progression:?-bbvi-?-bbv-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Cmin",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Cmin",
+        "Fmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:?-bbii-?-bbvi-?-?-bbii-?-bbvi-?-?-bbii-?-bbvi-?-?-bbii-?-bbvi-?-bbiii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Db"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Db"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:bbii-?-bbvi-?-bbv-?-?-bbii-?-bbvi-?-bbv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-bbii-?-bbv-?-bbvi-?-?-bbii-?-bbv-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Cmin",
+        "Fmin",
+        "Eb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Ab"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Db",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Db",
+        "Ab"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-bbvi-?-bbii-?-bbvi-?-?-bbvi-?-bbiii-?-bbii-?-?-bbvi-?-bbii-?-bbvi-?-?-bbvi-?-bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Puro Amor",
+  "release_date": "2021-04-23",
+  "duration_ms": 205471
+}

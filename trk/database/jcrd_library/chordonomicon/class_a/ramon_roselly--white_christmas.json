@@ -1,0 +1,297 @@
+{
+  "songID": "entry_0146",
+  "title": "White Christmas",
+  "artist": "Ramon Roselly",
+  "spotifyID": "2QyT34x37gYETvV4VowrkD",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Csdim",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Csdim",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.14",
+        "progression:i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:iv-?-#iv-?-v-?-iv-?-v-?-i-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-#i-?-ii-?-i-?-ii-?-v-?-i-?-v-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Dmin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:iv-?-#iv-?-v-?-iv-?-v-?-i-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-#i-?-ii-?-i-?-ii-?-v-?-i-?-v-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "G",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "G",
+        "Bb"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.52",
+        "progression:i-?-v-?-i-?-ii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Fs",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "F",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-#i-?-ii-?-i-?-ii-?-v-?-i-?-v-?-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Interlude",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Herzenssache (Platin Edition)",
+  "release_date": "2020-10-16",
+  "duration_ms": 192520
+}

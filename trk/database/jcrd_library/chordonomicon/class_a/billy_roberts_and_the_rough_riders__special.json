@@ -1,0 +1,233 @@
+{
+  "songID": "entry_102378",
+  "title": "Special",
+  "artist": "Billy Roberts and the Rough Riders",
+  "spotifyID": "2WO6VKFikX0sSqtX67CVBX",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "Emin",
+        "D",
+        "Dsus4",
+        "D",
+        "Emin",
+        "Emin7"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "Emin",
+        "D",
+        "Dsus4",
+        "D",
+        "Emin",
+        "Emin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-v-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "Emin",
+        "Emin7",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Amin",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "Emin",
+        "Emin7",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Amin",
+        "Amin7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:?-?-?-?-v-?-?-i-?-?-i-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Emin7",
+        "D",
+        "Emin7",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Emin",
+        "Emin7",
+        "D",
+        "Emin7",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Amin7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-?-v-?-?-v-?-?-i-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin7",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Emin7",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Amin7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-v-?-?-v-?-?-i-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Southern Sessions",
+  "release_date": "2019-12-30",
+  "duration_ms": 235253
+}

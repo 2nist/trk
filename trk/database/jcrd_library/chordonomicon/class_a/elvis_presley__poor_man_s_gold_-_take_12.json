@@ -1,0 +1,229 @@
+{
+  "songID": "entry_10243",
+  "title": "Poor Man's Gold - Take 12",
+  "artist": "Elvis Presley",
+  "spotifyID": "1MaKu9N54QE1FWr3LaNXNl",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "A7",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "A7",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:?-ii-?-v-?-?-ii-?-v-?-v-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin7",
+        "A",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin7",
+        "A",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-ii-?-v-?-?-ii-?-v-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Emin7",
+        "A",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin7",
+        "A",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-ii-?-v-?-?-ii-?-v-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "A",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "A",
+        "D",
+        "D7",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.37",
+        "progression:?-ii-?-v-?-v-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "American Sound 1969",
+  "release_date": "2019-08-23",
+  "duration_ms": 65666
+}

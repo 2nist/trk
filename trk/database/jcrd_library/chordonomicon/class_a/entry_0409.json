@@ -1,0 +1,285 @@
+{
+  "songID": "entry_0409",
+  "title": "Mein Kryptonit",
+  "artist": "Nino de Angelo",
+  "spotifyID": "2SpGRgWSMrCYBUWcMB23TB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fmin",
+        "Cmin",
+        "Db",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cmin",
+        "Db",
+        "Bbmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "progression:?-?-bbvi-?"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fmin",
+        "Cmin",
+        "Db",
+        "Bbmin",
+        "Fmin",
+        "Cmin",
+        "Db",
+        "Bbmin",
+        "Db",
+        "Cmin",
+        "Db",
+        "Eb"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cmin",
+        "Db",
+        "Bbmin",
+        "Fmin",
+        "Cmin",
+        "Db",
+        "Bbmin",
+        "Db",
+        "Cmin",
+        "Db",
+        "Eb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "progression:?-?-bbvi-?-?-?-bbvi-?-bbvi-?-bbvi-bbvii"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Db",
+        "Ab",
+        "C",
+        "Fmin",
+        "Db",
+        "Ab",
+        "C",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Db",
+        "Ab",
+        "C",
+        "Fmin",
+        "Db",
+        "Ab",
+        "C",
+        "Fmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-iv-i-iii-?-iv-i-iii-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Db",
+        "Bbmin",
+        "Fmin",
+        "Cmin",
+        "Db",
+        "Bbmin",
+        "Db",
+        "Cmin",
+        "Db",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Db",
+        "Bbmin",
+        "Fmin",
+        "Cmin",
+        "Db",
+        "Bbmin",
+        "Db",
+        "Cmin",
+        "Db",
+        "Eb"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "progression:?-bbvi-?-?-?-bbvi-?-bbvi-?-bbvi-bbvii"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Db",
+        "Ab",
+        "C",
+        "Fmin",
+        "Db",
+        "Ab",
+        "C"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Db",
+        "Ab",
+        "C",
+        "Fmin",
+        "Db",
+        "Ab",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-iv-i-iii-?-iv-i-iii"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Db",
+        "Eb",
+        "C/E",
+        "Fmin",
+        "Db",
+        "Eb",
+        "C/E",
+        "Fmin",
+        "Gdim7",
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "C",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Db",
+        "Eb",
+        "C/E",
+        "Fmin",
+        "Db",
+        "Eb",
+        "C/E",
+        "Fmin",
+        "Gdim7",
+        "Ab",
+        "Fmin",
+        "Db",
+        "Ab",
+        "C",
+        "Fmin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:iv-v-?-?-iv-v-?-?-?-i-?-iv-i-iii-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "D",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "D",
+        "Gmin",
+        "Dmin",
+        "Eb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Eb",
+        "Bb",
+        "D",
+        "Gmin",
+        "Eb",
+        "Bb",
+        "D",
+        "Gmin",
+        "Dmin",
+        "Eb",
+        "Cmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-iv-i-iii-?-iv-i-iii-?-?-iv-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Mein Kryptonit",
+  "release_date": "2023-02-10",
+  "duration_ms": 222825
+}

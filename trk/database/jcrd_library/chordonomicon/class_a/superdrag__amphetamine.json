@@ -1,0 +1,209 @@
+{
+  "songID": "entry_102867",
+  "title": "Amphetamine",
+  "artist": "Superdrag",
+  "spotifyID": "0Ld0oJWAfJB7h5OjFlI2O0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Eaug",
+        "Eadd13",
+        "E7",
+        "A",
+        "Aaug",
+        "Aadd13",
+        "A7",
+        "Fs",
+        "Bmin"
+      ],
+      "rawChords": [
+        "E",
+        "Eaug",
+        "Eadd13",
+        "E7",
+        "A",
+        "Aaug",
+        "Aadd13",
+        "A7",
+        "Fs",
+        "Bmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.40",
+        "progression:ii-?-?-?-ii-?-v-?-?-?-v-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "Csmin",
+        "Cmin",
+        "Bmin",
+        "E",
+        "A",
+        "Bmin",
+        "Cs",
+        "Fsmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "Csmin",
+        "Cmin",
+        "Bmin",
+        "E",
+        "A",
+        "Bmin",
+        "Cs",
+        "Fsmin",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.91",
+        "progression:v-?-iv-?-?-?-?-v-?-i-?-?-iii-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Eaug",
+        "Eadd13",
+        "E7",
+        "A",
+        "Aaug",
+        "Aadd13",
+        "A7",
+        "Fs",
+        "Bmin"
+      ],
+      "rawChords": [
+        "E",
+        "Eaug",
+        "Eadd13",
+        "E7",
+        "A",
+        "Aaug",
+        "Aadd13",
+        "A7",
+        "Fs",
+        "Bmin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.40",
+        "progression:ii-?-?-?-ii-?-v-?-?-?-v-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "Csmin",
+        "Cmin",
+        "Bmin",
+        "E",
+        "A",
+        "Bmin",
+        "Cs",
+        "Fsmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "Csmin",
+        "Cmin",
+        "Bmin",
+        "E",
+        "A",
+        "Bmin",
+        "Cs",
+        "Fsmin",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.91",
+        "progression:v-?-iv-?-?-?-?-v-?-i-?-?-iii-?-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "Aaug",
+        "Aadd13",
+        "A7"
+      ],
+      "rawChords": [
+        "A",
+        "Aaug",
+        "Aadd13",
+        "A7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Head Trip In Every Key",
+  "release_date": "1998-03-24",
+  "duration_ms": 261666
+}

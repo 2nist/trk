@@ -1,0 +1,251 @@
+{
+  "songID": "entry_100057",
+  "title": "Break my heart",
+  "artist": "Rrotzer",
+  "spotifyID": "3z0XA6usBDO0hVNoRpIFPg",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fs",
+        "E7",
+        "Gsmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fs",
+        "E7",
+        "Gsmin",
+        "Fs"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-?-v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "Gsmin",
+        "Fs",
+        "E7",
+        "Gsmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "E7",
+        "Gsmin",
+        "Fs",
+        "E7",
+        "Gsmin",
+        "Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fs",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fs",
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E7",
+        "Gsmin",
+        "Fsmin",
+        "E7",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Obsession",
+  "release_date": "2019-12-31",
+  "duration_ms": 197146
+}

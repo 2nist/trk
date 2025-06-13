@@ -1,0 +1,245 @@
+{
+  "songID": "entry_102557",
+  "title": "Broken Hill",
+  "artist": "Billy Roberts and the Rough Riders",
+  "spotifyID": "60TMJWVBZUa3MH63V8BHBP",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "Cadd9",
+        "A",
+        "Cadd9"
+      ],
+      "rawChords": [
+        "A",
+        "Cadd9",
+        "A",
+        "Cadd9"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "Amin",
+        "Emin",
+        "C",
+        "Amin",
+        "Emin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Emin",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Emin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-?-v-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Border Sessions",
+  "release_date": "2022-03-10",
+  "duration_ms": 217955
+}

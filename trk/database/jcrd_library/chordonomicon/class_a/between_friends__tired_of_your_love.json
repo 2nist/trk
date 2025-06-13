@@ -1,0 +1,145 @@
+{
+  "songID": "entry_103037",
+  "title": "tired of your love",
+  "artist": "BETWEEN FRIENDS",
+  "spotifyID": "3bt5RjyTfacrouOtwdW7lB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "As",
+        "Amin"
+      ],
+      "rawChords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "As",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:##iv-?-?-##iv-?-?-##iv-?-?-##iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin"
+      ],
+      "rawChords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:##iv-?-?-##iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "As",
+        "Amin"
+      ],
+      "rawChords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "As",
+        "Amin",
+        "As",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:##iv-?-?-##iv-?-?-##iv-?-?-##iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin"
+      ],
+      "rawChords": [
+        "As",
+        "Amin",
+        "As",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:##iv-?-?-##iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "i like when you shine!",
+  "release_date": "2021-06-11",
+  "duration_ms": 122346
+}

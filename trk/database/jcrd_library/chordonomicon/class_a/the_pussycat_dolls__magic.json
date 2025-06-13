@@ -1,0 +1,221 @@
+{
+  "songID": "entry_102962",
+  "title": "Magic",
+  "artist": "The Pussycat Dolls",
+  "spotifyID": "3vwr1bki3FvNFo1KVz5Qv5",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C7",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C7",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C7",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C7",
+        "F",
+        "G",
+        "C",
+        "C7",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C7",
+        "F",
+        "G",
+        "C",
+        "C7",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-ii-?-v-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C7",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C7",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Doll Domination (Deluxe)",
+  "release_date": "2008-09-23",
+  "duration_ms": 221386
+}

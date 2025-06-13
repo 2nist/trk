@@ -1,0 +1,311 @@
+{
+  "songID": "entry_101696",
+  "title": "I Talk to the Wind",
+  "artist": "Dana Gavanski",
+  "spotifyID": "0XcsAQRItn3ZpkWPIWoWrh",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-?-v-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Dmin",
+        "Emin",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Dmin",
+        "Emin",
+        "Dmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-?-?-v-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Dmin",
+        "Emin",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Dmin",
+        "Emin",
+        "Dmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Dmin",
+        "Emin",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Dmin",
+        "Emin",
+        "Dmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Dmin",
+        "Emin",
+        "Dmin",
+        "E"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Amaj7",
+        "Emin",
+        "Dmin",
+        "Emin",
+        "Dmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7",
+        "Amaj7",
+        "Fmaj7",
+        "Cmaj7",
+        "Bmin7",
+        "E7",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-?-?-?-v-?-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Wind Songs",
+  "release_date": "2020-08-14",
+  "duration_ms": 278742
+}

@@ -1,0 +1,307 @@
+{
+  "songID": "entry_102195",
+  "title": "Aileen (aus \"Sing meinen Song, Vol. 8\")",
+  "artist": "JORIS",
+  "spotifyID": "33LhzX2KSzmWB0iNe6XNRw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:?-i-?-?-v-?-i-?-?-i-?-?-v-?-i-?-?-v-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Bb",
+        "Eb"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-iv-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Bb",
+        "Eb",
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab"
+      ],
+      "rawChords": [
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Bb",
+        "Ab"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Ab",
+        "Cmin",
+        "Eb",
+        "Bb",
+        "Ab",
+        "Bb"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.28",
+        "progression:v-?-iv-?-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Eb",
+        "Dmin",
+        "Cmin",
+        "Bb",
+        "Ab",
+        "Eb"
+      ],
+      "rawChords": [
+        "Eb",
+        "Dmin",
+        "Cmin",
+        "Bb",
+        "Ab",
+        "Eb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Sing meinen Song - Das Tauschkonzert, Vol. 8",
+  "release_date": "2021-05-07",
+  "duration_ms": 217853
+}

@@ -1,0 +1,157 @@
+{
+  "songID": "entry_102068",
+  "title": "Ich Liebe (Instrumental)",
+  "artist": "DMMK",
+  "spotifyID": "2fAo0Iystf4A5of1KA5jbk",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "Fs",
+        "Dsmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "Fs",
+        "Dsmin",
+        "Fs"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:i-?-v-?-i-?-v-?-?-ii-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "Fs",
+        "Dsmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "Dsmin",
+        "Cs",
+        "Fs",
+        "Dsmin",
+        "Fs"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:i-?-v-?-i-?-v-?-?-ii-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gsmin",
+        "B",
+        "Dsmin",
+        "Cs",
+        "Gs",
+        "B",
+        "Dsmin",
+        "Cs"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "B",
+        "Dsmin",
+        "Cs",
+        "Gs",
+        "B",
+        "Dsmin",
+        "Cs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:?-biii-?-?-iv-?-i-?-biii-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Jahweh (Instrumental Edition)",
+  "release_date": "2019-05-31",
+  "duration_ms": 320426
+}

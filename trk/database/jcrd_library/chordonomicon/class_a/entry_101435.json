@@ -1,0 +1,289 @@
+{
+  "songID": "entry_101435",
+  "title": "Todo lo joven muere hoy",
+  "artist": "M-Clan",
+  "spotifyID": "25irNcZtjgm6hR6grbjRdD",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-?-v-iv-?-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "Fsmin7",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "E7",
+        "Cs7",
+        "Fsmin",
+        "A",
+        "B7"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "Fsmin7",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "E7",
+        "Cs7",
+        "Fsmin",
+        "A",
+        "B7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-v-iv-?-i-?-?-v-iv-?-i-ii-?-?-v-vi"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-i-v-i-v-i-?-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "E7",
+        "Cs7",
+        "Fsmin",
+        "B7"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "E7",
+        "Cs7",
+        "Fsmin",
+        "B7"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-ii-?-ii-i-?-v-ii-?-ii-i-?-v-vi-?-?-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:v-i-v-i-v-i-?-iv"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D",
+        "A",
+        "Bmin",
+        "A",
+        "G",
+        "As",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:i-v-?-v-iv-?-i-v-?-v-iv-?-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Delta",
+  "release_date": "2016-09-30",
+  "duration_ms": 264853
+}

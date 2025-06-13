@@ -1,0 +1,323 @@
+{
+  "songID": "entry_102775",
+  "title": "FUCKBOY",
+  "artist": "Dixie",
+  "spotifyID": "1AXJqw8lCf3chqvgq4U8mA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:i-?-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:i-?-?-iii-?-iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:i-?-?-?-iii-?-iv-?-i-?-?-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:i-?-?-iii-?-iv-?-i-?-?-iii-?-iv-?-i-?-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:i-?-?-?-iii-?-iv-?-i-?-?-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Emin",
+        "G",
+        "C",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "G",
+        "C",
+        "D",
+        "Emin",
+        "G",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.51",
+        "progression:v-?-?-i-?-iv-?-v-?-?-i-?-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:i-?-?-?-iii-?-iv-?-i-?-?-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "Emin",
+        "B",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:i-?-?-?-iii-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "FUCKBOY",
+  "release_date": "2021-05-14",
+  "duration_ms": 190346
+}

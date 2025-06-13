@@ -1,0 +1,46 @@
+{
+    "name": "envireament",
+    "version": "1.0.0",
+    "description": "EnviREAment - Virtual REAPER Environment for Development and Testing",
+    "main": "enhanced_virtual_reaper.lua",
+    "keywords": [
+        "reaper",
+        "virtual-environment",
+        "testing",
+        "lua",
+        "imgui",
+        "music-production"
+    ],
+    "author": "Matthew @ Songbase",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/matthewsongbase/EnviREAment.git"
+    },
+    "bugs": {
+        "url": "https://github.com/matthewsongbase/EnviREAment/issues"
+    },
+    "homepage": "https://github.com/matthewsongbase/EnviREAment#readme",
+    "scripts": {
+        "test": "lua enhanced_test_runner.lua",
+        "demo": "lua examples/main.lua",
+        "docs": "echo 'Documentation available in docs/ directory'"
+    },
+    "files": [
+        "enhanced_virtual_reaper.lua",
+        "enhanced_test_runner.lua",
+        "README.md",
+        "LICENSE",
+        "docs/",
+        "examples/",
+        "ui/"
+    ],
+    "engines": {
+        "node": ">=12.0.0"
+    },
+    "dependencies": {},
+    "devDependencies": {},
+    "publishConfig": {
+        "access": "public"
+    }
+}

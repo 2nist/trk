@@ -1,0 +1,742 @@
+{
+  "title": "Situation",
+  "artist": "Yaz",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 232,
+      "duration_ms": 40492,
+      "chords": [
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "B:1/1"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 40724,
+      "duration_ms": 12194,
+      "chords": [
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "G#:1/1"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 52918,
+      "duration_ms": 8032,
+      "chords": [
+        "G#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 60951,
+      "duration_ms": 8103,
+      "chords": [
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "B:1/1"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 69055,
+      "duration_ms": 12140,
+      "chords": [
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "G#:1/1"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 81195,
+      "duration_ms": 8126,
+      "chords": [
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 89322,
+      "duration_ms": 24208,
+      "chords": [
+        "G#:maj",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "B:1/1"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 113530,
+      "duration_ms": 8119,
+      "chords": [
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 121650,
+      "duration_ms": 8083,
+      "chords": [
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 129733,
+      "duration_ms": 8079,
+      "chords": [
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "B:1/1"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 137813,
+      "duration_ms": 12159,
+      "chords": [
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "G#:1/1"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_5",
+      "start_ms": 149972,
+      "duration_ms": 8088,
+      "chords": [
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_6",
+      "start_ms": 158060,
+      "duration_ms": 8011,
+      "chords": [
+        "G#:maj",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 166072,
+      "duration_ms": 10231,
+      "chords": [
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 176304,
+      "duration_ms": 32273,
+      "chords": [
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 208578,
+      "duration_ms": 12204,
+      "chords": [
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "C#:5",
+        "B:5",
+        "F#:1/1",
+        "G#:1/1"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_7",
+      "start_ms": 220782,
+      "duration_ms": 8058,
+      "chords": [
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_8",
+      "start_ms": 228841,
+      "duration_ms": 8055,
+      "chords": [
+        "G#:maj",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_6",
+      "start_ms": 236896,
+      "duration_ms": 24277,
+      "chords": [
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "N",
+        "N",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_5",
+      "start_ms": 261174,
+      "duration_ms": 12104,
+      "chords": [
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "G#:1/1",
+        "G#:1/1"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_9",
+      "start_ms": 273278,
+      "duration_ms": 8094,
+      "chords": [
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_7",
+      "start_ms": 281372,
+      "duration_ms": 24224,
+      "chords": [
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "B:1/1"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_6",
+      "start_ms": 305597,
+      "duration_ms": 12140,
+      "chords": [
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "G#:1/1"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_10",
+      "start_ms": 317738,
+      "duration_ms": 8083,
+      "chords": [
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_11",
+      "start_ms": 325821,
+      "duration_ms": 8053,
+      "chords": [
+        "G#:maj",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "C#:1/1",
+        "F#:1/1",
+        "D#:maj",
+        "G#:maj",
+        "G#:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 333874,
+      "duration_ms": 12953,
+      "chords": [
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "B:1/1",
+        "C#:1/1",
+        "C#:1/1",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "A",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

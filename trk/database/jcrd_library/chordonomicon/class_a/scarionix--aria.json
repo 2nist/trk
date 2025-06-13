@@ -1,0 +1,311 @@
+{
+  "songID": "entry_101005",
+  "title": "Aria",
+  "artist": "SCARIONIX",
+  "spotifyID": "7brcGIzU6WDtQ5g4uwr100",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-v-?-i-?-iv-?-?-v-?-?-v-?-i-?-iv-?-?-v-?-iv-?-v-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-v-?-i-?-iv-?-?-v-?-?-v-?-i-?-iv-?-?-v-?-iv-?-v-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Aria",
+  "release_date": "2022-06-04",
+  "duration_ms": 115651
+}

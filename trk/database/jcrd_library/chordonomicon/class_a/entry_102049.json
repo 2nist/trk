@@ -1,0 +1,351 @@
+{
+  "songID": "entry_102049",
+  "title": "La gente parla",
+  "artist": "Fiorella Mannoia",
+  "spotifyID": "2ZCLuU7bmh4Tmt3xhRlxDO",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Dmin9",
+        "Amin",
+        "B7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Dmin9",
+        "Amin",
+        "B7",
+        "E7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.45",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-?-iii-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Dmin9",
+        "Amin",
+        "B7",
+        "E7"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Dmin9",
+        "Amin",
+        "B7",
+        "E7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.45",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-?-iii-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-?-v-?-i-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin9",
+        "Amin",
+        "B7",
+        "E7"
+      ],
+      "rawChords": [
+        "Dmin9",
+        "Amin",
+        "B7",
+        "E7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Amin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "D"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "D",
+        "G",
+        "Amin",
+        "G",
+        "D",
+        "Amin",
+        "G",
+        "D",
+        "Amin"
+      ],
+      "length": 28,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-v-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-v-?-i-?-?-i-?-v-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Instrumental",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Padroni di niente",
+  "release_date": "2020-11-06",
+  "duration_ms": 201400
+}

@@ -1,0 +1,321 @@
+{
+  "songID": "entry_101158",
+  "title": "Nightmare",
+  "artist": "Set It Off",
+  "spotifyID": "2FxfCsAdtZDqoqjWqiib5X",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Gsmin",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "Gsmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Fs",
+        "Dsmin",
+        "Ds",
+        "E",
+        "Fs",
+        "Ds",
+        "Dsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "E",
+        "Fs",
+        "Dsmin",
+        "Ds",
+        "E",
+        "Fs",
+        "Ds",
+        "Dsmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.01",
+        "progression:biii-?-?-biii-?-?-biii-?-?-biii-?-?-biii-?-iv-?-?-ii-?-biii-?-iv-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "Ds"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "E",
+        "Gsmin",
+        "Ds"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.08",
+        "progression:i-?-iv-?-iii-?-?-i-?-iv-?-iii-?-?-iv-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gsmin",
+        "Gs",
+        "Gsmin",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Ds",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "Gs",
+        "Gsmin",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Ds",
+        "Gsmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:?-v-?-?-?-?-biii-?-ii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:i-?-iv-?-iii-?-?-i-?-iv-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ds",
+        "E",
+        "Ds",
+        "Gsmin",
+        "Ds",
+        "E",
+        "Ds",
+        "Gsmin",
+        "Ds",
+        "E",
+        "Ds"
+      ],
+      "rawChords": [
+        "Ds",
+        "E",
+        "Ds",
+        "Gsmin",
+        "Ds",
+        "E",
+        "Ds",
+        "Gsmin",
+        "Ds",
+        "E",
+        "Ds"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.00",
+        "progression:iii-?-iv-?-iii-?-?-iii-?-iv-?-iii-?-?-iii-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "Dsmin",
+        "Csmin",
+        "Gsmin",
+        "E",
+        "Dsmin",
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "B",
+        "E",
+        "Ds",
+        "Gsmin",
+        "Dsmin",
+        "Csmin",
+        "Gsmin",
+        "E",
+        "Dsmin",
+        "Csmin",
+        "Gsmin",
+        "Ds",
+        "Gsmin"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:?-i-?-iv-?-iii-?-?-i-?-iv-?-iii-?-?-i-?-iv-?-iii-?-?-?-?-?-iv-?-?-?-?-iii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Cinematics (Deluxe)",
+  "release_date": "2012-09-18",
+  "duration_ms": 203213
+}

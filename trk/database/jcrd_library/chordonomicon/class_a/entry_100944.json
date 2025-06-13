@@ -1,0 +1,241 @@
+{
+  "songID": "entry_100944",
+  "title": "How Long the Night Was",
+  "artist": "Deadboy & The Elephantmen",
+  "spotifyID": "14N5HSZAYFk7bDUjMbDqTC",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "As",
+        "Ds",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds"
+      ],
+      "rawChords": [
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "As",
+        "Ds",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-ii-?-i-?-v-?-ii-?-i-?-vi-?-ii-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Ds"
+      ],
+      "rawChords": [
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Ds"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G#",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "As",
+        "Ds",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs"
+      ],
+      "rawChords": [
+        "Cs",
+        "As",
+        "Ds",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:i-?-vi-?-ii-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds"
+      ],
+      "rawChords": [
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds"
+      ],
+      "rawChords": [
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Gs",
+        "Ds"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:i-?-v-?-i-?-v-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "We Are Night Sky",
+  "release_date": "2005",
+  "duration_ms": 194293
+}

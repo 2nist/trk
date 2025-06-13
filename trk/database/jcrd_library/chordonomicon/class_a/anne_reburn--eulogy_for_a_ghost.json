@@ -1,0 +1,369 @@
+{
+  "songID": "entry_101603",
+  "title": "Eulogy for a Ghost",
+  "artist": "Anne Reburn",
+  "spotifyID": "07UEXil7WEoCHG2e5MSUkD",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "Dmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-?-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "F",
+        "Gmin",
+        "Dmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "F",
+        "Gmin",
+        "Dmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-?-?-v-?-?-?-ii-?-i-?-v-?-?-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:?-?-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "F",
+        "Gmin",
+        "Dmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "C",
+        "Bb",
+        "F",
+        "Gmin",
+        "Dmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:?-?-?-v-?-?-?-ii-?-i-?-v-?-?-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Dmin",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Dmin",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "Dmin",
+        "Bb",
+        "Dmin",
+        "Bb",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Gmin",
+        "Dmin",
+        "Bb",
+        "Dmin",
+        "Bb",
+        "Dmin",
+        "Bb",
+        "Dmin",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-?-i-?-?-i-?-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Everywhere and Nowhere",
+  "release_date": "2021-04-23",
+  "duration_ms": 174754
+}

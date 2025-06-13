@@ -1,0 +1,145 @@
+{
+  "songID": "entry_101390",
+  "title": "The Missing Link - Mixed",
+  "artist": "Gorkiz",
+  "spotifyID": "5whUE7NzBs6urCxeOaClO9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "B7",
+        "Emin",
+        "Amin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "B7",
+        "Emin",
+        "Amin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin",
+        "Amin",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-?-?-biii-v-?-biii-v-?-biii-v-?-biii-v-?-?-biii"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "C",
+        "B7",
+        "Emin",
+        "Amin",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iv-iii-?-iv-iii-?-iv-iii-?-?-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B7",
+        "Emin",
+        "Amin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin"
+      ],
+      "rawChords": [
+        "B7",
+        "Emin",
+        "Amin",
+        "G",
+        "B7",
+        "Emin",
+        "G",
+        "B7",
+        "Emin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-?-?-biii-v-?-biii-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "SAKURAS 009 (DJ Mix)",
+  "release_date": "2023-04-10",
+  "duration_ms": 344000
+}

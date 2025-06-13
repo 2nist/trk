@@ -1,0 +1,365 @@
+{
+  "songID": "entry_100331",
+  "title": "13 20 Let Nazaj",
+  "artist": "Flirrt",
+  "spotifyID": "3iTFwxExvSxnDJypOV51DK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-i-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-iv-v-i-?-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-?-iv-v-i-?-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-iv-v-i-?-iv-v-i-?-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-?-iv-v-i-?-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-?-iv-v-i-?-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-iv-v-i-?-iv-v-i-?-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-i-ii-v-?-i-ii-v-?-i-ii-v-?-i-ii-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Jekyll & Hyde CD 1",
+  "release_date": "2018-09-25",
+  "duration_ms": 220893
+}

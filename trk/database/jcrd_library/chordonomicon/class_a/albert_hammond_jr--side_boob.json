@@ -1,0 +1,247 @@
+{
+  "songID": "entry_100474",
+  "title": "Side Boob",
+  "artist": "Albert Hammond Jr",
+  "spotifyID": "0ltA3E7KSNNLE7hM4lqeJa",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "Emin",
+        "G7",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "G7"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Emin",
+        "G7",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "G7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:iv-?-v-?-?-v-?-i-?-iv-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Dmin",
+        "Dminadd13",
+        "Amin",
+        "Asus2"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Dminadd13",
+        "Amin",
+        "Asus2"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Dmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Dmin",
+        "Dminadd13",
+        "Amin",
+        "Asus2"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Dminadd13",
+        "Amin",
+        "Asus2"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "G7",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "G7",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "G7",
+        "C",
+        "F",
+        "G",
+        "Emin",
+        "G7",
+        "F"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-iv-?-v-?-?-v-?-i-?-iv-?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Instrumental",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Momentary Masters",
+  "release_date": "2015-07-31",
+  "duration_ms": 227294
+}

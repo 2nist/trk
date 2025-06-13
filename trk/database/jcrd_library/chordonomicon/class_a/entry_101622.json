@@ -1,0 +1,191 @@
+{
+  "songID": "entry_101622",
+  "title": "2010",
+  "artist": "daniel sabater",
+  "spotifyID": "6oNF4mTDylJfuQF9Wqb3Hw",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "A",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:i-?-iii-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:i-?-iii-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "A",
+        "D",
+        "G",
+        "Emin",
+        "A",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-?-v-?-i-?-iv-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "D",
+        "G",
+        "B",
+        "C",
+        "G",
+        "D",
+        "G",
+        "B",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "C",
+        "G",
+        "D",
+        "G",
+        "B",
+        "C",
+        "G",
+        "D",
+        "G",
+        "B",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.40",
+        "progression:i-?-iii-?-iv-?-i-?-v-?-i-?-iii-?-iv-?-i-?-v-?-i-?-iii-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "tenemos que quedar",
+  "release_date": "2021-04-09",
+  "duration_ms": 184750
+}

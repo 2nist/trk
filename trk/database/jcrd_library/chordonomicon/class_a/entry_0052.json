@@ -1,0 +1,273 @@
+{
+  "songID": "entry_0052",
+  "title": "I'm Fine",
+  "artist": "Million Fellas",
+  "spotifyID": "4MwuYa5Vt0mFyUfwb7UIg9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Cs",
+        "D",
+        "Cs",
+        "A",
+        "D",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Cs",
+        "D",
+        "Cs",
+        "A",
+        "D",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:ii-?-v-?-ii-v-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Cs",
+        "D",
+        "Cs",
+        "A",
+        "D",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Cs",
+        "D",
+        "Cs",
+        "A",
+        "D",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:ii-?-v-?-ii-v-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "E"
+      ],
+      "length": 28,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v-i-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "I'm Fine",
+  "release_date": "2022-06-17",
+  "duration_ms": 225713
+}

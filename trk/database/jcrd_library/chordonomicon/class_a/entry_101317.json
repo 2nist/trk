@@ -1,0 +1,211 @@
+{
+  "songID": "entry_101317",
+  "title": "Things Have Gone to Pieces",
+  "artist": "Charley Crockett",
+  "spotifyID": "3BaYIBDvcjXa1aoX9K0hmQ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E7",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "E7",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E7",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:ii-v-ii-v-i-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "E7",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E7",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-iv-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "E7",
+        "A"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "E7",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E7",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:ii-v-ii-v-i-v-i-v-ii-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E7",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E7",
+        "A"
+      ],
+      "rawChords": [
+        "E7",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E7",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-i-v-iv-i-iv-i-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Field Recordings, Vol. 1",
+  "release_date": "2020-04-03",
+  "duration_ms": 186030
+}

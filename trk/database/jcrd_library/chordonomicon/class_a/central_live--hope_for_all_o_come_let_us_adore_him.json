@@ -1,0 +1,327 @@
+{
+  "songID": "entry_10124",
+  "title": "Hope for All (O Come Let Us Adore Him)",
+  "artist": "Central Live",
+  "spotifyID": "6fJ5MaLVtV1oV0b8WV0nbt",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-?-v-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-i-?-?-v-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "C",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-i-?-?-v-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin7",
+        "G",
+        "C/E",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin7",
+        "G",
+        "C/E",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin7",
+        "G",
+        "C/E",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin7",
+        "G",
+        "C/E",
+        "F"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.26",
+        "progression:i-?-v-?-ii-?-i-?-?-ii-?-?-i-?-v-?-ii-?-i-?-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Amin7",
+        "C",
+        "F",
+        "G",
+        "Amin7",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "C",
+        "F",
+        "G",
+        "Amin7",
+        "C",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-?-i-?-iv-?-v-?-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "Amin7",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G/B",
+        "C",
+        "G",
+        "F",
+        "Amin7",
+        "G",
+        "C/E",
+        "F",
+        "G/B",
+        "C",
+        "G",
+        "F",
+        "Amin7",
+        "G",
+        "C/E",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "G/B",
+        "C",
+        "G",
+        "F",
+        "Amin7",
+        "G",
+        "C/E",
+        "F",
+        "G/B",
+        "C",
+        "G",
+        "F",
+        "Amin7",
+        "G",
+        "C/E",
+        "F"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:i-?-?-v-?-ii-?-i-?-?-ii-?-?-i-?-?-v-?-ii-?-i-?-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Bridge",
+    "Bridge",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Thrill of Hope",
+  "release_date": "2018-09-21",
+  "duration_ms": 270987
+}

@@ -1,0 +1,359 @@
+{
+  "songID": "entry_102112",
+  "title": "Glass Love Train - L.A. Version",
+  "artist": "Tanita Tikaram",
+  "spotifyID": "1OHJKaupACSp9TzN9TDKjr",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "Cmaj7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "Cmaj7",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "Cmaj7",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.24",
+        "progression:?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "Cmaj7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-v-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "To Drink The Rainbow: An Anthology 1988 - 2019",
+  "release_date": "2019-11-01",
+  "duration_ms": 300000
+}

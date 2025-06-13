@@ -1,0 +1,339 @@
+{
+  "songID": "entry_0623",
+  "title": "Bad Believer",
+  "artist": "St. Vincent",
+  "spotifyID": "1VxW8LraxdE168OWaytqrC",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:iv-?-biii-?-i-?-iv-?-biii-?-i-?-iv-?-biii-?-i-?-iv-?-biii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs",
+        "B",
+        "A",
+        "Fs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:iv-?-biii-?-i-?-iv-?-biii-?-i-?-iv-?-biii-?-i-?-iv-?-biii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "Gsmin",
+        "Fsmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-v-?-iv-?-i-?-?-i-?-v-?-iv-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin"
+      ],
+      "rawChords": [
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin",
+        "A",
+        "E",
+        "Gsmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.31",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Dsmin",
+        "Csmin",
+        "B",
+        "Gsmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "E",
+        "Dsmin",
+        "Csmin",
+        "B",
+        "Gsmin",
+        "Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "St. Vincent (Deluxe Edition)",
+  "release_date": "2015-02-06",
+  "duration_ms": 179920
+}

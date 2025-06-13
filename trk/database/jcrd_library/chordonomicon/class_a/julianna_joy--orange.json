@@ -1,0 +1,221 @@
+{
+  "songID": "entry_101517",
+  "title": "Orange",
+  "artist": "Julianna Joy",
+  "spotifyID": "4zjJq4wguDLlEuiNn3D4aN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin",
+        "Ds",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ds",
+        "Fmin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Ds",
+        "Fmin",
+        "Cmin",
+        "Ds",
+        "Fmin",
+        "C",
+        "Dmin",
+        "Emin",
+        "Fmin",
+        "C",
+        "Dmin",
+        "Emin",
+        "Fmin",
+        "C"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ds",
+        "Fmin",
+        "Cmin",
+        "Ds",
+        "Fmin",
+        "C",
+        "Dmin",
+        "Emin",
+        "Fmin",
+        "C",
+        "Dmin",
+        "Emin",
+        "Fmin",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:?-##iv-?-?-?-##iv-?-?-iii-?-?-?-?-iii-?-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin",
+        "F",
+        "C",
+        "Fmin",
+        "C"
+      ],
+      "rawChords": [
+        "Fmin",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin",
+        "F",
+        "C",
+        "Fmin",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.19",
+        "progression:?-v-?-?-v-?-?-i-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Ds",
+        "Fmin",
+        "Cmin",
+        "Ds",
+        "Fmin",
+        "C",
+        "Dmin",
+        "Emin",
+        "Fmin",
+        "C",
+        "Dmin",
+        "Emin",
+        "Fmin",
+        "C"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ds",
+        "Fmin",
+        "Cmin",
+        "Ds",
+        "Fmin",
+        "C",
+        "Dmin",
+        "Emin",
+        "Fmin",
+        "C",
+        "Dmin",
+        "Emin",
+        "Fmin",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:?-##iv-?-?-?-##iv-?-?-iii-?-?-?-?-iii-?-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin",
+        "F",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin",
+        "F",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin",
+        "C",
+        "Fmin"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.14",
+        "progression:?-v-?-?-v-?-?-i-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Orange",
+  "release_date": "2020-10-30",
+  "duration_ms": 214285
+}

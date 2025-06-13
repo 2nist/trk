@@ -1,0 +1,297 @@
+{
+  "songID": "entry_100204",
+  "title": "This Isn't It",
+  "artist": "Zach Bryson",
+  "spotifyID": "1UdJPUanL6N4LsBCsWKYzW",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-?-i-?-v-?-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-?-i-?-v-?-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "G/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "G/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-i-?-iv-?-v-?-i-?-?-?-iv-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "G",
+        "Gmaj7/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-?-i-?-v-?-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "G",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "G/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D7",
+        "G",
+        "D",
+        "G",
+        "C",
+        "D",
+        "G",
+        "G/Fs",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-i-?-iv-?-v-?-i-?-?-?-iv-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Songs That Will Ruin Your Day",
+  "release_date": "2019-11-17",
+  "duration_ms": 246047
+}

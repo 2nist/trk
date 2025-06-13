@@ -1,0 +1,222 @@
+{
+  "title": "Sweet Surrender",
+  "artist": "Bread",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 487,
+      "duration_ms": 11659,
+      "chords": [
+        "A:maj",
+        "B:min(11)/b7",
+        "A:maj",
+        "B:min(11)/b7",
+        "A:maj",
+        "B:min(11)/4",
+        "A:maj",
+        "B:min(11)/4",
+        "B:min(11)/4"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 12147,
+      "duration_ms": 22727,
+      "chords": [
+        "B:min(11)/4",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj7",
+        "A:7",
+        "D:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 34874,
+      "duration_ms": 23127,
+      "chords": [
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj7",
+        "A:7",
+        "D:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "F#:min",
+        "F#:min",
+        "E:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 58001,
+      "duration_ms": 23001,
+      "chords": [
+        "D:maj",
+        "E:maj/b7",
+        "A:maj/3",
+        "A:maj/b7",
+        "D:maj/3",
+        "E:maj",
+        "F#:min",
+        "D:maj",
+        "E:maj/b7",
+        "A:maj/3",
+        "A:7",
+        "D:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 81003,
+      "duration_ms": 22959,
+      "chords": [
+        "E:maj",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj7",
+        "A:7",
+        "D:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "F#:min",
+        "F#:min",
+        "D:maj",
+        "D:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 103962,
+      "duration_ms": 34367,
+      "chords": [
+        "D:maj",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj7",
+        "A:7",
+        "A:7",
+        "D:maj",
+        "E:maj",
+        "D:maj",
+        "E:maj",
+        "F#:min",
+        "F#:min",
+        "D:maj",
+        "F#:min",
+        "F#:min",
+        "B:7",
+        "D:maj",
+        "E:maj",
+        "E:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "outro_1",
+      "start_ms": 138330,
+      "duration_ms": 18378,
+      "chords": [
+        "E:maj",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "E:11",
+        "A:maj",
+        "D:min/5",
+        "A:maj",
+        "A:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Outro",
+      "sectionLetter": "A",
+      "sectionFunction": "Conclusion",
+      "sectionLabel": "A'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

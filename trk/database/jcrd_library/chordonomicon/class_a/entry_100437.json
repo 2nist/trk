@@ -1,0 +1,243 @@
+{
+  "songID": "entry_100437",
+  "title": "hey i kinda like u...",
+  "artist": "Jane Xie",
+  "spotifyID": "0qQRTWpNQBQVzc1Z83ZXvP",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fadd9",
+        "Amin7",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin7",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "C/B",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Fadd9",
+        "Amin7",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin7",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "C/B",
+        "Amin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-v-i-?-?-v-?-v-i-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin7",
+        "Fadd9",
+        "C",
+        "G",
+        "Amin7",
+        "Fadd9",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin7",
+        "Fadd9",
+        "C",
+        "G",
+        "Amin7",
+        "Fadd9",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-?-?-i-v-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "Amin7",
+        "Fadd9"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "Fadd9"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Fadd9",
+        "Amin7",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin7",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "C/B",
+        "Amin7"
+      ],
+      "rawChords": [
+        "C",
+        "Fadd9",
+        "Amin7",
+        "G",
+        "C",
+        "Fadd9",
+        "Amin7",
+        "G",
+        "Dmin",
+        "G",
+        "C",
+        "C/B",
+        "Amin7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-?-?-v-i-?-?-v-?-v-i-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "Amin7",
+        "Fadd9",
+        "C",
+        "G",
+        "Amin7",
+        "Fadd9",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Amin7",
+        "Fadd9",
+        "C",
+        "G",
+        "Amin7",
+        "Fadd9",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-?-?-i-v-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Amin7",
+        "Fadd9",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "Fadd9",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "moonlight punch",
+  "release_date": "2020-07-05",
+  "duration_ms": 153064
+}

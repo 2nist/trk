@@ -1,0 +1,311 @@
+{
+  "songID": "entry_0336",
+  "title": "Tomorrow will be your day - Engelberg Live 91",
+  "artist": "Stephan Eicher",
+  "spotifyID": "3Y1raTx9IdNHF7aEJIoK83",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "F/C",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F/C",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F/C",
+        "C",
+        "F/C",
+        "C"
+      ],
+      "rawChords": [
+        "F/C",
+        "C",
+        "F/C",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C"
+      ],
+      "rawChords": [
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F/C",
+        "C"
+      ],
+      "rawChords": [
+        "F/C",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:i-v-i-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C"
+      ],
+      "rawChords": [
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F/C",
+        "G/D",
+        "Amin",
+        "Emin",
+        "F/C",
+        "G/D"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F/C",
+        "G/D",
+        "Amin",
+        "Emin",
+        "F/C",
+        "G/D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F/C",
+        "C",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F/C",
+        "C",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C",
+        "C/G",
+        "Emin/B",
+        "F/C",
+        "C"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v-?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F/C",
+        "G/D",
+        "C"
+      ],
+      "rawChords": [
+        "F/C",
+        "G/D",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Engelberg Live 91",
+  "release_date": "2021-08-27",
+  "duration_ms": 220386
+}

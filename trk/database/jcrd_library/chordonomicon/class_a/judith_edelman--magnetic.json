@@ -1,0 +1,359 @@
+{
+  "songID": "entry_100786",
+  "title": "Magnetic",
+  "artist": "Judith Edelman",
+  "spotifyID": "58MS6vJH5rOLv2mVpPCkhr",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Abno3d",
+        "Bno3d",
+        "Dbno3d",
+        "Abno3d",
+        "Bno3d",
+        "Dbno3d",
+        "Abno3d"
+      ],
+      "rawChords": [
+        "Abno3d",
+        "Bno3d",
+        "Dbno3d",
+        "Abno3d",
+        "Bno3d",
+        "Dbno3d",
+        "Abno3d"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gbno3d",
+        "Abno3d",
+        "Gbno3d",
+        "Abno3d"
+      ],
+      "rawChords": [
+        "Gbno3d",
+        "Abno3d",
+        "Gbno3d",
+        "Abno3d"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin"
+      ],
+      "rawChords": [
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-bbvi-?-?-?-iv-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fs",
+        "Abmin",
+        "Fs",
+        "Db"
+      ],
+      "rawChords": [
+        "Fs",
+        "Abmin",
+        "Fs",
+        "Db"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-?-i-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Abmin",
+        "E",
+        "B",
+        "Abmin",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "E",
+        "B",
+        "Bsus2",
+        "Db",
+        "Abmin7"
+      ],
+      "rawChords": [
+        "Abmin",
+        "E",
+        "B",
+        "Abmin",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "E",
+        "B",
+        "Bsus2",
+        "Db",
+        "Abmin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:?-v-?-ii-?-?-biv-?-?-?-v-?-ii-?-?-biv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin"
+      ],
+      "rawChords": [
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-bbvi-?-?-?-iv-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fs",
+        "Abmin",
+        "Fs",
+        "Db"
+      ],
+      "rawChords": [
+        "Fs",
+        "Abmin",
+        "Fs",
+        "Db"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:i-?-?-i-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Abmin",
+        "E",
+        "B",
+        "Abmin",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "E",
+        "B",
+        "Bsus2",
+        "Db",
+        "Abmin7"
+      ],
+      "rawChords": [
+        "Abmin",
+        "E",
+        "B",
+        "Abmin",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "E",
+        "B",
+        "Bsus2",
+        "Db",
+        "Abmin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:?-v-?-ii-?-?-biv-?-?-?-v-?-ii-?-?-biv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Abmin",
+        "E",
+        "B",
+        "Abmin",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "E",
+        "B",
+        "Fs",
+        "Abmin",
+        "E",
+        "B",
+        "Fs",
+        "Db",
+        "Abmin7"
+      ],
+      "rawChords": [
+        "Abmin",
+        "E",
+        "B",
+        "Abmin",
+        "Db",
+        "Abmin7",
+        "Abmin",
+        "E",
+        "B",
+        "Fs",
+        "Abmin",
+        "E",
+        "B",
+        "Fs",
+        "Db",
+        "Abmin7"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:?-iv-?-i-?-?-bbiii-?-?-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-bbiii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin"
+      ],
+      "rawChords": [
+        "Abmin",
+        "B",
+        "Db",
+        "Abmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-bbvi-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Clear Glass Jar",
+  "release_date": "2009-08-18",
+  "duration_ms": 209373
+}

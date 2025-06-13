@@ -1,0 +1,313 @@
+{
+  "songID": "entry_101072",
+  "title": "Scar",
+  "artist": "Def Leppard",
+  "spotifyID": "7h2HMjt9fq5JlUktFB9jM4",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A"
+      ],
+      "rawChords": [
+        "A"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin9",
+        "C",
+        "Emin9",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin9",
+        "C",
+        "Emin9",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v-?-iii-?-iii-ii-vi-iii-?-iii-ii-vi"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:ii-i-?-i-ii-i-?-i-ii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin9",
+        "C",
+        "Emin9",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin9",
+        "C",
+        "Emin9",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-?-v-?-iii-?-iii-ii-vi"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A",
+        "G",
+        "D/Fs",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A",
+        "G",
+        "D/Fs",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:ii-i-?-i-ii-i-?-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "A",
+        "G/B",
+        "Gb7/Bb",
+        "Aadd9",
+        "A",
+        "Aadd9",
+        "Ano3d",
+        "Aadd9",
+        "A",
+        "Aadd9",
+        "Ano3d"
+      ],
+      "rawChords": [
+        "A",
+        "G/B",
+        "Gb7/Bb",
+        "Aadd9",
+        "A",
+        "Aadd9",
+        "Ano3d",
+        "Aadd9",
+        "A",
+        "Aadd9",
+        "Ano3d"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-?-?-v-?-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "F",
+        "C/E",
+        "F",
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "C/E",
+        "F",
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Aadd9",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-biii-?-biii-v-iv-?-iv-v-?-v-iv-i-v-?-v-iv-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A",
+        "G",
+        "D/Fs",
+        "G",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:ii-i-?-i-ii-i-?-i-ii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Solo",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "X",
+  "release_date": "2002-07-30",
+  "duration_ms": 301853
+}

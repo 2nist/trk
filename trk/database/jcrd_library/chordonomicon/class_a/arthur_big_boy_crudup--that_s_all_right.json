@@ -1,0 +1,313 @@
+{
+  "songID": "entry_101884",
+  "title": "That's All Right",
+  "artist": "Arthur \"Big Boy\" Crudup",
+  "spotifyID": "7qOFo8CJMGexuOkSOynx6b",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "E",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "E",
+        "A",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.20",
+        "progression:v-?-v-?-i-?-i-?-i-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7"
+      ],
+      "rawChords": [
+        "E7"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:i-?-i-?-i-?-i-?-ii-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "E7"
+      ],
+      "rawChords": [
+        "E",
+        "E7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "E",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "E",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:i-?-i-?-i-?-i-?-ii-?-v-?-i-?-v-?-ii-?-v-?-v-?-i-?-i-?-i-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "E7"
+      ],
+      "rawChords": [
+        "E",
+        "E7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.31",
+        "progression:i-?-i-?-i-?-i-?-ii-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "E",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "E7",
+        "A",
+        "A7",
+        "A",
+        "A7",
+        "E",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:v-?-v-?-i-?-i-?-i-?-i-?-ii-?-v-?-i-?-v-?-ii-?-v-?-v-?-i-?-i-?-i-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "That's All Right Mama",
+  "release_date": "1992-03-10",
+  "duration_ms": 176973
+}

@@ -1,0 +1,229 @@
+{
+  "songID": "entry_101091",
+  "title": "Guilty",
+  "artist": "Jim Reeves",
+  "spotifyID": "5pTKxcFqnwGAF75yC2wv7Q",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-iv-v-i-iv-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "A7",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "A7",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E7"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-i-v-v-i-ii-v-i-ii-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "A7",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "A7",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E7"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-i-v-v-i-ii-v-i-ii-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "C",
+        "B7",
+        "E7"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "C",
+        "B7",
+        "E7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:iv-i-biii-ii-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "A7",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "A7",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "D",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E7"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-i-v-v-i-ii-v-i-ii-v-i-v-i-ii-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "The International Jim Reeves",
+  "release_date": "1963-10-08",
+  "duration_ms": 189613
+}

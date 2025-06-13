@@ -1,0 +1,271 @@
+{
+  "songID": "entry_100843",
+  "title": "Moon In The Glass",
+  "artist": "Paul Stephenson",
+  "spotifyID": "3vyzVegZNh2pb1uyMFjjE8",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Csmin",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-v-?-?-iv-v-?-?-iv-v-?-?-iv-v-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-ii-?-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-v-?-?-iv-v-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-ii-?-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Gs",
+        "Csmin",
+        "A",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-v-?-?-iv-v-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Csmin",
+        "A",
+        "Csmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-ii-?-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "Gs",
+        "Csmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-v-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Closer To The Music Vol. 1",
+  "release_date": "2019-12-20",
+  "duration_ms": 300626
+}

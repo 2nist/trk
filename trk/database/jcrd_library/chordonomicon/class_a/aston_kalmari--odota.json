@@ -1,0 +1,307 @@
+{
+  "songID": "entry_101569",
+  "title": "Odota",
+  "artist": "Aston Kalmari",
+  "spotifyID": "5e8mFuiNM7Weq0L2DQO3tE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "F",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "F",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Amin",
+        "As",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Amin",
+        "As",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:?-v-?-?-v-?-?-#iii-?-i-?-ii-?-iii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "F",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "F",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Amin",
+        "As",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "C",
+        "Dmin",
+        "C",
+        "Amin",
+        "As",
+        "F",
+        "G",
+        "A",
+        "Dmin",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:?-v-?-?-v-?-?-#iii-?-i-?-ii-?-iii-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "F",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "F",
+        "Amin",
+        "Dmin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin",
+        "As",
+        "F",
+        "A",
+        "Dmin",
+        "As",
+        "A",
+        "A7",
+        "Dmin",
+        "As",
+        "F",
+        "A",
+        "Dmin",
+        "As",
+        "A",
+        "A7",
+        "Dmin",
+        "As",
+        "F",
+        "A"
+      ],
+      "rawChords": [
+        "Dmin",
+        "As",
+        "F",
+        "A",
+        "Dmin",
+        "As",
+        "A",
+        "A7",
+        "Dmin",
+        "As",
+        "F",
+        "A",
+        "Dmin",
+        "As",
+        "A",
+        "A7",
+        "Dmin",
+        "As",
+        "F",
+        "A"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.09",
+        "progression:?-#iii-?-i-?-iii-?-?-#iii-?-iii-?-iii-?-?-#iii-?-i-?-iii-?-?-#iii-?-iii-?-iii-?-?-#iii-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "Dmin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "F",
+        "Amin",
+        "Dmin",
+        "C",
+        "Dmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Ajatusten ampiaispes\u00e4",
+  "release_date": "2020-05-08",
+  "duration_ms": 216932
+}

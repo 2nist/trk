@@ -1,0 +1,281 @@
+{
+  "songID": "entry_0856",
+  "title": "Participation Trophies",
+  "artist": "Madelline",
+  "spotifyID": "4XNm8upK49GSRaxqBjKcQU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cs"
+      ],
+      "rawChords": [
+        "Cs"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Fs",
+        "G",
+        "Gs",
+        "F",
+        "Fs",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "Fs",
+        "G",
+        "Gs",
+        "F",
+        "Fs",
+        "E",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:biii-?-iv-?-biii-?-ii-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Fs",
+        "Cs",
+        "F",
+        "Fs",
+        "F",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Fs",
+        "E",
+        "D",
+        "Cs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Fs",
+        "Cs",
+        "F",
+        "Fs",
+        "F",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Fs",
+        "E",
+        "D",
+        "Cs"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-?-?-biii-?-biii-?-?-?-?-?-?-ii-i-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Fs",
+        "G",
+        "Gs",
+        "F",
+        "Fs",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "F",
+        "Fs",
+        "G",
+        "Gs",
+        "F",
+        "Fs",
+        "E",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:biii-?-iv-?-biii-?-ii-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Fs",
+        "Cs",
+        "F",
+        "Fs",
+        "F",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Fs",
+        "E",
+        "D",
+        "Cs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Fs",
+        "Cs",
+        "F",
+        "Fs",
+        "F",
+        "Gs",
+        "Ds",
+        "Cs",
+        "Gs",
+        "Cs",
+        "Fs",
+        "E",
+        "D",
+        "Cs"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-?-?-biii-?-biii-?-?-?-?-?-?-ii-i-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cs7",
+        "Cs",
+        "Cs7",
+        "Cs",
+        "Cs7",
+        "Cs",
+        "Cs7",
+        "Fs",
+        "E",
+        "D",
+        "Cs",
+        "Cs7",
+        "Fs",
+        "Cs",
+        "Cs7",
+        "Fs"
+      ],
+      "rawChords": [
+        "Cs7",
+        "Cs",
+        "Cs7",
+        "Cs",
+        "Cs7",
+        "Cs",
+        "Cs7",
+        "Fs",
+        "E",
+        "D",
+        "Cs",
+        "Cs7",
+        "Fs",
+        "Cs",
+        "Cs7",
+        "Fs"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-?-?-?-?-?-?-v-iv-?-?-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cs",
+        "Cs7",
+        "Fs",
+        "Cs",
+        "Cs7",
+        "Fs",
+        "E",
+        "D",
+        "Cs"
+      ],
+      "rawChords": [
+        "Cs",
+        "Cs7",
+        "Fs",
+        "Cs",
+        "Cs7",
+        "Fs",
+        "E",
+        "D",
+        "Cs"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-?-?-?-?-v-iv-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Participation Trophies",
+  "release_date": "2022-05-18",
+  "duration_ms": 202442
+}

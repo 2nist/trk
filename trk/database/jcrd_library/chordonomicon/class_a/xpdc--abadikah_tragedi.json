@@ -1,0 +1,279 @@
+{
+  "songID": "entry_101787",
+  "title": "Abadikah Tragedi",
+  "artist": "Xpdc",
+  "spotifyID": "3HbY22BGVKvBIIhN7RQpFy",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.33",
+        "progression:?-v-?-i-?-v-?-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "B",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "B",
+        "C",
+        "Emin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-?-?-?-ii-?-biii-?-ii-?-biii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "B",
+        "C",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "B",
+        "C",
+        "B",
+        "C",
+        "Emin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-?-?-?-ii-?-biii-?-ii-?-biii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "B",
+        "G",
+        "D",
+        "G",
+        "B"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "B",
+        "G",
+        "D",
+        "G",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:i-?-v-?-i-?-iii-?-i-?-v-?-i-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "B",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Amin",
+        "B",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "B",
+        "Emin",
+        "B",
+        "C",
+        "G",
+        "Amin",
+        "B",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 32,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-iii-?-?-iii-?-iv-?-i-?-?-iii-?-iv-?-v-?-?-v-?-iv-?-v-?-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Darjah Satu",
+  "release_date": "2000-05-29",
+  "duration_ms": 345835
+}

@@ -1,0 +1,337 @@
+{
+  "songID": "entry_102329",
+  "title": "Rose Colored Lenses",
+  "artist": "Unlike Pluto",
+  "spotifyID": "3bS1DYVMpJbMusBlDN2MUh",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin",
+        "Amin",
+        "D",
+        "Emin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-?-v-?-?-?-v-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Rose Colored Lenses",
+  "release_date": "2020-10-21",
+  "duration_ms": 207627
+}

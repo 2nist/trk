@@ -1,0 +1,141 @@
+{
+  "title": "The Rose",
+  "artist": "Bette Midler",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "chorus_1",
+      "start_ms": 45,
+      "duration_ms": 15323,
+      "chords": [
+        "C:5",
+        "C:5",
+        "C:5",
+        "C:5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_1",
+      "start_ms": 15368,
+      "duration_ms": 65547,
+      "chords": [
+        "C:maj",
+        "G:maj/3",
+        "F:maj/3",
+        "G:maj/3",
+        "C:maj",
+        "C:maj",
+        "G:maj/3",
+        "F:maj/3",
+        "G:maj/3",
+        "C:maj",
+        "C:maj/7",
+        "F:sus2/3",
+        "F:maj/3",
+        "F:maj/2",
+        "G:7",
+        "C:maj",
+        "G:maj/3",
+        "F:maj/3",
+        "G:maj",
+        "C:maj(9)",
+        "C:maj(9)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 80916,
+      "duration_ms": 62234,
+      "chords": [
+        "C:maj(9)",
+        "C:maj(9)",
+        "G:maj(9)",
+        "F:maj(9)",
+        "G:maj",
+        "C:maj(9)",
+        "C:maj(9)",
+        "G:maj(9)",
+        "F:maj(9)",
+        "G:maj",
+        "C:maj(9)",
+        "E:min/5",
+        "A:min(11)",
+        "A:maj(11)/b7",
+        "F:maj(9)",
+        "G:maj",
+        "C:maj(9)",
+        "G:maj(9)",
+        "F:maj(9)",
+        "G:maj",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 143151,
+      "duration_ms": 77540,
+      "chords": [
+        "C:maj",
+        "G:maj",
+        "F:maj",
+        "G:maj",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "F:maj",
+        "G:maj",
+        "C:maj",
+        "E:min",
+        "A:min(11)",
+        "F:maj(9)",
+        "G:maj(9)",
+        "C:maj(9)",
+        "G:maj(9)",
+        "F:maj(9)",
+        "G:maj",
+        "C:maj(9)",
+        "C:maj(9)",
+        "C:maj(9)",
+        "C:maj",
+        "C:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

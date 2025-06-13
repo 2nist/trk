@@ -1,0 +1,91 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  release:
+    name: Create Release
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+    
+    - name: Setup Lua
+      uses: leafo/gh-actions-lua@v10
+      with:
+        luaVersion: "5.1"
+    
+    - name: Get version from tag
+      id: version
+      run: echo "VERSION=${GITHUB_REF#refs/tags/}" >> $GITHUB_OUTPUT
+    
+    - name: Generate changelog for release
+      id: changelog
+      run: |
+        echo "CHANGELOG<<EOF" >> $GITHUB_OUTPUT
+        awk '/^## \[/ {if(found) exit; if(/\['${{ steps.version.outputs.VERSION }}'\]/) found=1; next} found' CHANGELOG.md >> $GITHUB_OUTPUT
+        echo "EOF" >> $GITHUB_OUTPUT
+    
+    - name: Create release archive
+      run: |
+        # Create a clean release directory
+        mkdir -p release/trk
+        
+        # Copy essential files
+        cp -r src release/trk/
+        cp -r lua release/trk/
+        cp -r envireament release/trk/
+        cp -r bss release/trk/
+        cp -r crd release/trk/
+        cp -r drm release/trk/
+        cp -r lyr release/trk/
+        cp -r mel release/trk/
+        cp -r ske release/trk/
+        cp -r config release/trk/
+        cp -r tools release/trk/
+        
+        # Copy documentation
+        cp LICENSE release/trk/
+        cp CONTRIBUTING.md release/trk/
+        cp CHANGELOG.md release/trk/
+        cp main.lua release/trk/
+          # Create archive
+        cd release
+        tar -czf trk-${{ steps.version.outputs.VERSION }}.tar.gz trk/
+        zip -r trk-${{ steps.version.outputs.VERSION }}.zip trk/
+    
+    - name: Create Release
+      id: create_release
+      uses: softprops/action-gh-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: ${{ steps.version.outputs.VERSION }}
+        name: TRK ${{ steps.version.outputs.VERSION }}
+        body: |
+          ## Changes
+          
+          ${{ steps.changelog.outputs.CHANGELOG }}
+          
+          ## Installation
+          
+          1. Download the archive (`.tar.gz` or `.zip`)
+          2. Extract to your REAPER Scripts directory
+          3. Follow the setup instructions in the documentation
+          
+          ## What's Included
+          
+          - Complete TRK script collection
+          - EnviREAment virtual development environment
+          - All modules: bass sequencing, chord detection, drum programming, melody generation, and more
+          - Documentation and examples
+        draft: false
+        prerelease: ${{ contains(steps.version.outputs.VERSION, 'alpha') || contains(steps.version.outputs.VERSION, 'beta') || contains(steps.version.outputs.VERSION, 'rc') }}
+        files: |
+          release/trk-${{ steps.version.outputs.VERSION }}.tar.gz
+          release/trk-${{ steps.version.outputs.VERSION }}.zip

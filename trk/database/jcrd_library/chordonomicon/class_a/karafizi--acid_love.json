@@ -1,0 +1,205 @@
+{
+  "songID": "entry_102506",
+  "title": "Acid Love",
+  "artist": "Karafizi",
+  "spotifyID": "72kei3tNoaxJR0FbrBQO9C",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Bmin",
+        "Cmaj7",
+        "Amin",
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Bmin",
+        "Cmaj7",
+        "Amin",
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin",
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin",
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Cmaj7",
+        "Amin",
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Cmaj7",
+        "Amin",
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "C",
+        "B"
+      ],
+      "rawChords": [
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "C",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.32",
+        "progression:v-?-?-v-?-?-v-?-?-iv-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin",
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin",
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Bmin7",
+        "Cmaj7",
+        "Amin",
+        "Emin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Remember",
+  "release_date": "2020-11-20",
+  "duration_ms": 197500
+}

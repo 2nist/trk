@@ -1,0 +1,267 @@
+{
+  "songID": "entry_0104",
+  "title": "Heart of Appalachia",
+  "artist": "Kaitlyn Baker",
+  "spotifyID": "3urAuXn4JQ1ZG5jBePZUk4",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "A",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "A",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i-v-?-v-iv-ii-v-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-v-?-iv-i-v-?-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "A",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "A",
+        "D",
+        "G",
+        "C",
+        "G",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i-v-?-v-iv-ii-v-i-iv-i-iv"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "D",
+        "Emin",
+        "D",
+        "C",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-v-iv-i-v-?-v-iv-ii-v-ii-v-ii-v-i-v-?-iv-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Blackbird",
+  "release_date": "2018-04-27",
+  "duration_ms": 203522
+}

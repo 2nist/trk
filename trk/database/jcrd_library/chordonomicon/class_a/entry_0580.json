@@ -1,0 +1,237 @@
+{
+  "songID": "entry_0580",
+  "title": "Sos un Perdedor",
+  "artist": "Los Enanitos Verdes",
+  "spotifyID": "3ksGCNSE0jPcGPA1hTH9Ij",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E"
+      ],
+      "rawChords": [
+        "E"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "A",
+        "E",
+        "Csmin",
+        "A",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "E",
+        "Csmin",
+        "A",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "D",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-i-v-?-i-iv-v-iv-v-iv-biii-iv-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "A",
+        "E",
+        "Csmin",
+        "A",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "E",
+        "Csmin",
+        "A",
+        "D",
+        "E",
+        "D",
+        "E",
+        "D",
+        "C",
+        "D",
+        "E"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-i-v-?-i-iv-v-iv-v-iv-biii-iv-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Cs",
+        "D",
+        "E",
+        "Cs",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C"
+      ],
+      "rawChords": [
+        "Cs",
+        "D",
+        "E",
+        "Cs",
+        "G",
+        "Bmin",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C",
+        "Emin",
+        "C"
+      ],
+      "length": 26,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-vi-vii-?-ii-?-?-v-?-v-?-v-?-v-?-v-?-v-?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude"
+  ],
+  "tags": [],
+  "album": "Carrousel",
+  "release_date": "1988-11-20",
+  "duration_ms": 267093
+}

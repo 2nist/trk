@@ -1,0 +1,355 @@
+{
+  "songID": "entry_102351",
+  "title": "From the Inside Out",
+  "artist": "Tracy Lawrence",
+  "spotifyID": "13mjt5agkeYRJhiY0xLNs9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Dmin",
+        "Emin",
+        "F",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Dmin",
+        "Emin",
+        "F",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:?-v-?-iv-?-?-v-?-iv-?-v-?-i-?-?-?-iv-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "F",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-iv-?-v-?-i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Dmin",
+        "Emin",
+        "F",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Dmin",
+        "Emin",
+        "F",
+        "Dmin",
+        "G",
+        "C"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:?-v-?-iv-?-?-v-?-iv-?-v-?-i-?-?-?-iv-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "Dmin",
+        "Emin",
+        "F",
+        "Dmin",
+        "G",
+        "C",
+        "D",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Emin",
+        "F",
+        "Dmin",
+        "G",
+        "C",
+        "D",
+        "F",
+        "C",
+        "Amin",
+        "F",
+        "G",
+        "G7",
+        "C"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:i-?-?-?-iv-?-?-v-?-i-?-ii-?-iv-?-i-?-?-iv-?-v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Lessons Learned",
+  "release_date": "2000-01-21",
+  "duration_ms": 198933
+}

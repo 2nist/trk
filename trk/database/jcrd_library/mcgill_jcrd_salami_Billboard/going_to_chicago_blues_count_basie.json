@@ -1,0 +1,238 @@
+{
+  "title": "Going To Chicago Blues",
+  "artist": "Count Basie",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 952,
+      "duration_ms": 11609,
+      "chords": [
+        "N",
+        "N",
+        "F:9",
+        "B:7",
+        "Bb:7",
+        "Bb:aug(b7)"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 12561,
+      "duration_ms": 36385,
+      "chords": [
+        "Eb:maj",
+        "Ab:7",
+        "A:dim",
+        "Eb:maj",
+        "Eb:7",
+        "Ab:7",
+        "Ab:7",
+        "Eb:maj",
+        "Eb:maj",
+        "F:min7",
+        "B:7",
+        "Bb:7",
+        "Eb:maj",
+        "Ab:7",
+        "Eb:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 48947,
+      "duration_ms": 37918,
+      "chords": [
+        "Eb:maj",
+        "Eb:maj",
+        "Ab:7",
+        "Eb:maj",
+        "Eb:maj",
+        "Ab:7",
+        "Ab:7",
+        "Eb:maj",
+        "Eb:maj",
+        "F:min7",
+        "Bb:7",
+        "Eb:maj",
+        "Ab:7",
+        "A:dim",
+        "Eb:maj",
+        "Bb:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 86865,
+      "duration_ms": 38916,
+      "chords": [
+        "Bb:7",
+        "Eb:7",
+        "Ab:maj",
+        "Eb:7",
+        "Eb:7",
+        "Ab:7",
+        "Ab:7",
+        "Eb:7",
+        "Eb:7",
+        "Bb:7",
+        "Bb:7",
+        "Eb:maj",
+        "Ab:7",
+        "A:dim",
+        "Bb:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 125782,
+      "duration_ms": 39961,
+      "chords": [
+        "Bb:7",
+        "Eb:7",
+        "Ab:7",
+        "Eb:7",
+        "Eb:7",
+        "Ab:7",
+        "Ab:7",
+        "Eb:7",
+        "Eb:7",
+        "Bb:7",
+        "Bb:7",
+        "Eb:maj",
+        "Ab:7",
+        "A:dim",
+        "Eb:maj",
+        "Bb:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C''",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 165744,
+      "duration_ms": 41679,
+      "chords": [
+        "Bb:7",
+        "Eb:7",
+        "Eb:7",
+        "Eb:7",
+        "Eb:7",
+        "Ab:7",
+        "Ab:7",
+        "Eb:7",
+        "Eb:7",
+        "F:sus4(b7)",
+        "Bb:7",
+        "F:sus4(b7)",
+        "Bb:7",
+        "Eb:maj",
+        "Ab:7",
+        "A:dim",
+        "Eb:maj",
+        "Bb:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C'''",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_5",
+      "start_ms": 207423,
+      "duration_ms": 41450,
+      "chords": [
+        "Bb:7",
+        "Eb:7",
+        "Eb:7",
+        "Eb:7",
+        "Eb:7",
+        "Ab:7",
+        "Ab:7",
+        "Eb:7",
+        "Eb:7",
+        "F:sus4(b7)",
+        "Bb:7",
+        "F:sus4(b7)",
+        "Bb:7",
+        "Eb:maj",
+        "Ab:7",
+        "A:dim",
+        "Eb:maj",
+        "Bb:7",
+        "Eb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_6",
+      "start_ms": 248874,
+      "duration_ms": 5349,
+      "chords": [
+        "Eb:maj",
+        "Eb:maj6/5",
+        "Eb:maj",
+        "Eb:maj",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

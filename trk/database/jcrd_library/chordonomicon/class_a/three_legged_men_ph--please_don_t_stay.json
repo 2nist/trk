@@ -1,0 +1,233 @@
+{
+  "songID": "entry_0985",
+  "title": "Please Don't Stay",
+  "artist": "Three Legged Men PH",
+  "spotifyID": "5F0Srwhpjpqt1KxyI1cDy1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Csmin7",
+        "Bmin7",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin7",
+        "Bmin7",
+        "Dmin7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Asus4",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "Dmin7",
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "A",
+        "Asus4",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "Dmin7",
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "Dmin7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin7",
+        "Bmin7",
+        "Dmin7",
+        "A",
+        "Csmin7",
+        "Bmin7",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin7",
+        "Bmin7",
+        "Dmin7",
+        "A",
+        "Csmin7",
+        "Bmin7",
+        "Dmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "Dmin7",
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "Dmin7",
+        "A",
+        "Csmin7",
+        "Cmin7",
+        "Bmin7",
+        "Dmin7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin7",
+        "C",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "C",
+        "E",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-biii-?-v-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Dsmin7",
+        "Dmin7",
+        "Csmin7",
+        "Emin7",
+        "B",
+        "Dsmin7",
+        "Dmin7",
+        "Csmin7",
+        "Dmin7",
+        "B",
+        "Dsmin7",
+        "Dmin7",
+        "Csmin7",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin7",
+        "Dmin7",
+        "Csmin7",
+        "Emin7",
+        "B",
+        "Dsmin7",
+        "Dmin7",
+        "Csmin7",
+        "Dmin7",
+        "B",
+        "Dsmin7",
+        "Dmin7",
+        "Csmin7",
+        "Dmin7"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-?-v-?-?-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Please Don't Stay",
+  "release_date": "2023-01-11",
+  "duration_ms": 278608
+}

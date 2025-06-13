@@ -1,0 +1,297 @@
+{
+  "songID": "entry_102831",
+  "title": "The Medicine",
+  "artist": "Baby Lemonade",
+  "spotifyID": "3YFRusIFloi1kcJ1kbXrSn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "B7/Fs"
+      ],
+      "rawChords": [
+        "B",
+        "B7/Fs"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs"
+      ],
+      "rawChords": [
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asus2",
+        "E",
+        "Fs",
+        "Asus2",
+        "Csmin",
+        "B/Cs",
+        "B",
+        "B7/Fs"
+      ],
+      "rawChords": [
+        "Asus2",
+        "E",
+        "Fs",
+        "Asus2",
+        "Csmin",
+        "B/Cs",
+        "B",
+        "B7/Fs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:?-iv-?-v-?-?-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs"
+      ],
+      "rawChords": [
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asus2",
+        "E",
+        "Fs",
+        "Asus2",
+        "Csmin",
+        "B/Cs"
+      ],
+      "rawChords": [
+        "Asus2",
+        "E",
+        "Fs",
+        "Asus2",
+        "Csmin",
+        "B/Cs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Gmaj7/D",
+        "Gmaj7",
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Gmaj7/D",
+        "Gmaj7",
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-?-?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "Fs",
+        "G",
+        "Gmaj7/D",
+        "G",
+        "Gsus4/D",
+        "C",
+        "Gmin7/C",
+        "C",
+        "Gmin7/C"
+      ],
+      "rawChords": [
+        "B",
+        "B7/Fs",
+        "B",
+        "B7/Fs",
+        "E",
+        "D",
+        "E",
+        "D",
+        "E",
+        "Fs",
+        "G",
+        "Gmaj7/D",
+        "G",
+        "Gsus4/D",
+        "C",
+        "Gmin7/C",
+        "C",
+        "Gmin7/C"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.49",
+        "progression:vii-?-?-vii-?-?-iii-?-ii-?-iii-?-ii-?-iii-?-#iv-?-v-?-?-v-?-?-i-?-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Gmin7/C",
+        "C",
+        "Gmin7/C"
+      ],
+      "rawChords": [
+        "C",
+        "Gmin7/C",
+        "C",
+        "Gmin7/C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "68% Pure Imagination",
+  "release_date": "2015-03-17",
+  "duration_ms": 193253
+}

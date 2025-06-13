@@ -1,0 +1,257 @@
+{
+  "songID": "entry_100238",
+  "title": "Unconditional",
+  "artist": "Dillon Francis",
+  "spotifyID": "3rI7logAQK4NlhdWWRNwf6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-v-i-?-iv-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-v-i-?-iv-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-v-i-?-iv-v-i-?-iv-v-i-?-iv-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "D",
+        "Emin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-v-i-v-?-iv-v-i-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:iv-v-i-?-iv-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-iv-v-i-?-iv-v-i-?-iv-v-i-?-iv-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Unconditional",
+  "release_date": "2021-06-04",
+  "duration_ms": 135507
+}

@@ -1,0 +1,267 @@
+{
+  "songID": "entry_0113",
+  "title": "Tornadoes and Tequila",
+  "artist": "Steve Hamby",
+  "spotifyID": "0d2L8T9h31cJyyqVbsCZxL",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D"
+      ],
+      "rawChords": [
+        "D"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "E",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "D/Cs",
+        "Bmin",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "E",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "D/Cs",
+        "Bmin",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-v-i-ii-iv-v-iv-v-i-?-?-i-v-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "E",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "D/Cs",
+        "Bmin",
+        "D",
+        "A",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "E",
+        "G",
+        "A",
+        "G",
+        "A",
+        "D",
+        "D/Cs",
+        "Bmin",
+        "D",
+        "A",
+        "D",
+        "D7"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-v-i-ii-iv-v-iv-v-i-?-?-i-v-i-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "E",
+        "G",
+        "A",
+        "A7",
+        "D",
+        "A",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "E",
+        "G",
+        "A",
+        "A7",
+        "D",
+        "A",
+        "D",
+        "D7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-i-ii-iv-v-v-i-v-i-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "A",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "A7",
+        "D",
+        "D7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:iv-v-v-i-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "D",
+        "E",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "E",
+        "G",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-ii-iii-v-vi"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "D/Cs",
+        "Bmin",
+        "Bmin/A",
+        "G",
+        "G/Fs",
+        "Emin",
+        "D",
+        "A",
+        "Bmin",
+        "Bmin/A",
+        "E/Gs",
+        "D",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "D/Cs",
+        "Bmin",
+        "Bmin/A",
+        "G",
+        "G/Fs",
+        "Emin",
+        "D",
+        "A",
+        "Bmin",
+        "Bmin/A",
+        "E/Gs",
+        "D",
+        "A",
+        "D"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-?-?-i-?-?-v-ii-?-?-?-v-ii-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Steve Hamby & the Ways",
+  "release_date": "2023-07-07",
+  "duration_ms": 240293
+}

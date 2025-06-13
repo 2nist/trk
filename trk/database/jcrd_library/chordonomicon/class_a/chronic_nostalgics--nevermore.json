@@ -1,0 +1,335 @@
+{
+  "songID": "entry_100650",
+  "title": "Nevermore",
+  "artist": "Chronic Nostalgics",
+  "spotifyID": "2paC1rnwFzcNJQ0NAjoYRA",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Bmin",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "E",
+        "D",
+        "Bmin",
+        "G",
+        "E",
+        "D",
+        "A",
+        "G",
+        "E",
+        "D",
+        "Bmin",
+        "G",
+        "E",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "E",
+        "D",
+        "Bmin",
+        "G",
+        "E",
+        "D",
+        "A",
+        "G",
+        "E",
+        "D",
+        "Bmin",
+        "G",
+        "E",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.52",
+        "progression:v-?-iii-?-ii-?-?-v-?-iii-?-ii-?-vi-?-v-?-iii-?-ii-?-?-v-?-iii-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Nevermore",
+  "release_date": "2021-04-02",
+  "duration_ms": 171235
+}

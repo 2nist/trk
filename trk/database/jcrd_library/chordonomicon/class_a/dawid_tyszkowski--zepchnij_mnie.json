@@ -1,0 +1,225 @@
+{
+  "songID": "entry_0864",
+  "title": "Zepchnij mnie",
+  "artist": "Dawid Tyszkowski",
+  "spotifyID": "18rW3nIZ7HTXhmNpJyisje",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-v-?-?-vi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "F",
+        "Amin",
+        "F",
+        "Amin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Nadal nie \u015bpi\u0119",
+  "release_date": "2022-06-10",
+  "duration_ms": 242747
+}

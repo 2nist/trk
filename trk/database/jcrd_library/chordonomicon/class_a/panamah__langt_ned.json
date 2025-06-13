@@ -1,0 +1,187 @@
+{
+  "songID": "entry_102900",
+  "title": "Langt Ned",
+  "artist": "Panamah",
+  "spotifyID": "4FoabZ8jeHoKzYCiAmGldY",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "G",
+        "Amin",
+        "Emin",
+        "G",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:?-v-?-?-?-iii-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "G",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:?-v-?-?-?-iii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "G",
+        "Amin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.36",
+        "progression:?-v-?-?-?-iii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Langt Ned",
+  "release_date": "2020-06-26",
+  "duration_ms": 149000
+}

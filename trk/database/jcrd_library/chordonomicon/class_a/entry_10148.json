@@ -1,0 +1,313 @@
+{
+  "songID": "entry_10148",
+  "title": "Christmas in My Hometown",
+  "artist": "Eric Clapton",
+  "spotifyID": "4bHwuiaLBDFR3Gz2nfIRWK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:i-?-v-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "B7",
+        "E",
+        "A",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "B7",
+        "E",
+        "A",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B7",
+        "E",
+        "A",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7"
+      ],
+      "rawChords": [
+        "B7",
+        "E",
+        "A",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:v-?-i-?-iv-?-v-?-i-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:i-?-iv-?-v-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-?-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B7",
+        "E",
+        "A",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7"
+      ],
+      "rawChords": [
+        "B7",
+        "E",
+        "A",
+        "B7",
+        "E",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.40",
+        "progression:v-?-i-?-iv-?-v-?-i-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E",
+        "Csmin"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "B7",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E",
+        "Csmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:i-?-iv-?-v-?-i-?-?-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fs7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "rawChords": [
+        "Fs7",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "Csmin",
+        "Fs7",
+        "B7",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.29",
+        "progression:?-v-?-i-?-iv-?-i-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Interlude",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Happy Xmas",
+  "release_date": "2018-10-12",
+  "duration_ms": 171506
+}

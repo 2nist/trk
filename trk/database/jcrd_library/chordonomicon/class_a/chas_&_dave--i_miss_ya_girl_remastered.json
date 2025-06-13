@@ -1,0 +1,239 @@
+{
+  "songID": "entry_100317",
+  "title": "I Miss Ya Girl (Remastered)",
+  "artist": "Chas & Dave",
+  "spotifyID": "3kQ4fp4KimkcAce3X6URl6",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:i-?-v-?-v-?-i-?-v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-v-?-i-?-v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C7",
+        "F",
+        "G",
+        "G7",
+        "C",
+        "C7",
+        "F",
+        "D7",
+        "G",
+        "G7"
+      ],
+      "rawChords": [
+        "C7",
+        "F",
+        "G",
+        "G7",
+        "C",
+        "C7",
+        "F",
+        "D7",
+        "G",
+        "G7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:i-?-iv-?-v-?-v-?-i-?-i-?-iv-?-ii-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:i-?-v-?-v-?-i-?-v-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C7",
+        "F",
+        "G",
+        "G7",
+        "C",
+        "C7",
+        "F",
+        "D7",
+        "G",
+        "G7"
+      ],
+      "rawChords": [
+        "C7",
+        "F",
+        "G",
+        "G7",
+        "C",
+        "C7",
+        "F",
+        "D7",
+        "G",
+        "G7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.59",
+        "progression:i-?-iv-?-v-?-v-?-i-?-i-?-iv-?-ii-?-v-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G",
+        "G7",
+        "C",
+        "G7",
+        "C",
+        "G7",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:i-?-v-?-v-?-i-?-v-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Greatest Rarities",
+  "release_date": "2014-04-03",
+  "duration_ms": 265826
+}

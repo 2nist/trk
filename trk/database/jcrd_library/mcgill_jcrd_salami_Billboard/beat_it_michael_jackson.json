@@ -1,0 +1,300 @@
+{
+  "title": "Beat It",
+  "artist": "Michael Jackson",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 69,
+      "duration_ms": 23909,
+      "chords": [
+        "G:1/1",
+        "G:1/1",
+        "E:1/1",
+        "E:1/1",
+        "G:1/1",
+        "G:1/1",
+        "D:1/1",
+        "D:1/1",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 23979,
+      "duration_ms": 14303,
+      "chords": [
+        "N",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 38283,
+      "duration_ms": 27585,
+      "chords": [
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Cb:maj",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Cb:maj",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 65868,
+      "duration_ms": 20541,
+      "chords": [
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 86410,
+      "duration_ms": 27619,
+      "chords": [
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Cb:maj",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Cb:maj",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 114030,
+      "duration_ms": 27617,
+      "chords": [
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 141647,
+      "duration_ms": 27662,
+      "chords": [
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min",
+        "Eb:min"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 169310,
+      "duration_ms": 27633,
+      "chords": [
+        "Eb:min",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Cb:maj",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Cb:maj",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Db:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 196943,
+      "duration_ms": 60990,
+      "chords": [
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Eb:min",
+        "Db:maj",
+        "Db:maj",
+        "N"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

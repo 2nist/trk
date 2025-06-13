@@ -1,0 +1,309 @@
+{
+  "songID": "entry_100188",
+  "title": "Cover Girl",
+  "artist": "Tyler Farr",
+  "spotifyID": "0joOI6RPQqKTlTMvPUIuUI",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-?-ii-?-i-?-v-?-?-ii-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Cover Girl",
+  "release_date": "2021-06-04",
+  "duration_ms": 189653
+}

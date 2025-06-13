@@ -1,0 +1,149 @@
+{
+  "songID": "entry_0241",
+  "title": "Wanta Be With You",
+  "artist": "Jimmy Reed",
+  "spotifyID": "6tRzmitQ3P0wK277WqfVzc",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "B7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7",
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii-v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "B",
+        "A",
+        "E",
+        "B7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Now Appearing",
+  "release_date": "1960-01-01",
+  "duration_ms": 185386
+}

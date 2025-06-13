@@ -1,0 +1,257 @@
+{
+  "songID": "entry_0182",
+  "title": "Lass diese Nacht nie enden",
+  "artist": "Ramon Roselly",
+  "spotifyID": "23fBszGYmHDpVPwtqApuBd",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-v-ii-v-i-v-ii-i-ii-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "Emin",
+        "A",
+        "D",
+        "B"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:ii-v-ii-v-ii-v-?-ii-v-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "E",
+        "B",
+        "A",
+        "B",
+        "E"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-i-v-iv-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-i-v-i-v-i-?-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "B",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-i-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E",
+        "Fsmin",
+        "B",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-i-?-v-i-?-v-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Lieblingsmomente",
+  "release_date": "2021-06-25",
+  "duration_ms": 200026
+}

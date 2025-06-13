@@ -1,0 +1,319 @@
+{
+  "songID": "entry_101758",
+  "title": "10 Miles Wide",
+  "artist": "Escape the Fate",
+  "spotifyID": "6ecOkIL8Al6dOlBrqL81Tn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B",
+        "Cmin",
+        "G/B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Cmin",
+        "G/B",
+        "Ab",
+        "G",
+        "Cmin",
+        "G/B",
+        "Ab",
+        "G",
+        "Cmin",
+        "G/B",
+        "Ab",
+        "G"
+      ],
+      "rawChords": [
+        "Cmin",
+        "G/B",
+        "Ab",
+        "G",
+        "Cmin",
+        "G/B",
+        "Ab",
+        "G",
+        "Cmin",
+        "G/B",
+        "Ab",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-biii-?-ii-?-?-?-biii-?-ii-?-?-?-biii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "G/B",
+        "Cmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "This War Is Ours (Deluxe Edition)",
+  "release_date": "2010-04-27",
+  "duration_ms": 165853
+}

@@ -1,0 +1,365 @@
+{
+  "songID": "entry_100433",
+  "title": "Kids In Love",
+  "artist": "Trooper",
+  "spotifyID": "1mxdfA7a2uykCuWHFLU9VR",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Dsus2",
+        "D",
+        "G",
+        "Dsus2",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Dsus2",
+        "D",
+        "G",
+        "Dsus2",
+        "D",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-v-i-?-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-v-i-ii-i-v-ii-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Dsus2",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Dsus2",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-?-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "G7",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "G7",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-i-v-i-ii-i-v-ii-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "D7",
+        "D",
+        "G",
+        "Dsus2",
+        "G",
+        "D",
+        "Dsus2"
+      ],
+      "rawChords": [
+        "D",
+        "D7",
+        "D",
+        "G",
+        "Dsus2",
+        "G",
+        "D",
+        "Dsus2"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-v-v-i-?-i-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin",
+        "G",
+        "D",
+        "G",
+        "Fsmin7",
+        "Emin",
+        "D",
+        "G",
+        "A",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "Bmin",
+        "G",
+        "D",
+        "G",
+        "Fsmin7",
+        "Emin",
+        "D",
+        "G",
+        "A",
+        "Dsus2",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-i-v-i-?-?-v-i-ii-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "Dsus2",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Dsus2",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-v-i-v-i-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bmin7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "Fsmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "Emin",
+        "Fsmin",
+        "G",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:?-i-v-i-v-?-?-i-ii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Dsus2",
+        "D",
+        "G",
+        "D",
+        "Dsus2"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Dsus2",
+        "D",
+        "G",
+        "D",
+        "Dsus2"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-i-?-v-i-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Gsus2",
+        "D",
+        "Dsus2",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Gsus2",
+        "D",
+        "Dsus2",
+        "G",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:i-?-v-?-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Solo",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Ten",
+  "release_date": "1991",
+  "duration_ms": 263426
+}

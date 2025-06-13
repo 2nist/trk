@@ -1,0 +1,213 @@
+{
+  "songID": "entry_102715",
+  "title": "She Got Me High",
+  "artist": "Plant Dad",
+  "spotifyID": "64urrWenGfFKQyLFDyf550",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin/C"
+      ],
+      "rawChords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin/C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:v-?-?-v-?-vii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin",
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin",
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.09",
+        "progression:v-?-?-v-?-vii-?-i-?-?-v-?-?-v-?-vii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin/C"
+      ],
+      "rawChords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin/C"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:v-?-?-v-?-vii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin",
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin/C"
+      ],
+      "rawChords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin",
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin/C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.09",
+        "progression:v-?-?-v-?-vii-?-i-?-?-v-?-?-v-?-vii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin/C",
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin/C",
+        "F",
+        "Fmaj7",
+        "F",
+        "A",
+        "Bb",
+        "Bbmin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.10",
+        "progression:v-?-?-v-?-vii-?-i-?-?-v-?-?-v-?-vii-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "She Got Me High",
+  "release_date": "2021-04-09",
+  "duration_ms": 212000
+}

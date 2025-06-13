@@ -1,0 +1,293 @@
+{
+  "songID": "entry_101268",
+  "title": "Clean Horizon",
+  "artist": "Justin Sullivan",
+  "spotifyID": "5wEIUbrkLT2u1j2ilM0DfB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Cadd9",
+        "C",
+        "Amin",
+        "Asus4",
+        "Amin",
+        "Dsus2"
+      ],
+      "rawChords": [
+        "C",
+        "Cadd9",
+        "C",
+        "Amin",
+        "Asus4",
+        "Amin",
+        "Dsus2"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Dsus2",
+        "C",
+        "Amin",
+        "Dsus2",
+        "C",
+        "Amin",
+        "Dsus2",
+        "C",
+        "Amin",
+        "Dsus2"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dsus2",
+        "C",
+        "Amin",
+        "Dsus2",
+        "C",
+        "Amin",
+        "Dsus2",
+        "C",
+        "Amin",
+        "Dsus2"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "Dsus2"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "Dsus2"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Emin",
+        "F",
+        "Emin",
+        "F",
+        "Emin",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "Cadd9",
+        "C",
+        "Amin",
+        "Asus4",
+        "Amin",
+        "Dsus2"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "C",
+        "Cadd9",
+        "C",
+        "Amin",
+        "Asus4",
+        "Amin",
+        "Dsus2"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-i-?-v-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "F",
+        "Amin",
+        "Emin",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Clean Horizon",
+  "release_date": "2021-04-09",
+  "duration_ms": 212693
+}

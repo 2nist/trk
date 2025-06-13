@@ -1,0 +1,196 @@
+{
+  "title": "Letter Full Of Tears",
+  "artist": "Gladys Knight & The Pips",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 232,
+      "duration_ms": 9436,
+      "chords": [
+        "N",
+        "N",
+        "E:maj",
+        "C#:min",
+        "A:maj",
+        "B:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 9668,
+      "duration_ms": 26027,
+      "chords": [
+        "E:maj",
+        "E:maj",
+        "C#:min",
+        "C#:min",
+        "A:maj",
+        "A:maj",
+        "E:maj",
+        "E:maj",
+        "G#:7",
+        "G#:7",
+        "A:maj",
+        "A#:dim7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 35696,
+      "duration_ms": 12897,
+      "chords": [
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "C#:min",
+        "E:maj",
+        "E:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 48593,
+      "duration_ms": 34218,
+      "chords": [
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "E:maj",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "E:maj",
+        "E:7",
+        "A:maj",
+        "A:maj",
+        "E:maj",
+        "C#:min",
+        "F#:7",
+        "F#:7",
+        "B:7",
+        "B:7"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 82811,
+      "duration_ms": 25450,
+      "chords": [
+        "E:maj",
+        "E:maj",
+        "C#:min",
+        "C#:min",
+        "A:maj",
+        "A:maj",
+        "E:maj",
+        "E:maj",
+        "G#:7",
+        "G#:7",
+        "A:maj",
+        "A#:dim7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 108262,
+      "duration_ms": 31828,
+      "chords": [
+        "A#:dim7",
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "E:maj",
+        "E:maj",
+        "E:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 140090,
+      "duration_ms": 25603,
+      "chords": [
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "E:maj",
+        "C#:min",
+        "C#:min",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

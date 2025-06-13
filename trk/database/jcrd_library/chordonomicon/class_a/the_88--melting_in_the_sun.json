@@ -1,0 +1,425 @@
+{
+  "songID": "entry_0299",
+  "title": "Melting In The Sun",
+  "artist": "The 88",
+  "spotifyID": "4DFlSRRguDUtXsg5QpoiLI",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Bb",
+        "Ab",
+        "Bb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Ab",
+        "Bb"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "Bb"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.72",
+        "progression:v-?-iv-?-i-?-biii-?-v-?-iv-?-i-?-biii-?-bvii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iii-?-biii-?-ii-?-v-?-i-?-iv-?-iii-?-biii-?-ii-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "Bb"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.72",
+        "progression:v-?-iv-?-i-?-biii-?-v-?-iv-?-i-?-biii-?-bvii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iii-?-biii-?-ii-?-v-?-i-?-iv-?-iii-?-biii-?-ii-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "F",
+        "Dmin",
+        "Eb",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:iii-?-vi-?-ii-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "Bb"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:iii-?-ii-?-vi-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iii-?-biii-?-ii-?-v-?-i-?-iv-?-iii-?-biii-?-ii-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "Bb"
+      ],
+      "rawChords": [
+        "G",
+        "F",
+        "C",
+        "Eb",
+        "Bb"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:iii-?-ii-?-vi-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb",
+        "A",
+        "Ab",
+        "G",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.58",
+        "progression:iii-?-biii-?-ii-?-v-?-i-?-iv-?-iii-?-biii-?-ii-?-v-?-i-?-iv-?-iii-?-biii-?-ii-?-v-?-i-?-iv-?-iii-?-biii-?-ii-?-v-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Kind Of Light",
+  "release_date": "2003-02-06",
+  "duration_ms": 228746
+}

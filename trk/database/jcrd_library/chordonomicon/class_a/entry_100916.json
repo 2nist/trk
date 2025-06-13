@@ -1,0 +1,163 @@
+{
+  "songID": "entry_100916",
+  "title": "Bulunmam Gerek",
+  "artist": "Can Bonomo",
+  "spotifyID": "6lTu9NoZWUqgh7ZxiAkU1O",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "G",
+        "F",
+        "G",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "G",
+        "F",
+        "G",
+        "F",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-i-?-i-iv-biii-iv-biii-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "E",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "E",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-?-?-?-iv-biii-ii-?-i-?-i"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "G",
+        "F",
+        "G",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "G",
+        "F",
+        "G",
+        "F",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "progression:?-i-?-i-iv-biii-iv-biii-?"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Dmin",
+        "Amin",
+        "G",
+        "F",
+        "E",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-?-?-v-iv-iii-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Bulunmam Gerek",
+  "release_date": "2014-01-01",
+  "duration_ms": 258353
+}

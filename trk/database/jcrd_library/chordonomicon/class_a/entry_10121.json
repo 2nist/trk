@@ -1,0 +1,369 @@
+{
+  "songID": "entry_10121",
+  "title": "Lustre Parfait",
+  "artist": "Gord Downie",
+  "spotifyID": "5HNWTOtZRqpfxXO9HJDv5O",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-?-iv-i-ii-i-v-?-iv-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin",
+        "D",
+        "B",
+        "A",
+        "Fsmin",
+        "D",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "D",
+        "B",
+        "A",
+        "Fsmin",
+        "D",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:ii-?-v-iii-ii-?-v-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-?-i-v-?-iv-?-i-v-?-iv-?-i-v-?-iv-?-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "B",
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "A",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-v-?-iv-i-ii-i-v-?-iv-i-ii"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "Fsmin",
+        "D",
+        "B",
+        "A",
+        "Fsmin",
+        "D",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "D",
+        "B",
+        "A",
+        "Fsmin",
+        "D",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:ii-?-v-iii-ii-?-v-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-iv-?-i-v-?-iv-?-i-v-?-iv-?-i-v-?-iv-?-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B",
+        "Csmin",
+        "A",
+        "Fsmin",
+        "E",
+        "B"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-?-i-v-?-iv-?-i-v-?-iv-?-i-v-?-iv-?-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Csmin"
+      ],
+      "rawChords": [
+        "Csmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Lustre Parfait",
+  "release_date": "2023-05-05",
+  "duration_ms": 233266
+}

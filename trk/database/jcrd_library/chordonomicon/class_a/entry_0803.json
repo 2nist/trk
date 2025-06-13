@@ -1,0 +1,111 @@
+{
+  "songID": "entry_0803",
+  "title": "You Make Me Smile",
+  "artist": "Aloe Blacc",
+  "spotifyID": "1ZCrBGrpDDdLGgk7c9AvGk",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D/Fs",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D/Fs",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-i-?-?-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D/Fs",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D/Fs",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-i-?-?-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D/Fs",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "D/Fs",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D/Fs",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "D/Fs",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-i-?-?-i-v-i-?-?-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Good Things",
+  "release_date": "2010-09-28",
+  "duration_ms": 204626
+}

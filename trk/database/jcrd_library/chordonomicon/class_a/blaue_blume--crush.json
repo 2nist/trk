@@ -1,0 +1,249 @@
+{
+  "songID": "entry_0914",
+  "title": "Crush",
+  "artist": "Blaue Blume",
+  "spotifyID": "7cV58Bvu5K4WzbIBg6hX6t",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Gsmin",
+        "Asus2",
+        "Fsmin",
+        "Bsus2",
+        "Gsmin",
+        "Asus2",
+        "Fsmin",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Gsmin",
+        "Asus2",
+        "Fsmin",
+        "Bsus2",
+        "Gsmin",
+        "Asus2",
+        "Fsmin",
+        "Bsus2"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-?-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Gsmin",
+        "Asus2",
+        "Fsmin",
+        "Bsus2",
+        "Gsmin",
+        "Asus2",
+        "Fsmin",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "Gsmin",
+        "Asus2",
+        "Fsmin",
+        "Bsus2",
+        "Gsmin",
+        "Asus2",
+        "Fsmin",
+        "Bsus2"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?-?-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2",
+        "E",
+        "Fsmin",
+        "Asus2",
+        "Bsus2"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-v-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Crush",
+  "release_date": "2023-02-03",
+  "duration_ms": 180627
+}

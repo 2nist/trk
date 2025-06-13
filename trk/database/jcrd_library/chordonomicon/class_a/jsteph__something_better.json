@@ -1,0 +1,191 @@
+{
+  "songID": "entry_102093",
+  "title": "Something Better",
+  "artist": "JSteph",
+  "spotifyID": "4tjeGEx0d29m6SGzXuyV53",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Gb",
+        "Db",
+        "Gb",
+        "Ab",
+        "Gb",
+        "Db",
+        "Gb"
+      ],
+      "rawChords": [
+        "Db",
+        "Gb",
+        "Db",
+        "Gb",
+        "Ab",
+        "Gb",
+        "Db",
+        "Gb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:bbvi-?-bbii-?-bbvi-?-bbii-?-bbiii-?-bbii-?-bbvi-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Gb"
+      ],
+      "rawChords": [
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Gb"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.47",
+        "progression:bbvi-?-bbiii-?-?-bbii-?-bbvi-?-bbiii-?-?-bbii-?-bbvi-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Gb"
+      ],
+      "rawChords": [
+        "Db",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Gb"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.40",
+        "progression:bbvi-?-bbii-?-bbvi-?-bbii-?-bbvi-?-bbiii-?-?-bbii-?-bbvi-?-bbiii-?-?-bbii-?-bbvi-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db"
+      ],
+      "rawChords": [
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db",
+        "Gb",
+        "Db",
+        "Ab",
+        "Bbmin",
+        "Gb",
+        "Db"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "key_confidence:0.49",
+        "progression:bbvi-?-bbiii-?-?-bbii-?-bbvi-?-bbiii-?-?-bbii-?-bbvi-?-bbii-?-bbvi-?-bbiii-?-?-bbii-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Something Better",
+  "release_date": "2021-02-26",
+  "duration_ms": 200439
+}

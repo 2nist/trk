@@ -1,0 +1,297 @@
+{
+  "songID": "entry_0992",
+  "title": "I Want You Back Again",
+  "artist": "Alex Cavern",
+  "spotifyID": "33x7mxFb8QfYTvbeNurMhW",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fs",
+        "G",
+        "Gmin",
+        "D",
+        "Fs",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D",
+        "Fs",
+        "G",
+        "Gmin",
+        "D",
+        "Fs",
+        "G",
+        "Gmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.13",
+        "progression:i-?-iii-?-iv-?-?-i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Bmin",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Gmin",
+        "D"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Bmin",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Gmin",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "G",
+        "Gmin",
+        "D",
+        "Fs",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Fs",
+        "G",
+        "Gmin",
+        "D",
+        "Fs",
+        "G",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.03",
+        "progression:iii-?-iv-?-?-i-?-iii-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Bmin",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Bmin",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Gmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "E",
+        "Gmin",
+        "Fsmin",
+        "A",
+        "Aaug"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "Emin",
+        "D",
+        "Emin",
+        "E",
+        "Gmin",
+        "Fsmin",
+        "A",
+        "Aaug"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:?-i-?-?-i-?-?-ii-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Bmin",
+        "Fsmin",
+        "Bmin",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Bmin",
+        "Fsmin",
+        "Bmin",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.37",
+        "progression:?-?-?-?-?-?-i-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "Gmin",
+        "D",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "Bmin",
+        "G",
+        "Gmin",
+        "D",
+        "G",
+        "A"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.30",
+        "progression:v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-?-iv-?-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I Want You Back Again",
+  "release_date": "2022-11-17",
+  "duration_ms": 156654
+}

@@ -1,0 +1,305 @@
+{
+  "title": "Hooked On A Feeling",
+  "artist": "B.J. Thomas",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 46,
+      "duration_ms": 15280,
+      "chords": [
+        "A:5",
+        "E:(3)/3",
+        "A:7/b7",
+        "D:maj/3",
+        "D:min/b3",
+        "A:maj/5",
+        "E:sus4",
+        "E:5",
+        "E:5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 15326,
+      "duration_ms": 15241,
+      "chords": [
+        "E:5",
+        "A:maj",
+        "E:maj",
+        "A:7",
+        "D:maj",
+        "D:min",
+        "A:maj",
+        "E:sus4",
+        "E:5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 30568,
+      "duration_ms": 7558,
+      "chords": [
+        "A:maj",
+        "C#:7",
+        "F#:min",
+        "A:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 38127,
+      "duration_ms": 16230,
+      "chords": [
+        "A:7",
+        "D:maj",
+        "E:7",
+        "A:maj",
+        "A:maj7/7",
+        "F#:min",
+        "E:maj",
+        "A:maj",
+        "A:maj7/7",
+        "F#:min7",
+        "E:maj",
+        "E:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 54357,
+      "duration_ms": 15219,
+      "chords": [
+        "A:maj",
+        "E:maj",
+        "A:7",
+        "D:maj",
+        "D:min",
+        "A:maj",
+        "E:sus4",
+        "E:5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 69577,
+      "duration_ms": 15293,
+      "chords": [
+        "E:5",
+        "A:maj",
+        "E:maj/3",
+        "A:7/b7",
+        "D:maj/3",
+        "D:min/b3",
+        "A:maj/5",
+        "E:sus4",
+        "E:maj",
+        "E:sus4",
+        "E:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 84870,
+      "duration_ms": 7591,
+      "chords": [
+        "A:maj",
+        "C#:7",
+        "F#:min",
+        "A:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_2",
+      "start_ms": 92461,
+      "duration_ms": 16197,
+      "chords": [
+        "D:maj",
+        "E:7",
+        "A:maj",
+        "A:maj7/7",
+        "F#:min",
+        "E:maj",
+        "A:maj",
+        "A:maj7/7",
+        "F#:min7",
+        "E:maj/3",
+        "E:maj",
+        "E:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "transition_1",
+      "start_ms": 108659,
+      "duration_ms": 9529,
+      "chords": [
+        "A:maj",
+        "E:maj",
+        "A:7",
+        "D:maj",
+        "D:min"
+      ],
+      "sectionType": "Transition",
+      "sectionLetter": "E",
+      "sectionFunction": "Transition",
+      "sectionLabel": "E",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 118189,
+      "duration_ms": 7637,
+      "chords": [
+        "A:maj",
+        "C#:7",
+        "F#:min",
+        "A:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_3",
+      "start_ms": 125826,
+      "duration_ms": 15252,
+      "chords": [
+        "A:7",
+        "D:maj",
+        "E:7",
+        "A:maj",
+        "A:maj7/7",
+        "F#:min",
+        "E:maj",
+        "A:maj",
+        "A:maj7/7",
+        "F#:min7",
+        "E:maj/3",
+        "E:maj/3"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "transition_2",
+      "start_ms": 141079,
+      "duration_ms": 50111,
+      "chords": [
+        "E:maj/3",
+        "A:maj",
+        "E:maj",
+        "A:7",
+        "D:maj",
+        "D:min",
+        "A:maj",
+        "E:sus4",
+        "E:5",
+        "A:maj",
+        "E:maj",
+        "A:7",
+        "D:maj",
+        "D:min",
+        "A:maj",
+        "E:sus4",
+        "E:5",
+        "A:maj",
+        "E:maj",
+        "A:7",
+        "D:maj",
+        "D:min",
+        "A:maj",
+        "E:sus4",
+        "E:5",
+        "E:5",
+        "N"
+      ],
+      "sectionType": "Transition",
+      "sectionLetter": "E",
+      "sectionFunction": "Transition",
+      "sectionLabel": "E",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

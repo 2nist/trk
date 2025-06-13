@@ -1,0 +1,187 @@
+{
+  "songID": "entry_100480",
+  "title": "Unpindownable",
+  "artist": "Chumbawamba",
+  "spotifyID": "53YZvGnorgx55o2wa6dKgI",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Cmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-?-v-?-?-?-i-?-ii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Gmin",
+        "Eb",
+        "Cmin",
+        "Gmin",
+        "Ab",
+        "Bb",
+        "Eb",
+        "Cmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:?-?-v-?-?-?-i-?-ii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Ab",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "rawChords": [
+        "Ab",
+        "Bb",
+        "Eb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Eb"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The Boy Bands Have Won",
+  "release_date": "2008-06-17",
+  "duration_ms": 82160
+}

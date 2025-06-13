@@ -1,0 +1,229 @@
+{
+  "songID": "entry_101172",
+  "title": "Hysteria",
+  "artist": "Matt Nathanson",
+  "spotifyID": "57y9V6MADRPxRRP6fKzNjU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "C/E",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "C/E",
+        "F",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-?-i-?-v-?-i-?-?-i-?-v-?-iv-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "C/E",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "C",
+        "Amin",
+        "C",
+        "G",
+        "F",
+        "C/E",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G"
+      ],
+      "length": 28,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.32",
+        "progression:v-?-i-?-?-i-?-v-?-i-?-?-i-?-v-?-iv-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Pyromattia",
+  "release_date": "2018-06-08",
+  "duration_ms": 244938
+}

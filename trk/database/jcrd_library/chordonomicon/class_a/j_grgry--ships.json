@@ -1,0 +1,203 @@
+{
+  "songID": "entry_101905",
+  "title": "Ships",
+  "artist": "J GRGRY",
+  "spotifyID": "1uWUS7oPplHUdUIRuBFgAX",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-?-v-?-iv-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A"
+      ],
+      "rawChords": [
+        "A"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Fsmin",
+        "A",
+        "G",
+        "Fsmin",
+        "A"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Gold Teeth + Glass Eyes",
+  "release_date": "2017-02-10",
+  "duration_ms": 162093
+}

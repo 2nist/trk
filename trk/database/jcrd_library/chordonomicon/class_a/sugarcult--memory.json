@@ -1,0 +1,343 @@
+{
+  "songID": "entry_100373",
+  "title": "Memory",
+  "artist": "Sugarcult",
+  "spotifyID": "0ChpoNjXfJPjMvCIN6so6J",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Asus4",
+        "G",
+        "D",
+        "Asus4",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Asus4",
+        "G",
+        "D",
+        "Asus4",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-i-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "B",
+        "A",
+        "D",
+        "G",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "B",
+        "A",
+        "D",
+        "G",
+        "B",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.86",
+        "progression:v-?-i-?-iii-?-ii-?-v-?-i-?-iii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Asus4",
+        "G",
+        "D",
+        "Asus4",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Asus4",
+        "G",
+        "D",
+        "Asus4",
+        "G",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-i-?-v-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "B",
+        "A",
+        "D",
+        "G",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "B",
+        "A",
+        "D",
+        "G",
+        "B",
+        "A"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.69",
+        "progression:i-?-iii-?-ii-?-v-?-i-?-iii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "D",
+        "G",
+        "D",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-?-i-?-v-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "As",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "As",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.47",
+        "progression:v-?-ii-?-i-?-ii-?-v-?-ii-?-i-?-#ii-?-v-?-ii-?-i-?-ii-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.32",
+        "progression:ii-?-i-?-v-?-ii-?-i-?-?-i-?-v-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "B",
+        "A",
+        "D",
+        "G",
+        "B",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "B",
+        "A",
+        "D",
+        "G",
+        "B",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.86",
+        "progression:v-?-i-?-iii-?-ii-?-v-?-i-?-iii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Palm Trees and Power Lines",
+  "release_date": "2004-04-13",
+  "duration_ms": 226080
+}

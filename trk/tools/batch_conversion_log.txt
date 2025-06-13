@@ -1,0 +1,14 @@
+Batch conversion started at 2025-05-24T23:34:38.098058
+Input directory: ../datasets/choco/choco-main/partitions/wikifonia/test
+Output directory: ../jcrddatasets/choco/wikifonia_test4
+
+Processing ../datasets/choco/choco-main/partitions/wikifonia/test\wikifonia_1403_silver.jams...
+SUCCESS: ../datasets/choco/choco-main/partitions/wikifonia/test\wikifonia_1403_silver.jams -> ../jcrddatasets/choco/wikifonia_test4\Whos_Taking_You_Home_Tonight_Tommie_Connor__Manning_Sherwin.jcrd.json
+Processing ../datasets/choco/choco-main/partitions/wikifonia/test\wikifonia_1403_silver_Nicolas.jams...
+SUCCESS: ../datasets/choco/choco-main/partitions/wikifonia/test\wikifonia_1403_silver_Nicolas.jams -> ../jcrddatasets/choco/wikifonia_test4\Whos_Taking_You_Home_Tonight_Unknown_Artist.jcrd.json
+
+Summary:
+- Total: 2
+- Success: 2
+- Failed: 0
+- Validation failed: 0

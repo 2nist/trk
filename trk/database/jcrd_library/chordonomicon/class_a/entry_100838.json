@@ -1,0 +1,169 @@
+{
+  "songID": "entry_100838",
+  "title": "Perfect Shapes",
+  "artist": "Madeline Kenney",
+  "spotifyID": "6hlt2blmqh8rlPofx9d3RU",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Fsmaj7sus2"
+      ],
+      "rawChords": [
+        "Fsmaj7sus2"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Bmaj7"
+      ],
+      "rawChords": [
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Bmaj7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2"
+      ],
+      "rawChords": [
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Bmaj7",
+        "Fsmaj7sus2",
+        "Bmaj7",
+        "Fsmaj7sus2"
+      ],
+      "rawChords": [
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Bmaj7",
+        "Fsmaj7sus2",
+        "Bmaj7",
+        "Fsmaj7sus2"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2"
+      ],
+      "rawChords": [
+        "Fsmaj7",
+        "Fsmaj7sus2",
+        "Fsmaj7",
+        "Fsmaj7sus2"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B",
+        "Fs",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Perfect Shapes",
+  "release_date": "2018-10-05",
+  "duration_ms": 275314
+}

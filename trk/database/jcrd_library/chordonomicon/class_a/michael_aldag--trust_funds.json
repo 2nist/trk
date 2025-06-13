@@ -1,0 +1,303 @@
+{
+  "songID": "entry_101526",
+  "title": "Trust Funds",
+  "artist": "Michael Aldag",
+  "spotifyID": "2d4OpXDxtt0NHkaTnPAwHp",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.43",
+        "progression:v-?-i-?-?-ii-?-v-?-i-?-?-ii-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "G"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?-iv-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Trust Funds",
+  "release_date": "2021-05-26",
+  "duration_ms": 149559
+}

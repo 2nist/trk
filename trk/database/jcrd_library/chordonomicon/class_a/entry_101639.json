@@ -1,0 +1,335 @@
+{
+  "songID": "entry_101639",
+  "title": "Leave a Light On",
+  "artist": "The Parlotones",
+  "spotifyID": "5Sgxhp2ddU7Shfmwftyy74",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fsmin",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "Fsmin",
+        "B",
+        "Ds",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Gsmin",
+        "Fsmin",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Fs",
+        "E",
+        "Fsmin",
+        "B",
+        "Ds",
+        "E",
+        "Fs",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:i-?-v-?-?-?-iv-?-v-?-iv-?-i-?-v-?-iv-?-?-i-?-iii-?-iv-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Ds",
+        "Fs",
+        "E",
+        "B",
+        "Ds",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Fs",
+        "Gsmin",
+        "E",
+        "B",
+        "Ds",
+        "Fs",
+        "E",
+        "B",
+        "Ds",
+        "E",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-?-iv-?-i-?-iii-?-v-?-iv-?-i-?-iii-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Gs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Gsmin",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Gs",
+        "B",
+        "E",
+        "Fs",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.64",
+        "progression:v-?-?-ii-?-i-?-ii-?-i-?-v-?-iii-?-v-?-i-?-ii-?-v-?-iii-?-ii-?-i-?-ii-?-i-?-v-?-iii-?-ii-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Gs",
+        "Fs",
+        "E",
+        "Fs"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-iii-?-ii-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "China",
+  "release_date": "2018-07-06",
+  "duration_ms": 239453
+}

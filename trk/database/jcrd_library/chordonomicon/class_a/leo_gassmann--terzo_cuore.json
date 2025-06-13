@@ -1,0 +1,271 @@
+{
+  "songID": "entry_0958",
+  "title": "Terzo Cuore",
+  "artist": "Leo Gassmann",
+  "spotifyID": "3WbpTinnlotDTs3uXwVrP7",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "Amin",
+        "Dmin",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-?-v-?-i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "C/B",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "C/B",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-?-v-?-i-?-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "G/B",
+        "Amin",
+        "Cadd13",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Dmin",
+        "G",
+        "C",
+        "G/B",
+        "Amin",
+        "Cadd13",
+        "Dmin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?-i-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "C/B",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "C/B",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-?-v-?-i-?-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "F",
+        "Emin",
+        "Dmin",
+        "Dmin7",
+        "F",
+        "Emin",
+        "Dmin7",
+        "E7",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "Emin",
+        "Dmin",
+        "Dmin7",
+        "F",
+        "Emin",
+        "Dmin7",
+        "E7",
+        "Amin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.07",
+        "progression:biii-?-?-?-?-biii-?-?-?-ii-?-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "C/B",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "C/B",
+        "Amin",
+        "F",
+        "G",
+        "Amin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-?-v-?-i-?-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Terzo Cuore",
+  "release_date": "2023-02-08",
+  "duration_ms": 217876
+}

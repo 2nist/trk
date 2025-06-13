@@ -1,0 +1,271 @@
+{
+  "songID": "entry_0899",
+  "title": "Do That",
+  "artist": "Gina Jeffreys",
+  "spotifyID": "7vamSd2pwjHSyId0tPsblN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "Gadd9",
+        "G",
+        "Cadd9",
+        "Gadd9",
+        "G",
+        "Amin7",
+        "D11",
+        "Amin7",
+        "D11"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "Gadd9",
+        "G",
+        "Cadd9",
+        "Gadd9",
+        "G",
+        "Amin7",
+        "D11",
+        "Amin7",
+        "D11"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-?-i-?-?-i-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11",
+        "G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-i-ii-v-?-?-i-ii-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cadd9",
+        "Gadd9",
+        "G",
+        "Cadd9",
+        "Gadd9",
+        "G",
+        "Amin7",
+        "D11",
+        "Amin7",
+        "D11"
+      ],
+      "rawChords": [
+        "Cadd9",
+        "Gadd9",
+        "G",
+        "Cadd9",
+        "Gadd9",
+        "G",
+        "Amin7",
+        "D11",
+        "Amin7",
+        "D11"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-?-i-?-?-i-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-?-iv-v-i-?-?-iv-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "G",
+        "Emin7",
+        "Amin",
+        "C",
+        "D11"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Amin",
+        "C",
+        "D11"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "progression:i-?-?-iv-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin7",
+        "Asus4",
+        "Cadd9",
+        "D11",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11",
+        "E7",
+        "C",
+        "D11"
+      ],
+      "rawChords": [
+        "G",
+        "Emin7",
+        "Asus4",
+        "Cadd9",
+        "D11",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "D11",
+        "E7",
+        "C",
+        "D11"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-?-?-?-ii-v-?-?-i-ii-iii-i-ii"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G"
+      ],
+      "rawChords": [
+        "G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Beautiful Tangle",
+  "release_date": "2019-08-09",
+  "duration_ms": 211718
+}

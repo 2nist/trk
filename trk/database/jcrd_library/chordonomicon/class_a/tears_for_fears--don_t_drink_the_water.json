@@ -1,0 +1,283 @@
+{
+  "songID": "entry_101932",
+  "title": "Don't Drink the Water",
+  "artist": "Tears For Fears",
+  "spotifyID": "1wQFAsPZcJjLbMXUv9Agve",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "F",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "F",
+        "C",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.35",
+        "progression:iii-?-iv-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "F",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "F",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:iii-?-iv-?-i-?-ii-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "F",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "E",
+        "F",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D",
+        "Amin",
+        "C",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.17",
+        "progression:iii-?-iv-?-i-?-ii-?-?-i-?-ii-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Raoul and The Kings of Spain",
+  "release_date": "1995-10-16",
+  "duration_ms": 290973
+}

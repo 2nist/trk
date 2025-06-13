@@ -1,0 +1,275 @@
+{
+  "songID": "entry_101445",
+  "title": "Dreamboat Babe",
+  "artist": "Dale Hollow",
+  "spotifyID": "2zAxKMsmOP0d7HF2aYmjZB",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "Amin",
+        "C"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:?-v-?-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "rawChords": [
+        "Emin",
+        "G",
+        "Emin",
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "Amin",
+        "C",
+        "Amin",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.22",
+        "progression:?-v-?-?-v-?-?-?-i-?-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C",
+        "D",
+        "C"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "C",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Instrumental",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Fast Cash Now, Break Hearts Later",
+  "release_date": "2017-08-07",
+  "duration_ms": 257899
+}

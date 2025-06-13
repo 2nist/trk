@@ -1,0 +1,313 @@
+{
+  "songID": "entry_0718",
+  "title": "Am I Still A Child",
+  "artist": "The White Buffalo",
+  "spotifyID": "24QSizv628ZFPezSgnwGdd",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "G",
+        "C",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.47",
+        "progression:i-?-v-?-iv-?-i-?-v-?-i-?-v-?-iv-?-v-?-i-?-iv-?-v-?-i-?-?-v-?-iv-?-v-?-i-?-?-v-?-iv-?-i-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "B",
+        "C",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "C",
+        "G",
+        "F",
+        "B",
+        "C",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "G",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F"
+      ],
+      "length": 33,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.45",
+        "progression:v-?-ii-?-i-?-v-?-ii-?-v-?-ii-?-i-?-#iv-?-v-?-i-?-ii-?-v-?-?-ii-?-i-?-ii-?-v-?-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Year Of The Dark Horse",
+  "release_date": "2022-11-11",
+  "duration_ms": 300666
+}

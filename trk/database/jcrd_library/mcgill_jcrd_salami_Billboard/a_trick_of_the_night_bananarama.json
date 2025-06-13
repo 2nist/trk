@@ -1,0 +1,349 @@
+{
+  "title": "A Trick Of The Night",
+  "artist": "Bananarama",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 394,
+      "duration_ms": 8583,
+      "chords": [
+        "C:5",
+        "C:sus4(b7)",
+        "Ab:maj/3",
+        "F:min",
+        "G:min7/b7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 8978,
+      "duration_ms": 17121,
+      "chords": [
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "Ab:maj",
+        "Eb:maj/3",
+        "F:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 26099,
+      "duration_ms": 17130,
+      "chords": [
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "Ab:maj",
+        "Eb:maj/3",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 43230,
+      "duration_ms": 17082,
+      "chords": [
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "Ab:maj",
+        "Eb:maj/3",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 60312,
+      "duration_ms": 17143,
+      "chords": [
+        "F:maj",
+        "Ab:maj",
+        "G:min",
+        "F:maj",
+        "Eb:maj",
+        "Ab:maj",
+        "Eb:maj/3",
+        "F:maj",
+        "Ab:maj/2",
+        "Bb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 77456,
+      "duration_ms": 17110,
+      "chords": [
+        "Bb:maj",
+        "C:maj",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "C:maj",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 94566,
+      "duration_ms": 17153,
+      "chords": [
+        "Bb:maj",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "Ab:maj",
+        "Eb:maj/3",
+        "F:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_5",
+      "start_ms": 111720,
+      "duration_ms": 17063,
+      "chords": [
+        "F:maj",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "Ab:maj",
+        "Eb:maj/3",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 128784,
+      "duration_ms": 17159,
+      "chords": [
+        "F:maj",
+        "Ab:maj",
+        "G:min",
+        "F:maj",
+        "Eb:maj",
+        "Ab:maj",
+        "Eb:maj/3",
+        "F:maj",
+        "Ab:maj/2",
+        "Bb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_2",
+      "start_ms": 145943,
+      "duration_ms": 17072,
+      "chords": [
+        "C:maj",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "C:maj",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_3",
+      "start_ms": 163016,
+      "duration_ms": 17160,
+      "chords": [
+        "Bb:maj",
+        "C:maj",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "C:maj",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_6",
+      "start_ms": 180176,
+      "duration_ms": 17109,
+      "chords": [
+        "Bb:maj",
+        "C:min",
+        "C:min",
+        "C:min",
+        "C:min",
+        "Ab:maj",
+        "Eb:maj/3",
+        "F:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "transition_1",
+      "start_ms": 197285,
+      "duration_ms": 51530,
+      "chords": [
+        "F:maj",
+        "C:min",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "C:min",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "C:min",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "C:min",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "C:min",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "C:min",
+        "G:min7",
+        "F:min7",
+        "Ab:maj/2",
+        "Bb:maj",
+        "Bb:maj",
+        "N"
+      ],
+      "sectionType": "Transition",
+      "sectionLetter": "E",
+      "sectionFunction": "Transition",
+      "sectionLabel": "E",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

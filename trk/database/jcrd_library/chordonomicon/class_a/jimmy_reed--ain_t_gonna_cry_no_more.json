@@ -1,0 +1,159 @@
+{
+  "songID": "entry_0236",
+  "title": "Ain't Gonna Cry No More",
+  "artist": "Jimmy Reed",
+  "spotifyID": "2HpsnqW7jkTrzM2aiAS9Fn",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "B7"
+      ],
+      "rawChords": [
+        "E",
+        "B7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7"
+      ],
+      "rawChords": [
+        "E7",
+        "A7",
+        "E7",
+        "B7",
+        "A7",
+        "E7",
+        "B7",
+        "E7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-i-?-v-?-ii-?-i-?-v-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Now Appearing",
+  "release_date": "1960-01-01",
+  "duration_ms": 219440
+}

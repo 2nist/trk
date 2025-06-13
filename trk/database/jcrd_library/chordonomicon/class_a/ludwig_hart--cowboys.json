@@ -1,0 +1,311 @@
+{
+  "songID": "entry_0949",
+  "title": "Cowboys",
+  "artist": "Ludwig Hart",
+  "spotifyID": "4n7GSkW703JwCpqyyrBoGH",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F/E",
+        "Amin",
+        "F/E"
+      ],
+      "rawChords": [
+        "F/E",
+        "Amin",
+        "F/E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "C/G",
+        "F/E",
+        "Amin",
+        "C/G",
+        "F/E"
+      ],
+      "rawChords": [
+        "Amin",
+        "C/G",
+        "F/E",
+        "Amin",
+        "C/G",
+        "F/E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "F/E",
+        "Amin",
+        "F/E"
+      ],
+      "rawChords": [
+        "Amin",
+        "F/E",
+        "Amin",
+        "F/E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "Amin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-?-v-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F/E",
+        "Amin",
+        "F/E"
+      ],
+      "rawChords": [
+        "F/E",
+        "Amin",
+        "F/E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "C/G",
+        "F/E",
+        "Amin",
+        "C/G",
+        "F/E"
+      ],
+      "rawChords": [
+        "Amin",
+        "C/G",
+        "F/E",
+        "Amin",
+        "C/G",
+        "F/E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "C/G",
+        "F/E",
+        "C/G",
+        "F/E",
+        "C/G",
+        "F/E",
+        "C/G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "C/G",
+        "F/E",
+        "C/G",
+        "F/E",
+        "C/G",
+        "F/E",
+        "C/G"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-?-v-?-?-?-v-?-?-?-?-?-?-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "Amin"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "G",
+        "Amin",
+        "F/E",
+        "G",
+        "C/G",
+        "Emin",
+        "F/E",
+        "Amin"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-?-v-?-?-?-v-?-?-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C/G"
+      ],
+      "rawChords": [
+        "C/G"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Bridge",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Ludwig Hart",
+  "release_date": "2019-11-15",
+  "duration_ms": 261158
+}

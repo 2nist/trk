@@ -1,0 +1,251 @@
+{
+  "songID": "entry_100529",
+  "title": "Quello che non so di te",
+  "artist": "Motta",
+  "spotifyID": "1GCsY6JBb103cOpCXCkYac",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "C",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.50",
+        "progression:iii-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Fmin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Cmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.16",
+        "progression:?-bbvi-?-?-bbvi-?-bbiii-?-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.16",
+        "progression:?-bbvi-?-?-bbvi-?-bbiii-?-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-bbvi-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Ab",
+        "Fmin",
+        "Ab",
+        "Eb",
+        "Fmin",
+        "Cmin",
+        "Ab"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C#",
+        "mode:major",
+        "key_confidence:0.16",
+        "progression:?-bbvi-?-?-bbvi-?-bbiii-?-?-?-bbvi-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Semplice",
+  "release_date": "2021-04-29",
+  "duration_ms": 160587
+}

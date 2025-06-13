@@ -1,0 +1,357 @@
+{
+  "songID": "entry_0719",
+  "title": "Top Shelf Whiskey",
+  "artist": "Daniel Bonte",
+  "spotifyID": "0f71Yue16yAvu2KaEsbDx9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i-v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i-v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i-v-iv-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:i-v-ii-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "A",
+        "E",
+        "G",
+        "A",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "E",
+        "G",
+        "A",
+        "Fs",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:biii-iv-i-biii-iv-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:v-iv-i-v-iv-i-v-iv-i-v-iv-i-v-iv-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:ii-i-v-ii-i-v-i-v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Top Shelf Whiskey",
+  "release_date": "2022-02-18",
+  "duration_ms": 231225
+}

@@ -1,0 +1,277 @@
+{
+  "songID": "entry_101212",
+  "title": "Look What You've Done and Done to Me",
+  "artist": "Texas Slim Owenby",
+  "spotifyID": "0VHMzNk6jGuqFKwGEXQD6m",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-?-v-?-i-?-?-v-?-iv-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "A",
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.43",
+        "progression:i-?-?-v-?-i-?-?-v-?-iv-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "G",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A",
+        "D",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Movin' On",
+  "release_date": "2012-04-25",
+  "duration_ms": 151306
+}

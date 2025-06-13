@@ -1,0 +1,309 @@
+{
+  "songID": "entry_0424",
+  "title": "Proof",
+  "artist": "Luca Fogale",
+  "spotifyID": "0cdB1pBFiryVU7pN6l9Wbp",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "Dmaj7"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "Dmaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "Dmaj7",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "Dmaj7",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:iv-?-v-?-i-?-iv-?-v-?-i-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.35",
+        "progression:i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "Dmaj7",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "Dmaj7",
+        "A",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:i-?-v-?-i-?-v-?-iv-?-v-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-i-?-iv-?-v-?-i-?-v-?-iv-?-v-?-i-?-iv-?-v-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "A",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-i-?-v-?-iv-?-v-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Run Where the Light Calls",
+  "release_date": "2023-03-24",
+  "duration_ms": 221596
+}

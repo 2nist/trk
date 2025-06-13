@@ -1,0 +1,281 @@
+{
+  "title": "Torn Between Two Lovers",
+  "artist": "Mary MacGregor",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 325,
+      "duration_ms": 9311,
+      "chords": [
+        "F:7/3",
+        "A:maj",
+        "C:min",
+        "C:min/6",
+        "C:min/5",
+        "F:7",
+        "F:7/2",
+        "F:7/3",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 9636,
+      "duration_ms": 31114,
+      "chords": [
+        "Bb:maj",
+        "C:min",
+        "F:9",
+        "Bb:maj",
+        "Bb:maj",
+        "C:min",
+        "F:7",
+        "Bb:maj",
+        "Bb:maj7",
+        "Bb:maj6",
+        "Bb:maj",
+        "C:min",
+        "F:9",
+        "Bb:maj",
+        "G:min",
+        "C:min",
+        "Eb:maj",
+        "C:min",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 40751,
+      "duration_ms": 31045,
+      "chords": [
+        "F:7",
+        "C:min",
+        "F:9",
+        "Bb:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "F:7",
+        "Bb:maj",
+        "Bb:maj7",
+        "Bb:maj6",
+        "Bb:maj",
+        "C:min",
+        "F:9",
+        "Bb:maj",
+        "G:min",
+        "C:min",
+        "Eb:maj",
+        "C:min",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 71796,
+      "duration_ms": 29164,
+      "chords": [
+        "C:min",
+        "F:7",
+        "D:min",
+        "G:7",
+        "C:min",
+        "F:7",
+        "Bb:maj",
+        "G:7",
+        "C:min",
+        "F:7",
+        "D:min",
+        "G:7",
+        "C:min",
+        "F:7",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 100960,
+      "duration_ms": 31021,
+      "chords": [
+        "C:min",
+        "F:9",
+        "Bb:maj",
+        "Bb:maj",
+        "C:min",
+        "F:7",
+        "Bb:maj",
+        "Bb:maj7",
+        "Bb:maj6",
+        "Bb:maj",
+        "C:min",
+        "F:9",
+        "Bb:maj",
+        "G:min",
+        "C:min",
+        "Eb:maj",
+        "C:min",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 131982,
+      "duration_ms": 29071,
+      "chords": [
+        "F:7",
+        "C:min",
+        "F:7",
+        "D:min",
+        "G:7",
+        "C:min",
+        "F:7",
+        "Bb:maj",
+        "G:7",
+        "C:min",
+        "F:7",
+        "D:min",
+        "G:7",
+        "C:min",
+        "F:7",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 161053,
+      "duration_ms": 16439,
+      "chords": [
+        "C:min",
+        "F:9",
+        "Bb:maj",
+        "G:min",
+        "C:min",
+        "Eb:maj",
+        "C:min",
+        "F:7",
+        "F:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 177493,
+      "duration_ms": 29001,
+      "chords": [
+        "C:min",
+        "F:7",
+        "D:min",
+        "G:7",
+        "C:min",
+        "F:7",
+        "Bb:maj",
+        "G:7",
+        "C:min",
+        "F:7",
+        "D:min",
+        "G:7",
+        "C:min",
+        "F:7",
+        "Bb:maj",
+        "G:7"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 206495,
+      "duration_ms": 16042,
+      "chords": [
+        "G:7",
+        "C:min",
+        "F:7",
+        "D:min",
+        "G:7",
+        "C:min",
+        "F:7",
+        "Bb:maj",
+        "G:7",
+        "G:7",
+        "N"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

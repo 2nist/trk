@@ -1,0 +1,213 @@
+{
+  "songID": "entry_101796",
+  "title": "Credit In The Straight World",
+  "artist": "Young Marble Giants",
+  "spotifyID": "4rzePZT91RwdJMfCsP7uD1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d",
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d",
+        "Eno3d",
+        "Asno3d",
+        "Ano3d",
+        "Eno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d",
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d",
+        "Eno3d",
+        "Asno3d",
+        "Ano3d",
+        "Eno3d"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d"
+      ],
+      "rawChords": [
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Eno3d",
+        "Asno3d",
+        "Ano3d",
+        "Cno3d",
+        "Ano3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Asno3d",
+        "Ano3d",
+        "Cno3d",
+        "Ano3d"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d",
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d",
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Eno3d",
+        "E",
+        "As",
+        "Fs",
+        "C"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "E",
+        "As",
+        "Fs",
+        "C"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-v-?-#i-?-vi-?-biii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d",
+        "Eno3d"
+      ],
+      "rawChords": [
+        "Eno3d",
+        "Asno3d",
+        "Fsno3d",
+        "Cno3d",
+        "Eno3d"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Interlude",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Colossal Youth (40th Anniversary Edition)",
+  "release_date": "2007",
+  "duration_ms": 149920
+}

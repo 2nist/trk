@@ -1,0 +1,151 @@
+{
+  "songID": "entry_0226",
+  "title": "Worried Life Blues",
+  "artist": "Jimmy Reed",
+  "spotifyID": "5sbq5iMhby06e8CUzmghyG",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "E7"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:i-iv-i-v-i-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-v-ii-v-i-v-ii-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "D",
+        "A",
+        "E",
+        "A",
+        "E7",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-i-v-ii-v-ii-v-i-v-ii"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "Jimmy Reed Sings The Best Of The Blues",
+  "release_date": "1963-01-01",
+  "duration_ms": 139238
+}

@@ -1,0 +1,239 @@
+{
+  "songID": "entry_102213",
+  "title": "From Richard Brautigan",
+  "artist": "Case Studies",
+  "spotifyID": "7CgF0o7drZ6FTEk99i3HqZ",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.42",
+        "progression:i-?-iv-?-i-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Emin",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Emin",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-i-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:iv-?-i-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Amin",
+        "Emin",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Amin",
+        "Emin",
+        "F",
+        "Dmin",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-i-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:ii-?-?-ii-?-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "Amin",
+        "G",
+        "Amin",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C",
+        "F",
+        "C"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.44",
+        "progression:ii-?-?-ii-?-?-v-?-i-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Todo Muere Vol. 3",
+  "release_date": "2013-04-20",
+  "duration_ms": 190388
+}

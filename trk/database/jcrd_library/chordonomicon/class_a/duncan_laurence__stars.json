@@ -1,0 +1,241 @@
+{
+  "songID": "entry_102719",
+  "title": "Stars",
+  "artist": "Duncan Laurence",
+  "spotifyID": "6Syec1m9xRRdto08izXrY0",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.23",
+        "progression:i-?-v-?-?-iv-?-v-?-iv-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "Dmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "Dmin",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-v-?-iv-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "D",
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "D",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:v-?-?-iv-?-v-?-iv-?-v-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "Dmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "D",
+        "E",
+        "Fsmin",
+        "Dmin",
+        "A"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-v-?-iv-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "Fsmin",
+        "E",
+        "D",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fsmin",
+        "E",
+        "D",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "key_confidence:0.06",
+        "progression:v-?-?-v-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "D",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "Dmin",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "Fsmin",
+        "E",
+        "D",
+        "E",
+        "Csmin",
+        "Fsmin",
+        "Dmin",
+        "A"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-v-?-?-v-?-iv-?-v-?-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Small Town Boy (Deluxe)",
+  "release_date": "2021-05-21",
+  "duration_ms": 172880
+}

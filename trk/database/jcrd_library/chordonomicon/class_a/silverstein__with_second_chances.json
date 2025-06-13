@@ -1,0 +1,319 @@
+{
+  "songID": "entry_102522",
+  "title": "With Second Chances",
+  "artist": "Silverstein",
+  "spotifyID": "7a8L7n3aWskuntwxsEqNIj",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Ebmin",
+        "Fmin",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "Ebmin",
+        "Fmin",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Fmin",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "Ebmin",
+        "Fmin",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-bbii-?-?-bbiii-?-bbii-?-?-?-bbii-?-?-bbiii-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Ebmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-bbvi-?-?-?-iv-?-bbvi-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Ebmin",
+        "Fmin",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "Ebmin",
+        "Fmin",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "rawChords": [
+        "Ebmin",
+        "Fmin",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "Ebmin",
+        "Fmin",
+        "Gb",
+        "Bbmin",
+        "Ab",
+        "Gb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:?-?-bbii-?-?-bbiii-?-bbii-?-?-?-bbii-?-?-bbiii-?-bbii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Ebmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-bbvi-?-?-?-iv-?-bbvi-?-?-?-iv-?-bbvi-?-?-?-iv-?-bbvi-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gb",
+        "Ebmin",
+        "Bbmin",
+        "Gb",
+        "Ebmin",
+        "Bbmin",
+        "Db",
+        "Gb",
+        "Ebmin",
+        "Bbmin",
+        "Db",
+        "Gb",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Gb",
+        "Ebmin",
+        "Bbmin",
+        "Gb",
+        "Ebmin",
+        "Bbmin",
+        "Db",
+        "Gb",
+        "Ebmin",
+        "Bbmin",
+        "Db",
+        "Gb",
+        "Ebmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.17",
+        "progression:bbii-?-?-?-bbii-?-?-?-bbvi-?-bbii-?-?-?-bbvi-?-bbii-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "rawChords": [
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin",
+        "B",
+        "Db",
+        "Ebmin",
+        "Bbmin"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-bbvi-?-?-?-iv-?-bbvi-?-?-?-iv-?-bbvi-?-?-?-iv-?-bbvi-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus",
+    "Interlude",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "This Is How The Wind Shifts: Addendum",
+  "release_date": "2013-10-15",
+  "duration_ms": 223428
+}

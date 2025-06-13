@@ -1,0 +1,309 @@
+{
+  "songID": "entry_10255",
+  "title": "Botines",
+  "artist": "Taburete",
+  "spotifyID": "0KRk8EOcaiN0puaqYotkWM",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-?-iv-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:v-?-ii-?-i-?-v-?-i-?-?-ii-?-i-?-v-?-ii-?-i-?-v-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "G",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:v-?-ii-?-i-?-v-?-i-?-?-ii-?-i-?-v-?-ii-?-i-?-v-?-i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-?-iv-?-i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin",
+        "A",
+        "G",
+        "D",
+        "Bmin",
+        "A",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-v-?-iv-?-i-?-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "D",
+        "A",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "G"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Matadero 5",
+  "release_date": "2022-11-18",
+  "duration_ms": 167423
+}

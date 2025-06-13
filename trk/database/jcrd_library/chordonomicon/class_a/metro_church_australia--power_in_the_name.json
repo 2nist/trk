@@ -1,0 +1,339 @@
+{
+  "songID": "entry_102437",
+  "title": "Power in the Name",
+  "artist": "METRO Church Australia",
+  "spotifyID": "6kqrOrIfbhRLrKDM4vBc0K",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "Bmin",
+        "C",
+        "Emin",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "Bmin",
+        "C",
+        "Emin",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.24",
+        "progression:v-?-i-?-v-?-i-?-?-?-i-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin7",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:v-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "Bmin",
+        "C",
+        "Emin",
+        "Bmin",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "C",
+        "Emin",
+        "Bmin",
+        "C",
+        "Emin",
+        "Bmin",
+        "C"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.12",
+        "progression:v-?-ii-?-v-?-?-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin7",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "G",
+        "C",
+        "G",
+        "Amin",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.26",
+        "progression:v-?-?-v-?-i-?-v-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "Emin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Amin7",
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "Bmin",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "D",
+        "Amin",
+        "Amin7",
+        "Amin",
+        "C",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Amin",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "Emin",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "Bmin",
+        "C",
+        "D",
+        "Emin",
+        "Bmin",
+        "D"
+      ],
+      "length": 37,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:?-iv-?-?-v-?-i-?-iv-?-?-?-v-?-?-?-?-iv-?-?-v-?-i-?-iv-?-?-?-v-?-iv-?-v-?-?-?-iv-?-v-?-?-?-iv-?-v-?-?-?-iv-?-v-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin7",
+        "G",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "G",
+        "C",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.23",
+        "progression:v-?-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Saints",
+  "release_date": "2017-12-08",
+  "duration_ms": 330709
+}

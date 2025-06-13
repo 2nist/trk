@@ -1,0 +1,239 @@
+{
+  "songID": "entry_102697",
+  "title": "Daydreamer",
+  "artist": "Suzi Bloom",
+  "spotifyID": "7Gwe3fUxG7hLmrOkXc3lph",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-ii-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "rawChords": [
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E",
+        "Fs",
+        "E"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Chapter",
+  "release_date": "2021-05-25",
+  "duration_ms": 107250
+}

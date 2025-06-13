@@ -1,0 +1,466 @@
+{
+  "label_counts": [
+    {
+      "label": "verse",
+      "count": 2328
+    },
+    {
+      "label": "chorus",
+      "count": 2198
+    },
+    {
+      "label": "intro",
+      "count": 768
+    },
+    {
+      "label": "bridge",
+      "count": 431
+    },
+    {
+      "label": "solo",
+      "count": 357
+    },
+    {
+      "label": "interlude",
+      "count": 344
+    },
+    {
+      "label": "trans",
+      "count": 298
+    },
+    {
+      "label": "pre-chorus",
+      "count": 294
+    },
+    {
+      "label": "outro",
+      "count": 263
+    },
+    {
+      "label": "instrumental",
+      "count": 120
+    },
+    {
+      "label": "fadeout",
+      "count": 82
+    },
+    {
+      "label": "prechorus",
+      "count": 51
+    },
+    {
+      "label": "pre-verse",
+      "count": 45
+    },
+    {
+      "label": "transition",
+      "count": 38
+    },
+    {
+      "label": "coda",
+      "count": 30
+    },
+    {
+      "label": "refrain",
+      "count": 30
+    },
+    {
+      "label": "theme",
+      "count": 9
+    },
+    {
+      "label": "pre chorus",
+      "count": 6
+    },
+    {
+      "label": "main theme",
+      "count": 5
+    },
+    {
+      "label": "chorus b",
+      "count": 4
+    },
+    {
+      "label": "pre-intro",
+      "count": 4
+    },
+    {
+      "label": "intro-a",
+      "count": 2
+    },
+    {
+      "label": "intro-b",
+      "count": 2
+    },
+    {
+      "label": "| a:maj | a:maj | a:maj | a:maj | g:maj | d:maj | a:maj | a:maj |",
+      "count": 2
+    },
+    {
+      "label": "ending",
+      "count": 2
+    },
+    {
+      "label": "chorus a",
+      "count": 2
+    },
+    {
+      "label": "secondary theme",
+      "count": 2
+    },
+    {
+      "label": "pre-chorus two",
+      "count": 2
+    },
+    {
+      "label": "instrumental break",
+      "count": 1
+    },
+    {
+      "label": "(secondary) theme",
+      "count": 1
+    },
+    {
+      "label": "verse one",
+      "count": 1
+    },
+    {
+      "label": "verse two",
+      "count": 1
+    },
+    {
+      "label": "verse three",
+      "count": 1
+    },
+    {
+      "label": "verse four",
+      "count": 1
+    },
+    {
+      "label": "verse five",
+      "count": 1
+    },
+    {
+      "label": "key change",
+      "count": 1
+    },
+    {
+      "label": "vocal",
+      "count": 1
+    },
+    {
+      "label": "fadein",
+      "count": 1
+    },
+    {
+      "label": "fade in",
+      "count": 1
+    },
+    {
+      "label": "| a:7 . g:maj d:maj | a:7 . g:maj d:maj | a:7 . g:maj d:maj | a:7 . g:maj d:maj |",
+      "count": 1
+    },
+    {
+      "label": "spoken verse",
+      "count": 1
+    },
+    {
+      "label": "spoken",
+      "count": 1
+    },
+    {
+      "label": "intro b",
+      "count": 1
+    },
+    {
+      "label": "| d:maj | d:maj | b:min | b:min |",
+      "count": 1
+    },
+    {
+      "label": "intro a",
+      "count": 1
+    },
+    {
+      "label": "modulation",
+      "count": 1
+    }
+  ],
+  "common_sequences": [
+    {
+      "sequence": "B:verse",
+      "count": 993
+    },
+    {
+      "sequence": "C:chorus",
+      "count": 680
+    },
+    {
+      "sequence": "B:chorus",
+      "count": 453
+    },
+    {
+      "sequence": "A:intro",
+      "count": 449
+    },
+    {
+      "sequence": "A:verse",
+      "count": 262
+    },
+    {
+      "sequence": "C:verse",
+      "count": 213
+    },
+    {
+      "sequence": "D:chorus",
+      "count": 191
+    },
+    {
+      "sequence": "C:pre-chorus",
+      "count": 179
+    },
+    {
+      "sequence": "A:chorus",
+      "count": 150
+    },
+    {
+      "sequence": "D:bridge",
+      "count": 148
+    },
+    {
+      "sequence": "A:trans",
+      "count": 146
+    },
+    {
+      "sequence": "C:bridge",
+      "count": 138
+    },
+    {
+      "sequence": "A:interlude",
+      "count": 131
+    },
+    {
+      "sequence": "B:verse > B:verse",
+      "count": 101
+    },
+    {
+      "sequence": "E:bridge",
+      "count": 52
+    },
+    {
+      "sequence": "B:solo",
+      "count": 52
+    },
+    {
+      "sequence": "C:chorus > C:chorus",
+      "count": 49
+    },
+    {
+      "sequence": "D:interlude",
+      "count": 48
+    },
+    {
+      "sequence": "A:intro > A:verse",
+      "count": 46
+    },
+    {
+      "sequence": "B:pre-chorus",
+      "count": 46
+    }
+  ],
+  "canonical_mapping": {
+    "A": [
+      {
+        "label": "intro",
+        "count": 695
+      },
+      {
+        "label": "verse",
+        "count": 593
+      },
+      {
+        "label": "chorus",
+        "count": 312
+      }
+    ],
+    "B": [
+      {
+        "label": "verse",
+        "count": 1448
+      },
+      {
+        "label": "chorus",
+        "count": 689
+      },
+      {
+        "label": "solo",
+        "count": 124
+      }
+    ],
+    "C": [
+      {
+        "label": "chorus",
+        "count": 859
+      },
+      {
+        "label": "verse",
+        "count": 255
+      },
+      {
+        "label": "pre-chorus",
+        "count": 183
+      }
+    ],
+    "D": [
+      {
+        "label": "chorus",
+        "count": 296
+      },
+      {
+        "label": "bridge",
+        "count": 156
+      },
+      {
+        "label": "interlude",
+        "count": 50
+      }
+    ],
+    "E": [
+      {
+        "label": "bridge",
+        "count": 60
+      },
+      {
+        "label": "chorus",
+        "count": 31
+      },
+      {
+        "label": "outro",
+        "count": 31
+      }
+    ],
+    "F": [
+      {
+        "label": "bridge",
+        "count": 22
+      },
+      {
+        "label": "outro",
+        "count": 16
+      },
+      {
+        "label": "solo",
+        "count": 12
+      }
+    ],
+    "J": [
+      {
+        "label": "outro",
+        "count": 11
+      },
+      {
+        "label": "interlude",
+        "count": 1
+      }
+    ],
+    "G": [
+      {
+        "label": "interlude",
+        "count": 6
+      },
+      {
+        "label": "outro",
+        "count": 5
+      },
+      {
+        "label": "verse",
+        "count": 5
+      }
+    ],
+    "H": [
+      {
+        "label": "pre-verse",
+        "count": 4
+      },
+      {
+        "label": "solo",
+        "count": 4
+      },
+      {
+        "label": "interlude",
+        "count": 2
+      }
+    ],
+    "I": [
+      {
+        "label": "outro",
+        "count": 2
+      },
+      {
+        "label": "fadein",
+        "count": 1
+      },
+      {
+        "label": "fade in",
+        "count": 1
+      }
+    ],
+    "K": [
+      {
+        "label": "interlude",
+        "count": 10
+      },
+      {
+        "label": "outro",
+        "count": 1
+      }
+    ]
+  },
+  "unique_labels": [
+    "(secondary) theme",
+    "bridge",
+    "chorus",
+    "chorus a",
+    "chorus b",
+    "coda",
+    "ending",
+    "fade in",
+    "fadein",
+    "fadeout",
+    "instrumental",
+    "instrumental break",
+    "interlude",
+    "intro",
+    "intro a",
+    "intro b",
+    "intro-a",
+    "intro-b",
+    "key change",
+    "main theme",
+    "modulation",
+    "outro",
+    "pre chorus",
+    "pre-chorus",
+    "pre-chorus two",
+    "pre-intro",
+    "pre-verse",
+    "prechorus",
+    "refrain",
+    "secondary theme",
+    "solo",
+    "spoken",
+    "spoken verse",
+    "theme",
+    "trans",
+    "transition",
+    "verse",
+    "verse five",
+    "verse four",
+    "verse one",
+    "verse three",
+    "verse two",
+    "vocal",
+    "| a:7 . g:maj d:maj | a:7 . g:maj d:maj | a:7 . g:maj d:maj | a:7 . g:maj d:maj |",
+    "| a:maj | a:maj | a:maj | a:maj | g:maj | d:maj | a:maj | a:maj |",
+    "| d:maj | d:maj | b:min | b:min |"
+  ]
+}

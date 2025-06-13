@@ -1,0 +1,345 @@
+{
+  "songID": "entry_10073",
+  "title": "I Know It",
+  "artist": "Cole Whittlesey",
+  "spotifyID": "2FjfREsrdyQlxusXBsiLlj",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "Amin/C",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Amin",
+        "Amin/C",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "F",
+        "G",
+        "Amin",
+        "Amin7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:?-?-?-iv-?-v-?-?-iv-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin7",
+        "C",
+        "Amin7",
+        "C",
+        "Amin7",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin7",
+        "C",
+        "Amin7",
+        "C",
+        "Amin7",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-?-v-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin7",
+        "C",
+        "Amin7",
+        "A",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Amin7",
+        "C",
+        "Amin7",
+        "A",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.58",
+        "progression:v-?-?-v-?-?-iii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "rawChords": [
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "length": 23,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.04",
+        "progression:v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "rawChords": [
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7",
+        "F",
+        "G",
+        "Amin7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?-iv-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "I Know It",
+  "release_date": "2022-12-15",
+  "duration_ms": 226288
+}

@@ -1,0 +1,235 @@
+{
+  "songID": "entry_100205",
+  "title": "k.k. cruisin' ~ animal crossing lofi",
+  "artist": "Closed on Sunday",
+  "spotifyID": "7n4Nokjc6OaCMkCxXT7Kz4",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin7",
+        "D",
+        "Gmaj7",
+        "Bmin7",
+        "Asmin",
+        "Amin7",
+        "D7",
+        "Gmaj7",
+        "Bmin",
+        "Ds7"
+      ],
+      "rawChords": [
+        "Amin7",
+        "D",
+        "Gmaj7",
+        "Bmin7",
+        "Asmin",
+        "Amin7",
+        "D7",
+        "Gmaj7",
+        "Bmin",
+        "Ds7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-?-?-?-?-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin7",
+        "D7",
+        "Gmaj7",
+        "Emin7",
+        "Bmin7",
+        "G",
+        "E7",
+        "Amin7",
+        "Dmin7",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Amin7",
+        "D7",
+        "Gmaj7",
+        "Emin7",
+        "Bmin7",
+        "G",
+        "E7",
+        "Amin7",
+        "Dmin7",
+        "Amin7"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-ii-?-?-?-v-iii-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D7",
+        "Gmaj7",
+        "Bmin7"
+      ],
+      "rawChords": [
+        "D7",
+        "Gmaj7",
+        "Bmin7"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asmin",
+        "Amin7",
+        "Cmaj7",
+        "D7",
+        "G"
+      ],
+      "rawChords": [
+        "Asmin",
+        "Amin7",
+        "Cmaj7",
+        "D7",
+        "G"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "F7",
+        "Dsmaj7",
+        "D7",
+        "Cs7",
+        "Cmaj7",
+        "F7",
+        "Bmin7",
+        "Emin7",
+        "Amin7",
+        "Fsmin7",
+        "C7",
+        "B7",
+        "Bmin7"
+      ],
+      "rawChords": [
+        "F7",
+        "Dsmaj7",
+        "D7",
+        "Cs7",
+        "Cmaj7",
+        "F7",
+        "Bmin7",
+        "Emin7",
+        "Amin7",
+        "Fsmin7",
+        "C7",
+        "B7",
+        "Bmin7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-?-iii-?-?-v-?-?-?-?-ii-#i-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin7",
+        "Amin7",
+        "Cmaj7",
+        "Dmin",
+        "Gmaj7",
+        "Gmin7",
+        "Bmin7",
+        "Asmin",
+        "Amin7",
+        "D7",
+        "Gmaj7",
+        "G",
+        "Gs",
+        "As7"
+      ],
+      "rawChords": [
+        "Emin7",
+        "Amin7",
+        "Cmaj7",
+        "Dmin",
+        "Gmaj7",
+        "Gmin7",
+        "Bmin7",
+        "Asmin",
+        "Amin7",
+        "D7",
+        "Gmaj7",
+        "G",
+        "Gs",
+        "As7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-?-?-?-?-?-?-?-?-v-?-i-?-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Verse",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "k.k. cruisin' ~ animal crossing lofi",
+  "release_date": "2021-05-20",
+  "duration_ms": 76588
+}

@@ -1,0 +1,224 @@
+{
+  "title": "Kind Of A Drag",
+  "artist": "The Buckinghams",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 510,
+      "duration_ms": 7119,
+      "chords": [
+        "G:maj",
+        "G:aug",
+        "G:maj6",
+        "D:7",
+        "D:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 7630,
+      "duration_ms": 13528,
+      "chords": [
+        "D:7",
+        "A:min",
+        "D:maj",
+        "A:min",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "A:min",
+        "D:maj",
+        "A:min",
+        "D:maj",
+        "G:maj",
+        "G:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 21159,
+      "duration_ms": 24081,
+      "chords": [
+        "C:maj",
+        "C:aug",
+        "C:maj6",
+        "C:7",
+        "F:maj",
+        "F:maj",
+        "F:min",
+        "F:min",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "G:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 45241,
+      "duration_ms": 13545,
+      "chords": [
+        "A:min",
+        "D:maj",
+        "A:min",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "A:min",
+        "D:maj",
+        "A:min",
+        "D:maj",
+        "G:maj",
+        "G:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 58786,
+      "duration_ms": 24009,
+      "chords": [
+        "C:maj",
+        "C:aug",
+        "C:maj6",
+        "C:7",
+        "F:maj",
+        "F:maj",
+        "F:min",
+        "F:min",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "C:maj",
+        "G:maj",
+        "G:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 82795,
+      "duration_ms": 13756,
+      "chords": [
+        "G:maj",
+        "A:min",
+        "D:maj",
+        "A:min",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "A:min",
+        "D:maj",
+        "A:min",
+        "D:maj",
+        "G:maj",
+        "G:maj",
+        "G:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 96552,
+      "duration_ms": 20894,
+      "chords": [
+        "C:maj",
+        "C:aug",
+        "C:maj6",
+        "C:7",
+        "F:maj",
+        "F:maj",
+        "F:min",
+        "F:min",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 117447,
+      "duration_ms": 12799,
+      "chords": [
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "N",
+        "N",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "f",
+      "sectionFunction": "Development",
+      "sectionLabel": "fadeout",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

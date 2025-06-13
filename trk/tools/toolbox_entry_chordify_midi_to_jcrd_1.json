@@ -1,0 +1,37 @@
+{
+  "script": "chordify_midi_to_jcrd.py",
+  "name": "Chordify MIDI to .jcrd Converter",
+  "description": "Converts Chordify-exported MIDI files into structured .jcrd format.",
+  "arguments": [
+    {
+      "name": "--input",
+      "required": true,
+      "type": "file",
+      "help": "Path to input MIDI file"
+    },
+    {
+      "name": "--output",
+      "required": true,
+      "type": "file",
+      "help": "Path to output .jcrd file"
+    },
+    {
+      "name": "--title",
+      "required": false,
+      "type": "text",
+      "help": "Optional song title"
+    },
+    {
+      "name": "--artist",
+      "required": false,
+      "type": "text",
+      "help": "Optional artist name"
+    },
+    {
+      "name": "--pdf",
+      "required": false,
+      "type": "file",
+      "help": "Optional Chordify PDF for metadata"
+    }
+  ]
+}

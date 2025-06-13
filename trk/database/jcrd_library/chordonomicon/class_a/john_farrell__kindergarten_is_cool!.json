@@ -1,0 +1,265 @@
+{
+  "songID": "entry_102101",
+  "title": "Kindergarten Is Cool!",
+  "artist": "John Farrell",
+  "spotifyID": "6WGCqn3Z8BKjShBPfAOrzb",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "A7",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "A7",
+        "D",
+        "G",
+        "A7"
+      ],
+      "rawChords": [
+        "G",
+        "A7",
+        "D",
+        "G",
+        "A7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:v-?-i-?-v-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "A7",
+        "D",
+        "G",
+        "A7"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "A7",
+        "D",
+        "G",
+        "A7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7",
+        "G",
+        "D",
+        "G",
+        "D",
+        "G",
+        "D",
+        "A7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.41",
+        "progression:v-?-i-?-v-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "A7",
+        "D",
+        "G",
+        "A7"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "A7",
+        "D",
+        "G",
+        "A7"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-iv-?-v-?-i-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "A7",
+        "D",
+        "G",
+        "A7",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "A7",
+        "D",
+        "G",
+        "A7",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.48",
+        "progression:v-?-i-?-ii-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Working Together",
+  "release_date": "2016-10-01",
+  "duration_ms": 126825
+}

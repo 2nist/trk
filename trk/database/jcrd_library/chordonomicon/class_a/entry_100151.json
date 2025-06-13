@@ -1,0 +1,273 @@
+{
+  "songID": "entry_100151",
+  "title": "When You Lie Next To Me",
+  "artist": "Kellie Coffey",
+  "spotifyID": "6EwbFB8T0uIaaRCNwAIrnS",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "C",
+        "Bb"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-i-v-ii-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin",
+        "G",
+        "Dmin",
+        "Amin",
+        "Bb"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin",
+        "G",
+        "Dmin",
+        "Amin",
+        "Bb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-?-ii-v-i-v-?-ii-?-i-?-?-ii-?-?-iv"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "Dmin",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "Dmin",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-ii-?-i-v-ii-v-i-?-ii-v-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin",
+        "G",
+        "Dmin",
+        "Amin",
+        "Bb"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "Amin",
+        "F",
+        "Dmin",
+        "Amin",
+        "G",
+        "Dmin",
+        "Amin",
+        "Bb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:v-?-ii-v-i-v-?-ii-?-i-?-?-ii-?-?-iv"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "Dmin",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Dmin",
+        "Bb",
+        "F",
+        "C",
+        "F",
+        "Bb",
+        "Dmin",
+        "C",
+        "F",
+        "Bb"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:v-ii-?-i-v-ii-v-i-?-ii-v-i"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "D",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "D",
+        "G",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "G"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-ii-?-i-v-?-ii-v-i-?-ii-i-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "When You Lie Next To Me",
+  "release_date": "2002-05-06",
+  "duration_ms": 239826
+}

@@ -1,0 +1,503 @@
+{
+  "songID": "entry_100029",
+  "title": "Tu m'oublieras",
+  "artist": "Larusso",
+  "spotifyID": "616O2jmafiModH0RgonGqf",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Cmin",
+        "C",
+        "Fmaj7"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Cmin",
+        "C",
+        "Fmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin",
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-?-biii-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin7",
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-?-biii-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Dmin",
+        "Dmin7",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7",
+        "Dmin7"
+      ],
+      "rawChords": [
+        "Dmin",
+        "Dmin7",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7",
+        "Dmin7"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-?-biii-?-?-v-i-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7",
+        "Dmin",
+        "Dmin/G",
+        "C",
+        "Dmin7",
+        "Gmin7",
+        "A7"
+      ],
+      "rawChords": [
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7",
+        "Dmin",
+        "Dmin/G",
+        "C",
+        "Dmin7",
+        "Gmin7",
+        "A7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-biii-?-?-v-i-?-?-biii-?-?-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin7",
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-?-biii-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Dmin7",
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7"
+      ],
+      "rawChords": [
+        "Dmin7",
+        "Dmin7/G",
+        "Cmaj7",
+        "C",
+        "Fmaj7",
+        "Bbmaj7",
+        "E7",
+        "A7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "progression:?-?-?-biii-?-?-v-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Bbmaj7",
+        "Ebmaj7",
+        "Eb",
+        "Abmaj7",
+        "Dbmaj7",
+        "G7",
+        "C",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Bbmaj7",
+        "Ebmaj7",
+        "Eb",
+        "Abmaj7",
+        "Dbmaj7",
+        "G7",
+        "C",
+        "Fmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-?-?-biii-?-?-v-i-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bbmaj7",
+        "Ebmaj7",
+        "Eb",
+        "Abmaj7",
+        "Dbmaj7",
+        "G7",
+        "C7",
+        "Fmin7"
+      ],
+      "rawChords": [
+        "Bbmaj7",
+        "Ebmaj7",
+        "Eb",
+        "Abmaj7",
+        "Dbmaj7",
+        "G7",
+        "C7",
+        "Fmin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-?-biii-?-?-v-i-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bbmin7",
+        "Ebmaj7",
+        "Eb",
+        "Abmaj7",
+        "Dbmaj7",
+        "G7",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Eb",
+        "C7",
+        "Fmin7",
+        "Bbmin7",
+        "C7"
+      ],
+      "rawChords": [
+        "Bbmin7",
+        "Ebmaj7",
+        "Eb",
+        "Abmaj7",
+        "Dbmaj7",
+        "G7",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Eb",
+        "C7",
+        "Fmin7",
+        "Bbmin7",
+        "C7"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-?-biii-?-?-v-i-?-?-biii-i-?-?-i"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Fmin7",
+        "Ebmaj7",
+        "Dbmaj7",
+        "C7",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Dbmaj7",
+        "Gmin7",
+        "C7",
+        "Fmin7"
+      ],
+      "rawChords": [
+        "Fmin7",
+        "Ebmaj7",
+        "Dbmaj7",
+        "C7",
+        "Fmin",
+        "Eb",
+        "Ab",
+        "Dbmaj7",
+        "Gmin7",
+        "C7",
+        "Fmin7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:?-?-?-iii-?-v-i-?-?-iii-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Bb7",
+        "Ebmaj7",
+        "Eb",
+        "Abmaj7",
+        "Dbmaj7",
+        "G7",
+        "C7",
+        "Fmin7",
+        "Bbmin7",
+        "Eb",
+        "Fmin7",
+        "Bbmin7",
+        "C7",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Fmin7",
+        "Bbmin7",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Eb",
+        "Ab",
+        "Fmin7",
+        "Bbmin",
+        "C",
+        "Fmin",
+        "Bbmin",
+        "Eb",
+        "Fmin7",
+        "Bbmin7",
+        "C",
+        "C7",
+        "Fmin7",
+        "Fmin"
+      ],
+      "rawChords": [
+        "Bb7",
+        "Ebmaj7",
+        "Eb",
+        "Abmaj7",
+        "Dbmaj7",
+        "G7",
+        "C7",
+        "Fmin7",
+        "Bbmin7",
+        "Eb",
+        "Fmin7",
+        "Bbmin7",
+        "C7",
+        "Fmin",
+        "Bb",
+        "Eb",
+        "Fmin7",
+        "Bbmin7",
+        "C7",
+        "Fmin",
+        "Bbmin",
+        "Eb",
+        "Ab",
+        "Fmin7",
+        "Bbmin",
+        "C",
+        "Fmin",
+        "Bbmin",
+        "Eb",
+        "Fmin7",
+        "Bbmin7",
+        "C",
+        "C7",
+        "Fmin7",
+        "Fmin"
+      ],
+      "length": 35,
+      "cadence": "none",
+      "tags": [
+        "key:A-",
+        "mode:major",
+        "progression:ii-?-v-?-?-vii-iii-?-?-v-?-?-iii-?-ii-v-?-?-iii-?-?-v-i-?-?-iii-?-?-v-?-?-iii-iii-?-?"
+      ],
+      "notes": "",
+      "key": "A-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Bridge",
+    "Bridge",
+    "Bridge"
+  ],
+  "tags": [],
+  "album": "Simplement",
+  "release_date": "1999",
+  "duration_ms": 219760
+}

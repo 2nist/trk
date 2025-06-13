@@ -1,0 +1,253 @@
+{
+  "songID": "entry_102344",
+  "title": "Mosaic",
+  "artist": "Ryan Stevenson",
+  "spotifyID": "0X6TnTL38BfDHGgZUWfRfo",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G",
+        "D",
+        "A",
+        "Bmin",
+        "G",
+        "D",
+        "A"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-?-i-?-v-?-ii-?-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "D",
+        "Fsmin",
+        "Bmin",
+        "G",
+        "Bmin",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.25",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Mosaic",
+  "release_date": "2021-05-14",
+  "duration_ms": 202046
+}

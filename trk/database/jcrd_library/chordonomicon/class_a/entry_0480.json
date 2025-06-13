@@ -1,0 +1,161 @@
+{
+  "songID": "entry_0480",
+  "title": "Fuego Cruzado",
+  "artist": "Gerardo Ortiz",
+  "spotifyID": "5gskY93lmv82WM7LCMeV63",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-v-?-v-?-v-?-v-?-v-?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin"
+      ],
+      "rawChords": [
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin",
+        "D7",
+        "Gmin"
+      ],
+      "length": 20,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:v-?-v-?-v-?-v-?-v-?-v-?-v-?-v-?-v-?-v-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Hoy M\u00e1s Fuerte",
+  "release_date": "2016-04-15",
+  "duration_ms": 220066
+}

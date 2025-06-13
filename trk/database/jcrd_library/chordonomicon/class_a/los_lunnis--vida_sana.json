@@ -1,0 +1,137 @@
+{
+  "songID": "entry_1015",
+  "title": "Vida Sana",
+  "artist": "Los Lunnis",
+  "spotifyID": "4gjOyTfiKNpl5XI5yBHORh",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "C",
+        "Cmin"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "C",
+        "Cmin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-i-?-#iii-?-v-?-i-?-#iii-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "C",
+        "F",
+        "As",
+        "C"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:v-?-i-?-#iii-?-v-?-i-?-#iii-?-v-?-i-?-#iii-?-v-?-i-?-#iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "As",
+        "C"
+      ],
+      "rawChords": [
+        "As",
+        "C"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:#iii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Grandes \u00c9xitos Y Nuevas Canciones",
+  "release_date": "2009-01-01",
+  "duration_ms": 90693
+}

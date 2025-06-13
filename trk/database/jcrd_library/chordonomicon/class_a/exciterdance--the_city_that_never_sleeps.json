@@ -1,0 +1,239 @@
+{
+  "songID": "entry_100388",
+  "title": "The City That Never Sleeps",
+  "artist": "Exciterdance",
+  "spotifyID": "6D71MdmW6fvfr27R4rKorE",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D",
+        "Bmin7",
+        "Dsus2"
+      ],
+      "rawChords": [
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D",
+        "Bmin7",
+        "Dsus2"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-v-?-?-?-v-?-?-?-v-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-?-v-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G"
+      ],
+      "rawChords": [
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G",
+        "D",
+        "D/Fs",
+        "D/G"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-?-v-?-?-?-v-?-?-?-v-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D",
+        "A",
+        "A/Fs",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D",
+        "A",
+        "A/Fs",
+        "G"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-?-?-?-?-v-?-?-?-?-?-v-?-ii-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D",
+        "Bmin7",
+        "Dsus2",
+        "Bmin7",
+        "Dsus2",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-?-?-?-v-?-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "The City That Never Sleeps",
+  "release_date": "2023-09-24",
+  "duration_ms": 222156
+}

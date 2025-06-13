@@ -1,0 +1,271 @@
+{
+  "songID": "entry_100086",
+  "title": "Peter Pan Syndrome",
+  "artist": "A Toys Orchestra",
+  "spotifyID": "2pbKCUgXEyDyHoTUH4iqR3",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:?-?-iv-v"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "Ddim",
+        "Gmin",
+        "Gb"
+      ],
+      "rawChords": [
+        "Bb",
+        "Ddim",
+        "Gmin",
+        "Gb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:v-?-?-biii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Gb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Gb"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-?-i-ii-?-?-i-ii-?-?-i-ii-?-?-i-ii-?-bvi"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Bb",
+        "C",
+        "Gmin",
+        "Gb"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "Gmin",
+        "Gb"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:v-vi-?-biii"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Gb",
+        "Bb",
+        "C",
+        "Gmin",
+        "Gb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Gmin",
+        "Gb",
+        "Bb",
+        "C",
+        "Gmin",
+        "Gb"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "progression:?-?-i-ii-?-?-i-ii-?-?-i-ii-?-?-i-ii-?-bvi-i-ii-?-bvi"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Eb",
+        "Ebmin",
+        "Gbmin",
+        "Gmin",
+        "Bb",
+        "Ddim",
+        "Eb",
+        "Ebmin",
+        "Bb",
+        "Fmin",
+        "Dmin",
+        "Gmin",
+        "Gb",
+        "Bb",
+        "Ddim",
+        "Eb",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Eb",
+        "Ebmin"
+      ],
+      "rawChords": [
+        "Eb",
+        "Ebmin",
+        "Gbmin",
+        "Gmin",
+        "Bb",
+        "Ddim",
+        "Eb",
+        "Ebmin",
+        "Bb",
+        "Fmin",
+        "Dmin",
+        "Gmin",
+        "Gb",
+        "Bb",
+        "Ddim",
+        "Eb",
+        "Ebmin",
+        "Bb",
+        "C",
+        "Eb",
+        "Ebmin"
+      ],
+      "length": 21,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:minor",
+        "progression:i-?-?-?-v-?-i-?-v-?-?-?-biii-v-?-i-?-v-vi-i-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Cuckoo Boohoo",
+  "release_date": "2004-09-15",
+  "duration_ms": 199400
+}

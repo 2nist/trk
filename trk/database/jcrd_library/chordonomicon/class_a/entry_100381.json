@@ -1,0 +1,385 @@
+{
+  "songID": "entry_100381",
+  "title": "RED",
+  "artist": "Survive Said The Prophet",
+  "spotifyID": "5pz5S3ZqMPnd8or4IGUVho",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7",
+        "D7",
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7",
+        "Gmin",
+        "F",
+        "Edim7",
+        "Ebmaj7"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7",
+        "D7",
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7",
+        "Gmin",
+        "F",
+        "Edim7",
+        "Ebmaj7"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-?-iii-?-?-?-?-?-v-?-?"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Ebmaj7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Ebmaj7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-v-?-?-?-v-?-i"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-v-?-i-?-v-?-i"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7",
+        "D7"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Fadd13",
+        "Edim7",
+        "Ebmaj7",
+        "D7"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Ebmaj7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Ebmaj7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-v-?-?-?-v-?-i"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-v-?-i-?-v-?-i"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Gmin",
+        "Ebadd9",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Ebadd9",
+        "F"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Ebadd9",
+        "Gmin",
+        "F",
+        "Gmin",
+        "Ebadd9",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "progression:?-?-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Ebmaj7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Ebmaj7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Ebmaj7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Ebmaj7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-v-?-?-?-v-?-i-?-v-?-?-?-v-?-i"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "rawChords": [
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Gmin",
+        "Bb",
+        "Cmin7",
+        "Eb"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-v-?-?-v-?-?-v-?-i"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "RED",
+  "release_date": "2018-12-12",
+  "duration_ms": 253893
+}

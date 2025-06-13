@@ -1,0 +1,238 @@
+{
+  "title": "There But For Fortune",
+  "artist": "Joan Baez",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 278,
+      "duration_ms": 10336,
+      "chords": [
+        "N",
+        "N",
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "Eb:min/5",
+        "Eb:min/5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 10614,
+      "duration_ms": 38160,
+      "chords": [
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "G:min",
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:min",
+        "D:min",
+        "G:min",
+        "C:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 48775,
+      "duration_ms": 7064,
+      "chords": [
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 55839,
+      "duration_ms": 38405,
+      "chords": [
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "G:min",
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:min",
+        "D:min",
+        "G:min",
+        "C:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 94245,
+      "duration_ms": 6993,
+      "chords": [
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 101238,
+      "duration_ms": 37066,
+      "chords": [
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "G:min",
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:min",
+        "D:min",
+        "G:min",
+        "C:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_4",
+      "start_ms": 138305,
+      "duration_ms": 6838,
+      "chords": [
+        "F:maj",
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "Bb:maj"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 145143,
+      "duration_ms": 36875,
+      "chords": [
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "G:min",
+        "C:maj",
+        "F:maj",
+        "Bb:maj",
+        "G:min",
+        "Eb:maj",
+        "C:min",
+        "D:min",
+        "G:min",
+        "C:maj",
+        "F:maj",
+        "F:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_5",
+      "start_ms": 182019,
+      "duration_ms": 13115,
+      "chords": [
+        "F:maj",
+        "Bb:maj",
+        "Eb:min/5",
+        "Bb:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

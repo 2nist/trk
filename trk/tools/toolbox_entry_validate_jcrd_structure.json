@@ -1,0 +1,13 @@
+{
+  "script": "validate_jcrd_structure.py",
+  "name": "Validate .jcrd File Structure",
+  "description": "Checks each .jcrd file for missing fields, malformed data, or tag inconsistencies.",
+  "arguments": [
+    {
+      "name": "--directory",
+      "required": false,
+      "type": "text",
+      "help": "Folder with .jcrd files (default: mcgill_jcrd/)"
+    }
+  ]
+}

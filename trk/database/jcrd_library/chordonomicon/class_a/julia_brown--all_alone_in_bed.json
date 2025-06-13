@@ -1,0 +1,135 @@
+{
+  "songID": "entry_100506",
+  "title": "All Alone In Bed",
+  "artist": "Julia Brown",
+  "spotifyID": "5iqeJaQh8FHGx5o22kIMZ9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "Amin",
+        "Bmin",
+        "G",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "Amin",
+        "Bmin",
+        "G",
+        "Cmaj7"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7"
+      ],
+      "rawChords": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "Amin",
+        "Bmin",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "G",
+        "Cmaj7",
+        "Amin",
+        "Bmin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?-?-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Verse",
+    "Verse"
+  ],
+  "tags": [],
+  "album": "An Abundance of Strawberries",
+  "release_date": "2016-01-15",
+  "duration_ms": 115372
+}

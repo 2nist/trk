@@ -1,0 +1,361 @@
+{
+  "songID": "entry_100663",
+  "title": "Alabama",
+  "artist": "Tracyanne & Danny",
+  "spotifyID": "7IneQKAsbsdQ4fMCftYhTd",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "A",
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:v-?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-i-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "A"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Bmin",
+        "A"
+      ],
+      "rawChords": [
+        "Bmin",
+        "A"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "rawChords": [
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "A",
+        "Fsmin",
+        "Csmin",
+        "Bmin",
+        "Fsmin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:?-?-?-i-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Csmin",
+        "E",
+        "B"
+      ],
+      "rawChords": [
+        "B",
+        "Csmin",
+        "E",
+        "B"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-?-i-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Csmin",
+        "E",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "E",
+        "B",
+        "Csmin",
+        "B",
+        "Csmin",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Tracyanne & Danny",
+  "release_date": "2018-05-25",
+  "duration_ms": 293613
+}

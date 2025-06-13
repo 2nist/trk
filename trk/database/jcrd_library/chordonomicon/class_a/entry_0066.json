@@ -1,0 +1,263 @@
+{
+  "songID": "entry_0066",
+  "title": "Hill",
+  "artist": "ERNEST",
+  "spotifyID": "6GQfjHE7bHcQo9U6bl8n5H",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin7",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "Amin7",
+        "Amin",
+        "G",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-?-v-iv"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "Amin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-v-iv-i-v-iv-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-v-iv"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "Amin7"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "Amin7"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-v-iv-i-v-iv-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "Amin7",
+        "F",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin",
+        "Amin7",
+        "F",
+        "G"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-v-iv-i-v-iv-?-?-iv-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Amin7",
+        "G",
+        "F",
+        "C",
+        "G",
+        "F",
+        "Amin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:?-?-v-iv-i-v-iv-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "Emin",
+        "F"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:v-i-?-iv"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "FLOWER SHOPS (THE ALBUM): Two Dozen Roses",
+  "release_date": "2023-02-10",
+  "duration_ms": 184651
+}

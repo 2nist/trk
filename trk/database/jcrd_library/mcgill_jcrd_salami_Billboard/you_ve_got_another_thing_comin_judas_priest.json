@@ -1,0 +1,477 @@
+{
+  "title": "You've Got Another Thing Comin'",
+  "artist": "Judas Priest",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "bridge_1",
+      "start_ms": 306,
+      "duration_ms": 21062,
+      "chords": [
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "E:maj/2",
+        "B:maj/5",
+        "F#:5",
+        "F#:5",
+        "E:maj/2",
+        "B:maj/5",
+        "F#:5",
+        "F#:5"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_1",
+      "start_ms": 21369,
+      "duration_ms": 28032,
+      "chords": [
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 49401,
+      "duration_ms": 13990,
+      "chords": [
+        "F#:5",
+        "F#:maj",
+        "D:maj/3",
+        "B:maj/5",
+        "F#:maj",
+        "F#:maj",
+        "D:maj/3",
+        "B:maj/5",
+        "C#:5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 63391,
+      "duration_ms": 6908,
+      "chords": [
+        "F#:min",
+        "F#:min",
+        "A:5/6",
+        "B:5/5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 70300,
+      "duration_ms": 27878,
+      "chords": [
+        "B:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 98178,
+      "duration_ms": 13915,
+      "chords": [
+        "F#:maj",
+        "D:maj/3",
+        "B:maj/5",
+        "F#:maj",
+        "F#:maj",
+        "D:maj/3",
+        "B:maj/5",
+        "C#:5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 112094,
+      "duration_ms": 13903,
+      "chords": [
+        "C#:5",
+        "F#:min",
+        "F#:min",
+        "A:5/6",
+        "B:5/5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5",
+        "F#:min",
+        "F#:min",
+        "A:5/6",
+        "B:5/5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "transition_1",
+      "start_ms": 125997,
+      "duration_ms": 13812,
+      "chords": [
+        "B:min7",
+        "D:maj/5",
+        "A:maj",
+        "F#:maj",
+        "B:min7",
+        "D:maj/5",
+        "A:maj",
+        "C#:5",
+        "C#:5"
+      ],
+      "sectionType": "Transition",
+      "sectionLetter": "E",
+      "sectionFunction": "Transition",
+      "sectionLabel": "E",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 139809,
+      "duration_ms": 13822,
+      "chords": [
+        "F#:min",
+        "F#:min",
+        "A:5/6",
+        "B:5/5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5",
+        "F#:min",
+        "F#:min",
+        "A:5/6",
+        "B:5/5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 153632,
+      "duration_ms": 15560,
+      "chords": [
+        "F#:maj",
+        "D:maj/3",
+        "B:maj/5",
+        "F#:maj",
+        "F#:maj",
+        "D:maj/3",
+        "B:maj/5",
+        "C#:5",
+        "A:5",
+        "A:5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_3",
+      "start_ms": 169192,
+      "duration_ms": 27578,
+      "chords": [
+        "A:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5",
+        "F#:5"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 196770,
+      "duration_ms": 13839,
+      "chords": [
+        "F#:maj",
+        "D:maj/3",
+        "B:maj/5",
+        "F#:maj",
+        "F#:maj",
+        "D:maj/3",
+        "B:maj/5",
+        "C#:5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_4",
+      "start_ms": 210609,
+      "duration_ms": 13787,
+      "chords": [
+        "F#:min",
+        "F#:min",
+        "A:5/6",
+        "B:5/5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5",
+        "F#:min",
+        "F#:min",
+        "A:5/6",
+        "B:5/5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_5",
+      "start_ms": 224397,
+      "duration_ms": 13895,
+      "chords": [
+        "B:5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5",
+        "F#:min",
+        "F#:min",
+        "A:5",
+        "B:5"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "transition_2",
+      "start_ms": 238292,
+      "duration_ms": 72460,
+      "chords": [
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "F#:sus4(b7)",
+        "B:maj/5",
+        "F#:5",
+        "F#:maj",
+        "A:maj",
+        "B:5",
+        "B:5",
+        "N"
+      ],
+      "sectionType": "Transition",
+      "sectionLetter": "E",
+      "sectionFunction": "Transition",
+      "sectionLabel": "E",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

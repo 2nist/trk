@@ -1,0 +1,237 @@
+{
+  "songID": "entry_10154",
+  "title": "paris syndrom - dach session",
+  "artist": "Blumengarten",
+  "spotifyID": "4cvfB6n4wfSXIvND88VRc1",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:i-?-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin7",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin7",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs"
+      ],
+      "length": 24,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-?-iv-?-?-v-?-i-?-?-?-iv-?-?-v-?-i-?-?-?-iv-?-?-v-?-i-?-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Dsmin7",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin7",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin7",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin7",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-iv-?-?-v-?-i-?-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:i-?-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin7",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin",
+        "Fs",
+        "B",
+        "Dsmin",
+        "Gsmin",
+        "E",
+        "Csmin7",
+        "Fs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-?-iv-?-?-v-?-i-?-?-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Chorus",
+    "Verse",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "paris syndrom (dach session)",
+  "release_date": "2022-12-16",
+  "duration_ms": 170658
+}

@@ -1,0 +1,285 @@
+{
+  "songID": "entry_10091",
+  "title": "You're My Treasure",
+  "artist": "Dr. Victor & the Rasta Rebels",
+  "spotifyID": "5OzyYuF03vcImNGx73wicN",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.53",
+        "progression:v-?-?-?-iii-?-ii-?-v-?-?-?-iii-?-ii-?-v-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.25",
+        "progression:ii-?-v-?-?-?-iii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.53",
+        "progression:v-?-?-?-iii-?-ii-?-v-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.54",
+        "progression:ii-?-v-?-?-?-iii-?-ii-?-v-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "E",
+        "C",
+        "G",
+        "E",
+        "C",
+        "G",
+        "E",
+        "Cmin",
+        "Amin"
+      ],
+      "rawChords": [
+        "D",
+        "E",
+        "C",
+        "G",
+        "E",
+        "C",
+        "G",
+        "E",
+        "Cmin",
+        "Amin"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.73",
+        "progression:ii-?-iii-?-i-?-v-?-iii-?-i-?-v-?-iii-?-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D",
+        "G",
+        "Emin",
+        "Amin",
+        "E",
+        "D"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.38",
+        "progression:ii-?-v-?-?-?-iii-?-ii-?-v-?-?-?-iii-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "G",
+        "Emin",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "Amin",
+        "E"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.30",
+        "progression:v-?-?-?-iii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Instrumental",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "If You Wanna Be Happy",
+  "release_date": "2013-08-07",
+  "duration_ms": 293680
+}

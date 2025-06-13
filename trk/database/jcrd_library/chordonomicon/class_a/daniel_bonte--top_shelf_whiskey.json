@@ -1,0 +1,375 @@
+{
+  "songID": "entry_0719",
+  "title": "Top Shelf Whiskey",
+  "artist": "Daniel Bonte",
+  "spotifyID": "0f71Yue16yAvu2KaEsbDx9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.33",
+        "progression:v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.46",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:i-?-v-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "A",
+        "E",
+        "G",
+        "A",
+        "Fs",
+        "B"
+      ],
+      "rawChords": [
+        "G",
+        "A",
+        "E",
+        "G",
+        "A",
+        "Fs",
+        "B"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "key_confidence:0.68",
+        "progression:biii-?-iv-?-i-?-biii-?-iv-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "D",
+        "A",
+        "D",
+        "A",
+        "E",
+        "D",
+        "A",
+        "E"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:D",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:ii-?-i-?-v-?-ii-?-i-?-v-?-i-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "D",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Top Shelf Whiskey",
+  "release_date": "2022-02-18",
+  "duration_ms": 231225
+}

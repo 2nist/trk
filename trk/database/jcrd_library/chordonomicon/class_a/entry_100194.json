@@ -1,0 +1,307 @@
+{
+  "songID": "entry_100194",
+  "title": "Baked Beans",
+  "artist": "George Moir",
+  "spotifyID": "0ugL4vtMYeBoq5NAATmclS",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "B",
+        "Fs/As",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Fs/As",
+        "E"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-?-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "B",
+        "Fs/As",
+        "E",
+        "B",
+        "Fs/As",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Csmin",
+        "E",
+        "B",
+        "Fs/As",
+        "E",
+        "B",
+        "Fs/As",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "B",
+        "Fs/As",
+        "E",
+        "B",
+        "Fs/As",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Csmin",
+        "E",
+        "B",
+        "Fs/As",
+        "E",
+        "B",
+        "Fs/As",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:v-?-i-v-?-i-?-v-i-?-i-v-?-i-v-?-i-?-v-i-?-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "Ebno3d",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "Ebno3d",
+        "Csmin",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-v-iv-v-i-?-v-iv-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs/As",
+        "E",
+        "B",
+        "Fs/As",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "Fs/As",
+        "E",
+        "B",
+        "Fs/As",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Csmin",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-i-v-?-i-?-v-i-?-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "Ebno3d",
+        "Csmin",
+        "B",
+        "Cs",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "Ebno3d",
+        "Csmin",
+        "B",
+        "Cs",
+        "E",
+        "Fs"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:?-v-iv-v-i-?-v-iv-v-?-?-v-?-i-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "B",
+        "Cs",
+        "E",
+        "Fs",
+        "B",
+        "Cs",
+        "E",
+        "Fs",
+        "B",
+        "Cs",
+        "E",
+        "Fs"
+      ],
+      "rawChords": [
+        "B",
+        "Cs",
+        "E",
+        "Fs",
+        "B",
+        "Cs",
+        "E",
+        "Fs",
+        "B",
+        "Cs",
+        "E",
+        "Fs"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:v-?-i-?-v-?-i-?-v-?-i-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "Ebno3d",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "Csmin",
+        "B",
+        "A",
+        "B",
+        "Ebno3d",
+        "Csmin",
+        "B"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-?-v-iv-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Guide to Growing",
+  "release_date": "2021-03-05",
+  "duration_ms": 177000
+}

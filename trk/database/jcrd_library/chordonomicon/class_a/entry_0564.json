@@ -1,0 +1,231 @@
+{
+  "songID": "entry_0564",
+  "title": "For You",
+  "artist": "heder",
+  "spotifyID": "0zgDdDUQbCSRhU8G1bbJIa",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "E",
+        "Amaj7",
+        "E",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "E",
+        "Amaj7",
+        "E",
+        "Amaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Amaj7",
+        "E",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "E",
+        "Amaj7",
+        "E",
+        "Amaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "Amin",
+        "E",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "Amin",
+        "E",
+        "Amaj7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-ii-i-v-?-ii-i-?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "Amaj7",
+        "E",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "E",
+        "Amaj7",
+        "E",
+        "Amaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "Amin",
+        "E",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "Amin",
+        "E",
+        "Amaj7"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-ii-i-v-?-ii-i-?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "E",
+        "Amaj7",
+        "E",
+        "Amaj7"
+      ],
+      "rawChords": [
+        "E",
+        "Amaj7",
+        "E",
+        "Amaj7"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-v-?"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "Amaj7",
+        "B",
+        "A",
+        "Amin",
+        "E"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-?-ii-i-?-v"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Unpack",
+  "release_date": "2021-06-08",
+  "duration_ms": 215430
+}

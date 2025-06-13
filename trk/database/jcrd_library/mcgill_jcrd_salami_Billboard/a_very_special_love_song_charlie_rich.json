@@ -1,0 +1,246 @@
+{
+  "title": "A Very Special Love Song",
+  "artist": "Charlie Rich",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 394,
+      "duration_ms": 6609,
+      "chords": [
+        "C:maj/3",
+        "G:maj/5",
+        "A:min/b3",
+        "G:maj/3",
+        "F:maj/3",
+        "C:maj/5",
+        "G:7",
+        "G:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 7004,
+      "duration_ms": 29064,
+      "chords": [
+        "G:7",
+        "C:maj",
+        "F:min/5",
+        "C:maj",
+        "D:7",
+        "D:min",
+        "G:maj",
+        "E:min",
+        "A:min",
+        "D:7",
+        "C:maj/5",
+        "G:maj",
+        "F:maj/2",
+        "E:min",
+        "D:min/4",
+        "C:maj/5",
+        "G:7",
+        "G:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_2",
+      "start_ms": 36069,
+      "duration_ms": 6286,
+      "chords": [
+        "G:7",
+        "C:maj",
+        "F:min/5",
+        "F:min/5"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_3",
+      "start_ms": 42356,
+      "duration_ms": 28142,
+      "chords": [
+        "C:maj",
+        "F:min/5",
+        "C:maj",
+        "D:7",
+        "D:min",
+        "G:maj",
+        "E:min",
+        "A:min",
+        "D:7",
+        "C:maj/5",
+        "G:maj",
+        "F:maj/2",
+        "E:min",
+        "D:min/4",
+        "C:maj/5",
+        "G:7",
+        "G:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 70498,
+      "duration_ms": 6568,
+      "chords": [
+        "C:maj",
+        "C:7",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "bridge_1",
+      "start_ms": 77066,
+      "duration_ms": 27129,
+      "chords": [
+        "Eb:maj",
+        "F:maj",
+        "Bb:maj",
+        "Eb:maj",
+        "F:maj",
+        "Bb:maj",
+        "D:maj",
+        "G:min",
+        "Eb:maj",
+        "C:min/5",
+        "G:7",
+        "C:maj/5",
+        "G:maj"
+      ],
+      "sectionType": "Bridge",
+      "sectionLetter": "D",
+      "sectionFunction": "Development",
+      "sectionLabel": "D",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_4",
+      "start_ms": 104196,
+      "duration_ms": 27946,
+      "chords": [
+        "C:maj",
+        "F:min/5",
+        "C:maj",
+        "D:7",
+        "D:min",
+        "G:maj",
+        "E:min",
+        "A:min",
+        "D:7",
+        "C:maj/5",
+        "G:maj",
+        "F:maj/2",
+        "E:min",
+        "D:min/4",
+        "C:maj/5",
+        "G:7",
+        "G:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_5",
+      "start_ms": 132142,
+      "duration_ms": 28071,
+      "chords": [
+        "G:7",
+        "C:maj",
+        "F:min/5",
+        "C:maj",
+        "D:7",
+        "D:min",
+        "G:maj",
+        "E:min",
+        "A:min",
+        "D:7",
+        "C:maj/5",
+        "G:maj",
+        "F:maj/2",
+        "E:min",
+        "D:min/4",
+        "C:maj/5",
+        "G:7",
+        "G:7"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "other_1",
+      "start_ms": 160213,
+      "duration_ms": 6003,
+      "chords": [
+        "C:maj",
+        "F:min/5",
+        "F:min/5",
+        "N"
+      ],
+      "sectionType": "Other",
+      "sectionLetter": "p",
+      "sectionFunction": "Development",
+      "sectionLabel": "piano)",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

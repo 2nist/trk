@@ -1,0 +1,167 @@
+{
+  "songID": "entry_0809",
+  "title": "Good for My Soul",
+  "artist": "The Jesus and Mary Chain",
+  "spotifyID": "5xKCzJrHr2M81hbmadzVkV",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "C",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.36",
+        "progression:v-?-i-?-v-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "C",
+        "Bb"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "C",
+        "Bb"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:minor",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-v-?-i-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "minor"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "C",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "C",
+        "Bb",
+        "F"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.39",
+        "progression:v-?-i-?-v-?-i-?-ii-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "rawChords": [
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "C",
+        "F",
+        "Bb",
+        "F",
+        "Bb",
+        "F"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:B-",
+        "mode:major",
+        "key_confidence:0.34",
+        "progression:i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-ii-?-v-?-i-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B-",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Solo",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Honey's Dead (Expanded Version)",
+  "release_date": "1992-03-23",
+  "duration_ms": 185853
+}

@@ -1,0 +1,211 @@
+{
+  "songID": "entry_10118",
+  "title": "Somewhere In Colorado",
+  "artist": "Nathan Reich",
+  "spotifyID": "2MsgIxnbhlubO1QGIIQS40",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Cno3d",
+        "Emin",
+        "Cno3d",
+        "A",
+        "C",
+        "Daug",
+        "Emin",
+        "Cno3d",
+        "A",
+        "C",
+        "Daug"
+      ],
+      "rawChords": [
+        "Emin",
+        "Cno3d",
+        "Emin",
+        "Cno3d",
+        "A",
+        "C",
+        "Daug",
+        "Emin",
+        "Cno3d",
+        "A",
+        "C",
+        "Daug"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-?-?-iii-v-?-?-?-iii-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-i-v-?-v-i-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Cno3d",
+        "A",
+        "C",
+        "Daug",
+        "Emin",
+        "Cno3d",
+        "A",
+        "C",
+        "Daug"
+      ],
+      "rawChords": [
+        "Emin",
+        "Cno3d",
+        "A",
+        "C",
+        "Daug",
+        "Emin",
+        "Cno3d",
+        "A",
+        "C",
+        "Daug"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-?-iii-v-?-?-?-iii-v-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G"
+      ],
+      "rawChords": [
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:v-i-v-?-v-i-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "G",
+        "Daug",
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G",
+        "Daug",
+        "G",
+        "Daug",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Daug",
+        "G",
+        "C",
+        "G",
+        "Daug",
+        "G",
+        "Daug",
+        "G",
+        "Daug",
+        "G"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:i-v-?-v-i-v-?-v-?-v-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Arms Around A Ghost",
+  "release_date": "2009-11-27",
+  "duration_ms": 233933
+}

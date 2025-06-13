@@ -1,0 +1,275 @@
+{
+  "songID": "entry_101016",
+  "title": "Paper Thin",
+  "artist": "Peter Katz",
+  "spotifyID": "6kUaT1UTosrbFyJE71Y0It",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Asus2",
+        "Csmin"
+      ],
+      "rawChords": [
+        "Asus2",
+        "Csmin"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asus2",
+        "E",
+        "B",
+        "Asus2",
+        "E",
+        "B",
+        "Asus2",
+        "E",
+        "B",
+        "Asus2",
+        "E",
+        "B",
+        "Csmin",
+        "B",
+        "E",
+        "Asus2",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Asus2",
+        "B"
+      ],
+      "rawChords": [
+        "Asus2",
+        "E",
+        "B",
+        "Asus2",
+        "E",
+        "B",
+        "Asus2",
+        "E",
+        "B",
+        "Asus2",
+        "E",
+        "B",
+        "Csmin",
+        "B",
+        "E",
+        "Asus2",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Asus2",
+        "B"
+      ],
+      "length": 22,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?-i-v-?-i-v-?-i-v-?-v-i-?-i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Csmin",
+        "Asus2",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Csmin",
+        "Asus2",
+        "E"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-?-?-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Asus2",
+        "E",
+        "B",
+        "Asus2",
+        "E",
+        "B",
+        "Csmin",
+        "B",
+        "E",
+        "Asus2",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Asus2",
+        "B"
+      ],
+      "rawChords": [
+        "Asus2",
+        "E",
+        "B",
+        "Asus2",
+        "E",
+        "B",
+        "Csmin",
+        "B",
+        "E",
+        "Asus2",
+        "E",
+        "Csmin",
+        "B",
+        "E",
+        "Asus2",
+        "B"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-i-v-?-i-v-?-v-i-?-i-?-v-i-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "Csmin",
+        "Asus2",
+        "Fsmin"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Csmin",
+        "Asus2",
+        "Fsmin"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:i-v-?-?-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "E",
+        "B",
+        "Fsmin",
+        "E",
+        "B",
+        "Fsmin",
+        "E",
+        "B",
+        "Fsmin",
+        "A",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Fsmin",
+        "E",
+        "B",
+        "Fsmin",
+        "E",
+        "B",
+        "Fsmin",
+        "A",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-?-i-v-?-i-v-?-iv-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "E",
+        "B",
+        "Csmin",
+        "Asus2",
+        "E",
+        "B",
+        "Csmin",
+        "E"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "Csmin",
+        "Asus2",
+        "E",
+        "B",
+        "Csmin",
+        "E"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-?-?-i-v-?-i"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Paper Thin",
+  "release_date": "2020-04-10",
+  "duration_ms": 264719
+}

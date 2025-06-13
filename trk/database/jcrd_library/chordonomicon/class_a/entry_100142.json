@@ -1,0 +1,341 @@
+{
+  "songID": "entry_100142",
+  "title": "Something Beautiful Remains",
+  "artist": "Tina Turner",
+  "spotifyID": "7x0lv2aL9ALOM6XBpzdjW9",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "G"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "G"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-v-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "B",
+        "Cmin",
+        "Ab",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "B",
+        "Cmin",
+        "Ab",
+        "G",
+        "Cmin"
+      ],
+      "length": 19,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-iii-?-?-iii-iv-v-?-iv-v-?-iv-v-#v-?-iv-iii-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "Bb",
+        "Cmin",
+        "Ab",
+        "G",
+        "Cmin"
+      ],
+      "length": 18,
+      "cadence": "none",
+      "tags": [
+        "key:E-",
+        "mode:major",
+        "progression:?-?-iii-?-?-iii-iv-v-?-iv-v-?-iv-v-?-iv-iii-?"
+      ],
+      "notes": "",
+      "key": "E-",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Ab",
+        "Abmin",
+        "Ebmin",
+        "F",
+        "Fmin",
+        "Gmin",
+        "G",
+        "Cmin",
+        "Abmin",
+        "G",
+        "Cmin"
+      ],
+      "rawChords": [
+        "Ab",
+        "Abmin",
+        "Ebmin",
+        "F",
+        "Fmin",
+        "Gmin",
+        "G",
+        "Cmin",
+        "Abmin",
+        "G",
+        "Cmin"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:minor",
+        "progression:biii-?-?-i-?-?-ii-?-?-ii-?"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G"
+      ],
+      "rawChords": [
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-?-v-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Gmin"
+      ],
+      "rawChords": [
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Fmin",
+        "G",
+        "Cmin",
+        "Fmin",
+        "Cmin",
+        "Gmin"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "progression:?-?-?-?-v-?-?-?-?"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Wildest Dreams",
+  "release_date": "1996-04-01",
+  "duration_ms": 262546
+}

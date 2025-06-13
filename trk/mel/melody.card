@@ -1,0 +1,10 @@
+{
+  "type": "melody.card",
+  "phrase": [60, 62, 64, 67, 69],
+  "grid": {
+    "length": 16,
+    "quantize": 0.8,
+    "swing": 0.1
+  },
+  "fx": {}
+}

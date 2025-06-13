@@ -1,0 +1,243 @@
+{
+  "songID": "entry_100715",
+  "title": "Where You Sleeping",
+  "artist": "Embrace",
+  "spotifyID": "0AUSclLxOKM5bGpQfUVutt",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.05",
+        "progression:v-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.02",
+        "progression:iv-?-?-v-?-iv-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "Emin",
+        "D",
+        "C",
+        "D",
+        "G",
+        "D"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.21",
+        "progression:iv-?-?-v-?-iv-?-?-v-?-iv-?-?-v-?-iv-?-v-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "D",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.38",
+        "progression:iv-?-v-?-i-?-v-?-iv-?-v-?-i-?-?-iv-?-v-?-i-?-?-iv-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Emin",
+        "D",
+        "C"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-ii-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Love is a Basic Need",
+  "release_date": "2018-03-02",
+  "duration_ms": 253720
+}

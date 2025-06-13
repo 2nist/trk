@@ -1,0 +1,265 @@
+{
+  "songID": "entry_102555",
+  "title": "Weil wir am Leben sind",
+  "artist": "Zweikanalton",
+  "spotifyID": "4kA0AfhnbuZbusJ5hxUS2i",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "C"
+      ],
+      "rawChords": [
+        "C"
+      ],
+      "length": 1,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "Fsus4",
+        "G",
+        "Fsus4",
+        "Amin",
+        "C",
+        "G",
+        "Fsus4",
+        "G",
+        "Fsus4",
+        "Dmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "Fsus4",
+        "G",
+        "Fsus4",
+        "Amin",
+        "C",
+        "G",
+        "Fsus4",
+        "G",
+        "Fsus4",
+        "Dmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-i-?-v-?-?-v-?-?-?-i-?-v-?-?-v-?-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "C"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Amin",
+        "C",
+        "G",
+        "Fsus4",
+        "G",
+        "Fsus4",
+        "Amin",
+        "C",
+        "G",
+        "Fsus4",
+        "G",
+        "Fsus4",
+        "Dmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "G",
+        "Fsus4",
+        "G",
+        "Fsus4",
+        "Amin",
+        "C",
+        "G",
+        "Fsus4",
+        "G",
+        "Fsus4",
+        "Dmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.28",
+        "progression:?-i-?-v-?-?-v-?-?-?-i-?-v-?-?-v-?-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G",
+        "Dmin",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 17,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "key_confidence:0.45",
+        "progression:i-?-?-?-iv-?-i-?-?-?-iv-?-v-?-?-i-?-?-v-?-?-i-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "Dmin",
+        "Amin",
+        "F",
+        "C",
+        "Dmin",
+        "Amin",
+        "F"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:v-?-?-?-i-?-v-?-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "Kuschelpop",
+  "release_date": "2022-10-06",
+  "duration_ms": 169500
+}

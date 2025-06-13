@@ -1,0 +1,303 @@
+{
+  "songID": "entry_102563",
+  "title": "Tage wie diese",
+  "artist": "Die Toten Hosen",
+  "spotifyID": "2lYsCjTvXIHOqT8xSbK2jq",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "D",
+        "G"
+      ],
+      "rawChords": [
+        "D",
+        "G"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "D",
+        "G",
+        "Bmin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Bmin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:v-?-i-?-?-i-?-iv-?-i-?-v-?-iv-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "G",
+        "D"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.19",
+        "progression:i-?-?-i-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "G",
+        "Bmin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.42",
+        "progression:v-?-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "rawChords": [
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D"
+      ],
+      "length": 9,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.46",
+        "progression:v-?-?-v-?-i-?-v-?-ii-?-i-?-v-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "G",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "rawChords": [
+        "G",
+        "Bmin",
+        "G",
+        "A"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.00",
+        "progression:i-?-?-i-?-ii-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "D",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "rawChords": [
+        "D",
+        "G",
+        "Emin",
+        "G",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "C",
+        "G",
+        "D",
+        "G",
+        "A",
+        "D"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.55",
+        "progression:v-?-i-?-?-i-?-iv-?-i-?-v-?-iv-?-i-?-v-?-iv-?-i-?-v-?-i-?-ii-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus"
+  ],
+  "tags": [],
+  "album": "\"Ballast der Republik\" plus Jubil\u00e4ums-Album \"Die Geister, die wir riefen\"",
+  "release_date": "2012-05-04",
+  "duration_ms": 268426
+}

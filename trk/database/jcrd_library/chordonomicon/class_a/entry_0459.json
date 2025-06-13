@@ -1,0 +1,361 @@
+{
+  "songID": "entry_0459",
+  "title": "Faithful",
+  "artist": "Nicole Duckworth",
+  "spotifyID": "4prlNhMRRchBTiSghrMhsk",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin",
+        "B",
+        "E",
+        "E/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "E",
+        "E/Gs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin",
+        "B",
+        "E",
+        "E/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "E",
+        "E/Gs",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-i-?-ii-v-?-i-?-ii-v-?-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv-?-v-iv-?-v-iv-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin",
+        "B",
+        "E",
+        "E/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "E",
+        "E/Gs",
+        "A"
+      ],
+      "rawChords": [
+        "E",
+        "A",
+        "E",
+        "A",
+        "Csmin",
+        "B",
+        "E",
+        "E/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "E",
+        "E/Gs",
+        "A"
+      ],
+      "length": 14,
+      "cadence": "none",
+      "tags": [
+        "key:A",
+        "mode:major",
+        "progression:v-i-v-i-?-ii-v-?-i-?-ii-v-?-i"
+      ],
+      "notes": "",
+      "key": "A",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "E",
+        "B",
+        "A",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:i-v-iv-i-v-iv-?-v-iv-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B",
+        "B/Gs",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "length": 29,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-?-v-iv-?-v-?-iv-?-v-?-iv-?-v-?-iv-?-v-iv-?-v-?-iv-?-v-?-iv-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "A",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "E",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B",
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-i-v-iv-?-v-iv-?-v-iv-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "rawChords": [
+        "A",
+        "Csmin",
+        "B"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:minor",
+        "progression:iv-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Faithful",
+  "release_date": "2022-10-14",
+  "duration_ms": 398122
+}

@@ -1,0 +1,229 @@
+{
+  "songID": "entry_100047",
+  "title": "The King",
+  "artist": "Sarah Kinsley",
+  "spotifyID": "3qs1ozCx271UQqmzC7oNuj",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Gbmin"
+      ],
+      "rawChords": [
+        "Db",
+        "Bbmin",
+        "Gb",
+        "Gbmin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "progression:bbvi-?-bbii-?"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Bbmin",
+        "Gb7",
+        "Gb",
+        "Gbmin",
+        "Db",
+        "Bbmin",
+        "Gb7",
+        "Gbmin",
+        "Db",
+        "Gb7",
+        "Db",
+        "Bsus2",
+        "Absus4",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Bbmin",
+        "Gb7",
+        "Gb",
+        "Gbmin",
+        "Db",
+        "Bbmin",
+        "Gb7",
+        "Gbmin",
+        "Db",
+        "Gb7",
+        "Db",
+        "Bsus2",
+        "Absus4",
+        "Ab"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "progression:bbvi-?-bbii-bbii-?-bbvi-?-bbii-?-bbvi-bbii-bbvi-?-?-bbiii"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "Ebsus2",
+        "Gb",
+        "Gbmin"
+      ],
+      "rawChords": [
+        "Db",
+        "Bbmin",
+        "Ab",
+        "Gb",
+        "Ebsus2",
+        "Gb",
+        "Gbmin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "progression:bbvi-?-bbiii-bbii-?-bbii-?"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Db",
+        "Bbmin",
+        "Gbmin7",
+        "Gb",
+        "Gbmin",
+        "Db",
+        "Bbmin7",
+        "Gb7",
+        "Gbmin",
+        "Db",
+        "Gb7",
+        "Db",
+        "Ebmin7",
+        "Bsus2",
+        "Absus4",
+        "Ab"
+      ],
+      "rawChords": [
+        "Db",
+        "Bbmin",
+        "Gbmin7",
+        "Gb",
+        "Gbmin",
+        "Db",
+        "Bbmin7",
+        "Gb7",
+        "Gbmin",
+        "Db",
+        "Gb7",
+        "Db",
+        "Ebmin7",
+        "Bsus2",
+        "Absus4",
+        "Ab"
+      ],
+      "length": 16,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "progression:bbvi-?-?-bbii-?-bbvi-?-bbii-?-bbvi-bbii-bbvi-?-?-?-bbiii"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Db",
+        "Bbmin",
+        "Gb7",
+        "Ebsus2",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb"
+      ],
+      "rawChords": [
+        "Db",
+        "Bbmin",
+        "Gb7",
+        "Ebsus2",
+        "Gb",
+        "Db",
+        "Bbmin",
+        "Gb"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:minor",
+        "progression:bbvi-?-bbii-?-bbii-bbvi-?-bbii"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Gb7",
+        "Db"
+      ],
+      "rawChords": [
+        "Gb7",
+        "Db"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F#",
+        "mode:major",
+        "progression:bbii-bbvi"
+      ],
+      "notes": "",
+      "key": "F#",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "The King",
+  "release_date": "2021-06-04",
+  "duration_ms": 206373
+}

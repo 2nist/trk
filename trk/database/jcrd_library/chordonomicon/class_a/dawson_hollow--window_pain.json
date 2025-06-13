@@ -1,0 +1,309 @@
+{
+  "songID": "entry_101288",
+  "title": "Window Pain",
+  "artist": "Dawson Hollow",
+  "spotifyID": "6Pw2a01cGxU5SAYCJ3N5Wu",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-?-i-?-v-?-?-i-?-v-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "G",
+        "Emin",
+        "C",
+        "G",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:major",
+        "key_confidence:0.27",
+        "progression:i-?-v-?-?-i-?-v-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Emin7",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.21",
+        "progression:?-v-?-?-v-?-?-v-?-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "rawChords": [
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D",
+        "Amin",
+        "D"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "D",
+        "G",
+        "Emin",
+        "C",
+        "D",
+        "G",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:minor",
+        "key_confidence:0.41",
+        "progression:iv-?-v-?-i-?-?-iv-?-v-?-i-?-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Verse",
+    "Chorus",
+    "Instrumental",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Instrumental"
+  ],
+  "tags": [],
+  "album": "Even When it Doesn't Rhyme",
+  "release_date": "2021-07-16",
+  "duration_ms": 230992
+}

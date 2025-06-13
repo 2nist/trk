@@ -1,0 +1,311 @@
+{
+  "songID": "entry_101011",
+  "title": "Gaaoon Hallelujah",
+  "artist": "Nations of Worship",
+  "spotifyID": "7McpkaJk9QFuV730mezWBC",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Amin",
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "Amin",
+        "C",
+        "F"
+      ],
+      "length": 3,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:?-v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-iv-?-v-i-iv-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "C",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F"
+      ],
+      "length": 2,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "G",
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-iv-?-v-i-iv-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Bridge",
+      "chords": [
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F",
+        "C",
+        "G",
+        "Amin",
+        "F"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:F",
+        "mode:major",
+        "progression:v-i-v-ii-?-i-v-ii-?-i"
+      ],
+      "notes": "",
+      "key": "F",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G",
+        "F",
+        "C",
+        "Amin",
+        "G"
+      ],
+      "length": 15,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-?-v-iv-i-?-v-iv-i-?-v-iv-i-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "rawChords": [
+        "C",
+        "F",
+        "Amin",
+        "G"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:C",
+        "mode:minor",
+        "progression:i-iv-?-v"
+      ],
+      "notes": "",
+      "key": "C",
+      "mode": "minor"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Verse",
+    "Chorus",
+    "Bridge",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "India Edition One",
+  "release_date": "2023-04-21",
+  "duration_ms": 332610
+}

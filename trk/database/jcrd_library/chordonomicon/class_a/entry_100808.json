@@ -1,0 +1,489 @@
+{
+  "songID": "entry_100808",
+  "title": "Aladin",
+  "artist": "Spider",
+  "spotifyID": "6gUbYW6AUnjZ35OYuxmdJl",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "B",
+        "Emin",
+        "C",
+        "B",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "B",
+        "Emin",
+        "C",
+        "B",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iv-iii-?-iv-iii-?-iii-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "B",
+        "Emin",
+        "C",
+        "B",
+        "Amin",
+        "B",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "B",
+        "Bmin"
+      ],
+      "rawChords": [
+        "C",
+        "B",
+        "Emin",
+        "C",
+        "B",
+        "Amin",
+        "B",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "B",
+        "Bmin"
+      ],
+      "length": 13,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iv-iii-?-iv-iii-?-iii-?-?-?-?-iii-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "B",
+        "Emin",
+        "C",
+        "B",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "C",
+        "B",
+        "Emin",
+        "C",
+        "B",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iv-iii-?-iv-iii-?-iii-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "C",
+        "B",
+        "Emin",
+        "C",
+        "B",
+        "Amin",
+        "B",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "B"
+      ],
+      "rawChords": [
+        "C",
+        "B",
+        "Emin",
+        "C",
+        "B",
+        "Amin",
+        "B",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "B"
+      ],
+      "length": 12,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iv-iii-?-iv-iii-?-iii-?-?-?-?-iii"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Solo",
+      "chords": [
+        "B",
+        "Emin",
+        "B",
+        "C",
+        "B",
+        "Amin"
+      ],
+      "rawChords": [
+        "B",
+        "Emin",
+        "B",
+        "C",
+        "B",
+        "Amin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:G",
+        "mode:major",
+        "progression:iii-?-iii-iv-iii-?"
+      ],
+      "notes": "",
+      "key": "G",
+      "mode": "major"
+    },
+    {
+      "type": "Instrumental",
+      "chords": [
+        "Emin",
+        "Amin",
+        "B",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "B"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "B",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "B"
+      ],
+      "length": 11,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-v-?-?-v-?-?-?-?-v"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "Emin",
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 7,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Bmin",
+        "Emin",
+        "Amin",
+        "B",
+        "Emin"
+      ],
+      "length": 6,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "progression:?-?-?-?-v-?"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Chorus",
+    "Solo",
+    "Instrumental",
+    "Chorus",
+    "Chorus",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "Aladin",
+  "release_date": "2002-05-06",
+  "duration_ms": 261106
+}

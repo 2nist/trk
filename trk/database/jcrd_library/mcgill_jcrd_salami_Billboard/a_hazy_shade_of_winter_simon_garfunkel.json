@@ -1,0 +1,186 @@
+{
+  "title": "A Hazy Shade Of Winter",
+  "artist": "Simon & Garfunkel",
+  "bpm": 120,
+  "source": "McGill Billboard + SALAMI",
+  "sections": [
+    {
+      "id": "intro_1",
+      "start_ms": 325,
+      "duration_ms": 6640,
+      "chords": [
+        "D:min",
+        "C:7",
+        "Bb:7",
+        "A:7",
+        "A:7"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "verse_1",
+      "start_ms": 6965,
+      "duration_ms": 16715,
+      "chords": [
+        "A:7",
+        "D:min",
+        "D:min",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "F:maj/5",
+        "F:maj/5",
+        "C:maj",
+        "C:maj",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Verse",
+      "sectionLetter": "B",
+      "sectionFunction": "MainTheme",
+      "sectionLabel": "B",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_1",
+      "start_ms": 23680,
+      "duration_ms": 23692,
+      "chords": [
+        "D:min",
+        "C:7",
+        "Bb:7",
+        "A:7",
+        "D:min",
+        "D:min",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "F:maj7",
+        "F:maj7",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_2",
+      "start_ms": 47372,
+      "duration_ms": 23909,
+      "chords": [
+        "D:min",
+        "C:7",
+        "Bb:7",
+        "A:7",
+        "D:min7",
+        "D:min7",
+        "C:maj(9)",
+        "C:maj(9)",
+        "Bb:maj(9)",
+        "Bb:maj(9)",
+        "F:maj7",
+        "F:maj7",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C'",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "chorus_3",
+      "start_ms": 71282,
+      "duration_ms": 37627,
+      "chords": [
+        "D:min",
+        "C:7",
+        "Bb:7",
+        "A:7",
+        "D:min",
+        "D:min",
+        "G:min",
+        "G:min",
+        "F:maj",
+        "F:maj",
+        "C:maj",
+        "C:maj",
+        "D:min",
+        "D:min",
+        "C:maj",
+        "C:maj",
+        "Bb:maj",
+        "Bb:maj",
+        "F:maj7",
+        "F:maj7",
+        "C:maj",
+        "C:maj"
+      ],
+      "sectionType": "Chorus",
+      "sectionLetter": "C",
+      "sectionFunction": "Hook",
+      "sectionLabel": "C''",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    },
+    {
+      "id": "intro_2",
+      "start_ms": 108910,
+      "duration_ms": 28611,
+      "chords": [
+        "C:maj",
+        "D:min",
+        "C:7",
+        "Bb:7",
+        "A:7",
+        "D:min",
+        "C:7",
+        "Bb:7",
+        "A:7",
+        "D:min",
+        "C:7",
+        "Bb:7",
+        "A:7",
+        "D:min",
+        "C:7",
+        "Bb:7",
+        "A:7",
+        "A:7",
+        "N",
+        "N"
+      ],
+      "sectionType": "Intro",
+      "sectionLetter": "A",
+      "sectionFunction": "Introduction",
+      "sectionLabel": "A",
+      "tags": [
+        "salami_annotated",
+        "timing_confidence:high"
+      ]
+    }
+  ]
+}

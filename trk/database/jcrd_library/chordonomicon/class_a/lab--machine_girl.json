@@ -1,0 +1,295 @@
+{
+  "songID": "entry_0465",
+  "title": "Machine Girl",
+  "artist": "LAB",
+  "spotifyID": "3q8ZvhYv9wlBCFMW4rDerK",
+  "key": null,
+  "tempo": null,
+  "timeSignature": "4/4",
+  "sections": [
+    {
+      "type": "Intro",
+      "chords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [],
+      "notes": ""
+    },
+    {
+      "type": "Verse",
+      "chords": [
+        "Fs",
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Fs",
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "length": 5,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-?-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Interlude",
+      "chords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "length": 8,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?-?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    },
+    {
+      "type": "Chorus",
+      "chords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "B",
+        "E"
+      ],
+      "rawChords": [
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "Amin",
+        "Emin",
+        "B",
+        "E"
+      ],
+      "length": 10,
+      "cadence": "none",
+      "tags": [
+        "key:E",
+        "mode:major",
+        "key_confidence:0.29",
+        "progression:?-?-?-?-?-?-?-?-v-?-i-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "E",
+      "mode": "major"
+    },
+    {
+      "type": "Outro",
+      "chords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "rawChords": [
+        "Emin",
+        "Fs",
+        "Emin",
+        "Fs"
+      ],
+      "length": 4,
+      "cadence": "none",
+      "tags": [
+        "key:B",
+        "mode:major",
+        "key_confidence:0.01",
+        "progression:?-v-?-?-v-?",
+        "closure:false"
+      ],
+      "notes": "",
+      "key": "B",
+      "mode": "major"
+    }
+  ],
+  "structure": [
+    "Intro",
+    "Verse",
+    "Verse",
+    "Chorus",
+    "Verse",
+    "Chorus",
+    "Interlude",
+    "Chorus",
+    "Outro"
+  ],
+  "tags": [],
+  "album": "When Heaven Gets Dirty",
+  "release_date": "2005-02-07",
+  "duration_ms": 239506
+}
