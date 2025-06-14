@@ -1,3 +1,88 @@
+-- More compatibility wrappers for ImGui functions (real and virtual environments)
+local function PushStyleColorCompat(ctx, idx, col)
+  if reaper.ImGui_PushStyleColor then
+    local ok, _ = pcall(reaper.ImGui_PushStyleColor, ctx, idx, col)
+    if ok then return _ else return reaper.ImGui_PushStyleColor() end
+  elseif reaper.ImGui and reaper.ImGui.PushStyleColor then
+    local ok, _ = pcall(reaper.ImGui.PushStyleColor, ctx, idx, col)
+    if ok then return _ else return reaper.ImGui.PushStyleColor() end
+  else
+    return nil
+  end
+end
+local function PopStyleColorCompat(ctx)
+  if reaper.ImGui_PopStyleColor then
+    local ok, _ = pcall(reaper.ImGui_PopStyleColor, ctx)
+    if ok then return _ else return reaper.ImGui_PopStyleColor() end
+  elseif reaper.ImGui and reaper.ImGui.PopStyleColor then
+    local ok, _ = pcall(reaper.ImGui.PopStyleColor, ctx)
+    if ok then return _ else return reaper.ImGui.PopStyleColor() end
+  else
+    return nil
+  end
+end
+local function InputIntCompat(ctx, label, val)
+  if reaper.ImGui_InputInt then
+    local ok, a, b = pcall(reaper.ImGui_InputInt, ctx, label, val)
+    if ok then return a, b else return reaper.ImGui_InputInt() end
+  elseif reaper.ImGui and reaper.ImGui.InputInt then
+    local ok, a, b = pcall(reaper.ImGui.InputInt, ctx, label, val)
+    if ok then return a, b else return reaper.ImGui.InputInt() end
+  else
+    return val, val
+  end
+end
+local function SelectableCompat(ctx, label, selected)
+  if reaper.ImGui_Selectable then
+    local ok, res = pcall(reaper.ImGui_Selectable, ctx, label, selected)
+    if ok then return res else return reaper.ImGui_Selectable() end
+  elseif reaper.ImGui and reaper.ImGui.Selectable then
+    local ok, res = pcall(reaper.ImGui.Selectable, ctx, label, selected)
+    if ok then return res else return reaper.ImGui.Selectable() end
+  else
+    return false
+  end
+end
+-- Compatibility wrappers for ImGui functions (real and virtual environments)
+local function BeginChildCompat(ctx, str_id, width, height, border, flags)
+  if reaper.ImGui_BeginChild then
+    local ok, res = pcall(reaper.ImGui_BeginChild, ctx, str_id, width, height, border, flags)
+    if ok then return res else return reaper.ImGui_BeginChild() end
+  elseif reaper.ImGui and reaper.ImGui.BeginChild then
+    local ok, res = pcall(reaper.ImGui.BeginChild, ctx, str_id, {x = width, y = height}, border, flags)
+    if ok then return res else return reaper.ImGui.BeginChild() end
+  else
+    return false
+  end
+end
+local function EndChildCompat(ctx)
+  if reaper.ImGui_EndChild then
+    local ok, res = pcall(reaper.ImGui_EndChild, ctx)
+    if ok then return res else return reaper.ImGui_EndChild() end
+  elseif reaper.ImGui and reaper.ImGui.EndChild then
+    local ok, res = pcall(reaper.ImGui.EndChild, ctx)
+    if ok then return res else return reaper.ImGui.EndChild() end
+  else
+    return reaper.ImGui_EndChild() or false
+  end
+end
+local function SameLineCompat(ctx, pos)
+  if reaper.ImGui_SameLine then
+    if pos then return reaper.ImGui_SameLine(ctx, pos) else return reaper.ImGui_SameLine(ctx) end
+  elseif reaper.ImGui and reaper.ImGui.SameLine then
+    if pos then return reaper.ImGui.SameLine(ctx, pos) else return reaper.ImGui.SameLine(ctx) end
+  else
+    return nil
+  end
+end
+-- Compatibility wrapper for ImGui_BeginChild (supports both real and virtual environments)
+local function BeginChildCompat(ctx, str_id, width, height, border, flags)
+  if reaper.ImGui_BeginChild then
+    return reaper.ImGui_BeginChild(ctx, str_id, width, height, border, flags)
+  elseif reaper.ImGui and reaper.ImGui.BeginChild then
+    return reaper.ImGui.BeginChild(ctx, str_id, {x = width, y = height}, border, flags)
+  end
+end
 -- hex_chord_builder.lua
 -- Linear chord progression builder (v0) - Will be upgraded to hex grid in future
 -- Phase 2 - Songbase UI Module
@@ -239,8 +324,8 @@ function hex_chord_builder.render_chord_row(ctx, idx, chord)
   local style_pushed = false -- Track if we pushed a style
 
   -- Background color for selected chord
-  if is_selected and reaper.ImGui_PushStyleColor then
-    reaper.ImGui_PushStyleColor(ctx, reaper.ImGui_Col_FrameBg(), 0x2A4D6AFF)
+  if is_selected then
+    PushStyleColorCompat(ctx, reaper.ImGui_Col_FrameBg(), 0x2A4D6AFF)
     style_pushed = true -- Mark that we pushed
   end
 
@@ -254,7 +339,7 @@ function hex_chord_builder.render_chord_row(ctx, idx, chord)
   if reaper.ImGui_BeginCombo(ctx, "##root" .. idx, chord.root) then
     for _, root in ipairs(ROOT_NOTES) do
       local is_selected = (root == chord.root)
-      if reaper.ImGui_Selectable(ctx, root, is_selected) then
+      if SelectableCompat(ctx, root, is_selected) then
         chord.root = root
         root_changed = true
       end
@@ -273,7 +358,7 @@ function hex_chord_builder.render_chord_row(ctx, idx, chord)
     for _, quality in ipairs(QUALITIES) do      local is_selected = (quality == chord.quality)
       -- Safety check for empty strings
       local display_quality = quality ~= "" and quality or "(empty)"
-      if reaper.ImGui_Selectable(ctx, display_quality, is_selected) then
+      if SelectableCompat(ctx, display_quality, is_selected) then
         chord.quality = quality
         quality_changed = true
       end
@@ -291,7 +376,7 @@ function hex_chord_builder.render_chord_row(ctx, idx, chord)
   if reaper.ImGui_BeginCombo(ctx, "##ext" .. idx, chord.extension or "") then
     for _, ext in ipairs(EXTENSIONS) do
       local is_selected = (ext == chord.extension)
-      if reaper.ImGui_Selectable(ctx, ext, is_selected) then
+      if SelectableCompat(ctx, ext, is_selected) then
         chord.extension = ext
         ext_changed = true
       end
@@ -310,7 +395,7 @@ function hex_chord_builder.render_chord_row(ctx, idx, chord)
     for _, inv in ipairs(INVERSIONS) do      local is_selected = (inv == chord.inversion)
       -- Safety check for empty strings
       local display_inv = inv ~= "" and inv or "(empty)"
-      if reaper.ImGui_Selectable(ctx, display_inv, is_selected) then
+      if SelectableCompat(ctx, display_inv, is_selected) then
         chord.inversion = inv
         inv_changed = true
       end
@@ -327,7 +412,7 @@ function hex_chord_builder.render_chord_row(ctx, idx, chord)
   local current_duration_val = chord.duration_beats
   local value_changed_flag_duration = false -- Default value
   -- reaper.ImGui_InputInt returns: widget_active (bool), new_value (number), input_str (string), value_changed_flag (bool/number/nil)
-  local _, new_duration_from_input = reaper.ImGui_InputInt(ctx, "##duration" .. idx, current_duration_val)
+  local _, new_duration_from_input = InputIntCompat(ctx, "##duration" .. idx, current_duration_val)
   
   local actual_duration_field_changed = false -- This will be our reliable Lua boolean flag
   if type(value_changed_flag_duration) == "number" then
@@ -348,8 +433,8 @@ function hex_chord_builder.render_chord_row(ctx, idx, chord)
   
   -- Delete button
   if reaper.ImGui_Button(ctx, "X##" .. idx) then
-    if style_pushed and reaper.ImGui_PopStyleColor then -- Pop if we pushed
-        reaper.ImGui_PopStyleColor(ctx)
+    if style_pushed then -- Pop if we pushed
+        PopStyleColorCompat(ctx)
         style_pushed = false -- Avoid double pop
     end
     table.remove(state.progression, idx)
@@ -362,8 +447,8 @@ function hex_chord_builder.render_chord_row(ctx, idx, chord)
   end
 
   -- End style color if pushed
-  if style_pushed and reaper.ImGui_PopStyleColor then
-    reaper.ImGui_PopStyleColor(ctx)
+  if style_pushed then
+    PopStyleColorCompat(ctx)
   end
 
   -- Selection handling:
@@ -435,7 +520,7 @@ function hex_chord_builder.draw(ctx, ui_state_param)
     for _, root in ipairs(ROOT_NOTES) do      local is_selected = (root == state.key)
       -- Safety check for empty strings
       local display_root = root ~= "" and root or "(empty)"
-      if reaper.ImGui_Selectable(ctx, display_root, is_selected) then
+      if SelectableCompat(ctx, display_root, is_selected) then
         state.key = root
       end
       if is_selected then
@@ -452,7 +537,7 @@ function hex_chord_builder.draw(ctx, ui_state_param)
     for _, mode in ipairs(MODES) do      local is_selected = (mode == state.mode)
       -- Safety check for empty strings
       local display_mode = mode ~= "" and mode or "(empty)"
-      if reaper.ImGui_Selectable(ctx, display_mode, is_selected) then
+      if SelectableCompat(ctx, display_mode, is_selected) then
         state.mode = mode
       end
       if is_selected then
@@ -465,32 +550,32 @@ function hex_chord_builder.draw(ctx, ui_state_param)
   -- Total beats counter
   local total_beats = hex_chord_builder.calculate_total_beats(state.progression)
   local window_width = 800 -- Placeholder for window width
-  reaper.ImGui_SameLine(ctx, window_width - 150)
+  SameLineCompat(ctx, window_width - 150)
   reaper.ImGui_Text(ctx, "Total: " .. total_beats .. " beats")
   
   -- Chord list header
   reaper.ImGui_Separator(ctx)
   reaper.ImGui_Text(ctx, "#")
-  reaper.ImGui_SameLine(ctx, 30)
+  SameLineCompat(ctx, 30)
   reaper.ImGui_Text(ctx, "Root")
-  reaper.ImGui_SameLine(ctx, 80)
+  SameLineCompat(ctx, 80)
   reaper.ImGui_Text(ctx, "Quality")
-  reaper.ImGui_SameLine(ctx, 160)
+  SameLineCompat(ctx, 160)
   reaper.ImGui_Text(ctx, "Ext")
-  reaper.ImGui_SameLine(ctx, 220)
+  SameLineCompat(ctx, 220)
   reaper.ImGui_Text(ctx, "Inv")
-  reaper.ImGui_SameLine(ctx, 290)
+  SameLineCompat(ctx, 290)
   reaper.ImGui_Text(ctx, "Beats")
-  reaper.ImGui_SameLine(ctx, 340)
+  SameLineCompat(ctx, 340)
   reaper.ImGui_Text(ctx, "Actions")
   -- Chord list
   reaper.ImGui_Separator(ctx)
-  if reaper.ImGui_BeginChild() then
+  if BeginChildCompat(ctx, "chord_list_panel", 0, 200, 1) then
     local ui_changed = false
     for i, chord in ipairs(state.progression) do
       ui_changed = hex_chord_builder.render_chord_row(ctx, i, chord) or ui_changed
     end
-    reaper.ImGui_EndChild(ctx)
+    EndChildCompat(ctx)
   end
   
   -- Action buttons
@@ -521,9 +606,9 @@ function hex_chord_builder.draw(ctx, ui_state_param)
   end
   -- Theory suggestions panel
   reaper.ImGui_Separator(ctx)
-  if reaper.ImGui_BeginChild() then
+  if BeginChildCompat(ctx, "chord_suggestions_panel", 0, 150, 1) then
     hex_chord_builder.render_chord_suggestions(ctx)
-    reaper.ImGui_EndChild(ctx)
+    EndChildCompat(ctx)
   end
   
   return true

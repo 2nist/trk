@@ -25,28 +25,28 @@ end
 
 local function write_result(stack)
   local function encode(val)
-    if type(val) == 'table' then
-      local is_array = (#val > 0)
-      local s = is_array and '[' or '{'
-      local first = true
-      for k, vv in pairs(val) do
-        if not first then s = s .. ',' end
-        if is_array then
-          s = s .. encode(vv)
-        else
-          s = s .. '"' .. tostring(k) .. '":' .. encode(vv)
-        end
-        first = false
-      end
-      s = s .. (is_array and ']' or '}')
-      return s
-    elseif type(val) == 'string' then
-      return '"' .. val:gsub('"', '\"') .. '"'
-    elseif type(val) == 'number' or type(val) == 'boolean' then
-      return tostring(val)
-    elseif val == nil then
-      return 'null'
-    end
+	if type(val) == 'table' then
+	  local is_array = (#val > 0)
+	  local s = is_array and '[' or '{'
+	  local first = true
+	  for k, vv in pairs(val) do
+		if not first then s = s .. ',' end
+		if is_array then
+		  s = s .. encode(vv)
+		else
+		  s = s .. '"' .. tostring(k) .. '":' .. encode(vv)
+		end
+		first = false
+	  end
+	  s = s .. (is_array and ']' or '}')
+	  return s
+	elseif type(val) == 'string' then
+	  return '"' .. val:gsub('"', '\"') .. '"'
+	elseif type(val) == 'number' or type(val) == 'boolean' then
+	  return tostring(val)
+	elseif val == nil then
+	  return 'null'
+	end
   end
   local f = io.open(result_file, 'w')
   if f then f:write(encode(stack)); f:close() end
@@ -55,6 +55,18 @@ end
 -- Read context at script start
 local ctx = read_context() or {stack={}, section=nil, track=nil}
 -- Use ctx.stack, ctx.section, ctx.track as needed in your menu logic
+
+-- Example usage in your main UI file (e.g., Song Browser)
+local CardSystem = require('envireament.card_system')
+
+function OpenRadialMenu(card)
+  -- Call your Lokasenna Radial Menu integration here
+  -- Example: Lokasenna_Radial_Menu.Show(card)
+end
+
+function MainUI(ctx)
+  CardSystem.RenderSections(ctx, OpenRadialMenu)
+end
 
 -- ...existing Lokasenna Radial Menu code goes here...
 -- After any stack change (add/remove/replace/save), call:
@@ -72,7 +84,7 @@ Author: Lokasenna
 Donation: https://paypal.me/Lokasenna
 Changelog:
 	Fixed issue with shortcuts highlighting the wrong menu
-        (Courtesy of AdmiralBumbleBee)
+		(Courtesy of AdmiralBumbleBee)
 Links:
 	Forum Thread http://forum.cockos.com/showthread.php?p=1788321
 	Lokasenna's Website http://forum.cockos.com/member.php?u=10417
@@ -104,7 +116,7 @@ Provides:
 local reaper, gfx, string, table = reaper, gfx, string, table
 
 
-local dm, _ = debug_mode
+local dm = debug_mode -- Only assign one variable, as debug_mode is likely a single value
 local function Msg(str)
 	reaper.ShowConsoleMsg(tostring(str).."\n")
 end
@@ -863,7 +875,7 @@ end
 
 -- Round a number to the nearest integer (or optional decimal places)
 GUI.round = function (num, places)
-    --return num % 1 >= 0.5 and math.ceil(num) or math.floor(num)
+	--return num % 1 >= 0.5 and math.ceil(num) or math.floor(num)
 	if not places then
 		return math.floor(num + 0.5)
 	else
@@ -1764,8 +1776,8 @@ function GUI.Label:new(z, x, y, caption, shadow, font)
 	label.font = font or 1
 	
 	setmetatable(label, self)
-    self.__index = self 
-    return label
+	self.__index = self 
+	return label
 	
 end
 
@@ -2807,8 +2819,8 @@ function GUI.Radio:new(z, x, y, w, h, caption, opts, pad)
 	opt_lst.retval, opt_lst.state = 1, 1
 	
 	setmetatable(opt_lst, self)
-    self.__index = self 
-    return opt_lst
+	self.__index = self 
+	return opt_lst
 	
 end
 
@@ -3019,8 +3031,8 @@ function GUI.Checklist:new(z, x, y, w, h, caption, opts, dir, pad)
 				
 	
 	setmetatable(chk, self)
-    self.__index = self 
-    return chk
+	self.__index = self 
+	return chk
 	
 end
 
@@ -3638,8 +3650,8 @@ function GUI.Menubox:new(z, x, y, w, h, caption, opts, pad)
 	menu.numopts = tempidx - 1
 	
 	setmetatable(menu, self)
-    self.__index = self 
-    return menu
+	self.__index = self 
+	return menu
 	
 end
 
@@ -4673,8 +4685,8 @@ local help_pages = {
 		
 [[- Assign the Radial Menu script to a key shortcut, hold down the key to bring up the menu, and release it to close the menu again. While the menu is open, left-clicking inside the window will run the highlighted action or open a submenu.
  
-    (Some key shortcuts may not play nicely with the script, causing the window 
-    to flicker open and closed. Please let me know in the forum thread)
+	(Some key shortcuts may not play nicely with the script, causing the window 
+	to flicker open and closed. Please let me know in the forum thread)
  
 - When hovering over a button assigned to a submenu, that menu's buttons are 'previewed' below the current ones.
  
@@ -4693,20 +4705,20 @@ local help_pages = {
 	{"Button commands p1",
 	
 [[Action IDs:
-    12345, _SWS_AWMPLAYTOG, _RS1a8cae1f4c60d0e5d5d90bc96eda9d83050eb214
-    (Use 'midi 12345' to specify commands from the MIDI editor's action list)
+	12345, _SWS_AWMPLAYTOG, _RS1a8cae1f4c60d0e5d5d90bc96eda9d83050eb214
+	(Use 'midi 12345' to specify commands from the MIDI editor's action list)
   
 Accessing submenus, via menu numbers or aliases:
-    menu 20, menu stuff
+	menu 20, menu stuff
  
 Return to the previous menu:
-    back
- 	
+	back
+	
 Return to the base menu (0 by default, or the specified menu for a given context):
-    base
-  	
+	base
+	
 Exit the script:
-    quit
+	quit
 ]]},
 
 
@@ -4714,14 +4726,14 @@ Exit the script:
 	{"Button commands p2",
 
 [[Perform an action multiple times per button-click:
-    x3 12345
+	x3 12345
  
 Repeat an action at a specified interval (in seconds) while the mouse button is held down:
-    repeat 0.5 '12345'
+	repeat 0.5 '12345'
  
 Commands can also be combined:	
-    repeat 0.5 'x3 midi 12345'
-    (Every 0.5 seconds, send command 12345 to the MIDI editor three times)
+	repeat 0.5 'x3 midi 12345'
+	(Every 0.5 seconds, send command 12345 to the MIDI editor three times)
 
 ]]},
 
@@ -4768,7 +4780,7 @@ Commands can also be combined:
 	{"Swiping",
 		
 [[- The basic Radial Menu wasn't fast enough for you? Try this. Swiping lets you trigger menus and actions via mouse movements, in the same way as answering a call on your mobile phone.
- 	
+	
 - When Swiping is enabled, quickly move the mouse out from the center of the Radial Menu window; the option you swiped over will be 'clicked'. If a submenu is opened via Swiping, the script window will re-center itself on your mouse cursor, allowing very fast navigation through your menus.
  
  
@@ -4813,7 +4825,7 @@ Commands can also be combined:
 	{"Options",
 		
 [[- The various settings here may not all work with each other.
- 	
+	
 - Likewise, some of Reaper's actions may not play nicely with your settings here; particularly, anything that opens a window or otherwise takes 'focus' away from the script. It's a Reaper issue, unfortunately.
  
 - Settings are saved to 'Lokasenna_Radial Menu settings.txt' in the same folder as this script. Feel free to edit it, but make sure it's written with proper Lua syntax. The settings file also has further documentation for most parameters.
@@ -5065,10 +5077,10 @@ end
 
 ]]--
 local function serializeTable(val, name, skipnewlines, depth)
-    skipnewlines = skipnewlines or false
-    depth = depth or 0
+	skipnewlines = skipnewlines or false
+	depth = depth or 0
 
-    local tmp = string.rep("\t", depth)
+	local tmp = string.rep("\t", depth)
 
 	if name then 
 		tmp = tmp .. "[" .. 
@@ -5076,23 +5088,23 @@ local function serializeTable(val, name, skipnewlines, depth)
 		.. "] = " 
 	end
 
-    if type(val) == "table" then
-        tmp = tmp .. "{" .. (not skipnewlines and "\n" or "")
+	if type(val) == "table" then
+		tmp = tmp .. "{" .. (not skipnewlines and "\n" or "")
 
-        for k, v in GUI.kpairs(val, "full") do
-            tmp =  tmp .. serializeTable(v, k, skipnewlines, depth + 1) .. "," .. (not skipnewlines and "\n" or "")
-        end
+		for k, v in GUI.kpairs(val, "full") do
+			tmp =  tmp .. serializeTable(v, k, skipnewlines, depth + 1) .. "," .. (not skipnewlines and "\n" or "")
+		end
 
-        tmp = tmp .. string.rep("\t", depth) .. "}"
-    elseif type(val) == "number" or type(val) == "boolean" then
-        tmp = tmp .. tostring(val)
-    elseif type(val) == "string" then
-        tmp = tmp .. string.format("%q", val)
-    else
-        tmp = tmp .. "\"[unserializeable datatype:" .. type(val) .. "]\""
-    end
+		tmp = tmp .. string.rep("\t", depth) .. "}"
+	elseif type(val) == "number" or type(val) == "boolean" then
+		tmp = tmp .. tostring(val)
+	elseif type(val) == "string" then
+		tmp = tmp .. string.format("%q", val)
+	else
+		tmp = tmp .. "\"[unserializeable datatype:" .. type(val) .. "]\""
+	end
 
-    return tmp
+	return tmp
 end
 
 
@@ -5935,7 +5947,8 @@ local function add_menu()
 	
 	
 	-- Find the first blank menu
-	local i, def_num = 0
+	local i = 0
+	local def_num = 0
 	while not def_num do
 		
 		if not mnu_arr[i] then
@@ -7308,7 +7321,7 @@ function GUI.elms.frm_radial:btn_down(btn)
 	--[[
 	
 			repeat 0.5 x3 12345
-			       |->	
+				   |->	
 	
 					^([^ ]+) +[\'\"](.*)[\'\"]$
 	
@@ -8809,9 +8822,9 @@ if setup then
 
 		--GUI.Frame.draw(self)
 	
-		local c1, c2, c3 = 	(validate_font( GUI.elms.txt_font_A.retval ) and "lime" or "red"),
-							(validate_font( GUI.elms.txt_font_B.retval ) and "lime" or "red"),
-							(validate_font( GUI.elms.txt_font_C.retval ) and "lime" or "red"),	
+		local c1 = (validate_font( GUI.elms.txt_font_A.retval ) and "lime" or "red")
+		local c2 = (validate_font( GUI.elms.txt_font_B.retval ) and "lime" or "red")
+		local c3 = (validate_font( GUI.elms.txt_font_C.retval ) and "lime" or "red")
 		
 		
 		GUI.font(4)

@@ -12,7 +12,7 @@ function Widgets.begin_card(ctx, title, flags)
     reaper.ImGui_PushStyleVar(ctx, reaper.ImGui_StyleVar_ChildBorderSize(), 1.0)
     reaper.ImGui_PushStyleColor(ctx, reaper.ImGui_Col_ChildBg(), 0x222222ff)
     reaper.ImGui_PushStyleColor(ctx, reaper.ImGui_Col_Border(), 0x444444ff)
-    reaper.ImGui_BeginChild(ctx, card_id, 0, 0, true) -- Assuming 'true' is for border
+    reaper.ImGui_BeginChild(ctx, card_id, 0, 0, 1) -- Use 1 for border (number, not boolean)
     if title then
         reaper.ImGui_Text(ctx, title)
         reaper.ImGui_Separator(ctx)
